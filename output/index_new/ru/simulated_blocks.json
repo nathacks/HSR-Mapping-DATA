@@ -1,0 +1,162 @@
+{
+  "1": {
+    "id": "1",
+    "name": "Пустая зона",
+    "desc": "Пустая зона: Здесь ничего не происходит.",
+    "icon": "icon/block/RogueDlcEmptyIcon.png",
+    "icon_board": "icon/block/RogueDlcEmptyIcon.png",
+    "color": "#ffffffd9"
+  },
+  "2": {
+    "id": "2",
+    "name": "Отдых",
+    "desc": "Зона отдыха: В этой зоне можно усилить благословения, загрузить или сбросить персонажей.",
+    "icon": "icon/block/RogueIntensifyIcon.png",
+    "icon_board": "icon/block/RogueIntensifyIcon.png",
+    "color": "#80e5edff"
+  },
+  "3": {
+    "id": "3",
+    "name": "Битва",
+    "desc": "Зона битвы: За победу над противниками в этой зоне можно получить благословения.",
+    "icon": "icon/block/RogueFoeIcon.png",
+    "icon_board": "icon/block/RogueFoeIcon.png",
+    "color": "#ffffffd9"
+  },
+  "4": {
+    "id": "4",
+    "name": "Битва: Рой",
+    "desc": "Зона особой битвы: За победу над противниками Роя в этой зоне можно получить благословения Пути Распространения.",
+    "icon": "icon/block/RogueDlcFoeEliteIcon.png",
+    "icon_board": "icon/block/RogueDlcFoeEliteIcon.png",
+    "color": "#c979ffff"
+  },
+  "5": {
+    "id": "5",
+    "name": "Элита",
+    "desc": "Зона элиты: За победу над противниками в этой зоне можно получить благословение 1★, 2★ или 3★.",
+    "icon": "icon/block/RogueFoeEliteIcon.png",
+    "icon_board": "icon/block/RogueFoeEliteIcon.png",
+    "color": "#ffffffd9"
+  },
+  "6": {
+    "id": "6",
+    "name": "Приключение",
+    "desc": "Зона приключения: За испытания в этой зоне можно получить награды.",
+    "icon": "icon/block/RogueDlcGameIcon.png",
+    "icon_board": "icon/block/RogueDlcGameIcon.png",
+    "color": "#f3dbb5ff"
+  },
+  "7": {
+    "id": "7",
+    "name": "Награды",
+    "desc": "Зона наград: В этой зоне можно выбрать разнообразные награды.",
+    "icon": "icon/block/RogueDlcRewardIcon.png",
+    "icon_board": "icon/block/RogueDlcRewardIcon.png",
+    "color": "#f3dbb5ff"
+  },
+  "8": {
+    "id": "8",
+    "name": "Событие",
+    "desc": "Зона события: В этой зоне ваш выбор может привести к неожиданным результатам.",
+    "icon": "icon/block/RogueRandomIcon.png",
+    "icon_board": "icon/block/RogueRandomIcon.png",
+    "color": "#ffffffd9"
+  },
+  "9": {
+    "id": "9",
+    "name": "Событие: Рой",
+    "desc": "Зона особого события: Выбор в этой зоне может повысить бдительность Роя. Чем выше бдительность, тем опаснее будет событие в зоне.",
+    "icon": "icon/block/RogueDlcRandomIcon.png",
+    "icon_board": "icon/block/RogueDlcRandomIcon.png",
+    "color": "#c979ffff"
+  },
+  "10": {
+    "id": "10",
+    "name": "Босс",
+    "desc": "Зона босса: Одолейте босса в этой зоне, чтобы пройти текущее измерение.",
+    "icon": "icon/block/RogueBossIcon.png",
+    "icon_board": "icon/block/RogueBossIcon.png",
+    "color": "#ffffffff"
+  },
+  "11": {
+    "id": "11",
+    "name": "Босс: Рой",
+    "desc": "Зона особого босса: После победы над Роем: Жаложуком (исправным) в этой зоне Виртуальная вселенная будет пройдена.",
+    "icon": "icon/block/RogueDlcBossIcon.png",
+    "icon_board": "icon/block/RogueDlcBossIcon.png",
+    "color": "#ffffffff"
+  },
+  "12": {
+    "id": "12",
+    "name": "Сделки",
+    "desc": "Зона сделок: Здесь можно обменять космические фрагменты на благословения и диковины.",
+    "icon": "icon/block/RogueDealIcon.png",
+    "icon_board": "icon/block/RogueDealIcon.png",
+    "color": "#80e5edff"
+  },
+  "14": {
+    "id": "14",
+    "name": "Усиление",
+    "desc": "Маяк усиления: Противники в зоне с таким маяком получают усиления. Выбрав благословение после победы над ними, можно усилить все благословения.",
+    "icon": "icon/block/IconRogueDlcChessmanGirdBuff1.png",
+    "icon_board": "icon/block/IconRogueDlcChessmanGirdBuff1.png",
+    "color": ""
+  },
+  "15": {
+    "id": "15",
+    "name": "Мутация",
+    "desc": "Маяк мутации: Противники в зоне с таким маяком становятся системными ошибками. За победу над ними можно получить дополнительные космические фрагменты.",
+    "icon": "icon/block/IconRogueDlcChessmanGirdBuff4.png",
+    "icon_board": "icon/block/IconRogueDlcChessmanGirdBuff4.png",
+    "color": ""
+  },
+  "17": {
+    "id": "17",
+    "name": "Свинка-копилка благословения",
+    "desc": "Маяк свинки-копилки благословения: Здесь будет свинка-копилка, победив которую, можно получить дополнительные благословения.",
+    "icon": "icon/block/IconRogueDlcChessmanGirdBuff2.png",
+    "icon_board": "icon/block/IconRogueDlcChessmanGirdBuff2.png",
+    "color": ""
+  },
+  "18": {
+    "id": "18",
+    "name": "Свинка-копилка диковины",
+    "desc": "Маяк свинки-копилки диковины: Здесь будет свинка-копилка, победив которую, можно получить дополнительные диковины.",
+    "icon": "icon/block/IconRogueDlcChessmanGirdBuff3.png",
+    "icon_board": "icon/block/IconRogueDlcChessmanGirdBuff3.png",
+    "color": ""
+  },
+  "20": {
+    "id": "20",
+    "name": "Самосознание",
+    "desc": "Зона особого события. В этой зоне можно отрегулировать параметры самосознания и тем самым получить разные секреты.",
+    "icon": "icon/block/RogueNousEventIcon.png",
+    "icon_board": "icon/block/RogueNousEventIcon.png",
+    "color": "#83ffd3"
+  },
+  "21": {
+    "id": "21",
+    "name": "Событие: Аномалия",
+    "desc": "Зона особого события. В этой зоне выше вероятность получить рискованное событие.",
+    "icon": "icon/block/RogueNousSpEventIcon.png",
+    "icon_board": "icon/block/RogueNousSpEventIcon.png",
+    "color": "#c979ff"
+  },
+  "22": {
+    "id": "22",
+    "name": "Удвоение",
+    "desc": "Маяк удвоения. В Зонах элиты с этим маяком удваивается количество элитных противников. В Зонах события, Зонах наград и Зонах аномалии с этим маяком удваивается количество событий.",
+    "icon": "icon/block/IconRogueNousChessmanGirdBuff2.png",
+    "icon_board": "icon/block/IconRogueNousChessmanGirdBuff2.png",
+    "color": ""
+  },
+  "23": {
+    "id": "23",
+    "name": "Выбор",
+    "desc": "Маяк выбора. В зонах с этим маяком будет три события. После активации одного из событий, оставшиеся два исчезнут.",
+    "icon": "icon/block/IconRogueNousChessmanGirdBuff1.png",
+    "icon_board": "icon/block/IconRogueNousChessmanGirdBuff1.png",
+    "color": ""
+  }
+}
