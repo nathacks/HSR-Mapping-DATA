@@ -1,8 +1,28 @@
+"""
+Utility to normalize icon paths from the game's sprite output to a consistent format.
+
+Handles skill icons, avatar icons, memosprites, and special cases like BP, SkillTree,
+and long numeric IDs.
+"""
+
 import re
+from typing import Dict, Optional
 
 
-def normalize_icon(icon_path: str) -> dict:
-    icon_type = None
+def normalize_icon(icon_path: str) -> Dict[str, Optional[str]]:
+    """
+    Normalize a game icon path and determine its type.
+
+    Args:
+        icon_path (str): Original path of the icon.
+
+    Returns:
+        Dict[str, Optional[str]]: A dictionary containing:
+            - "path": The normalized path.
+            - "type": The type of icon (e.g., "MemospriteSkill", "MemospriteTalent"),
+                      or None if not applicable.
+    """
+    icon_type: Optional[str] = None
 
     icon = (
         icon_path
@@ -19,7 +39,7 @@ def normalize_icon(icon_path: str) -> dict:
     # Match both _BP.png and _BPxx.png
     icon = re.sub(r"_BP\d*\.png$", "_skill.png", icon)
 
-    # Convert SkillTree → skillTreeX
+    # Convert _SkillTreeX.png → _skillTreeX.png
     icon = re.sub(
         r'_SkillTree(\d)\.png$',
         lambda m: f"_skillTree{m.group(1)}.png",

@@ -8,6 +8,8 @@ StarRailRes: https://github.com/Mar-7th/StarRailRes
 All Python mapping scripts in this repository read raw resources (ExcelOutput and TextMap) and produce curated outputs
 under data/output for multiple languages.
 
+### Last Update: 3.6 version
+
 ## Key points
 
 - Based on StarRailRes data format and file layout.

@@ -1,4 +1,27 @@
-def field_mapping(field_str: str) -> dict:
+"""Provides a mapping between game-related field names and their normalized field properties.
+
+This utility is used to translate raw field identifiers (like 'BaseHP' or 'FireAddedRatio')
+into standardized field attributes such as 'hp', 'atk', or 'fire_dmg', along with
+information about whether the field represents an affix, a ratio, or a percentage.
+"""
+
+from typing import Dict
+
+
+def field_mapping(field_str: str) -> Dict[str, bool | str]:
+    """Return the normalized field mapping for a given raw field name.
+
+    Args:
+        field_str: The name of the raw field to look up.
+
+    Returns:
+        A dictionary with the following keys:
+            - 'field' (str): The normalized field name (e.g., 'hp', 'atk', etc.).
+            - 'affix' (bool): Whether this field is considered an affix.
+            - 'ratio' (bool): Whether this field uses a ratio multiplier.
+            - 'percent' (bool): Whether this field represents a percentage.
+        If the field name is not recognized, returns default values with 'field' empty.
+    """
     mapping = {
         # HP
         "BaseHP": {"field": "hp", "affix": True, "ratio": False, "percent": False},
@@ -84,4 +107,7 @@ def field_mapping(field_str: str) -> dict:
         "ImaginaryResistanceDelta": {"field": "imaginary_res", "affix": False, "ratio": False, "percent": True},
     }
 
-    return mapping.get(field_str, {"field": "", "affix": False, "ratio": False, "percent": False})
+    return mapping.get(
+        field_str,
+        {"field": "", "affix": False, "ratio": False, "percent": False},
+    )
