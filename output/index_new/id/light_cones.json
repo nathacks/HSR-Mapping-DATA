@@ -1079,6 +1079,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22006": {
+    "id": "22006",
+    "name": "Fly Into a Pink Tomorrow",
+    "rarity": 4,
+    "path": "Memory",
+    "desc": "Angin sepoi-sepoi meniup awan, menyingkap wujud alam semesta.\nCahaya keemasan berkilau, sementara epos akan digaungkan di langit berbintang.\n\n<i>\"Bintang jatuh, pertemuan, janji!\"</i>\nPeri kecil menatap langit, sama seperti saat pertama kali bertemu, sama seperti saat berjumpa kembali.\n\n<i>\"Mem, menunggu. Merintis, dunia!\"</i>\nMata peri kecil diterangi cahaya bintang, berkilauan bak hari esok yang berwarna merah muda.",
+    "icon": "icon/light_cone/22006.png",
+    "preview": "image/light_cone_preview/22006.png",
+    "portrait": "image/light_cone_portrait/22006.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "Night on the Milky Way",
@@ -1679,6 +1691,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "23050": {
+    "id": "23050",
+    "name": "Never Forget Her Flame",
+    "rarity": 5,
+    "path": "Warlock",
+    "desc": "<i>\"Mari, datanglah ke sisiku ....\"</i>\nSegenggam memori yang masih segar dituntun oleh bara api, menyelimuti tubuh dan jiwanya.\n\nBenarkah masa lalu telah jatuh ke dalam liang kubur?\n<i>\"Sst, jangan menangis, jangan menolak ....\"</i>\nDia mematri dirinya di hati orang lain. Tatapan yang awalnya asing perlahan-lahan menjadi akrab.\n<i>\"Kamu ingat sesuatu?\"</i>\n\nSaat bara memori lawas menghilang, wajahnya menebarkan jejak aroma bunga yang memabukkan ....\n<i>\"Akulah memorimu.\"</i>",
+    "icon": "icon/light_cone/23050.png",
+    "preview": "image/light_cone_preview/23050.png",
+    "portrait": "image/light_cone_portrait/23050.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23051": {
     "id": "23051",
     "name": "Though Worlds Apart",
@@ -1688,6 +1712,18 @@
     "icon": "icon/light_cone/23051.png",
     "preview": "image/light_cone_preview/23051.png",
     "portrait": "image/light_cone_portrait/23051.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23052": {
+    "id": "23052",
+    "name": "This Love, Forever",
+    "rarity": 5,
+    "path": "Memory",
+    "desc": "Langit biru memantulkan hari esok yang cerah.\nSatu langkah, dua langkah ... jalan yang ditempuh sang gadis begitu panjang, tapi untungnya, kisah-kisah berharga itu tak lekang oleh waktu.\nDengan setiap gores tulisan semua orang, epos tersebut kini menyambut penghujungnya.\n\nBintang-bintang, bunga-bunga, burung-burung, memenuhi dunia baru yang indah.\nKain tipis, mahkota bunga, gaun panjang, dan embusan angin membawa serta doa restu.\nPencarian tiga puluh juta masa kehidupan berubah menjadi satu momen kebahagiaan, cukup untuk melampaui ribuan kata abadi.\n\n<i>\"Hehe, janji ya ....\"</i>\nGadis itu menoleh ke belakang dan tersenyum manis.\n<i>\"Satu orang tinggal di masa lalu, satu orang melangkah menuju masa depan ... Tapi hati kita, tak pernah berpisah ♪\"</i>\n\nDia berjinjit dan melangkah ke masa lalu ....\nSementara memori, berubah menjadi riak kenangan masa lalu, bergelombang menuju hari esok.",
+    "icon": "icon/light_cone/23052.png",
+    "preview": "image/light_cone_preview/23052.png",
+    "portrait": "image/light_cone_portrait/23052.png",
     "max_rank": 5,
     "max_promotion": 6
   },

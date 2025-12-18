@@ -411,7 +411,7 @@
     "id": "100501",
     "name": "Da Capo",
     "rank": 1,
-    "desc": "When the Talent triggers a Follow-up ATK, there is a 1% base chance to increase the DoT received by the target by 30%% for 2 turn(s).",
+    "desc": "When the Talent triggers a Follow-Up ATK, there is a 1% base chance to increase the DoT received by the target by 30%% for 2 turn(s).",
     "materials": [
       {
         "id": "11005",
@@ -499,7 +499,7 @@
     "id": "100506",
     "name": "Leggiero",
     "rank": 6,
-    "desc": "The Shock inflicted on the enemy target by the Ultimate, the Technique, or the Talent-triggered Follow-up ATK has a DMG multiplier increase of 1.56% and lasts 1 turn(s) longer.",
+    "desc": "The Shock state inflicted on the enemy target by the Ultimate, Technique, or the Talent-triggered Follow-Up ATK has a DMG multiplier increase of 1.56% and lasts 1 turn(s) longer.",
     "materials": [
       {
         "id": "11005",
@@ -1180,7 +1180,7 @@
     "id": "110104",
     "name": "Take by Surprise",
     "rank": 4,
-    "desc": "After any other ally character uses Basic ATK on an enemy target that has Wind Weakness, Bronya immediately launches 1 instance of Follow-up ATK, dealing Wind DMG to this target equal to 80%% of her Basic ATK DMG. This effect can only trigger once per turn.",
+    "desc": "After any other ally character uses Basic ATK on an enemy target that has Wind Weakness, Bronya immediately launches 1 instance of Follow-Up ATK, dealing Wind DMG to this target equal to 80%% of her Basic ATK DMG. This effect can only trigger once per turn.",
     "materials": [
       {
         "id": "11101",
@@ -2259,7 +2259,7 @@
     "id": "111201",
     "name": "Future Market",
     "rank": 1,
-    "desc": "When enemies afflicted with \"Proof of Debt\" receive Follow-up ATKs, they will enter the \"Debtor\" state. This can take effect only once within a single attack.\nThe \"Debtor\" state increases the CRIT DMG of Follow-up ATKs inflicted on the target enemies by 25%%, stacking up to 2 time(s). When \"Proof of Debt\" is removed, the \"Debtor\" state is also removed.",
+    "desc": "When enemies afflicted with \"Proof of Debt\" receive Follow-Up ATKs, they will enter the \"Debtor\" state. This can take effect only once within a single attack.\nThe \"Debtor\" state increases the CRIT DMG of Follow-Up ATKs inflicted on the enemy target by 25%%, stacking up to 2 time(s). When \"Proof of Debt\" is removed, the \"Debtor\" state is also removed.",
     "materials": [
       {
         "id": "11112",
@@ -2412,7 +2412,7 @@
     "id": "120104",
     "name": "Right on the Tiles",
     "rank": 4,
-    "desc": "After using Skill, there is a 24%% fixed chance to gain \"Self-Sufficer,\" lasting until the end of the current turn. \nWhile \"Self-Sufficer\" is active, using Basic ATK or Enhanced Basic ATK immediately launches 1 Follow-up ATK on the same target, dealing Quantum DMG equal to 100% of Basic ATK DMG or Enhanced Basic ATK DMG.",
+    "desc": "After using Skill, there is a 24%% fixed chance to gain \"Self-Sufficer,\" lasting until the end of the current turn. \nWhile \"Self-Sufficer\" is active, using Basic ATK or Enhanced Basic ATK immediately launches 1 Follow-Up ATK on the same target, dealing Quantum DMG equal to 100% of Basic ATK DMG or Enhanced Basic ATK DMG.",
     "materials": [
       {
         "id": "11201",
@@ -2773,7 +2773,7 @@
     "id": "120501",
     "name": "Blade Cuts the Deepest in Hell",
     "rank": 1,
-    "desc": "Blade's Ultimate deals additionally increased DMG to a single enemy target, with the increased amount equal to 1.5% of the tally of Blade's HP loss in the current battle.\nThe tally of Blade's HP loss in the current battle is capped at 90%% of his Max HP. The tally value will be reset and re-accumulated after his Ultimate has been used.",
+    "desc": "Blade's Ultimate deals additionally increased DMG to one designated enemy target, with the increased amount equal to 1.5% of the tally of Blade's HP loss in the current battle.\nThe tally of Blade's HP loss in the current battle is capped at 90%% of his Max HP. The tally value will be reset and re-accumulated after his Ultimate has been used.",
     "materials": [
       {
         "id": "11205",
@@ -2865,7 +2865,7 @@
     "id": "120506",
     "name": "Reborn Into an Empty Husk",
     "rank": 6,
-    "desc": "The maximum number of Charge stacks is reduced to 4. The Follow-up ATK triggered by Talent deals additionally increased DMG equal to 50%% of Blade's Max HP.",
+    "desc": "The maximum number of Charge stacks is reduced to 4. The Follow-Up ATK triggered by Talent deals additionally increased DMG, with the increased amount equal to 50%% of Blade's Max HP.",
     "materials": [
       {
         "id": "11205",
@@ -3711,7 +3711,7 @@
     "id": "121401",
     "name": "Dvesha, Inhibited",
     "rank": 1,
-    "desc": "Increases the DMG dealt by the Talent's Follow-up ATK by 40%%.",
+    "desc": "Increases the DMG dealt by the Talent's Follow-Up ATK by 40%%.",
     "materials": [
       {
         "id": "11214",
@@ -3725,7 +3725,7 @@
     "id": "121402",
     "name": "Klesha, Breached",
     "rank": 2,
-    "desc": "Talent's Follow-up ATK Reduces enemy Toughness regardless of Weakness types. At the same time, restores Xueyi's HP by an amount equal to 5%% of her Max HP. When breaking Weakness, triggers the Quantum Break Effect.",
+    "desc": "Talent's Follow-Up ATK Reduces enemy Toughness regardless of Weakness types. At the same time, restores Xueyi's HP by an amount equal to 5%% of her Max HP. When breaking Weakness, triggers the Quantum Break Effect.",
     "materials": [
       {
         "id": "11214",
@@ -4133,7 +4133,7 @@
     "id": "122002",
     "name": "Moonward I Wish",
     "rank": 2,
-    "desc": "In the Talent's effect, for every 1 instance of Follow-up ATK launched by ally targets, Feixiao gains 1 point of \"Flying Aureus.\" This effect can trigger up to 6 time(s) per turn.",
+    "desc": "In the Talent's effect, for every 1 instance of Follow-Up ATK launched by ally targets, Feixiao gains 1 point of \"Flying Aureus.\" This effect can trigger up to 6 time(s) per turn.",
     "materials": [
       {
         "id": "11220",
@@ -4182,7 +4182,7 @@
     "id": "122004",
     "name": "Stormward I Hear",
     "rank": 4,
-    "desc": "The Toughness Reduction from the Talent's Follow-up ATK increases by 1% and, when launched, increases this unit's SPD by 8%%, lasting for 2 turn(s).",
+    "desc": "The Toughness Reduction from the Talent's Follow-Up ATK increases by 1% and, when launched, increases this unit's SPD by 8%%, lasting for 2 turn(s).",
     "materials": [
       {
         "id": "11220",
@@ -4219,7 +4219,7 @@
     "id": "122006",
     "name": "Homeward I Near",
     "rank": 6,
-    "desc": "Increases the All-Type RES PEN of Ultimate DMG dealt by Feixiao by 20%%. Talent's Follow-up ATK DMG is considered as Ultimate DMG at the same time, and its DMG multiplier increases by 1.4%.",
+    "desc": "Increases the All-Type RES PEN of Ultimate DMG dealt by Feixiao by 20%%. Talent's Follow-Up ATK DMG is considered as Ultimate DMG at the same time, and its DMG multiplier increases by 1.4%.",
     "materials": [
       {
         "id": "11220",
@@ -4525,7 +4525,7 @@
     "id": "122306",
     "name": "Faithbinder",
     "rank": 6,
-    "desc": "Increases the DMG multiplier of the Talent's Follow-up ATK by 25%%.",
+    "desc": "Increases the DMG multiplier of the Talent's Follow-Up ATK by 25%%.",
     "materials": [
       {
         "id": "11223",
@@ -4553,7 +4553,7 @@
     "id": "122402",
     "name": "Blade Dances on Waves' Fight",
     "rank": 2,
-    "desc": "After \"Shifu\" uses Basic ATK or Skill to attack an enemy target, March 7th immediately launches a Follow-up ATK and deals Imaginary DMG equal to 60%% of March 7th's ATK to the primary target of this attack. Additionally, triggers the corresponding effect based on \"Shifu\"'s Path and then gains 1 point(s) of Charge. If there is no primary target available to attack, then she attacks a single random enemy instead. This effect can only trigger once per turn.",
+    "desc": "After \"Shifu\" uses Basic ATK or Skill to attack an enemy target, March 7th immediately launches a Follow-Up ATK and deals Imaginary DMG equal to 60%% of March 7th's ATK to the primary target of this attack. Additionally, triggers the corresponding effect based on \"Shifu\"'s Path and then gains 1 point(s) of Charge. If there is no primary target available to attack, then she attacks a single random enemy instead. This effect can only trigger once per turn.",
     "materials": [
       {
         "id": "11224",
@@ -5116,7 +5116,7 @@
     "id": "130404",
     "name": "Unexpected Hanging Paradox",
     "rank": 4,
-    "desc": "When triggering his Talent's Follow-up ATK, first increases Aventurine's DEF by 40%% for 2 turn(s), and additionally increases the Hits Per Action for his talent's Follow-up ATK by 3.",
+    "desc": "When triggering his Talent's Follow-Up ATK, first increases Aventurine's DEF by 40%% for 2 turn(s), and additionally increases the Hits Per Action for his talent's Follow-Up ATK by 3.",
     "materials": [
       {
         "id": "11304",
@@ -5181,7 +5181,7 @@
     "id": "130502",
     "name": "The Divine Is in the Details",
     "rank": 2,
-    "desc": "When his Talent's Follow-up ATK hits a target, for every debuff the target has, deals Imaginary Additional DMG equal to 20%% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each Follow-up ATK.",
+    "desc": "When his Talent's Follow-Up ATK hits a target, for every debuff the target has, deals Imaginary Additional DMG equal to 20%% of Dr. Ratio's ATK. This effect can be triggered for a maximum of 4 time(s) during each Follow-Up ATK.",
     "materials": [
       {
         "id": "11305",
@@ -5255,7 +5255,7 @@
     "id": "130506",
     "name": "Vincit Omnia Veritas",
     "rank": 6,
-    "desc": "Additionally increases the trigger count for \"Wiseman's Folly\" by 1. The DMG dealt by the Talent's Follow-up ATK increases by 50%%.",
+    "desc": "Additionally increases the trigger count for \"Wiseman's Folly\" by 1. The DMG dealt by the Talent's Follow-Up ATK increases by 50%%.",
     "materials": [
       {
         "id": "11305",
@@ -6007,7 +6007,7 @@
     "id": "131401",
     "name": "Altruism? Nevertheless Tradable",
     "rank": 1,
-    "desc": "The Follow-up ATK DMG from Jade's Talent increases by 32%%. After the \"Debt Collector\" character attacks and the number of the enemy target(s) hit is either 2 or 1, Jade additionally gains 1 or 2 point(s) of Charge respectively.",
+    "desc": "The Follow-Up ATK DMG from Jade's Talent increases by 32%%. After the \"Debt Collector\" character attacks and the number of the enemy target(s) hit is either 2 or 1, Jade additionally gains 1 or 2 point(s) of Charge respectively.",
     "materials": [
       {
         "id": "11314",
@@ -6328,6 +6328,108 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/1317_Rank6.png"
+  },
+  "132101": {
+    "id": "132101",
+    "name": "When a Bud Readies to Bloom",
+    "rank": 1,
+    "desc": "The Super Break DMG multiplier provided by Talent to \"Dance Partners\" now applies to all ally characters, with \"Dance Partners\" additionally receiving a 40%% boost. After \"Dance Partners\" use an attack, additionally deals the attacked enemy targets a fixed amount of Toughness Reduction equal to 25%% of their Max Toughness (minimum 10, maximum 300). This effect can only trigger once per enemy target, and this trigger count resets after the enemy target receives a killing blow.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1321_Rank1.png"
+  },
+  "132102": {
+    "id": "132102",
+    "name": "Fresh, Ethereal, and Beloved",
+    "rank": 2,
+    "desc": "When The Dahlia is on the field, decreases all enemies' All-Type RES by 20%%. When an enemy target enters the field, immediately inflicts \"Wilt\" on them, lasting for 3 turn(s).",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1321_Rank2.png"
+  },
+  "132103": {
+    "id": "132103",
+    "name": "Pity Its Petals Thin as Mist",
+    "rank": 3,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "132103",
+        "num": 2
+      },
+      {
+        "id": "132101",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1321_Ultra.png"
+  },
+  "132104": {
+    "id": "132104",
+    "name": "Pity Its Heart Gnawed by Worms",
+    "rank": 4,
+    "desc": "Increases the number of DMG instances dealt by Talent's Follow-Up ATK by 5. Upon its use, the DMG taken by all enemy targets increases by 12%%, lasting for 2 turn(s).",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1321_Rank4.png"
+  },
+  "132105": {
+    "id": "132105",
+    "name": "Fallen, Decayed, and Despised",
+    "rank": 5,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "132102",
+        "num": 2
+      },
+      {
+        "id": "132104",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/1321_BP.png"
+  },
+  "132106": {
+    "id": "132106",
+    "name": "And Yet, Always, Deathly Beautiful",
+    "rank": 6,
+    "desc": "Increases Dance Partners' Break Effect by 1.5%. When using Talent's Follow-Up ATK, advances the next action of all \"Dance Partners\" by 20%%.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1321_Rank6.png"
   },
   "140101": {
     "id": "140101",
@@ -6653,7 +6755,7 @@
     "id": "140306",
     "name": "Morrow of Star Shine",
     "rank": 6,
-    "desc": "After Tribbie uses Ultimate, launches her Talent's Follow-up ATK against all enemies. The DMG dealt by Talent's Follow-up ATK increases by 7.29%.",
+    "desc": "After Tribbie uses Ultimate, launches her Talent's Follow-Up ATK against all enemies. The DMG dealt by Talent's Follow-Up ATK increases by 7.29%.",
     "materials": [
       {
         "id": "11403",
@@ -6879,7 +6981,7 @@
     "id": "140601",
     "name": "Read the Room, Seek the Glee",
     "rank": 1,
-    "desc": "Cipher's tally of DMG is 1.5% of its original value. When using the Talent's Follow-up ATK, increases Cipher's ATK by 80%%, lasting for 2 turn(s).",
+    "desc": "Cipher's tally of DMG is 1.5% of its original value. When using the Talent's Follow-Up ATK, increases Cipher's ATK by 80%%, lasting for 2 turn(s).",
     "materials": [
       {
         "id": "11406",
@@ -6967,7 +7069,7 @@
     "id": "140606",
     "name": "The Thief's Game, Unsung and Free",
     "rank": 6,
-    "desc": "The DMG dealt by Follow-up ATK from Cipher's Talent increases by 3.5%. During the tally, an additional 16%% of non-Overflow DMG dealt by this attack is tallied. After the tally is cleared by using Ultimate, 20%% of the cleared tally is returned.",
+    "desc": "The DMG dealt by Follow-Up ATK from Cipher's Talent increases by 3.5%. During the tally, an additional 16%% of non-Overflow DMG dealt by this attack is tallied. After the tally is cleared by using Ultimate, 20%% of the cleared tally is returned.",
     "materials": [
       {
         "id": "11406",
@@ -7775,6 +7877,188 @@
     "level_up_skills": [],
     "icon": "icon/skill/1414_Rank6.png"
   },
+  "141501": {
+    "id": "141501",
+    "name": "Epics, Born on a Blank Slate",
+    "rank": 1,
+    "desc": "When Demiurge triggers the Memosprite Skill \"Ode to Ego\" during the use of \"Minuet of Blooms and Plumes,\" gains 6 \"Recollection\" point(s) and increases the number of bounces for this attack by 12.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1415_Rank1.png"
+  },
+  "141502": {
+    "id": "141502",
+    "name": "A Tomorrow in Thirteen Shades",
+    "rank": 2,
+    "desc": "When entering combat, additionally gains 12 \"Recollection\" point(s). For every 1 different ally character that gains the Memosprite Skill buff from Demiurge, the DMG multiplier for the True DMG dealt by ally targets via the Skill's Zone increases by 6%%, up to a max increase of 24%%.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1415_Rank2.png"
+  },
+  "141503": {
+    "id": "141503",
+    "name": "By Thy Being, As I've Written",
+    "rank": 3,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nMemosprite Skill Lv. +1, up to a maximum of Lv. 10.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "141503",
+        "num": 2
+      },
+      {
+        "id": "141504",
+        "num": 2
+      },
+      {
+        "id": "1141501",
+        "num": 1
+      },
+      {
+        "id": "141514",
+        "num": 2
+      },
+      {
+        "id": "1141502",
+        "num": 1
+      },
+      {
+        "id": "1141513",
+        "num": 1
+      },
+      {
+        "id": "1141514",
+        "num": 1
+      },
+      {
+        "id": "1141515",
+        "num": 1
+      },
+      {
+        "id": "1141516",
+        "num": 1
+      },
+      {
+        "id": "1141517",
+        "num": 1
+      },
+      {
+        "id": "1141518",
+        "num": 1
+      },
+      {
+        "id": "1141519",
+        "num": 1
+      },
+      {
+        "id": "1141520",
+        "num": 1
+      },
+      {
+        "id": "1141521",
+        "num": 1
+      },
+      {
+        "id": "1141522",
+        "num": 1
+      },
+      {
+        "id": "1141523",
+        "num": 1
+      },
+      {
+        "id": "1141524",
+        "num": 1
+      },
+      {
+        "id": "1141525",
+        "num": 1
+      },
+      {
+        "id": "1141526",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1415_Ultra.png"
+  },
+  "141504": {
+    "id": "141504",
+    "name": "Please Write On, With a Smile",
+    "rank": 4,
+    "desc": "After every 1 use of \"Minuet of Blooms and Plumes\" by Demiurge, the Bounce DMG multiplier for the triggered Memosprite Skill \"Ode to Ego\" increases by 6%% in the current battle, stacking up to 24 times.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1415_Rank4.png"
+  },
+  "141505": {
+    "id": "141505",
+    "name": "Gaze, Steeped in Yesterbloom",
+    "rank": 5,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nMemosprite Talent Lv. +1, up to a maximum of Lv. 10.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "141502",
+        "num": 2
+      },
+      {
+        "id": "141501",
+        "num": 1
+      },
+      {
+        "id": "1141503",
+        "num": 1
+      },
+      {
+        "id": "1141505",
+        "num": 1
+      },
+      {
+        "id": "141508",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1415_BP.png"
+  },
+  "141506": {
+    "id": "141506",
+    "name": "Remembrance, Sung in Ripples ♪",
+    "rank": 6,
+    "desc": "When Cyrene uses Ultimate for the first time, all allies advance action by 1%. Each time Demiurge triggers the Memosprite Skill \"Ode to Ego\" during the use of \"Minuet of Blooms and Plumes,\" gains the following effects based on the number of times it has been triggered in the current battle:\n1 time: When Demiurge is on the field, reduces all enemy targets' DEF by 20%%.\n2 times and more: All allies advance action by 24%%.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1415_Rank6.png"
+  },
   "800101": {
     "id": "800101",
     "name": "A Falling Star",
@@ -8519,6 +8803,10 @@
       {
         "id": "1800707",
         "num": 1
+      },
+      {
+        "id": "800708",
+        "num": 1
       }
     ],
     "icon": "icon/skill/8007_Ultra.png"
@@ -8645,6 +8933,10 @@
       {
         "id": "1800707",
         "num": 1
+      },
+      {
+        "id": "800808",
+        "num": 1
       }
     ],
     "icon": "icon/skill/8007_Ultra.png"
@@ -8755,7 +9047,7 @@
     "id": "1100506",
     "name": "Leggiero",
     "rank": 6,
-    "desc": "The Shock state inflicted on the enemy target by the Ultimate, Technique, or the Talent-triggered Follow-up ATK has a DMG multiplier increase of 1.56% and lasts 1 turn(s) longer.",
+    "desc": "The Shock state inflicted on the enemy target by the Ultimate, Technique, or the Talent-triggered Follow-Up ATK has a DMG multiplier increase of 1.56% and lasts 1 turn(s) longer.",
     "materials": [
       {
         "id": "11005",
@@ -8963,7 +9255,7 @@
     "id": "1120506",
     "name": "Reborn Into an Empty Husk",
     "rank": 6,
-    "desc": "The maximum number of Charge stacks is reduced to 4. The Follow-up ATK triggered by Talent deals additionally increased DMG, with the increased amount equal to 50%% of Blade's Max HP.",
+    "desc": "The maximum number of Charge stacks is reduced to 4. The Follow-Up ATK triggered by Talent deals additionally increased DMG, with the increased amount equal to 50%% of Blade's Max HP.",
     "materials": [
       {
         "id": "11205",

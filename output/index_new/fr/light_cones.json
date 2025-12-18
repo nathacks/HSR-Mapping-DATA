@@ -1079,6 +1079,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22006": {
+    "id": "22006",
+    "name": "Envol vers un lendemain rosé",
+    "rarity": 4,
+    "path": "Memory",
+    "desc": "Le visage du cosmos apparaît alors qu'une douce brise éclaircit le ciel.\nL'éclat doré scintille plus intensément et les épopées résonnent à travers la voûte céleste.\n\n<i>« Étoiles filantes, rencontres et promesses ! »</i>\nLa petite fée lève les yeux vers le ciel, comme une rencontre, comme des retrouvailles.\n\n<i>« Mem, attends. Explore, le monde ! »</i>\nLa lumière des étoiles se reflète dans les yeux de la petite fée, aussi éclatant que cet avenir rose.",
+    "icon": "icon/light_cone/22006.png",
+    "preview": "image/light_cone_preview/22006.png",
+    "portrait": "image/light_cone_portrait/22006.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "Nuit sur la voie lactée",
@@ -1679,6 +1691,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "23050": {
+    "id": "23050",
+    "name": "Une flamme à graver",
+    "rarity": 5,
+    "path": "Warlock",
+    "desc": "<i>« Viens, viens à moi... »</i>\nGuidé par les flammes, un souvenir précis enveloppe son corps et son âme.\n\nLes jours d'antan sont-ils vraiment tombés dans l'oubli ?\n<i>« Chut, ne pleure pas, ne résiste pas... »</i>\nElle prend domicile dans leur cœur, tandis que les regards impénétrables s'adoucissent.\n<i>« Tu te souviens maintenant ? »</i>\n\nAlors que les braises de vieux souvenirs se dispersent, son visage porte un parfum enivrant de fleurs...\n<i>« Je suis ta mémoire. »</i>",
+    "icon": "icon/light_cone/23050.png",
+    "preview": "image/light_cone_preview/23050.png",
+    "portrait": "image/light_cone_portrait/23050.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23051": {
     "id": "23051",
     "name": "Par-delà les paysages infinis",
@@ -1688,6 +1712,18 @@
     "icon": "icon/light_cone/23051.png",
     "preview": "image/light_cone_preview/23051.png",
     "portrait": "image/light_cone_portrait/23051.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23052": {
+    "id": "23052",
+    "name": "Éternel amour",
+    "rarity": 5,
+    "path": "Memory",
+    "desc": "Le ciel azur reflète un avenir radieux.\nUn pas, deux pas... le chemin de la jeune fille a été si long, mais heureusement, les histoires qui lui sont chères n'ont pas été oubliées par la marche cyclique du temps.\nAujourd'hui, écrite à plusieurs mains, l'épopée s'achève et accueille son dénouement.\n\nUne poignée d'étoiles, de fleurs, d'oiseaux et un nouveau monde magnifique.\nDe la gaze, des couronnes, de longues robes et un vent de bénédictions.\nLa quête de trente millions de vies s'est transformée en un instant de bonheur capable de réécrire une éternité de mots.\n\n<i>« Héhé, c'est une promesse... »</i>\nLa jeune fille se retourne et un doux sourire habille son visage.\n<i>« Alors que l'un demeure dans le passé, l'autre avance vers l'avenir... mais jamais nos cœurs ne se sépareront. ♪ »</i>\n\nElle se met sur la pointe des pieds, en marche vers hier...\nEt les souvenirs, transformés en vagues du passé, coulent vers demain.",
+    "icon": "icon/light_cone/23052.png",
+    "preview": "image/light_cone_preview/23052.png",
+    "portrait": "image/light_cone_portrait/23052.png",
     "max_rank": 5,
     "max_promotion": 6
   },

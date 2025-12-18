@@ -4299,6 +4299,70 @@
       ]
     ]
   },
+  "22006": {
+    "id": "22006",
+    "skill": "Blick",
+    "desc": "Erhöht den KRIT-SCH des Trägers um #1[i]%. Bei der Ausrüstung durch {F#die Trailblazerin}{M#den Trailblazer} (Das Gedenken) wird der verursachte SCH aller Verbündeten um #2[i]% und der verursachte SCH des verstärkten Standardangriffs „Schreiben wir gemeinsam vom Morgen!“ um #3[i]% erhöht.",
+    "params": [
+      [
+        0.12,
+        0.08,
+        0.6
+      ],
+      [
+        0.15,
+        0.1,
+        0.7
+      ],
+      [
+        0.18,
+        0.12,
+        0.8
+      ],
+      [
+        0.21,
+        0.14,
+        0.9
+      ],
+      [
+        0.24,
+        0.16,
+        1
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.12
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.15
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.24
+        }
+      ]
+    ]
+  },
   "23000": {
     "id": "23000",
     "skill": "Meteoritenschwarm",
@@ -7859,6 +7923,65 @@
       ]
     ]
   },
+  "23050": {
+    "id": "23050",
+    "skill": "Selbstverbrennung",
+    "desc": "Erhöht den Brucheffekt des Trägers um #1[i]%. Beim Kampfeintritt wird der verursachte Bruch-SCH des Trägers sowie eines weiteren Teammitglieds, das den Kampf begonnen hat, um #2[i]% erhöht. Wenn kein anderes Teammitglied den Kampf begonnen hat, gilt dieser Effekt für den Träger und das Teammitglied mit dem höchsten Brucheffekt. Effekte desselben Typs sind nicht stapelbar. Wenn der Träger einem Gegner eine Schwäche implantiert, wird 1 Fertigkeitspunkt wiederhergestellt. Dieser Effekt kann bis zu 1-mal ausgelöst werden und die Auslösungsanzahl wird beim Einsatz des Ultimates zurückgesetzt.",
+    "params": [
+      [
+        0.6,
+        0.32
+      ],
+      [
+        0.75,
+        0.42
+      ],
+      [
+        0.9,
+        0.52
+      ],
+      [
+        1.05,
+        0.62
+      ],
+      [
+        1.2,
+        0.72
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 0.6
+        }
+      ],
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 0.75
+        }
+      ],
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 0.9
+        }
+      ],
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 1.05
+        }
+      ],
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 1.2
+        }
+      ]
+    ]
+  },
   "23051": {
     "id": "23051",
     "skill": "Neuschuppen",
@@ -7934,6 +8057,75 @@
         {
           "type": "AttackAddedRatio",
           "value": 1.28
+        }
+      ]
+    ]
+  },
+  "23052": {
+    "id": "23052",
+    "skill": "Versprechen",
+    "desc": "Erhöht die GES des Trägers um #1[i]%. Wenn der Memogeist des Trägers eine Memogeist-Technik auf einen Verbündeten anwendet, wird „Leer“ erhalten, was den erlittenen SCH aller Gegner um #3[i]% erhöht. Wenn der Memogeist des Trägers eine Memogeist-Technik auf einen Gegner anwendet, wird „Vers“ erhalten, was den KRIT-SCH aller Verbündeten um #2[i]% erhöht. Wenn der Memogeist des Trägers Leer und Vers gleichzeitig besitzt, wird der Effekt von beiden um #4[i]% erhöht.",
+    "params": [
+      [
+        0.18,
+        0.16,
+        0.1,
+        0.6
+      ],
+      [
+        0.21,
+        0.19,
+        0.12,
+        0.65
+      ],
+      [
+        0.24,
+        0.22,
+        0.14,
+        0.7
+      ],
+      [
+        0.27,
+        0.25,
+        0.16,
+        0.75
+      ],
+      [
+        0.3,
+        0.28,
+        0.18,
+        0.8
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.24
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.27
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.3
         }
       ]
     ]

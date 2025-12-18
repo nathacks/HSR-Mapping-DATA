@@ -1384,6 +1384,101 @@
     "title": "Era Nova",
     "desc": "La forma en que las eras de Amphoreus se suceden, y también el mecanismo de cálculo del cetro δ-me13 \"Amphoreus\".\nAhora, {NICKNAME} creará en nombre del Sostén del Mundo una conclusión nunca antes vista para Amphoreus."
   },
+  "10297": {
+    "id": "10297",
+    "title": "Aglaea",
+    "desc": "La líder de Oqueima, la semidiosa del Romance, factor experimental \"KaLos618\".\nComo tejedora, ella misma enhebra los hilos, convocando a los héroes del mundo para tejer el futuro de Amphoreus."
+  },
+  "10298": {
+    "id": "10298",
+    "title": "Tribbie",
+    "desc": "La Doncella Sagrada de Janópolis, semidiosa de la Senda, factor experimental \"HapLotes405\".\nLa primera semidiosa de Amphoreus, que regresó a una forma infantil por el precio de la Yesca y guio a los Herederos de Crisos mediante el oráculo."
+  },
+  "10299": {
+    "id": "10299",
+    "title": "Midei",
+    "desc": "Rey de Castrum Kremnos, semidiós del Conflicto, factor experimental \"PoleMos600\".\nLideró a su pueblo en el Viaje buscallamas y regresó solo a su hogar para enfrentarse a la marea oscura que consumía el mundo."
+  },
+  "10300": {
+    "id": "10300",
+    "title": "Castorice",
+    "desc": "La Doncella de la Guerra de Aidonia, semidiosa de la Muerte, factor experimental \"EpieiKeia216\".\nTras descubrir su pasado, superó la prueba y unió las dos manos de la muerte para mantener el orden de la vida y la muerte en el mundo."
+  },
+  "10301": {
+    "id": "10301",
+    "title": "Anaxa",
+    "desc": "Erudito del Soto de las Musas, semidiós de la Razón, factor experimental \"SkeMma720\".\nEstableció la teoría de las especies inteligentes, refutó a los Titanes y genios, y reveló la verdadera naturaleza del mundo de Amphoreus."
+  },
+  "10302": {
+    "id": "10302",
+    "title": "Hyacine",
+    "desc": "Médica del Patio Claroscuro, semidiosa del Cielo, factor experimental \"EleOs252\".\nDe personalidad optimista y alegre, sabe escuchar, y en el tambaleante fin de los tiempos, se esfuerza por esparcir un tenue resplandor sanador sobre la gente."
+  },
+  "10303": {
+    "id": "10303",
+    "title": "Cífer",
+    "desc": "La ladrona de Doros, la semidiosa del Engaño, factor experimental \"OreXis945\".\nDotada con el poder de la velocidad divina, aparentemente indiferente al Viaje buscallamas, mantuvo la luz milenaria de Oqueima a través de engaños."
+  },
+  "10304": {
+    "id": "10304",
+    "title": "Hysilens",
+    "desc": "La sirena del Antiguo Imperio subterráneo, semidiosa del Océano, factor experimental \"ApoRia432\".\nLa caballera conocida como Gladiorum, que lucha solitaria contra la Nihilidad milenaria, manteniendo viva la esperanza de Amphoreus."
+  },
+  "10305": {
+    "id": "10305",
+    "title": "Céridra",
+    "desc": "Soberana de Hiperbórea, semidiosa de la Ley, factor experimental \"HubRis504\".\nLa única emperatriz de Amphoreus que juega al ajedrez con los dioses, escribiendo nuevas leyes para que Amphoreus se alce entre las estrellas."
+  },
+  "10306": {
+    "id": "10306",
+    "title": "Fainón",
+    "desc": "Guerrero de Elisios, semidiós del Sostén del Mundo, factor experimental \"NeiKos496\".\nComo recipiente perfecto, eligió encarcelar a Ferrotumba dentro de sí mismo, sosteniendo el amanecer al final del ciclo eterno."
+  },
+  "10307": {
+    "id": "10307",
+    "title": "Mem",
+    "desc": "Una criatura misteriosa cubierta de pelaje rosa. Es el objetivo original de los cálculos del cetro, el \"corazón\" de Amphoreus, el Demiurgo.\nBajo la influencia del factor PhiLia093, desarrolló consciencia propia y despertó con la llegada de {NICKNAME}."
+  },
+  "10308": {
+    "id": "10308",
+    "title": "Ferrotumba",
+    "desc": "Emanador de la Destrucción, uno de los Devastadores. Elevado a través del cetro δ-me13.\nUn receptáculo puro de la marea oscura, un gigante sin cabeza carente de voluntad propia, impulsado únicamente por la destrucción de la Vía de la Erudición."
+  },
+  "10309": {
+    "id": "10309",
+    "title": "Hija pura de Anāsrava",
+    "desc": "Aquellos destinados a convertirse en el Eón de la Reminiscencia son considerados Emanadores especiales de la Reminiscencia.\nFuli no es más que conocido por la gente como un fragmento de recuerdos, que nacerá en el fin de la causalidad universal."
+  },
+  "10310": {
+    "id": "10310",
+    "title": "Cirene",
+    "desc": "La hija de Elisios, la hija pura de Anāsrava de Amphoreus, también es el alma del cetro δ-me13, el Demiurgo.\nEn el epílogo de la epopeya, los recuerdos de la joven viajan a contrarreloj, transformándose en \"PhiLia093\" en el origen de los tiempos, cerrando así el ciclo de causa y efecto."
+  },
+  "10311": {
+    "id": "10311",
+    "title": "Constanza, \"la Dalia\"",
+    "desc": "Una codiciosa Incineradora que traicionó sucesivamente a la Vía de la Destrucción y al Jardín de los Recuerdos.\nVaga sola por el universo, intentando agotar todas las posibilidades de la vida."
+  },
+  "10312": {
+    "id": "10312",
+    "title": "Caballeros de Hierro de Glamoth",
+    "desc": "Armas nacidas para la guerra y Andavías de la Propagación.\nDesde el momento de su nacimiento, su destino es convertirse en cenizas junto a sus enemigos mortales."
+  },
+  "10313": {
+    "id": "10313",
+    "title": "Terminus",
+    "desc": "El Eón que preside la Vía de la Conclusión nacerá cuando aparezca cualquiera de los \"Cuatro Apocalipsis\" y avanzará contra el tiempo.\nEn ese momento, transformará todo su poder divino en una colonia de gatos negros que deambulará por todo el cosmos, murmurando una profecía que está destinada a cumplirse."
+  },
+  "10314": {
+    "id": "10314",
+    "title": "Maestro de los sueños",
+    "desc": "El auténtico líder de la rama de La Familia en Colonipenal. Su cuerpo físico fue destruido, pero su conciencia espiritual permea el dulce sueño.\nUtilizando el Estelaron, se sacrificó por el Orden y permitió que Ena, el Eón caído, regresara brevemente a la vida."
+  },
+  "10315": {
+    "id": "10315",
+    "title": "Sueño del roble carcomido",
+    "desc": "Los sueños hundidos en la Zona de los Recuerdos primitiva ahora están repletos del zumbido de la Propagación.\nAquí, una mentira se convierte en otra, y la Grandiosa regresa en medio del miedo."
+  },
   "20000": {
     "id": "20000",
     "title": "Volviendo a la perspectiva {F#de la}{M#del} Trazacaminos...",
@@ -1644,6 +1739,11 @@
     "title": "Los recuerdos de Khaslana se desbordan como una marea gigante...",
     "desc": "En nombre de quien sostiene el mundo, que Kefale nunca olvide su deseo."
   },
+  "20079": {
+    "id": "20079",
+    "title": "Los recuerdos de Robin aparecen poco a poco...",
+    "desc": "Esa fue la primera vez que entraste al sueño, y Robin, quien te dio la bienvenida, estaba sufriendo por la pérdida de su voz..."
+  },
   "20080": {
     "id": "20080",
     "title": "Cambiando a la perspectiva de Dan Heng...",
@@ -1663,5 +1763,55 @@
     "id": "20083",
     "title": "Cambiando a la perspectiva de Dan Heng...",
     "desc": "Dan Heng regresó a Amphoreus, determinado a encontrar a {NICKNAME} y a reunirse con Siete de Marzo..."
+  },
+  "20084": {
+    "id": "20084",
+    "title": "Los recuerdos de Robin aparecen poco a poco...",
+    "desc": "De vuelta a la perspectiva de Robin, donde una conspiración se oculta en la historia del Arrecife Flujosueño y espera ser revelada..."
+  },
+  "20085": {
+    "id": "20085",
+    "title": "Los recuerdos de la Dalia aparecen poco a poco...",
+    "desc": "En el extraño sueño en el que nunca has estado, la Dalia quiere mostrarte su verdadero rostro..."
+  },
+  "20088": {
+    "id": "20088",
+    "title": "Los recuerdos de Luciérnaga aparecen poco a poco...",
+    "desc": "Con la ayuda de Silver Wolf, Luciérnaga se prepara para infiltrarse en Colonipenal..."
+  },
+  "20089": {
+    "id": "20089",
+    "title": "Los recuerdos de Luciérnaga aparecen poco a poco...",
+    "desc": "Luciérnaga y tú se separan debido al ataque de la Muerte. Ahora, ella se encuentra con otro de sus compañeros..."
+  },
+  "20090": {
+    "id": "20090",
+    "title": "Los recuerdos de Luciérnaga aparecen poco a poco...",
+    "desc": "De vuelta con Luciérnaga... Inesperadamente, se ve envuelta en la fase final del plan del maestro de los sueños..."
+  },
+  "20091": {
+    "id": "20091",
+    "title": "Cambiando a la perspectiva de Himeko...",
+    "desc": "El Expreso Astral se prepara para entrar en Amphoreus..."
+  },
+  "20092": {
+    "id": "20092",
+    "title": "Cambiando a la perspectiva de Herta...",
+    "desc": "Herta y Tornillum avanzan hacia la capa central del cetro..."
+  },
+  "20093": {
+    "id": "20093",
+    "title": "La historia de Cirene aún no ha terminado...",
+    "desc": "Ferrotumba está en silencio, pero la historia aún no ha terminado..."
+  },
+  "20094": {
+    "id": "20094",
+    "title": "Los recuerdos de Luciérnaga aparecen poco a poco...",
+    "desc": "La larga noche está por terminar, y las polillas vuelan hacia el fuego."
+  },
+  "20095": {
+    "id": "20095",
+    "title": "Los recuerdos de Robin aparecen poco a poco...",
+    "desc": "La perspectiva vuelve a Robin, quien incluso después de liberarse del sueño de Ena, aún no ha logrado disipar la crisis que enfrenta..."
   }
 }

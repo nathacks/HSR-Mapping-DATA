@@ -140,6 +140,18 @@
     "desc": "Item ini dapat ditukar dengan mengonsumsi 40 Trailblaze Power, dan dapat digunakan untuk menukar hadiah Immersion di \"Simulated Universe\"",
     "come_from": []
   },
+  "34": {
+    "id": "34",
+    "name": "Deep Immersifier",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 4,
+    "icon": "icon/item/34.png",
+    "desc": "Dapat digunakan untuk mengekstrak Planar Ornament dengan cepat di \"Panduan Interastral Peace\"",
+    "come_from": [
+      "Hadiah Poin \"Perang Mata Uang\""
+    ]
+  },
   "41": {
     "id": "41",
     "name": "Poin Achievement",
@@ -218,7 +230,9 @@
     "rarity": 4,
     "icon": "icon/item/110.png",
     "desc": "Gunakan bersama Trailblaze Power untuk mendapatkan material yang dihasilkan Calyx/Stagnant Shadow dengan cepat",
-    "come_from": []
+    "come_from": [
+      "Hadiah Poin \"Perang Mata Uang\""
+    ]
   },
   "170": {
     "id": "170",
@@ -468,6 +482,7 @@
     "icon": "icon/item/241.png",
     "desc": "Material berkualitas tinggi untuk meningkatkan level Trace.",
     "come_from": [
+      "Hadiah Poin \"Perang Mata Uang\"",
       "Hadiah Poin \"Simulated Universe\"",
       "Kehormatan Tanpa Nama",
       "Penukaran Ember",
@@ -560,6 +575,8 @@
     "icon": "icon/item/281.png",
     "desc": "Dapat ditukarkan dengan karakter 5★ di toko \"Pertemuan Bintang-Bintang\".",
     "come_from": [
+      "Rekan Perjalanan Ribuan Bintang",
+      "Rekan Perjalanan Ribuan Bintang (sudah diambil untuk periode ini)",
       "Dapat ditukar setelah mendapatkan karakter 5★ dengan Eidolon maksimum dua kali",
       "Dapat ditukar setelah mendapatkan karakter 5★ dengan Eidolon maksimum dua kali"
     ]
@@ -597,6 +614,7 @@
     "icon": "icon/item/503.png",
     "desc": "Hadiah \"Simulated Universe\", dapat digunakan untuk membeli item di Toko Herta.",
     "come_from": [
+      "Hadiah Poin \"Perang Mata Uang\"",
       "Hadiah Poin \"Simulated Universe\""
     ]
   },
@@ -638,6 +656,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "Berkat yang diberikan kepada orang-orang yang mengejar api.\n\nSemoga kamu menari dengan para dewa dan menyalakan kembali raksasa yang jatuh dengan api para pahlawan.\nSemoga kamu menggulingkan takdir, menerangi dunia dan semua makhluk hidup dengan cahaya fajar.\nJejakmu di sini akan dikumandangkan dalam syair dan puisi untuk selamanya.",
+    "come_from": []
+  },
+  "821": {
+    "id": "821",
+    "name": "Kala Esok Bangkit dari Bayang Kemarin",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/821.png",
+    "desc": "Surat dalam Memori",
     "come_from": []
   },
   "71000": {
@@ -3004,6 +3032,92 @@
       "\"Omni-Synthesizer\" - Synthesis Relic"
     ]
   },
+  "83231": {
+    "id": "83231",
+    "name": "Amphoreus, The Eternal Land",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83232": {
+    "id": "83232",
+    "name": "Amphoreus, The Eternal Land",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83233": {
+    "id": "83233",
+    "name": "Amphoreus, The Eternal Land",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83234": {
+    "id": "83234",
+    "name": "Amphoreus, The Eternal Land",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": [
+      "Divergent Universe: Ekstraksi Planar Ornament",
+      "\"Omni-Synthesizer\" - Synthesis Relic"
+    ]
+  },
+  "83241": {
+    "id": "83241",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83242": {
+    "id": "83242",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83243": {
+    "id": "83243",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83244": {
+    "id": "83244",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": [
+      "Divergent Universe: Ekstraksi Planar Ornament",
+      "\"Omni-Synthesizer\" - Synthesis Relic"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "Planar Ornament",
@@ -4010,6 +4124,19 @@
       "\"Omni-Synthesizer\" - Pertukaran Material"
     ]
   },
+  "110432": {
+    "id": "110432",
+    "name": "Radiant Prominence",
+    "type": "Material",
+    "sub_type": "AvatarRank",
+    "rarity": 4,
+    "icon": "icon/item/110432.png",
+    "desc": "Mahkota aneh yang dijatuhkan Noontide Gryphon. Material Ascension untuk karakter tipe Fire.",
+    "come_from": [
+      "Stagnant Shadow: {TextID#FloorName_20422001}",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
   "110433": {
     "id": "110433",
     "name": "Sea Siren's Torn Fin",
@@ -4144,6 +4271,18 @@
     "desc": "Material berkualitas tinggi untuk meningkatkan level Trace.",
     "come_from": [
       "Echo of War: \"Benteng Kubah\" Mata Fajar Senja"
+    ]
+  },
+  "110508": {
+    "id": "110508",
+    "name": "Vanquished Flow's Reticence",
+    "type": "Material",
+    "sub_type": "WeeklyMonsterDrop",
+    "rarity": 4,
+    "icon": "icon/item/110508.png",
+    "desc": "Material berkualitas tinggi untuk meningkatkan level Trace.",
+    "come_from": [
+      "Echo of War: {TextID#FloorName_20481001}"
     ]
   },
   "111000": {
@@ -4806,6 +4945,16 @@
     "desc": "Peralatan masak legendaris yang digunakan oleh para peri untuk memasak. Dapat digunakan untuk Superimpose Light Cone \"The Forever Victual\".",
     "come_from": []
   },
+  "121006": {
+    "id": "121006",
+    "name": "Flawed Recollection",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121006.png",
+    "desc": "Bunga Remembrance yang seperti kristal, cacat dan mudah pecah. Dapat digunakan untuk Superimpose Light Cone \"Fly Into a Pink Tomorrow\".",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "Aideen Token",
@@ -4818,6 +4967,28 @@
       "Aideen Token Shop",
       "Penjelajahan \"Penacony\""
     ]
+  },
+  "123000": {
+    "id": "123000",
+    "name": "Access Card",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "Dapat digunakan untuk membuka \"Peti Relic\" di ruang koleksi misterius Stasiun Luar Angkasa Herta.",
+    "come_from": [
+      "Diperoleh dari event \"Berburu Harta di Gudang Ajaib\""
+    ]
+  },
+  "123001": {
+    "id": "123001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123001.png",
+    "desc": "",
+    "come_from": []
   },
   "140000": {
     "id": "140000",
@@ -9933,6 +10104,116 @@
     "desc": "Benda langka yang merupakan Space Anchor di dunia \"Erudition\", dapat melindungi struktur data individu dari pengaruh gelombang digital.\nKetika diperlukan, benda ini juga dapat digunakan sebagai alat komunikasi ke dunia luar.",
     "come_from": []
   },
+  "140597": {
+    "id": "140597",
+    "name": "Upacara Penutupan Mimpi",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140597.png",
+    "desc": "<i>Entah kapan foto itu diambil, tapi sensasi nyatanya tak diragukan. Di masa lalu, hal ini benar-benar terjadi dan foto ini menjadi buktinya. Walau hanya sedikit orang yang tahu, tapi seorang gadis akan tersenyum saat mengingat mimpi indah yang pernah dialaminya.</i>\n\nPemimpi adalah pencipta mimpi, dan pencipta mimpi adalah pemimpi.\nMimpi yang indah baru dapat dijalin dengan mempersembahkan masa lalu.\nOrang-orang tidak akan tenggelam di dalamnya dan enggan terbangun. Dalam mimpi indah, mereka akan memperoleh kembali keberanian untuk menghadapi masa depan.\nLalu, melangkah menuju hari esok.",
+    "come_from": []
+  },
+  "140598": {
+    "id": "140598",
+    "name": "Upacara Penutupan Mimpi",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140598.png",
+    "desc": "<i>Pada akhirnya, kamu yang memutuskan bagaimana memori akan ditampilkan. Saat mimpi indah itu berakhir, kamu akan mengabadikannya dengan cara yang diinginkan Firefly.</i>\n\nPemimpi adalah pencipta mimpi, dan pencipta mimpi adalah pemimpi.\nMimpi yang indah baru dapat dijalin dengan mempersembahkan masa lalu.\nOrang-orang tidak akan tenggelam di dalamnya dan enggan terbangun. Dalam mimpi indah, mereka akan memperoleh kembali keberanian untuk menghadapi masa depan.\nLalu, melangkah menuju hari esok.",
+    "come_from": []
+  },
+  "140599": {
+    "id": "140599",
+    "name": "Cincin Raja \"Pertikaian\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140599.png",
+    "desc": "Pemberian Mydei sang Juara Pertikaian, melambangkan kemuliaan dan kewajibannya sebagai seorang penguasa sekaligus pelindung.",
+    "come_from": []
+  },
+  "140600": {
+    "id": "140600",
+    "name": "Koin \"Tipu Muslihat\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140600.png",
+    "desc": "Pemberian Cipher sang \"Penjelajah Tipu Muslihat\", melambangkan harapan dan keinginannya yang tulus sekaligus jenaka.",
+    "come_from": []
+  },
+  "140601": {
+    "id": "140601",
+    "name": "Bunga Dingin \"Kematian\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140601.png",
+    "desc": "Pemberian Castorice sang \"Pelayan Kehidupan Selanjutnya\", melambangkan keteguhan dan kedamaiannya dalam menjaga kehidupan selanjutnya.",
+    "come_from": []
+  },
+  "140602": {
+    "id": "140602",
+    "name": "Boneka \"Perjalanan\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140602.png",
+    "desc": "Pemberian Tribios sang \"Putri Suci Perjalanan\", melambangkan keyakinan dan empatinya yang tak pernah berubah meski telah menempuh perjalanan panjang dengan ribuan wujud.",
+    "come_from": []
+  },
+  "140603": {
+    "id": "140603",
+    "name": "Gelang Mutiara \"Romansa\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140603.png",
+    "desc": "Pemberian Aglaea sang \"Penenun Romansa\", melambangkan ketidakegoisan dan pengendalian diri yang tak pernah berubah di balik keindahannya yang dingin.",
+    "come_from": []
+  },
+  "140604": {
+    "id": "140604",
+    "name": "Peti Spiritual \"Langit\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140604.png",
+    "desc": "Pemberian Hyacine sang \"Penyembuh Langit\", melambangkan kelembutan dan dedikasinya yang setara dalam mencintai semua orang.",
+    "come_from": []
+  },
+  "140605": {
+    "id": "140605",
+    "name": "Giok \"Rasionalitas\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140605.png",
+    "desc": "Pemberian Anaxa sang \"Pelajar Rasionalitas\", melambangkan pencerahan dan pemikiran kritis yang dia wariskan untuk generasi mendatang.",
+    "come_from": []
+  },
+  "140606": {
+    "id": "140606",
+    "name": "Harapan \"Penopang Dunia\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140606.png",
+    "desc": "Untuk menyelamatkan dunia, kita harus menanggung beban keinginan yang berat. Hanya dengan melepaskannya, kita baru bisa terbebas dari obsesi.",
+    "come_from": []
+  },
+  "140607": {
+    "id": "140607",
+    "name": "Keputusasaan \"Penopang Dunia\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140607.png",
+    "desc": "Untuk menyelamatkan dunia, pasti diiringi keputusasaan yang membakar. Hanya dengan menghancurkannya, kita baru bisa terbebas dari obsesi.",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "Foto dengan March 7th",
@@ -11060,7 +11341,7 @@
     "sub_type": "Mission",
     "rarity": 3,
     "icon": "icon/item/150088.png",
-    "desc": "Harta karun di akhir petualangan, lambang dari prolog legendaris, terlahir dari struktur baru setelah \"Era Penciptaan Ulang\".\nIa muncul dalam bentuk apel emas, terinspirasi dari epos heroik Amphoreus,.\n\n<i>\"Memberikan waktu untuk peradaban, memberikan masa untuk kehidupan.\"</i>",
+    "desc": "<b>Diperoleh setelah menyelesaikan teka-teki ramalan nimfa dari setiap Garmentmaker, bisa ditukar dengan suvenir unik di Lembaran Abadi.</b>\nHarta karun di akhir petualangan, lambang dari prolog legendaris, terlahir dari struktur baru setelah \"Era Penciptaan Ulang\".\nIa muncul dalam bentuk apel emas, terinspirasi dari epos heroik Amphoreus.\n\n<i>\"Memberikan waktu untuk peradaban, memberikan masa untuk kehidupan.\"</i>",
     "come_from": []
   },
   "150087": {
@@ -20412,6 +20693,106 @@
     "desc": "Log Perintisan Amphoreus: Sebelum Era Penciptaan Ulang",
     "come_from": []
   },
+  "191935": {
+    "id": "191935",
+    "name": "Satu Halaman Pesan: Tribbie",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Tribbie",
+    "come_from": []
+  },
+  "191936": {
+    "id": "191936",
+    "name": "Satu Halaman Pesan: Cerydra",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Cerydra",
+    "come_from": []
+  },
+  "191937": {
+    "id": "191937",
+    "name": "Satu Halaman Pesan: Hysilens",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Hysilens",
+    "come_from": []
+  },
+  "191938": {
+    "id": "191938",
+    "name": "Satu Halaman Pesan: Hyacine",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Hyacine",
+    "come_from": []
+  },
+  "191939": {
+    "id": "191939",
+    "name": "Satu Halaman Pesan: Phainon",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Phainon",
+    "come_from": []
+  },
+  "191940": {
+    "id": "191940",
+    "name": "Satu Halaman Pesan: Anaxa",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Anaxa",
+    "come_from": []
+  },
+  "191941": {
+    "id": "191941",
+    "name": "Satu Halaman Pesan: Aglaea",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Aglaea",
+    "come_from": []
+  },
+  "191942": {
+    "id": "191942",
+    "name": "Satu Halaman Pesan: Mydei",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Mydei",
+    "come_from": []
+  },
+  "191943": {
+    "id": "191943",
+    "name": "Satu Halaman Pesan: Castorice",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Castorice",
+    "come_from": []
+  },
+  "191944": {
+    "id": "191944",
+    "name": "Satu Halaman Pesan: Cipher",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Satu Halaman Pesan: Cipher",
+    "come_from": []
+  },
   "191945": {
     "id": "191945",
     "name": "Pesan dari Pengunjung Misterius",
@@ -20420,6 +20801,156 @@
     "rarity": 1,
     "icon": "icon/item/190018.png",
     "desc": "Pesan dari Pengunjung Misterius",
+    "come_from": []
+  },
+  "191946": {
+    "id": "191946",
+    "name": "Petuah Zephyro",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Petuah Zephyro",
+    "come_from": []
+  },
+  "191947": {
+    "id": "191947",
+    "name": "Petuah Phantylia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Petuah Phantylia",
+    "come_from": []
+  },
+  "191948": {
+    "id": "191948",
+    "name": "Petuah Asat Pramad",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Petuah Asat Pramad",
+    "come_from": []
+  },
+  "191949": {
+    "id": "191949",
+    "name": "Petuah Celenova",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Petuah Celenova",
+    "come_from": []
+  },
+  "191950": {
+    "id": "191950",
+    "name": "Undangan Masa Lalu",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Undangan Masa Lalu",
+    "come_from": []
+  },
+  "191951": {
+    "id": "191951",
+    "name": "Daftar Nama yang Panjang",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190017.png",
+    "desc": "Daftar Nama yang Panjang",
+    "come_from": []
+  },
+  "191952": {
+    "id": "191952",
+    "name": "Wawancara Tayang Perdana \"Bangkitnya Ksatria Api Hitam\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190013.png",
+    "desc": "Wawancara Tayang Perdana \"Bangkitnya Ksatria Api Hitam\"",
+    "come_from": []
+  },
+  "191953": {
+    "id": "191953",
+    "name": "Surat dari Pembelot",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "Surat dari Pembelot",
+    "come_from": []
+  },
+  "191954": {
+    "id": "191954",
+    "name": "Pujian Tentang Stellaron",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Pujian Tentang Stellaron",
+    "come_from": []
+  },
+  "191955": {
+    "id": "191955",
+    "name": "Brosur Serial Buku \"Dunia dalam Bencana Swarm: Memulihkan Ketertiban\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190015.png",
+    "desc": "Brosur Serial Buku \"Dunia dalam Bencana Swarm: Memulihkan Ketertiban\"",
+    "come_from": []
+  },
+  "191956": {
+    "id": "191956",
+    "name": "Surat Balasan dari \"Pemilik Mimpi\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "Surat Balasan dari \"Pemilik Mimpi\"",
+    "come_from": []
+  },
+  "191957": {
+    "id": "191957",
+    "name": "Buku Doa yang Tak Terkirim",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Buku Doa yang Tak Terkirim",
+    "come_from": []
+  },
+  "191958": {
+    "id": "191958",
+    "name": "Catatan Eksperimen δ-me13 (Bagian 3)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Catatan Eksperimen δ-me13 (Bagian 3)",
+    "come_from": []
+  },
+  "191959": {
+    "id": "191959",
+    "name": "Upacara Penutupan Mimpi",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Upacara Penutupan Mimpi",
+    "come_from": []
+  },
+  "191960": {
+    "id": "191960",
+    "name": "Upacara Penutupan Mimpi",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Upacara Penutupan Mimpi",
     "come_from": []
   },
   "210001": {
@@ -22024,22 +22555,22 @@
   },
   "210410": {
     "id": "210410",
-    "name": "\"NAME==Mythos\"",
+    "name": "\"NAME == Mythos\"",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"NAME==Mythos\".",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"NAME == Mythos\".",
     "come_from": []
   },
   "210411": {
     "id": "210411",
-    "name": "\"NAME==Logos\"",
+    "name": "\"NAME == Logos\"",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"NAME==Logos\".",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"NAME == Logos\".",
     "come_from": []
   },
   "210412": {
@@ -22070,6 +22601,136 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Unholy Blood\".",
+    "come_from": []
+  },
+  "210415": {
+    "id": "210415",
+    "name": "\"Out of Control\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Out of Control\".",
+    "come_from": []
+  },
+  "210416": {
+    "id": "210416",
+    "name": "\"The End of Gods\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"The End of Gods\".",
+    "come_from": []
+  },
+  "210417": {
+    "id": "210417",
+    "name": "\"Mirage\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Mirage\".",
+    "come_from": []
+  },
+  "210418": {
+    "id": "210418",
+    "name": "\"Tomb of Blades\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Tomb of Blades\".",
+    "come_from": []
+  },
+  "210419": {
+    "id": "210419",
+    "name": "\"An Eternal Page\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"An Eternal Page\".",
+    "come_from": []
+  },
+  "210420": {
+    "id": "210420",
+    "name": "\"Immolation of the Heavens\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Immolation of the Heavens\".",
+    "come_from": []
+  },
+  "210421": {
+    "id": "210421",
+    "name": "\"Agony Converging into River\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Agony Converging into River\".",
+    "come_from": []
+  },
+  "210422": {
+    "id": "210422",
+    "name": "\"Shatter the God's Crown\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Shatter the God's Crown\".",
+    "come_from": []
+  },
+  "210423": {
+    "id": "210423",
+    "name": "\"Virus\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Virus\".",
+    "come_from": []
+  },
+  "210424": {
+    "id": "210424",
+    "name": "\"Corridor of Memorial Dreams\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Corridor of Memorial Dreams\".",
+    "come_from": []
+  },
+  "210425": {
+    "id": "210425",
+    "name": "\"Theophany\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Theophany\".",
+    "come_from": []
+  },
+  "210426": {
+    "id": "210426",
+    "name": "\"Dream of Gnawing\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Dream of Gnawing\".",
+    "come_from": []
+  },
+  "210427": {
+    "id": "210427",
+    "name": "\"Nightmarish Omen\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Nightmarish Omen\".",
     "come_from": []
   },
   "220000": {
@@ -22179,6 +22840,18 @@
     "desc": "Bingkai pesan dan percakapan. Dapat diganti di fitur pesan dan percakapan setelah diperoleh.",
     "come_from": [
       "Bingkai Pesan yang diperoleh dari event \"Kantor Auu-Auu\""
+    ]
+  },
+  "220009": {
+    "id": "220009",
+    "name": "Kita Juaranya",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220009.png",
+    "desc": "Bingkai pesan dan percakapan. Dapat diganti di fitur pesan dan percakapan setelah diperoleh.",
+    "come_from": [
+      "Bingkai Pesan yang diperoleh dari event \"Kejuaraan Chrysos Auu\""
     ]
   },
   "221000": {
@@ -25000,6 +25673,42 @@
     "icon": "icon/item/226004.png",
     "desc": "Bingkai dekorasi yang khusus dimiliki oleh pemenang pertandingan catur ini disebut \"Raja\", melambangkan otoritas mutlak dan tak tertandingi.",
     "come_from": []
+  },
+  "227001": {
+    "id": "227001",
+    "name": "Mahkota sang Penyelamat",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227001.png",
+    "desc": "Mahkota daun salam yang dipersembahkan Amphoreus kepada {NICKNAME}.",
+    "come_from": [
+      "Diperoleh dari \"Seperti yang Kutulis\""
+    ]
+  },
+  "227002": {
+    "id": "227002",
+    "name": "Sopir Sampah",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227002.png",
+    "desc": "Bando yang dibuat berdasarkan salah satu ciptaan Ruan Mei.",
+    "come_from": [
+      "Gaya Perintis yang diperoleh setelah event \"Camilan, Maju!\""
+    ]
+  },
+  "227003": {
+    "id": "227003",
+    "name": "Halo, Dunia Mem!",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227003.png",
+    "desc": "Topi berbulu dengan gaya Mem.",
+    "come_from": [
+      "Gaya Perintis yang diperoleh dari event \"Kenangan Berharga\" sebelumnya"
+    ]
   },
   "250001": {
     "id": "250001",
@@ -29743,6 +30452,486 @@
     "desc": "Aksesori kepala {TEXTJOIN#247}.",
     "come_from": []
   },
+  "265001": {
+    "id": "265001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265002": {
+    "id": "265002",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265003": {
+    "id": "265003",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265004": {
+    "id": "265004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265005": {
+    "id": "265005",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265006": {
+    "id": "265006",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265007": {
+    "id": "265007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265008": {
+    "id": "265008",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265009": {
+    "id": "265009",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265010": {
+    "id": "265010",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265011": {
+    "id": "265011",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265012": {
+    "id": "265012",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265013": {
+    "id": "265013",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265014": {
+    "id": "265014",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265015": {
+    "id": "265015",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265016": {
+    "id": "265016",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265017": {
+    "id": "265017",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265018": {
+    "id": "265018",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265019": {
+    "id": "265019",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265020": {
+    "id": "265020",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265021": {
+    "id": "265021",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265022": {
+    "id": "265022",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265023": {
+    "id": "265023",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265024": {
+    "id": "265024",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265025": {
+    "id": "265025",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265026": {
+    "id": "265026",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265027": {
+    "id": "265027",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265028": {
+    "id": "265028",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265029": {
+    "id": "265029",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265030": {
+    "id": "265030",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265031": {
+    "id": "265031",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265032": {
+    "id": "265032",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265033": {
+    "id": "265033",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265034": {
+    "id": "265034",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265035": {
+    "id": "265035",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265036": {
+    "id": "265036",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265037": {
+    "id": "265037",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265038": {
+    "id": "265038",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265039": {
+    "id": "265039",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265040": {
+    "id": "265040",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265041": {
+    "id": "265041",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265042": {
+    "id": "265042",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265043": {
+    "id": "265043",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265044": {
+    "id": "265044",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265045": {
+    "id": "265045",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265046": {
+    "id": "265046",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265047": {
+    "id": "265047",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265048": {
+    "id": "265048",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
   "270000": {
     "id": "270000",
     "name": "Always Smiling",
@@ -30033,6 +31222,86 @@
     "desc": "",
     "come_from": []
   },
+  "281031": {
+    "id": "281031",
+    "name": "Koin Emas",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281031.png",
+    "desc": "Sumber daya ekonomi utama dalam gameplay \"Perang Mata Uang\". Dapat digunakan untuk membeli anggota tim, meningkatkan EXP, dan refresh toko.",
+    "come_from": []
+  },
+  "281032": {
+    "id": "281032",
+    "name": "Ekuivalen Berlian",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281032.png",
+    "desc": "Diperoleh melalui gameplay \"Perang Mata Uang\". Dapat digunakan untuk mengaktifkan \"Susunan Keunggulan\".",
+    "come_from": []
+  },
+  "281033": {
+    "id": "281033",
+    "name": "Poin Ascension",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281033.png",
+    "desc": "Diperoleh melalui gameplay \"Perang Mata Uang\". Dapat digunakan untuk meningkatkan \"Level Ascension\".",
+    "come_from": []
+  },
+  "281034": {
+    "id": "281034",
+    "name": "EXP",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/21.png",
+    "desc": "Material EXP yang digunakan untuk meningkatkan skala tim dalam \"Perang Mata Uang\". Secara otomatis mendapatkan 2 poin setelah melewati setiap Node, juga dapat dibeli menggunakan Koin Emas.",
+    "come_from": []
+  },
+  "281035": {
+    "id": "281035",
+    "name": "Refresh Gratis",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/140150.png",
+    "desc": "Sumber daya yang digunakan untuk refresh toko di \"Perang Mata Uang\". Saat sumber daya ini tersedia, refresh toko tidak akan mengonsumsi Koin Emas.",
+    "come_from": []
+  },
+  "281037": {
+    "id": "281037",
+    "name": "Tiket Undangan Emas",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281037.png",
+    "desc": "Tiket undangan khusus \"Kejuaraan Dunia Chimera\", dapat digunakan untuk membuka pelatih Chimera yang ingin kamu ajak untuk bertempur bersama di antarmuka pemilihan. Dapat diperoleh dengan berpartisipasi dalam kejuaraan.",
+    "come_from": []
+  },
+  "281038": {
+    "id": "281038",
+    "name": "Camilan Boing-Boing",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/270006.png",
+    "desc": "Camilan spesial yang disukai oleh semua ciptaan. Dapat digunakan untuk mendukung para ciptaan dalam kompetisi \"Camilan, Maju!\" dan ditukarkan untuk hadiah.",
+    "come_from": []
+  },
+  "281039": {
+    "id": "281039",
+    "name": "",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/CakeRaceIconScore.png",
+    "desc": "",
+    "come_from": []
+  },
   "300002": {
     "id": "300002",
     "name": "Gift of the Pathstriders",
@@ -30181,6 +31450,16 @@
     "rarity": 3,
     "icon": "icon/item/300041.png",
     "desc": "Ada banyak hal aneh di alam semesta, dan kotak ini berisi produk khas dari berbagai planet. Ayo buka dan lihat. Mungkin ada sesuatu yang kamu butuhkan di dalamnya.",
+    "come_from": []
+  },
+  "300057": {
+    "id": "300057",
+    "name": "Tiket Perburuan Harta",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 4,
+    "icon": "icon/item/300057.png",
+    "desc": "",
     "come_from": []
   },
   "300101": {
@@ -33168,6 +34447,26 @@
       "Karavan Dromas (Pedagang Keliling)"
     ]
   },
+  "408441": {
+    "id": "408441",
+    "name": "Zagreus' Premium Honey Curd",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401035.png",
+    "desc": "Setelah digunakan, segera memulihkan Energy 1 rekan tim yang ditargetkan sebesar 25% Max Energy dirinya.",
+    "come_from": []
+  },
+  "408442": {
+    "id": "408442",
+    "name": "Zagreus' Premium Bread Crisps",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401036.png",
+    "desc": "Setelah digunakan, segera memulihkan HP 1 rekan tim yang ditargetkan sebesar 20% Max HP dirinya beserta 240 HP tambahan.",
+    "come_from": []
+  },
   "408601": {
     "id": "408601",
     "name": "Belobog Sausage",
@@ -33633,6 +34932,26 @@
     "come_from": [
       "Toko Pandai Besi Chartonus"
     ]
+  },
+  "408640": {
+    "id": "408640",
+    "name": "Zagreus' Premium Viscorpus",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/403007.png",
+    "desc": "Setelah digunakan, meningkatkan 20% Ice DMG yang diakibatkan seluruh rekan tim di pertempuran selanjutnya.",
+    "come_from": []
+  },
+  "408641": {
+    "id": "408641",
+    "name": "Zagreus' Premium Red Beans",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/180007.png",
+    "desc": "Meningkatkan 30% DEF seluruh rekan tim di pertempuran selanjutnya setelah digunakan.",
+    "come_from": []
   },
   "408801": {
     "id": "408801",

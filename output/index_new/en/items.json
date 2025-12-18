@@ -140,6 +140,18 @@
     "desc": "This item can be exchanged by spending 40 Trailblaze Power, and is used to exchange for Immersion Rewards in the Simulated Universe",
     "come_from": []
   },
+  "34": {
+    "id": "34",
+    "name": "Deep Immersifier",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 4,
+    "icon": "icon/item/34.png",
+    "desc": "Quickly extract Planar Ornament in the Interastral Peace Guide",
+    "come_from": [
+      "Currency Wars Point Rewards"
+    ]
+  },
   "41": {
     "id": "41",
     "name": "Achievement Points",
@@ -218,7 +230,9 @@
     "rarity": 4,
     "icon": "icon/item/110.png",
     "desc": "Use with Trailblaze Power to quickly obtain materials from Calyxes / Stagnant Shadows",
-    "come_from": []
+    "come_from": [
+      "Currency Wars Point Rewards"
+    ]
   },
   "170": {
     "id": "170",
@@ -468,6 +482,7 @@
     "icon": "icon/item/241.png",
     "desc": "Advanced level-up material for Traces.",
     "come_from": [
+      "Currency Wars Point Rewards",
       "Simulated Universe Point Rewards",
       "Nameless Honor",
       "Embers Exchange",
@@ -560,6 +575,8 @@
     "icon": "icon/item/281.png",
     "desc": "Used to exchange for a 5-star character at the Stellar Convergence shop.",
     "come_from": [
+      "Stellar Companions",
+      "Stellar Companions (already claimed for this period)",
       "Redeemable after obtaining a duplicate of a 5-star character with maxed Eidolons twice",
       "Redeemable after obtaining a duplicate of a 5-star character with maxed Eidolons twice"
     ]
@@ -597,6 +614,7 @@
     "icon": "icon/item/503.png",
     "desc": "A reward from the Simulated Universe. Can be used to buy items from Herta's Store.",
     "come_from": [
+      "Currency Wars Point Rewards",
       "Simulated Universe Point Rewards"
     ]
   },
@@ -638,6 +656,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "A blessing bestowed upon those who embark on the Flame-Chase Journey.\n\nMay you dance with the gods, reigniting the fallen giant with the fire of heroes.\nMay you overthrow fate, illuminating the world and all living beings with the light of dawn.\nYour journey here will forever be etched into the ancient ballads of legend.",
+    "come_from": []
+  },
+  "821": {
+    "id": "821",
+    "name": "As Tomorrow Became Yesterday",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/821.png",
+    "desc": "Letter in Memory",
     "come_from": []
   },
   "71000": {
@@ -3004,6 +3032,92 @@
       "Omni-Synthesizer — Relic Synthesis"
     ]
   },
+  "83231": {
+    "id": "83231",
+    "name": "Amphoreus, The Eternal Land",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83232": {
+    "id": "83232",
+    "name": "Amphoreus, The Eternal Land",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83233": {
+    "id": "83233",
+    "name": "Amphoreus, The Eternal Land",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83234": {
+    "id": "83234",
+    "name": "Amphoreus, The Eternal Land",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": [
+      "Divergent Universe: Planar Ornament Extraction",
+      "Omni-Synthesizer — Relic Synthesis"
+    ]
+  },
+  "83241": {
+    "id": "83241",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83242": {
+    "id": "83242",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83243": {
+    "id": "83243",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83244": {
+    "id": "83244",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": [
+      "Divergent Universe: Planar Ornament Extraction",
+      "Omni-Synthesizer — Relic Synthesis"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "Planar Ornaments",
@@ -4010,6 +4124,19 @@
       "Omni-Synthesizer — Material Exchange"
     ]
   },
+  "110432": {
+    "id": "110432",
+    "name": "Radiant Prominence",
+    "type": "Material",
+    "sub_type": "AvatarRank",
+    "rarity": 4,
+    "icon": "icon/item/110432.png",
+    "desc": "An alien crown left behind by the Noontide Gryphon. Can be used for Ascension of Fire characters.",
+    "come_from": [
+      "Stagnant Shadow: {TextID#FloorName_20422001}",
+      "Omni-Synthesizer — Material Exchange"
+    ]
+  },
   "110433": {
     "id": "110433",
     "name": "Sea Siren's Torn Fin",
@@ -4144,6 +4271,18 @@
     "desc": "Advanced upgrade material for Traces.",
     "come_from": [
       "Echo of War: \"Fortress of Dome\" Eye of Twilight"
+    ]
+  },
+  "110508": {
+    "id": "110508",
+    "name": "Vanquished Flow's Reticence",
+    "type": "Material",
+    "sub_type": "WeeklyMonsterDrop",
+    "rarity": 4,
+    "icon": "icon/item/110508.png",
+    "desc": "Advanced level-up material for Traces.",
+    "come_from": [
+      "Echo of War: {TextID#FloorName_20481001}"
     ]
   },
   "111000": {
@@ -4806,6 +4945,16 @@
     "desc": "A legendary cooking utensil used by fairies. It can be used to superimpose the Light Cone \"The Forever Victual.\"",
     "come_from": []
   },
+  "121006": {
+    "id": "121006",
+    "name": "Flawed Recollection",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121006.png",
+    "desc": "A flawed, fragile crystalline flower of Remembrance. It can be used to superimpose the Light Cone \"Fly Into a Pink Tomorrow.\"",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "Aideen Tokens",
@@ -4818,6 +4967,28 @@
       "Aideen Token Shop",
       "Exploring Penacony"
     ]
+  },
+  "123000": {
+    "id": "123000",
+    "name": "Access Card",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "Can be used to open the Relic Chest in the mysterious collection at Herta Space Station.",
+    "come_from": [
+      "Obtained from Relic Recon event"
+    ]
+  },
+  "123001": {
+    "id": "123001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123001.png",
+    "desc": "",
+    "come_from": []
   },
   "140000": {
     "id": "140000",
@@ -9933,6 +10104,116 @@
     "desc": "A Curio. A Space Anchor in a world of Erudition. It can protect individual data structures from the influences of digital tsunamis.\nWhen necessary, it can also serve as a bridge for communications between the internal and external world.",
     "come_from": []
   },
+  "140597": {
+    "id": "140597",
+    "name": "Dream's Curtain Call",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140597.png",
+    "desc": "<i>A photo taken at an unknown time, but the reality of its touch is undeniable. In the past, this scene truly came to pass, leaving behind a proof of its transpiration. Though few are aware, a young girl will smile when she recalls a beautiful dream she once had.</i>\n\nThe dreamer is also the dream-maker. The dream-maker is also the dreamer.\nOnly by offering up one's past can the most beautiful dreams be woven.\nPeople will not lose themselves within them, unwilling to awaken. In their beautiful dreams, they will regain the courage to face the future.\nAnd then, walk toward tomorrow.",
+    "come_from": []
+  },
+  "140598": {
+    "id": "140598",
+    "name": "Dream's Curtain Call",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140598.png",
+    "desc": "<i>You decide how memories are ultimately presented. When that beautiful dream ended, you immortalized Firefly in the way she longed for.</i>\n\nThe dreamer is also the dream-maker. The dream-maker is also the dreamer.\nOnly by offering up one's past can the most beautiful dreams be woven.\nPeople will not lose themselves within them, unwilling to awaken. In their beautiful dreams, they will regain the courage to face the future.\nAnd then, walk toward tomorrow.",
+    "come_from": []
+  },
+  "140599": {
+    "id": "140599",
+    "name": "Imperial Ring of Strife",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140599.png",
+    "desc": "From the \"Champion of Strife\": Mydei's bestowal, symbolizing both his glory and restraint as a ruler and protector.",
+    "come_from": []
+  },
+  "140600": {
+    "id": "140600",
+    "name": "Trickery Coin",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140600.png",
+    "desc": "From the \"Trickery's Traveler\": Cipher's bestowal, symbolizing her playful yet sincere blessings and desires.",
+    "come_from": []
+  },
+  "140601": {
+    "id": "140601",
+    "name": "Winter Blossom of Death",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140601.png",
+    "desc": "From the \"Servant of the Afterlife\": Castorice's bestowal, symbolizing the tenacity and peace she watches over on the other side.",
+    "come_from": []
+  },
+  "140602": {
+    "id": "140602",
+    "name": "Passage Plushie",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140602.png",
+    "desc": "From the \"Holy Child of Passage\": Tribios's bestowal, symbolizing her unwavering faith and empathy throughout her journey in a thousand bodies.",
+    "come_from": []
+  },
+  "140603": {
+    "id": "140603",
+    "name": "Bracelet of Romance",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140603.png",
+    "desc": "From the \"Weaver of Romance\": Aglaea's bestowal, symbolizing her unchanging selflessness and temperance beneath her aloof perfection.",
+    "come_from": []
+  },
+  "140604": {
+    "id": "140604",
+    "name": "Skybound Spirit Kist",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140604.png",
+    "desc": "From the \"Healer of the Sky\": Hyacine's bestowal, symbolizing her gentle devotion and indiscriminate love for all of humanity.",
+    "come_from": []
+  },
+  "140605": {
+    "id": "140605",
+    "name": "Jade of Reason",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140605.png",
+    "desc": "From the \"Scholar of Reason\": Anaxa's bestowal, symbolizing the enlightenment and critique he calmly left for future generations.",
+    "come_from": []
+  },
+  "140606": {
+    "id": "140606",
+    "name": "Wish of Worldbearing",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140606.png",
+    "desc": "To save the world, one must shoulder the burden of heavy wishes. Only by leaving it behind, can you absolve the obsession.",
+    "come_from": []
+  },
+  "140607": {
+    "id": "140607",
+    "name": "Despair of Worldbearing",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140607.png",
+    "desc": "To save the world, one must be accompanied by searing despair. Only by shattering it, can you absolve the obsession.",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "Photo With March 7th",
@@ -11060,7 +11341,7 @@
     "sub_type": "Mission",
     "rarity": 3,
     "icon": "icon/item/150088.png",
-    "desc": "It is the treasure at the end of the adventure, and the benchmark of a legend's prologue, born from the brand-new structure born after the Era Nova.\nInfluenced by Amphorean sagas of heroes, it presents itself in the current space-time as a golden apple.\n\n<i>\"To give civilizations to time, to give years their life.\"</i>",
+    "desc": "<b>Obtained by solving the nymph prophecy puzzle for each Garmentmaker. Redeemable at An Eternal Page for unique keepsakes.</b>\nIt is the treasure at the end of the adventure, and the benchmark of a legend's prologue, born from the brand-new structure born after the Era Nova.\nInfluenced by Amphorean sagas of heroes, it presents itself in the current space-time as a golden apple.\n\n<i>\"To give civilizations to time, to give years their life.\"</i>",
     "come_from": []
   },
   "150087": {
@@ -20412,6 +20693,106 @@
     "desc": "Amphoreus Trailblaze Log: Before the Era Nova",
     "come_from": []
   },
+  "191935": {
+    "id": "191935",
+    "name": "A Note from Tribbie",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Tribbie",
+    "come_from": []
+  },
+  "191936": {
+    "id": "191936",
+    "name": "A Note from Cerydra",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Cerydra",
+    "come_from": []
+  },
+  "191937": {
+    "id": "191937",
+    "name": "A Note from Hysilens",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Hysilens",
+    "come_from": []
+  },
+  "191938": {
+    "id": "191938",
+    "name": "A Note from Hyacine",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Hyacine",
+    "come_from": []
+  },
+  "191939": {
+    "id": "191939",
+    "name": "A Note from Phainon",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Phainon",
+    "come_from": []
+  },
+  "191940": {
+    "id": "191940",
+    "name": "A Note from Anaxa",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Anaxa",
+    "come_from": []
+  },
+  "191941": {
+    "id": "191941",
+    "name": "A Note from Aglaea",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Aglaea",
+    "come_from": []
+  },
+  "191942": {
+    "id": "191942",
+    "name": "A Note from Mydei",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Mydei",
+    "come_from": []
+  },
+  "191943": {
+    "id": "191943",
+    "name": "A Note from Castorice",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Castorice",
+    "come_from": []
+  },
+  "191944": {
+    "id": "191944",
+    "name": "A Note from Cipher",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "A Note from Cipher",
+    "come_from": []
+  },
   "191945": {
     "id": "191945",
     "name": "Message from an Unknown Visitor",
@@ -20420,6 +20801,156 @@
     "rarity": 1,
     "icon": "icon/item/190018.png",
     "desc": "Message from an Unknown Visitor",
+    "come_from": []
+  },
+  "191946": {
+    "id": "191946",
+    "name": "Zephyro's Proverb",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Zephyro's Proverb",
+    "come_from": []
+  },
+  "191947": {
+    "id": "191947",
+    "name": "Phantylia's Proverb",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Phantylia's Proverb",
+    "come_from": []
+  },
+  "191948": {
+    "id": "191948",
+    "name": "Asat Pramad's Proverb",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Asat Pramad's Proverb",
+    "come_from": []
+  },
+  "191949": {
+    "id": "191949",
+    "name": "Celenova's Proverb",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Celenova's Proverb",
+    "come_from": []
+  },
+  "191950": {
+    "id": "191950",
+    "name": "Invitation from the Past",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Invitation from the Past",
+    "come_from": []
+  },
+  "191951": {
+    "id": "191951",
+    "name": "A Long List of Names",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190017.png",
+    "desc": "A Long List of Names",
+    "come_from": []
+  },
+  "191952": {
+    "id": "191952",
+    "name": "<i>The Darkflame Knight Rises</i> Premiere Interview",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190013.png",
+    "desc": "<i>The Darkflame Knight Rises</i> Premiere Interview",
+    "come_from": []
+  },
+  "191953": {
+    "id": "191953",
+    "name": "A Letter from an Apostate",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "A Letter from an Apostate",
+    "come_from": []
+  },
+  "191954": {
+    "id": "191954",
+    "name": "Hymn of the Stellaron",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Hymn of the Stellaron",
+    "come_from": []
+  },
+  "191955": {
+    "id": "191955",
+    "name": "Flyer for <i>The World in Swarm Disaster: Rebuilding Order</i> Book Series",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190015.png",
+    "desc": "Flyer for <i>The World in Swarm Disaster: Rebuilding Order</i> Book Series",
+    "come_from": []
+  },
+  "191956": {
+    "id": "191956",
+    "name": "Reply from the Dreammaster",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "Reply from the Dreammaster",
+    "come_from": []
+  },
+  "191957": {
+    "id": "191957",
+    "name": "Undelivered Prayer Book",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Undelivered Prayer Book",
+    "come_from": []
+  },
+  "191958": {
+    "id": "191958",
+    "name": "Experimental Records of δ-me13 (Part III)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Experimental Records of δ-me13 (Part III)",
+    "come_from": []
+  },
+  "191959": {
+    "id": "191959",
+    "name": "Dream's Curtain Call",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Dream's Curtain Call",
+    "come_from": []
+  },
+  "191960": {
+    "id": "191960",
+    "name": "Dream's Curtain Call",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Dream's Curtain Call",
     "come_from": []
   },
   "210001": {
@@ -22024,22 +22555,22 @@
   },
   "210410": {
     "id": "210410",
-    "name": "<i>NAME==Mythos</i>",
+    "name": "<i>NAME == Mythos</i>",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"NAME==Mythos.\"",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"NAME == Mythos.\"",
     "come_from": []
   },
   "210411": {
     "id": "210411",
-    "name": "<i>NAME==Logos</i>",
+    "name": "<i>NAME == Logos</i>",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"NAME==Logos.\"",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"NAME == Logos.\"",
     "come_from": []
   },
   "210412": {
@@ -22070,6 +22601,136 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Unholy Blood.\"",
+    "come_from": []
+  },
+  "210415": {
+    "id": "210415",
+    "name": "<i>Stalled Flight</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Stalled Flight.\"",
+    "come_from": []
+  },
+  "210416": {
+    "id": "210416",
+    "name": "<i>The End of Gods</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"The End of Gods.\"",
+    "come_from": []
+  },
+  "210417": {
+    "id": "210417",
+    "name": "<i>Mirage</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Mirage.\"",
+    "come_from": []
+  },
+  "210418": {
+    "id": "210418",
+    "name": "<i>Tomb of Blades</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Tomb of Blades.\"",
+    "come_from": []
+  },
+  "210419": {
+    "id": "210419",
+    "name": "<i>An Eternal Page</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"An Eternal Page.\"",
+    "come_from": []
+  },
+  "210420": {
+    "id": "210420",
+    "name": "<i>Immolation of the Heavens</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Immolation of the Heavens.\"",
+    "come_from": []
+  },
+  "210421": {
+    "id": "210421",
+    "name": "<i>Agony Converging into River</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Agony Converging into River.\"",
+    "come_from": []
+  },
+  "210422": {
+    "id": "210422",
+    "name": "<i>Shatter the God's Crown</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Shatter the God's Crown.\"",
+    "come_from": []
+  },
+  "210423": {
+    "id": "210423",
+    "name": "<i>Virus</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Virus.\"",
+    "come_from": []
+  },
+  "210424": {
+    "id": "210424",
+    "name": "<i>Corridor of Memorial Dreams</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Corridor of Memorial Dreams.\"",
+    "come_from": []
+  },
+  "210425": {
+    "id": "210425",
+    "name": "<i>Theophany</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Theophany.\"",
+    "come_from": []
+  },
+  "210426": {
+    "id": "210426",
+    "name": "<i>Dream of Gnawing</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Dream of Gnawing.\"",
+    "come_from": []
+  },
+  "210427": {
+    "id": "210427",
+    "name": "<i>Nightmarish Omen</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "A record that can be played on the Express' phonograph. It might be a chance acquisition or a gift from someone else. All sorts of memories surge up when the music plays — the smiles, encounters, touches, and the excitement of battle. Maybe that is why people still collect records even as society rapidly advances.\nThe current record contains the track \"Nightmarish Omen.\"",
     "come_from": []
   },
   "220000": {
@@ -22179,6 +22840,18 @@
     "desc": "Chat Box for Message and Chat. Once obtained, they can be used in the Message or Chat functions",
     "come_from": [
       "Chat Box obtained from \"The Awooo Firm\" event"
+    ]
+  },
+  "220009": {
+    "id": "220009",
+    "name": "We're the Champions",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220009.png",
+    "desc": "Chat Box for Message and Chat. Once obtained, they can be used in the Message or Chat functions",
+    "come_from": [
+      "Chat Box obtained from the \"Awoo Chrysos Championship\" event"
     ]
   },
   "221000": {
@@ -25001,6 +25674,42 @@
     "desc": "A decorative frame exclusively granted to the winner of the match. This is the \"Emperor,\" symbolizing a supreme and unrivaled authority.",
     "come_from": []
   },
+  "227001": {
+    "id": "227001",
+    "name": "Deliverer's Wreath",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227001.png",
+    "desc": "A wreath that Amphoreus offered to {NICKNAME}.",
+    "come_from": [
+      "As I've Written"
+    ]
+  },
+  "227002": {
+    "id": "227002",
+    "name": "Garbdriver",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227002.png",
+    "desc": "A hairpin modeled after one of Ruan Mei's creations.",
+    "come_from": [
+      "Trailblaze Fashion obtained after the \"Snack Dash\" event"
+    ]
+  },
+  "227003": {
+    "id": "227003",
+    "name": "Hello Mem World!",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227003.png",
+    "desc": "A plush, Mem-styled hood.",
+    "come_from": [
+      "Trailblaze Fashion obtained from past Cherished Recollection event"
+    ]
+  },
   "250001": {
     "id": "250001",
     "name": "Meteor Fragment",
@@ -27288,7 +27997,7 @@
     "sub_type": "FightFestSkill",
     "rarity": 4,
     "icon": "icon/item/250710.png",
-    "desc": "After triggering Follow-up ATK, increases DMG received by target.",
+    "desc": "After triggering Follow-Up ATK, increases DMG received by target.",
     "come_from": []
   },
   "250711": {
@@ -29743,6 +30452,486 @@
     "desc": "{TEXTJOIN#247}'s headpiece",
     "come_from": []
   },
+  "265001": {
+    "id": "265001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265002": {
+    "id": "265002",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265003": {
+    "id": "265003",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265004": {
+    "id": "265004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265005": {
+    "id": "265005",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265006": {
+    "id": "265006",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265007": {
+    "id": "265007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265008": {
+    "id": "265008",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265009": {
+    "id": "265009",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265010": {
+    "id": "265010",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265011": {
+    "id": "265011",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265012": {
+    "id": "265012",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265013": {
+    "id": "265013",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265014": {
+    "id": "265014",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265015": {
+    "id": "265015",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265016": {
+    "id": "265016",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265017": {
+    "id": "265017",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265018": {
+    "id": "265018",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265019": {
+    "id": "265019",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265020": {
+    "id": "265020",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265021": {
+    "id": "265021",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265022": {
+    "id": "265022",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265023": {
+    "id": "265023",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265024": {
+    "id": "265024",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265025": {
+    "id": "265025",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265026": {
+    "id": "265026",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265027": {
+    "id": "265027",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265028": {
+    "id": "265028",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265029": {
+    "id": "265029",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265030": {
+    "id": "265030",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265031": {
+    "id": "265031",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265032": {
+    "id": "265032",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265033": {
+    "id": "265033",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265034": {
+    "id": "265034",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265035": {
+    "id": "265035",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265036": {
+    "id": "265036",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265037": {
+    "id": "265037",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265038": {
+    "id": "265038",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265039": {
+    "id": "265039",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265040": {
+    "id": "265040",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265041": {
+    "id": "265041",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265042": {
+    "id": "265042",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265043": {
+    "id": "265043",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265044": {
+    "id": "265044",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265045": {
+    "id": "265045",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265046": {
+    "id": "265046",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265047": {
+    "id": "265047",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265048": {
+    "id": "265048",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
   "270000": {
     "id": "270000",
     "name": "Always Smiling",
@@ -30033,6 +31222,86 @@
     "desc": "",
     "come_from": []
   },
+  "281031": {
+    "id": "281031",
+    "name": "Gold Coin",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281031.png",
+    "desc": "The core economic resource in Currency Wars gameplay, used for purchasing squad members, increasing Experience, and refreshing the Store.",
+    "come_from": []
+  },
+  "281032": {
+    "id": "281032",
+    "name": "Equivalent Banknote",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281032.png",
+    "desc": "Obtained through Currency Wars gameplay, can be used to activate \"Advantage Layout.\"",
+    "come_from": []
+  },
+  "281033": {
+    "id": "281033",
+    "name": "Ascension Points",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281033.png",
+    "desc": "Obtained through Currency Wars gameplay, can be used to increase your \"Ascension Level.\"",
+    "come_from": []
+  },
+  "281034": {
+    "id": "281034",
+    "name": "Experience",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/21.png",
+    "desc": "Experience material used to increase the team's size in Currency Wars. Automatically gains 2 points after clearing each Node. Can also be purchased with Gold Coins",
+    "come_from": []
+  },
+  "281035": {
+    "id": "281035",
+    "name": "Free Refresh",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/140150.png",
+    "desc": "A resource used to refresh the Store in Currency Wars. When this resource is available, refreshing the Store will not consume Gold Coins.",
+    "come_from": []
+  },
+  "281037": {
+    "id": "281037",
+    "name": "Chrysos Invitation Ticket",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281037.png",
+    "desc": "A special invitation ticket for the \"Chimera World Tournament\" that unlocks chimera trainers you want to fight alongside with in the selection interface. It can be earned by participating in the tournament.",
+    "come_from": []
+  },
+  "281038": {
+    "id": "281038",
+    "name": "Bounce-Bounce Snack",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/270006.png",
+    "desc": "A special snack beloved by all creations. Can be used to cheer for creations in the \"Snack Dash\" event and exchange for rewards.",
+    "come_from": []
+  },
+  "281039": {
+    "id": "281039",
+    "name": "",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/CakeRaceIconScore.png",
+    "desc": "",
+    "come_from": []
+  },
   "300002": {
     "id": "300002",
     "name": "Gift of the Pathstriders",
@@ -30181,6 +31450,16 @@
     "rarity": 3,
     "icon": "icon/item/300041.png",
     "desc": "The Cosmos is full of peculiarities. This box contains specialties from various planets. Open it. You might find something you need inside.",
+    "come_from": []
+  },
+  "300057": {
+    "id": "300057",
+    "name": "Treasure Hunt Ticket",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 4,
+    "icon": "icon/item/300057.png",
+    "desc": "",
     "come_from": []
   },
   "300101": {
@@ -31425,7 +32704,7 @@
     "sub_type": "Food",
     "rarity": 3,
     "icon": "icon/item/402034.png",
-    "desc": "When used, increases the Effect Resistance of all allies by 30% in the next battle.",
+    "desc": "Upon use, increases Effect RES of all allies by 30% for the next battle.",
     "come_from": [
       "Omni-Synthesizer"
     ]
@@ -33139,7 +34418,7 @@
     "sub_type": "Food",
     "rarity": 2,
     "icon": "icon/item/408438.png",
-    "desc": "Upon use, increases all allies' DMG dealt by 10% and DMG dealt by Memosprite Skill by an additional 10%.",
+    "desc": "Upon use, increases all allies' DMG dealt by 10% and Memosprite Skill DMG dealt by an additional 10%.",
     "come_from": [
       "Treasure of Ages"
     ]
@@ -33167,6 +34446,26 @@
     "come_from": [
       "Dromas Caravan (Wandering Merchant)"
     ]
+  },
+  "408441": {
+    "id": "408441",
+    "name": "Zagreus' Premium Honey Curd",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401035.png",
+    "desc": "Upon use, immediately regenerates 25% of Max Energy for one designated ally.",
+    "come_from": []
+  },
+  "408442": {
+    "id": "408442",
+    "name": "Zagreus' Premium Bread Crisps",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401036.png",
+    "desc": "Upon use, immediately heals one designated ally by 20% of their Max HP plus 240 extra HP.",
+    "come_from": []
   },
   "408601": {
     "id": "408601",
@@ -33633,6 +34932,26 @@
     "come_from": [
       "Chartonus Smithy"
     ]
+  },
+  "408640": {
+    "id": "408640",
+    "name": "Zagreus' Premium Viscorpus",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/403007.png",
+    "desc": "Upon use, increases Ice DMG of all allies by 20% for the next battle.",
+    "come_from": []
+  },
+  "408641": {
+    "id": "408641",
+    "name": "Zagreus' Premium Red Beans",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/180007.png",
+    "desc": "Upon use, increases DEF of all allies by 30% for the next battle.",
+    "come_from": []
   },
   "408801": {
     "id": "408801",

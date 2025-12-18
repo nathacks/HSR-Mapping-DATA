@@ -140,6 +140,18 @@
     "desc": "Tiêu hao 40 Sức Mạnh Khai Phá để đổi, có thể đổi thưởng Kết Nối trong \"Vũ Trụ Mô Phỏng\"",
     "come_from": []
   },
+  "34": {
+    "id": "34",
+    "name": "Thiết Bị Kết Nối Sâu",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 4,
+    "icon": "icon/item/34.png",
+    "desc": "Có thể trích xuất nhanh Phụ Kiện Vị Diện trong Hướng Dẫn Hành Tinh Hòa Bình",
+    "come_from": [
+      "Phần Thưởng Điểm Chiến Tranh Tiền Tệ"
+    ]
+  },
   "41": {
     "id": "41",
     "name": "Điểm Thành Tựu",
@@ -218,7 +230,9 @@
     "rarity": 4,
     "icon": "icon/item/110.png",
     "desc": "Kết hợp sử dụng với Sức Mạnh Khai Phá, có thể nhanh chóng nhận nguyên liệu do Đài Hoa Nhân Tạo/Hư Ảnh Ngưng Đọng sinh ra.",
-    "come_from": []
+    "come_from": [
+      "Phần Thưởng Điểm Chiến Tranh Tiền Tệ"
+    ]
   },
   "170": {
     "id": "170",
@@ -468,6 +482,7 @@
     "icon": "icon/item/241.png",
     "desc": "Nguyên liệu cấp cao dùng để tăng cấp Vết Tích",
     "come_from": [
+      "Phần Thưởng Điểm Chiến Tranh Tiền Tệ",
       "Thưởng Điểm Vũ Trụ Mô Phỏng",
       "Vinh Dự Vô Danh",
       "Đổi Tro Tàn",
@@ -560,6 +575,8 @@
     "icon": "icon/item/281.png",
     "desc": "Có thể đổi nhân vật 5 sao ở Cửa Hàng \"Tụ Hồn Đúc Sao\".",
     "come_from": [
+      "Ngàn Sao Đồng Hành",
+      "Ngàn Sao Đồng Hành (Kỳ này đã nhận)",
       "Có thể đổi khi nhận trùng 2 lần nhân vật 5 sao đã đầy Tinh Hồn",
       "Có thể đổi khi nhận trùng 2 lần nhân vật 5 sao đã đầy Tinh Hồn"
     ]
@@ -597,6 +614,7 @@
     "icon": "icon/item/503.png",
     "desc": "Phần thưởng \"Vũ Trụ Mô Phỏng\", có thể dùng mua vật phẩm trong Cửa Hàng Herta.",
     "come_from": [
+      "Phần Thưởng Điểm Chiến Tranh Tiền Tệ",
       "Thưởng Điểm Vũ Trụ Mô Phỏng"
     ]
   },
@@ -638,6 +656,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "Chúc phúc dành cho người Săn Đuổi Lửa.\n\nMong bạn có thể nhảy múa cùng thần linh, kế thừa ngọn lửa anh hùng thắp sáng người khổng lồ đã ngã xuống.\nMong bạn lật đổ vận mệnh, dùng ánh sáng bình minh để soi sáng trời đất và chúng sinh.\nDấu chân bạn để lại nơi đây sẽ vĩnh viễn được khắc vào những vần thơ truyền tụng ngàn đời.",
+    "come_from": []
+  },
+  "821": {
+    "id": "821",
+    "name": "Ngày Mai Trở Thành Hôm Qua",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/821.png",
+    "desc": "Thư Trong Ký Ức",
     "come_from": []
   },
   "71000": {
@@ -3004,6 +3032,92 @@
       "Máy Ghép Vạn Năng - Ghép Di Vật"
     ]
   },
+  "83231": {
+    "id": "83231",
+    "name": "Vùng Đất Vĩnh Hằng Amphoreus",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83232": {
+    "id": "83232",
+    "name": "Vùng Đất Vĩnh Hằng Amphoreus",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83233": {
+    "id": "83233",
+    "name": "Vùng Đất Vĩnh Hằng Amphoreus",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83234": {
+    "id": "83234",
+    "name": "Vùng Đất Vĩnh Hằng Amphoreus",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": [
+      "Trích xuất Phụ Kiện Vị Diện \"Vũ Trụ Sai Phân\"",
+      "Máy Ghép Vạn Năng - Ghép Di Vật"
+    ]
+  },
+  "83241": {
+    "id": "83241",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83242": {
+    "id": "83242",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83243": {
+    "id": "83243",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83244": {
+    "id": "83244",
+    "name": "Tengoku@Livestream",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": [
+      "Trích xuất Phụ Kiện Vị Diện \"Vũ Trụ Sai Phân\"",
+      "Máy Ghép Vạn Năng - Ghép Di Vật"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "Phụ Kiện Vị Diện",
@@ -4010,6 +4124,19 @@
       "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
     ]
   },
+  "110432": {
+    "id": "110432",
+    "name": "Vầng Sáng Chói Lòa",
+    "type": "Material",
+    "sub_type": "AvatarRank",
+    "rarity": 4,
+    "icon": "icon/item/110432.png",
+    "desc": "Vương miện dị dạng do Ưng Sư Mặt Trời đánh rơi, nguyên liệu tăng bậc nhân vật thuộc tính Hỏa.",
+    "come_from": [
+      "Hư Ảnh Ngưng Đọng: {TextID#FloorName_20422001}",
+      "Máy Ghép Vạn Năng - Đổi Nguyên Liệu"
+    ]
+  },
   "110433": {
     "id": "110433",
     "name": "Vây Khuyết Siren",
@@ -4144,6 +4271,18 @@
     "desc": "Vật liệu cao cấp để tăng cấp Vết Tích.",
     "come_from": [
       "Dư Âm Chiến Đấu - \"Pháo Đài Mái Vòm\" Con Mắt Ngày Và Đêm"
+    ]
+  },
+  "110508": {
+    "id": "110508",
+    "name": "Sự Im Lặng Của Dòng Chảy Bị Hủy Diệt",
+    "type": "Material",
+    "sub_type": "WeeklyMonsterDrop",
+    "rarity": 4,
+    "icon": "icon/item/110508.png",
+    "desc": "Nguyên liệu cấp cao dùng để tăng cấp Vết Tích",
+    "come_from": [
+      "Dư Âm Chiến Đấu: {TextID#FloorName_20481001}"
     ]
   },
   "111000": {
@@ -4806,6 +4945,16 @@
     "desc": "Dụng cụ bếp trong truyền thuyết mà các yêu tinh sử dụng khi nấu ăn. Có thể dùng để Tích Tầng Nón Ánh Sáng \"Món Ăn Vĩnh Hằng\".",
     "come_from": []
   },
+  "121006": {
+    "id": "121006",
+    "name": "Hồi Ức Khiếm Khuyết",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121006.png",
+    "desc": "Đóa hoa ký ức như pha lê, mong manh và dễ vỡ. Dùng để tích tầng Nón Ánh Sáng \"Bay Đến Ngày Mai Màu Hồng\".",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "Xu Aideen",
@@ -4818,6 +4967,28 @@
       "Cửa Hàng Xu Aideen",
       "Khám phá Penacony nhận được"
     ]
+  },
+  "123000": {
+    "id": "123000",
+    "name": "Thẻ Quyền Hạn",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "Dùng để mở \"Rương Di Vật\" trong kho sưu tập bí ẩn của Trạm Không Gian Herta.",
+    "come_from": [
+      "Nhận từ sự kiện \"Truy Tìm Di Sản\""
+    ]
+  },
+  "123001": {
+    "id": "123001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123001.png",
+    "desc": "",
+    "come_from": []
   },
   "140000": {
     "id": "140000",
@@ -9933,6 +10104,116 @@
     "desc": "Vật Thể Lạ, Mỏ Neo Không Gian trong thế giới \"Tri Thức\", có thể bảo vệ cấu trúc dữ liệu cá nhân khỏi ảnh hưởng của sóng thần số liệu mãnh liệt.\nKhi cần thiết, nó cũng có thể trở thành cầu nối giao tiếp giữa nội bộ và bên ngoài.",
     "come_from": []
   },
+  "140597": {
+    "id": "140597",
+    "name": "Màn Kết Của Giấc Mơ",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140597.png",
+    "desc": "<i>Bức ảnh được chụp từ khi nào không rõ, nhưng cảm giác chân thật ấy không thể chối cãi. Trong quá khứ, khoảnh khắc này thực sự đã xảy ra và để lại bằng chứng, dù chẳng mấy ai biết đến, nhưng khi thiếu nữ nhớ về giấc mộng đẹp ngày xưa, cô ấy sẽ mỉm cười vì điều đó.</i>\n\nNgười nằm mơ, cũng chính là người tạo ra giấc mơ. Người tạo ra giấc mơ, cũng chính là người nằm mơ.\nChỉ khi hiến dâng quá khứ của chính mình, mới có thể dệt nên cõi mộng đẹp nhất.\nCon người sẽ không đắm chìm trong đó, không muốn tỉnh giấc. Bởi trong giấc mơ, họ tìm lại được dũng khí để đối mặt với tương lai.\nVà rồi, họ hướng về ngày mai.",
+    "come_from": []
+  },
+  "140598": {
+    "id": "140598",
+    "name": "Màn Kết Của Giấc Mơ",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140598.png",
+    "desc": "<i>Ký ức sẽ hiện ra như thế nào là do chính bạn quyết định. Khi giấc mộng đẹp ấy kết thúc, bạn sẽ khắc ghi hình bóng của Firefly theo cách mà cô ấy hằng khao khát.</i>\n\nNgười nằm mơ, cũng chính là người tạo ra giấc mơ. Người tạo ra giấc mơ, cũng chính là người nằm mơ.\nChỉ khi hiến dâng quá khứ của chính mình, mới có thể dệt nên cõi mộng đẹp nhất.\nCon người sẽ không đắm chìm trong đó, không muốn tỉnh giấc. Bởi trong giấc mơ, họ tìm lại được dũng khí để đối mặt với tương lai.\nVà rồi, họ hướng về ngày mai.",
+    "come_from": []
+  },
+  "140599": {
+    "id": "140599",
+    "name": "Nhẫn Vua Phân Tranh",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140599.png",
+    "desc": "Món quà đến từ \"Quán Quân Phân Tranh\" - Mydei, tượng trưng cho vinh quang và sự ràng buộc của anh ấy trên cương vị vương giả cũng như người bảo vệ.",
+    "come_from": []
+  },
+  "140600": {
+    "id": "140600",
+    "name": "Xu Tặng Của Mưu Kế",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140600.png",
+    "desc": "Món quà đến từ \"Lữ Khách Mưu Kế\" - Cipher, tượng trưng cho lời chúc phúc và khát khao vừa tinh nghịch vừa chân thành của cô ấy.",
+    "come_from": []
+  },
+  "140601": {
+    "id": "140601",
+    "name": "Đóa Hoa Băng Giá Của Tử Vong",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140601.png",
+    "desc": "Món quà từ \"Nữ Hầu Kiếp Sau\" - Castorice, tượng trưng cho ý chí bền bỉ và tâm thế an nhiên của cô ấy khi canh giữ ở bờ bên kia.",
+    "come_from": []
+  },
+  "140602": {
+    "id": "140602",
+    "name": "Búp Bê Vải Của Cánh Cổng",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140602.png",
+    "desc": "Món quà từ \"Thánh Tử Của Cánh Cổng\" - Tribios, tượng trưng cho niềm tin và sự đồng cảm bất biến của cô ấy qua hàng ngàn cuộc hành trình.",
+    "come_from": []
+  },
+  "140603": {
+    "id": "140603",
+    "name": "Vòng Châu Của Lãng Mạn",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140603.png",
+    "desc": "Món quà từ \"Thợ Dệt Lãng Mạn\" - Aglaea, tượng trưng cho sự không vụ lợi và tiết chế dưới vẻ đẹp lạnh lùng tuyệt đối của cô ấy.",
+    "come_from": []
+  },
+  "140604": {
+    "id": "140604",
+    "name": "Hộp Linh Hồn Của Bầu Trời",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140604.png",
+    "desc": "Món quà từ \"Thầy Thuốc Của Bầu Trời\" - Hyacine, tượng trưng cho lòng dịu dàng và sự hiến dâng của cô ấy khi yêu thương thế nhân một cách bình đẳng.",
+    "come_from": []
+  },
+  "140605": {
+    "id": "140605",
+    "name": "Viên Ngọc Quý Của Lý Trí",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140605.png",
+    "desc": "Món quà từ \"Học Giả Lý Trí\" - Anaxa, tượng trưng cho sự khai sáng và phê phán mà anh đã để lại cho hậu thế.",
+    "come_from": []
+  },
+  "140606": {
+    "id": "140606",
+    "name": "Nguyện Vọng Của Phụ Thế",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140606.png",
+    "desc": "Muốn cứu thế, ắt phải gánh vác những nguyện vọng nặng nề. Chỉ khi trút bỏ nó, chấp niệm mới có thể được hóa giải.",
+    "come_from": []
+  },
+  "140607": {
+    "id": "140607",
+    "name": "Sự Tuyệt Vọng Của Phụ Thế",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140607.png",
+    "desc": "Muốn cứu thế, ắt phải gánh vác sự tuyệt vọng bỏng rát. Chỉ khi đập tan nó, chấp niệm mới có thể được hóa giải.",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "Ảnh Chụp Cùng March 7th",
@@ -11060,7 +11341,7 @@
     "sub_type": "Mission",
     "rarity": 3,
     "icon": "icon/item/150088.png",
-    "desc": "Kho báu cuối cùng của cuộc mạo hiểm, biểu tượng của chương mở đầu truyền kỳ, sinh ra từ cấu trúc mới sau \"Tái Sáng Thế\".\nBị ảnh hưởng bởi sử thi anh hùng Amphoreus, nó được thể hiện dưới dạng một quả táo vàng.\n\n<i>\"Cho năm tháng văn minh, cho thời gian sinh mệnh.\"</i>",
+    "desc": "<b>Sau khi hoàn thành câu đố tiên tri của nhộng tiên từ các Thợ May tương ứng sẽ nhận được, có thể đổi quà lưu niệm độc đáo ở Một Trang Vĩnh Hằng.</b>\nKho báu cuối cùng của cuộc thám hiểm, biểu tượng của chương mở đầu truyền kỳ, sinh ra từ cấu trúc mới sau \"Tái Sáng Thế\".\nBị ảnh hưởng bởi sử thi anh hùng Amphoreus, nó được thể hiện dưới dạng một quả táo vàng.\n\n<i>\"Trao nền văn minh cho thời gian, trao sự sống cho năm tháng.\"</i>",
     "come_from": []
   },
   "150087": {
@@ -16139,7 +16420,7 @@
     "sub_type": "Book",
     "rarity": 1,
     "icon": "icon/item/190015.png",
-    "desc": "Đường Ven Biển: Lột Xác Và Tái Sinh",
+    "desc": "\"Đường Ven Biển\": Lột Xác Và Tái Sinh",
     "come_from": []
   },
   "190547": {
@@ -20412,6 +20693,106 @@
     "desc": "Nhật Ký Khai Phá Amphoreus - Trước Khi Tái Sáng Thế",
     "come_from": []
   },
+  "191935": {
+    "id": "191935",
+    "name": "Lời Nhắn Từ Tribbie",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Tribbie",
+    "come_from": []
+  },
+  "191936": {
+    "id": "191936",
+    "name": "Lời Nhắn Từ Cerydra",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Cerydra",
+    "come_from": []
+  },
+  "191937": {
+    "id": "191937",
+    "name": "Lời Nhắn Từ Hysilens",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Hysilens",
+    "come_from": []
+  },
+  "191938": {
+    "id": "191938",
+    "name": "Lời Nhắn Từ Hyacine",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Hyacine",
+    "come_from": []
+  },
+  "191939": {
+    "id": "191939",
+    "name": "Lời Nhắn Từ Phainon",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Phainon",
+    "come_from": []
+  },
+  "191940": {
+    "id": "191940",
+    "name": "Lời Nhắn Từ Anaxa",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Anaxa",
+    "come_from": []
+  },
+  "191941": {
+    "id": "191941",
+    "name": "Lời Nhắn Từ Aglaea",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Aglaea",
+    "come_from": []
+  },
+  "191942": {
+    "id": "191942",
+    "name": "Lời Nhắn Từ Mydei",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Mydei",
+    "come_from": []
+  },
+  "191943": {
+    "id": "191943",
+    "name": "Lời Nhắn Từ Castorice",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Castorice",
+    "come_from": []
+  },
+  "191944": {
+    "id": "191944",
+    "name": "Lời Nhắn Từ Cipher",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "Lời Nhắn Từ Cipher",
+    "come_from": []
+  },
   "191945": {
     "id": "191945",
     "name": "Tin Nhắn Của Vị Khách Lạ",
@@ -20420,6 +20801,156 @@
     "rarity": 1,
     "icon": "icon/item/190018.png",
     "desc": "Tin Nhắn Của Vị Khách Lạ",
+    "come_from": []
+  },
+  "191946": {
+    "id": "191946",
+    "name": "Lời Răn Của Zephyro",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Lời Răn Của Zephyro",
+    "come_from": []
+  },
+  "191947": {
+    "id": "191947",
+    "name": "Lời Răn Của Phantylia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Lời Răn Của Phantylia",
+    "come_from": []
+  },
+  "191948": {
+    "id": "191948",
+    "name": "Lời Răn Của Asat Pramad",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Lời Răn Của Asat Pramad",
+    "come_from": []
+  },
+  "191949": {
+    "id": "191949",
+    "name": "Lời Răn Của Celenova",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Lời Răn Của Celenova",
+    "come_from": []
+  },
+  "191950": {
+    "id": "191950",
+    "name": "Thư Mời Từ Quá Khứ",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Thư Mời Từ Quá Khứ",
+    "come_from": []
+  },
+  "191951": {
+    "id": "191951",
+    "name": "Một Danh Sách Dài",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190017.png",
+    "desc": "Một Danh Sách Dài",
+    "come_from": []
+  },
+  "191952": {
+    "id": "191952",
+    "name": "Phỏng Vấn Buổi Ra Mắt \"Sự Trỗi Dậy Của Kỵ Sĩ Lửa Đen\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190013.png",
+    "desc": "Phỏng Vấn Buổi Ra Mắt \"Sự Trỗi Dậy Của Kỵ Sĩ Lửa Đen\"",
+    "come_from": []
+  },
+  "191953": {
+    "id": "191953",
+    "name": "Thư Của Kẻ Phản Đồ",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "Thư Của Kẻ Phản Đồ",
+    "come_from": []
+  },
+  "191954": {
+    "id": "191954",
+    "name": "Bài Ca Tụng Stellaron",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Bài Ca Tụng Stellaron",
+    "come_from": []
+  },
+  "191955": {
+    "id": "191955",
+    "name": "Tờ Rơi Quảng Cáo Bộ Sách \"Thế Giới Trong Thảm Họa Đàn Côn Trùng: Tái Lập Trật Tự\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190015.png",
+    "desc": "Tờ Rơi Quảng Cáo Bộ Sách \"Thế Giới Trong Thảm Họa Đàn Côn Trùng: Tái Lập Trật Tự\"",
+    "come_from": []
+  },
+  "191956": {
+    "id": "191956",
+    "name": "Thư Hồi Âm Của \"Chủ Nhân Cõi Mộng\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "Thư Hồi Âm Của \"Chủ Nhân Cõi Mộng\"",
+    "come_from": []
+  },
+  "191957": {
+    "id": "191957",
+    "name": "Sách Cầu Nguyện Chưa Được Gửi Đi",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Sách Cầu Nguyện Chưa Được Gửi Đi",
+    "come_from": []
+  },
+  "191958": {
+    "id": "191958",
+    "name": "Nhật Ký Thí Nghiệm δ-me13 (Phần III)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "Nhật Ký Thí Nghiệm δ-me13 (Phần III)",
+    "come_from": []
+  },
+  "191959": {
+    "id": "191959",
+    "name": "Màn Kết Của Giấc Mơ",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Màn Kết Của Giấc Mơ",
+    "come_from": []
+  },
+  "191960": {
+    "id": "191960",
+    "name": "Màn Kết Của Giấc Mơ",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "Màn Kết Của Giấc Mơ",
     "come_from": []
   },
   "210001": {
@@ -22024,22 +22555,22 @@
   },
   "210410": {
     "id": "210410",
-    "name": "\"NAME==Mythos\"",
+    "name": "\"NAME == Mythos\"",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"NAME==Mythos\".",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"NAME == Mythos\".",
     "come_from": []
   },
   "210411": {
     "id": "210411",
-    "name": "NAME==Logos",
+    "name": "\"NAME == Logos\"",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"NAME==Logos\".",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"NAME == Logos\".",
     "come_from": []
   },
   "210412": {
@@ -22070,6 +22601,136 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Dòng Máu Không Thuần Khiết\".",
+    "come_from": []
+  },
+  "210415": {
+    "id": "210415",
+    "name": "\"Chuyến Bay Vượt Kiểm Soát\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Chuyến Bay Vượt Kiểm Soát\".",
+    "come_from": []
+  },
+  "210416": {
+    "id": "210416",
+    "name": "\"Điểm Cuối Của Thần Linh\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Điểm Cuối Của Thần Linh\".",
+    "come_from": []
+  },
+  "210417": {
+    "id": "210417",
+    "name": "\"Ảo Ảnh\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Ảo Ảnh\".",
+    "come_from": []
+  },
+  "210418": {
+    "id": "210418",
+    "name": "\"Mộ Kiếm\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Mộ Kiếm\".",
+    "come_from": []
+  },
+  "210419": {
+    "id": "210419",
+    "name": "\"Một Trang Vĩnh Hằng\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Một Trang Vĩnh Hằng\".",
+    "come_from": []
+  },
+  "210420": {
+    "id": "210420",
+    "name": "\"Ngọn Lửa Thiêu Rụi Thần Quốc\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Ngọn Lửa Thiêu Rụi Thần Quốc\".",
+    "come_from": []
+  },
+  "210421": {
+    "id": "210421",
+    "name": "\"Khổ Nạn Hội Tụ Thành Sông\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Khổ Nạn Hội Tụ Thành Sông\".",
+    "come_from": []
+  },
+  "210422": {
+    "id": "210422",
+    "name": "\"Đập Vỡ Vương Miện Của Thần\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Đập Vỡ Vương Miện Của Thần\".",
+    "come_from": []
+  },
+  "210423": {
+    "id": "210423",
+    "name": "\"Virus\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên đoàn tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Virus\".",
+    "come_from": []
+  },
+  "210424": {
+    "id": "210424",
+    "name": "\"Hành Lang Giấc Mộng Ký Ức\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên Đội Tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Hành Lang Giấc Mộng Ký Ức\".",
+    "come_from": []
+  },
+  "210425": {
+    "id": "210425",
+    "name": "\"Thần Giáng\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên Đội Tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Thần Giáng\".",
+    "come_from": []
+  },
+  "210426": {
+    "id": "210426",
+    "name": "\"Giấc Mộng Sâu Mọt\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên Đội Tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Giấc Mộng Sâu Mọt\".",
+    "come_from": []
+  },
+  "210427": {
+    "id": "210427",
+    "name": "\"Điềm Báo Ác Mộng\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Chiếc đĩa có thể phát bằng Máy Hát trên Đội Tàu, được nhận ngẫu nhiên, cũng có thể do người khác tặng. Khi âm thanh bay bổng, những nụ cười, vai kề vai, sự va chạm, và còn những nỗi lòng xao động khi chiến đấu, đều... tuôn trào dào dạt. Có lẽ đây chính là nguyên nhân vẫn có người sưu tầm đĩa nhạc trong thời đại phát triển nhanh chóng này.\nĐĩa này được chép bài \"Điềm Báo Ác Mộng\".",
     "come_from": []
   },
   "220000": {
@@ -22179,6 +22840,18 @@
     "desc": "Khung trò chuyện và tin nhắn, sau khi nhận có thể thay đổi trong tin nhắn và trò chuyện",
     "come_from": [
       "Khung Bong Bóng Chat nhận từ sự kiện \"Văn Phòng Gào\""
+    ]
+  },
+  "220009": {
+    "id": "220009",
+    "name": "Chúng Ta Là Quán Quân",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220009.png",
+    "desc": "Khung trò chuyện và tin nhắn, sau khi nhận có thể thay đổi trong tin nhắn và trò chuyện",
+    "come_from": [
+      "Khung Bong Bóng Chat nhận từ sự kiện \"Giải Đấu Gào Gào Chrysos\""
     ]
   },
   "221000": {
@@ -25000,6 +25673,42 @@
     "icon": "icon/item/226004.png",
     "desc": "Khung trang trí độc quyền dành cho người chiến thắng, đây là \"Vua\" trong số đó, tượng trưng cho quyền hành độc tôn.",
     "come_from": []
+  },
+  "227001": {
+    "id": "227001",
+    "name": "Vòng Nguyệt Quế Của Đấng Cứu Thế",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227001.png",
+    "desc": "Vòng nguyệt quế mà Amphoreus tặng cho {NICKNAME}.",
+    "come_from": [
+      "Nhận từ \"Như Tôi Đã Viết\""
+    ]
+  },
+  "227002": {
+    "id": "227002",
+    "name": "Tài Xế Rác",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227002.png",
+    "desc": "Kẹp tóc được làm dựa trên nguyên mẫu của một trong số các tạo vật của Ruan Mei.",
+    "come_from": [
+      "Thời Trang Khai Phá nhận được sau sự kiện \"Bánh Ngọt Xông Lên\""
+    ]
+  },
+  "227003": {
+    "id": "227003",
+    "name": "Xin Chào Thế Giới Mem!",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227003.png",
+    "desc": "Chiếc mũ trùm bông xù hình Mem.",
+    "come_from": [
+      "Thời Trang Khai Phá nhận được từ sự kiện \"Góp Nhặt Giấc Mơ\" kỳ trước"
+    ]
   },
   "250001": {
     "id": "250001",
@@ -29743,6 +30452,486 @@
     "desc": "Phụ kiện đầu của {TEXTJOIN#247}",
     "come_from": []
   },
+  "265001": {
+    "id": "265001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265002": {
+    "id": "265002",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265003": {
+    "id": "265003",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265004": {
+    "id": "265004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265005": {
+    "id": "265005",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265006": {
+    "id": "265006",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265007": {
+    "id": "265007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265008": {
+    "id": "265008",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265009": {
+    "id": "265009",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265010": {
+    "id": "265010",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265011": {
+    "id": "265011",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265012": {
+    "id": "265012",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265013": {
+    "id": "265013",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265014": {
+    "id": "265014",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265015": {
+    "id": "265015",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265016": {
+    "id": "265016",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265017": {
+    "id": "265017",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265018": {
+    "id": "265018",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265019": {
+    "id": "265019",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265020": {
+    "id": "265020",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265021": {
+    "id": "265021",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265022": {
+    "id": "265022",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265023": {
+    "id": "265023",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265024": {
+    "id": "265024",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265025": {
+    "id": "265025",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265026": {
+    "id": "265026",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265027": {
+    "id": "265027",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265028": {
+    "id": "265028",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265029": {
+    "id": "265029",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265030": {
+    "id": "265030",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265031": {
+    "id": "265031",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265032": {
+    "id": "265032",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265033": {
+    "id": "265033",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265034": {
+    "id": "265034",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265035": {
+    "id": "265035",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265036": {
+    "id": "265036",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265037": {
+    "id": "265037",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265038": {
+    "id": "265038",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265039": {
+    "id": "265039",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265040": {
+    "id": "265040",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265041": {
+    "id": "265041",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265042": {
+    "id": "265042",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265043": {
+    "id": "265043",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265044": {
+    "id": "265044",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265045": {
+    "id": "265045",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265046": {
+    "id": "265046",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265047": {
+    "id": "265047",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265048": {
+    "id": "265048",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
   "270000": {
     "id": "270000",
     "name": "Mặt Cười Vui Vẻ",
@@ -30033,6 +31222,86 @@
     "desc": "",
     "come_from": []
   },
+  "281031": {
+    "id": "281031",
+    "name": "Xu Vàng",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281031.png",
+    "desc": "Nguồn tài nguyên kinh tế cốt lõi trong cách chơi \"Chiến Tranh Tiền Tệ\", có thể dùng để mua thành viên tiểu đội, tăng EXP và làm mới Cửa Hàng.",
+    "come_from": []
+  },
+  "281032": {
+    "id": "281032",
+    "name": "Tiền Quy Đổi Ngang Giá",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281032.png",
+    "desc": "Nhận thông qua cách chơi \"Chiến Tranh Tiền Tệ\", dùng để kích hoạt \"Bố Trí Ưu Thế\".",
+    "come_from": []
+  },
+  "281033": {
+    "id": "281033",
+    "name": "Điểm Thăng Hạng",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281033.png",
+    "desc": "Nhận thông qua cách chơi \"Chiến Tranh Tiền Tệ\", dùng để tăng Cấp Thăng Hạng.",
+    "come_from": []
+  },
+  "281034": {
+    "id": "281034",
+    "name": "EXP",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/21.png",
+    "desc": "Nguyên liệu EXP dùng để tăng quy mô đội trong \"Chiến Tranh Tiền Tệ\". Sau khi vượt mỗi điểm mốc sẽ tự động nhận được 2 điểm, cũng có thể dùng Xu Vàng để mua",
+    "come_from": []
+  },
+  "281035": {
+    "id": "281035",
+    "name": "Làm Mới Miễn Phí",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/140150.png",
+    "desc": "Tài nguyên dùng để làm mới Cửa Hàng trong \"Chiến Tranh Tiền Tệ\". Khi có tài nguyên này, làm mới Cửa Hàng sẽ không tiêu hao Xu Vàng.",
+    "come_from": []
+  },
+  "281037": {
+    "id": "281037",
+    "name": "Vé Mời Chrysos",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281037.png",
+    "desc": "Vé mời đặc biệt của \"Giải Vô Địch Thế Giới Chimera\", có thể mở khóa huấn luyện viên Chimera mà bạn muốn chiến đấu cùng trong giao diện lựa chọn. Có thể nhận được thông qua việc tham gia Giải Vô Địch.",
+    "come_from": []
+  },
+  "281038": {
+    "id": "281038",
+    "name": "Bánh Nhảy Nhót",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/270006.png",
+    "desc": "Món bánh đặc biệt được tất cả Tạo Vật yêu thích. Có thể dùng để cổ vũ cho Tạo Vật và đổi phần thưởng trong giải đấu \"Bánh Ngọt Xông Lên\".",
+    "come_from": []
+  },
+  "281039": {
+    "id": "281039",
+    "name": "",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/CakeRaceIconScore.png",
+    "desc": "",
+    "come_from": []
+  },
   "300002": {
     "id": "300002",
     "name": "Quà Tặng Của Hành Giả Vận Mệnh",
@@ -30181,6 +31450,16 @@
     "rarity": 3,
     "icon": "icon/item/300041.png",
     "desc": "Ngân hà rộng lớn vô cùng, chiếc rương này đựng các loại đặc sản của các hành tinh, mở ra xem thử, có lẽ bên trong có thứ bạn cần.",
+    "come_from": []
+  },
+  "300057": {
+    "id": "300057",
+    "name": "Vé Săn Kho Báu",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 4,
+    "icon": "icon/item/300057.png",
+    "desc": "",
     "come_from": []
   },
   "300101": {
@@ -33168,6 +34447,26 @@
       "Thương Đội Thú Đại Địa (Thương Nhân Lưu Động)"
     ]
   },
+  "408441": {
+    "id": "408441",
+    "name": "Phô Mai Mật Ong Cao Cấp Của Zagreus",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401035.png",
+    "desc": "Sau khi dùng lập tức hồi phục cho 1 đồng đội chỉ định Năng Lượng bằng 25% Giới Hạn Năng Lượng của bản thân.",
+    "come_from": []
+  },
+  "408442": {
+    "id": "408442",
+    "name": "Bánh Mì Sấy Cao Cấp Của Zagreus",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401036.png",
+    "desc": "Dùng xong lập tức hồi cho 1 đồng đội chỉ định phe ta lượng HP bằng 20% Giới Hạn HP của bản thân, và hồi thêm 240 HP.",
+    "come_from": []
+  },
   "408601": {
     "id": "408601",
     "name": "Xúc Xích Belobog",
@@ -33633,6 +34932,26 @@
     "come_from": [
       "Tiệm Rèn Chartonus"
     ]
+  },
+  "408640": {
+    "id": "408640",
+    "name": "Thị Nhục Cao Cấp Của Zagreus",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/403007.png",
+    "desc": "Sau khi dùng, tăng 20% Sát Thương Băng do toàn phe ta gây ra trong lần chiến đấu kế tiếp.",
+    "come_from": []
+  },
+  "408641": {
+    "id": "408641",
+    "name": "Đậu Đỏ Cao Cấp Của Zagreus",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/180007.png",
+    "desc": "Sau khi dùng sẽ khiến Phòng Thủ của toàn phe ta tăng 30% trong trận sau.",
+    "come_from": []
   },
   "408801": {
     "id": "408801",

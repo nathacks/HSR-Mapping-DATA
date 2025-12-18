@@ -1079,6 +1079,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22006": {
+    "id": "22006",
+    "name": "핑크빛 내일을 향해",
+    "rarity": 4,
+    "path": "Memory",
+    "desc": "산들바람이 구름을 흩뜨리자, 은하의 모습이 드러났다.\n황금빛이 반짝이고, 서사시는 별하늘에서 울려 퍼질 것이다.\n\n<i>「유성, 만남, 약속!」</i>\n작은 요정은 마치 처음 만난 것처럼, 또 다시 만난 것처럼 하늘을 바라본다.\n\n<i>「미미는, 기다릴게. 개척, 세상!」</i>\n별빛이 작은 요정의 눈동자를 비췄고——마치 분홍빛 내일처럼 반짝였다",
+    "icon": "icon/light_cone/22006.png",
+    "preview": "image/light_cone_preview/22006.png",
+    "portrait": "image/light_cone_portrait/22006.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "은하철도의 밤",
@@ -1679,6 +1691,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "23050": {
+    "id": "23050",
+    "name": "그녀의 불꽃을 잊지 말라",
+    "rarity": 5,
+    "path": "Warlock",
+    "desc": "<i>「자, 내 곁으로 와…」</i>\n한 줄기 생생한 기억이 화염에 이끌려 그녀의 몸과 마음을 감싼다.\n\n과거는 무덤 속으로 빠져들었다. 과연 그것이 진실일까?\n<i>「쉿, 흐느끼지 말고, 거부하지도 마……」</i>\n그녀는 자신을 타인의 마음에 새겼다. 낯선 눈빛이 점차 익숙해졌다.\n<i>「기억났니?」</i>\n\n오래된 기억의 잔재가 모두 흩어지고, 얼굴에 매혹적인 꽃향기가 스친다——\n<i>「내가, 바로 너의 기억이야」</i>",
+    "icon": "icon/light_cone/23050.png",
+    "preview": "image/light_cone_preview/23050.png",
+    "portrait": "image/light_cone_portrait/23050.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23051": {
     "id": "23051",
     "name": "끝없는 산과 강을 거치더라도",
@@ -1688,6 +1712,18 @@
     "icon": "icon/light_cone/23051.png",
     "preview": "image/light_cone_preview/23051.png",
     "portrait": "image/light_cone_portrait/23051.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23052": {
+    "id": "23052",
+    "name": "이 순간처럼 영원한 사랑",
+    "rarity": 5,
+    "path": "Memory",
+    "desc": "푸른 하늘이 찬란한 내일을 비춘다.\n한 걸음, 두 걸음… 소녀가 걸어온 길은 너무나 길었지만, 다행히 그 소중한 이야기들은 돌고 도는 세월 속에서도 잊히지 않았다.\n이제, 모두가 함께 써 내려간 서사시는 마침내 완성되어 끝을 맞이했다.\n\n반짝이는 별들, 만발한 꽃, 날아가는 새, 아름다운 신세계.\n얇은 베일, 화환, 드레스, 축복을 전하는 바람.\n삼천만 세월 동안의 추구가 마침내 행복이 된 순간은 영원한 천 마디 말보다 더 값진 것이 되었다.\n\n<i>「헤헤, 약속이야……」</i>\n소녀는 뒤돌아보며 살며시 미소 지었다.\n<i>「한 사람은 과거에 남고, 한 사람은 미래로 향하지만… 우리의 마음은 절대 떨어지지 않을 거야♪」</i>\n\n그녀는 발끝을 살짝 들어 올린 채 과거 속으로 걸어 들어갔다——\n그리고 기억은 과거의 물결이 되어, 잔잔하게 내일을 향해 퍼져나갔다",
+    "icon": "icon/light_cone/23052.png",
+    "preview": "image/light_cone_preview/23052.png",
+    "portrait": "image/light_cone_portrait/23052.png",
     "max_rank": 5,
     "max_promotion": 6
   },

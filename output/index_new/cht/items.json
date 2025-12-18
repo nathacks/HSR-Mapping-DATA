@@ -140,6 +140,18 @@
     "desc": "消耗40開拓力兌換，可在「模擬宇宙」中換取沉浸獎勵",
     "come_from": []
   },
+  "34": {
+    "id": "34",
+    "name": "深度沉浸器",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 4,
+    "icon": "icon/item/34.png",
+    "desc": "可在「星際和平指南」中快速提取次元飾品",
+    "come_from": [
+      "「貨幣戰爭」積分獎勵"
+    ]
+  },
   "41": {
     "id": "41",
     "name": "成就點數",
@@ -218,7 +230,9 @@
     "rarity": 4,
     "icon": "icon/item/110.png",
     "desc": "配合開拓力使用，可以快速獲得擬造花萼/凝滯虛影產出的素材。",
-    "come_from": []
+    "come_from": [
+      "「貨幣戰爭」積分獎勵"
+    ]
   },
   "170": {
     "id": "170",
@@ -468,6 +482,7 @@
     "icon": "icon/item/241.png",
     "desc": "行跡升級的高階素材。",
     "come_from": [
+      "「貨幣戰爭」積分獎勵",
       "「模擬宇宙」積分獎勵",
       "無名勳禮",
       "餘燼兌換",
@@ -560,6 +575,8 @@
     "icon": "icon/item/281.png",
     "desc": "可在商店「聚靈鑄星」處兌換五星角色。",
     "come_from": [
+      "千星旅伴",
+      "千星旅伴（本期已領取）",
       "重複獲得2次星魂已滿的五星角色時可兌換",
       "重複獲得2次星魂已滿的五星角色時可兌換"
     ]
@@ -597,6 +614,7 @@
     "icon": "icon/item/503.png",
     "desc": "「模擬宇宙」獎勵，可在黑塔的商店中用它購買物品。",
     "come_from": [
+      "「貨幣戰爭」積分獎勵",
       "「模擬宇宙」積分獎勵"
     ]
   },
@@ -638,6 +656,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "獻予逐火之人的祝福\n\n願你與神共舞，承英雄之火重燃暮落的巨人。\n願你推翻命運，以破曉之輝照拂天地與眾生。\n你在此間的行跡，終將載入亙古傳頌的詩篇。",
+    "come_from": []
+  },
+  "821": {
+    "id": "821",
+    "name": "成為昨日的明天",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/821.png",
+    "desc": "記憶中的信",
     "come_from": []
   },
   "71000": {
@@ -3004,6 +3032,92 @@
       "「萬能合成機」- 遺器合成"
     ]
   },
+  "83231": {
+    "id": "83231",
+    "name": "永恆之地翁法羅斯",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83232": {
+    "id": "83232",
+    "name": "永恆之地翁法羅斯",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83233": {
+    "id": "83233",
+    "name": "永恆之地翁法羅斯",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83234": {
+    "id": "83234",
+    "name": "永恆之地翁法羅斯",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": [
+      "「差分宇宙」次元飾品提取",
+      "「萬能合成機」- 遺器合成"
+    ]
+  },
+  "83241": {
+    "id": "83241",
+    "name": "天國@直播頻道",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83242": {
+    "id": "83242",
+    "name": "天國@直播頻道",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83243": {
+    "id": "83243",
+    "name": "天國@直播頻道",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83244": {
+    "id": "83244",
+    "name": "天國@直播頻道",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": [
+      "「差分宇宙」次元飾品提取",
+      "「萬能合成機」- 遺器合成"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "次元飾品",
@@ -4010,6 +4124,19 @@
       "「萬能合成機」- 素材置換"
     ]
   },
+  "110432": {
+    "id": "110432",
+    "name": "明輝日珥",
+    "type": "Material",
+    "sub_type": "AvatarRank",
+    "rarity": 4,
+    "icon": "icon/item/110432.png",
+    "desc": "正陽獅鷲遺落的異型頭冠，火屬性角色的晉升素材。",
+    "come_from": [
+      "凝滯虛影【{TextID#FloorName_20422001}】",
+      "「萬能合成機」- 素材置換"
+    ]
+  },
   "110433": {
     "id": "110433",
     "name": "海妖殘鰭",
@@ -4144,6 +4271,18 @@
     "desc": "行跡升級的高階素材。",
     "come_from": [
       "歷戰餘響【「穹頂關塞」晨昏之眼】"
+    ]
+  },
+  "110508": {
+    "id": "110508",
+    "name": "滅流絕溢的緘默",
+    "type": "Material",
+    "sub_type": "WeeklyMonsterDrop",
+    "rarity": 4,
+    "icon": "icon/item/110508.png",
+    "desc": "行跡升級的高階素材。",
+    "come_from": [
+      "歷戰餘響【{TextID#FloorName_20481001}】"
     ]
   },
   "111000": {
@@ -4806,6 +4945,16 @@
     "desc": "妖精們烹飪時使用的傳說中的廚具。可用於疊影光錐「永遠的迷境飯」。",
     "come_from": []
   },
+  "121006": {
+    "id": "121006",
+    "name": "有瑕的追憶",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121006.png",
+    "desc": "水晶般的記憶之花，有瑕而易碎。可用於疊影光錐「飛向粉紅色的明天」。",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "艾迪恩代幣",
@@ -4818,6 +4967,28 @@
       "艾迪恩遊戲幣商店",
       "於「匹諾康尼」探索獲得"
     ]
+  },
+  "123000": {
+    "id": "123000",
+    "name": "權限卡",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "可用於開啟黑塔太空站神秘收藏庫中的「遺器寶箱」。",
+    "come_from": [
+      "「奇庫尋遺」活動獲得"
+    ]
+  },
+  "123001": {
+    "id": "123001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123001.png",
+    "desc": "",
+    "come_from": []
   },
   "140000": {
     "id": "140000",
@@ -9933,6 +10104,116 @@
     "desc": "奇物，「智識」世界中的界域定錨，能夠保護個體資料結構不受激烈的數字海嘯影響。\n必要時，它也能成為內外溝通的橋樑。",
     "come_from": []
   },
+  "140597": {
+    "id": "140597",
+    "name": "夢的謝幕禮",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140597.png",
+    "desc": "<i>不知何時拍下的照片，但那真實的觸感毋庸置疑。在過去，這一幕切實地發生過了，並以此留下證明——儘管少有人知，但當一位少女回憶起曾經的美夢時，將會為此微笑。</i>\n\n做夢的人，也是造夢的人。造夢的人，也是做夢的人。\n獻出自己的往事，才能織就最美好的夢境。\n人們不會沉溺其中，不願復醒。他們會在美夢中，重新獲得面對未來的勇氣。\n然後，向著明天。",
+    "come_from": []
+  },
+  "140598": {
+    "id": "140598",
+    "name": "夢的謝幕禮",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140598.png",
+    "desc": "<i>回憶最終如何呈現，是由你決定的。在那場美夢結束時，你以流螢渴盼的方式，將她銘記。</i>\n\n做夢的人，也是造夢的人。造夢的人，也是做夢的人。\n獻出自己的往事，才能織就最美好的夢境。\n人們不會沉溺其中，不願復醒。他們會在美夢中，重新獲得面對未來的勇氣。\n然後，向著明天。",
+    "come_from": []
+  },
+  "140599": {
+    "id": "140599",
+    "name": "「紛爭」的王戒",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140599.png",
+    "desc": "來自「紛爭的冠軍」——萬敵的饋贈，象徵著他身為王者兼守護者的榮耀與約束。",
+    "come_from": []
+  },
+  "140600": {
+    "id": "140600",
+    "name": "「詭計」的禮幣",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140600.png",
+    "desc": "來自「詭計的羈客」——賽飛兒的饋贈，象徵著她俏皮卻真摯的祝福與渴望。",
+    "come_from": []
+  },
+  "140601": {
+    "id": "140601",
+    "name": "「死亡」的寒葩",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140601.png",
+    "desc": "來自「來生的侍女」——遐蝶的饋贈，象徵著她守望於彼岸的堅韌與平和。",
+    "come_from": []
+  },
+  "140602": {
+    "id": "140602",
+    "name": "「門徑」的布偶",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140602.png",
+    "desc": "來自「門徑的聖子」——緹里西庇俄絲的饋贈，象徵著她千身遠行、從未動搖的信念與同理。",
+    "come_from": []
+  },
+  "140603": {
+    "id": "140603",
+    "name": "「浪漫」的珠鐲",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140603.png",
+    "desc": "來自「浪漫的織者」——阿格萊雅的饋贈，象徵著她漠然的至美之下，始終如一的無私與節制。",
+    "come_from": []
+  },
+  "140604": {
+    "id": "140604",
+    "name": "「天空」的靈櫝",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140604.png",
+    "desc": "來自「天空的醫師」——風堇的饋贈，象徵著她平等愛著世人的溫柔與奉獻。",
+    "come_from": []
+  },
+  "140605": {
+    "id": "140605",
+    "name": "「理性」的至玉",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140605.png",
+    "desc": "來自「理性的學士」——那刻夏的饋贈，象徵著他坦然留給後人的啟蒙與批判。",
+    "come_from": []
+  },
+  "140606": {
+    "id": "140606",
+    "name": "「負世」的願望",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140606.png",
+    "desc": "若要救世，則必然負擔著沉重的願望。唯有將其卸下，方能消解執念。",
+    "come_from": []
+  },
+  "140607": {
+    "id": "140607",
+    "name": "「負世」的絕望",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140607.png",
+    "desc": "若要救世，則必然伴隨著滾燙的絕望。唯有將其打碎，方能消解執念。",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "與三月七的合照",
@@ -11060,7 +11341,7 @@
     "sub_type": "Mission",
     "rarity": 3,
     "icon": "icon/item/150088.png",
-    "desc": "冒險終幕的寶藏，傳奇序章的道標，誕生自「再創世」後的嶄新架構。\n受到翁法羅斯英雄史詩的影響，它以一顆金蘋果的模樣呈現。\n\n<i>「致歲月以文明，予時光以生命。」</i>",
+    "desc": "<b>完成每個衣匠對應的若蟲預言謎題後獲得，可在一頁永恆兌換獨特紀念品。</b>\n冒險終幕的寶藏、傳奇序章的道標，誕生自「再創世」後的嶄新架構。\n受到翁法羅斯英雄史詩的影響，它以一枚金蘋果的模樣呈現。\n\n<i>「致歲月以文明，致時光以生命。」</i>",
     "come_from": []
   },
   "150087": {
@@ -20412,6 +20693,106 @@
     "desc": "翁法羅斯開拓日誌•在再創世之前",
     "come_from": []
   },
+  "191935": {
+    "id": "191935",
+    "name": "一頁贈言：緹寶",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：緹寶",
+    "come_from": []
+  },
+  "191936": {
+    "id": "191936",
+    "name": "一頁贈言：刻律德菈",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：刻律德菈",
+    "come_from": []
+  },
+  "191937": {
+    "id": "191937",
+    "name": "一頁贈言：海瑟音",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：海瑟音",
+    "come_from": []
+  },
+  "191938": {
+    "id": "191938",
+    "name": "一頁贈言：風堇",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：風堇",
+    "come_from": []
+  },
+  "191939": {
+    "id": "191939",
+    "name": "一頁贈言：白厄",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：白厄",
+    "come_from": []
+  },
+  "191940": {
+    "id": "191940",
+    "name": "一頁贈言：那刻夏",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：那刻夏",
+    "come_from": []
+  },
+  "191941": {
+    "id": "191941",
+    "name": "一頁贈言：阿格萊雅",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：阿格萊雅",
+    "come_from": []
+  },
+  "191942": {
+    "id": "191942",
+    "name": "一頁贈言：萬敵",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：萬敵",
+    "come_from": []
+  },
+  "191943": {
+    "id": "191943",
+    "name": "一頁贈言：遐蝶",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：遐蝶",
+    "come_from": []
+  },
+  "191944": {
+    "id": "191944",
+    "name": "一頁贈言：賽飛兒",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一頁贈言：賽飛兒",
+    "come_from": []
+  },
   "191945": {
     "id": "191945",
     "name": "不明訪客的留言",
@@ -20420,6 +20801,156 @@
     "rarity": 1,
     "icon": "icon/item/190018.png",
     "desc": "不明訪客的留言",
+    "come_from": []
+  },
+  "191946": {
+    "id": "191946",
+    "name": "焚風的箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "焚風的箴言",
+    "come_from": []
+  },
+  "191947": {
+    "id": "191947",
+    "name": "幻朧的箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "幻朧的箴言",
+    "come_from": []
+  },
+  "191948": {
+    "id": "191948",
+    "name": "歸寂的箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "歸寂的箴言",
+    "come_from": []
+  },
+  "191949": {
+    "id": "191949",
+    "name": "星嘯的箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "星嘯的箴言",
+    "come_from": []
+  },
+  "191950": {
+    "id": "191950",
+    "name": "往昔的邀請函",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "往昔的邀請函",
+    "come_from": []
+  },
+  "191951": {
+    "id": "191951",
+    "name": "一份長長的名單",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190017.png",
+    "desc": "一份長長的名單",
+    "come_from": []
+  },
+  "191952": {
+    "id": "191952",
+    "name": "《黑焰騎士崛起》首映採訪",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190013.png",
+    "desc": "《黑焰騎士崛起》首映採訪",
+    "come_from": []
+  },
+  "191953": {
+    "id": "191953",
+    "name": "背道者的來信",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "背道者的來信",
+    "come_from": []
+  },
+  "191954": {
+    "id": "191954",
+    "name": "有關星核的頌歌",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "有關星核的頌歌",
+    "come_from": []
+  },
+  "191955": {
+    "id": "191955",
+    "name": "《蝗災中的世界：重建秩序》叢書宣傳單",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190015.png",
+    "desc": "《蝗災中的世界：重建秩序》叢書宣傳單",
+    "come_from": []
+  },
+  "191956": {
+    "id": "191956",
+    "name": "「夢主」的回信",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "「夢主」的回信",
+    "come_from": []
+  },
+  "191957": {
+    "id": "191957",
+    "name": "未能送出的時禱書",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "未能送出的時禱書",
+    "come_from": []
+  },
+  "191958": {
+    "id": "191958",
+    "name": "δ-me13實驗紀錄（部分：其三）",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "δ-me13實驗紀錄（部分：其三）",
+    "come_from": []
+  },
+  "191959": {
+    "id": "191959",
+    "name": "夢的謝幕禮",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "夢的謝幕禮",
+    "come_from": []
+  },
+  "191960": {
+    "id": "191960",
+    "name": "夢的謝幕禮",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "夢的謝幕禮",
     "come_from": []
   },
   "210001": {
@@ -22024,22 +22555,22 @@
   },
   "210410": {
     "id": "210410",
-    "name": "《NAME==秘所思》",
+    "name": "《NAME == 秘所思》",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《NAME==秘所思》。",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《NAME == 秘所思》。",
     "come_from": []
   },
   "210411": {
     "id": "210411",
-    "name": "《NAME==邏各斯》",
+    "name": "《NAME == 邏各斯》",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《NAME==邏各斯》。",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《NAME == 邏各斯》。",
     "come_from": []
   },
   "210412": {
@@ -22070,6 +22601,136 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《不潔之血》。",
+    "come_from": []
+  },
+  "210415": {
+    "id": "210415",
+    "name": "《失速飛行》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著〈失速飛行〉。",
+    "come_from": []
+  },
+  "210416": {
+    "id": "210416",
+    "name": "《神祇的終點》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著〈神祇的終點〉。",
+    "come_from": []
+  },
+  "210417": {
+    "id": "210417",
+    "name": "《蜃樓》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著〈蜃樓〉。",
+    "come_from": []
+  },
+  "210418": {
+    "id": "210418",
+    "name": "《劍塚》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著〈劍塚〉。",
+    "come_from": []
+  },
+  "210419": {
+    "id": "210419",
+    "name": "《一頁永恆》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著〈一頁永恆〉。",
+    "come_from": []
+  },
+  "210420": {
+    "id": "210420",
+    "name": "《燒盡神國之火》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《燒盡神國之火》。",
+    "come_from": []
+  },
+  "210421": {
+    "id": "210421",
+    "name": "《苦難匯聚成河》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《苦難匯聚成河》。",
+    "come_from": []
+  },
+  "210422": {
+    "id": "210422",
+    "name": "《打碎神的冠冕》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著〈打碎神的冠冕〉。",
+    "come_from": []
+  },
+  "210423": {
+    "id": "210423",
+    "name": "《病毒》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著〈病毒〉。",
+    "come_from": []
+  },
+  "210424": {
+    "id": "210424",
+    "name": "《憶夢浮廊》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《憶夢浮廊》。",
+    "come_from": []
+  },
+  "210425": {
+    "id": "210425",
+    "name": "《神降》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《神降》。",
+    "come_from": []
+  },
+  "210426": {
+    "id": "210426",
+    "name": "《鳴蛀之夢》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《鳴蛀之夢》。",
+    "come_from": []
+  },
+  "210427": {
+    "id": "210427",
+    "name": "《深魘噩兆》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激蕩的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《深魘噩兆》。",
     "come_from": []
   },
   "220000": {
@@ -22179,6 +22840,18 @@
     "desc": "訊息和聊天對話方塊，獲得後可在訊息及聊天中進行更換",
     "come_from": [
       "「嗷嗚嗷嗚事務所」活動獲得的聊天氣泡"
+    ]
+  },
+  "220009": {
+    "id": "220009",
+    "name": "我們是冠軍",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220009.png",
+    "desc": "訊息對話方塊，獲得後可在訊息及聊天中更換",
+    "come_from": [
+      "「嗷嗚黃金大師賽」活動獲得的聊天氣泡"
     ]
   },
   "221000": {
@@ -25000,6 +25673,42 @@
     "icon": "icon/item/226004.png",
     "desc": "獨屬於對弈勝者的裝飾框，此為其中的「帝王」，象徵著唯我獨尊的權柄。",
     "come_from": []
+  },
+  "227001": {
+    "id": "227001",
+    "name": "救世主的桂冠",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227001.png",
+    "desc": "翁法羅斯獻予{NICKNAME}的桂冠。",
+    "come_from": [
+      "「如我所書」獲得"
+    ]
+  },
+  "227002": {
+    "id": "227002",
+    "name": "垃垃司機",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227002.png",
+    "desc": "以某隻阮•梅造物為原型製成的髮箍。",
+    "come_from": [
+      "「點心糕餅向前衝」活動後獲得的開拓穿搭"
+    ]
+  },
+  "227003": {
+    "id": "227003",
+    "name": "Hello 迷World！",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227003.png",
+    "desc": "迷迷造型的毛絨帽。",
+    "come_from": [
+      "往期「拾夢韶華」活動獲得的開拓穿搭"
+    ]
   },
   "250001": {
     "id": "250001",
@@ -29743,6 +30452,486 @@
     "desc": "{TEXTJOIN#247}的頭飾",
     "come_from": []
   },
+  "265001": {
+    "id": "265001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265002": {
+    "id": "265002",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265003": {
+    "id": "265003",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265004": {
+    "id": "265004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265005": {
+    "id": "265005",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265006": {
+    "id": "265006",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265007": {
+    "id": "265007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265008": {
+    "id": "265008",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265009": {
+    "id": "265009",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265010": {
+    "id": "265010",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265011": {
+    "id": "265011",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265012": {
+    "id": "265012",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265013": {
+    "id": "265013",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265014": {
+    "id": "265014",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265015": {
+    "id": "265015",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265016": {
+    "id": "265016",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265017": {
+    "id": "265017",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265018": {
+    "id": "265018",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265019": {
+    "id": "265019",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265020": {
+    "id": "265020",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265021": {
+    "id": "265021",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265022": {
+    "id": "265022",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265023": {
+    "id": "265023",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265024": {
+    "id": "265024",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265025": {
+    "id": "265025",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265026": {
+    "id": "265026",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265027": {
+    "id": "265027",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265028": {
+    "id": "265028",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265029": {
+    "id": "265029",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265030": {
+    "id": "265030",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265031": {
+    "id": "265031",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265032": {
+    "id": "265032",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265033": {
+    "id": "265033",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265034": {
+    "id": "265034",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265035": {
+    "id": "265035",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265036": {
+    "id": "265036",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265037": {
+    "id": "265037",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265038": {
+    "id": "265038",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265039": {
+    "id": "265039",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265040": {
+    "id": "265040",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265041": {
+    "id": "265041",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265042": {
+    "id": "265042",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265043": {
+    "id": "265043",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265044": {
+    "id": "265044",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265045": {
+    "id": "265045",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265046": {
+    "id": "265046",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265047": {
+    "id": "265047",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265048": {
+    "id": "265048",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
   "270000": {
     "id": "270000",
     "name": "笑口常開",
@@ -30033,6 +31222,86 @@
     "desc": "",
     "come_from": []
   },
+  "281031": {
+    "id": "281031",
+    "name": "金幣",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281031.png",
+    "desc": "「貨幣戰爭」玩法內的核心經濟資源，可用於購買小隊成員、提升經驗、重置商店。",
+    "come_from": []
+  },
+  "281032": {
+    "id": "281032",
+    "name": "等價鑽鈔",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281032.png",
+    "desc": "透過「貨幣戰爭」玩法獲得，可用於啟動【優勢佈局】。",
+    "come_from": []
+  },
+  "281033": {
+    "id": "281033",
+    "name": "晉升點",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281033.png",
+    "desc": "透過「貨幣戰爭」玩法獲得，可用於【晉升等級】的提升。",
+    "come_from": []
+  },
+  "281034": {
+    "id": "281034",
+    "name": "經驗",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/21.png",
+    "desc": "「貨幣戰爭」中用於提高團隊規模的經驗素材。通過每個節點後自動獲得2點，也可透過金幣購買",
+    "come_from": []
+  },
+  "281035": {
+    "id": "281035",
+    "name": "免費重置",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/140150.png",
+    "desc": "「貨幣戰爭」中用於重置商店的資源。該資源存在時，重置商店將不消耗金幣。",
+    "come_from": []
+  },
+  "281037": {
+    "id": "281037",
+    "name": "黃金邀請券",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281037.png",
+    "desc": "「奇美拉世界錦標賽」特製的邀請券，可以在選擇介面解鎖你希望並肩作戰的奇美拉訓練家。可以透過參與錦標賽獲得。",
+    "come_from": []
+  },
+  "281038": {
+    "id": "281038",
+    "name": "蹦蹦點心",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/270006.png",
+    "desc": "所有造物都喜歡的特製點心。可用於在「點心糕餅向前衝」賽事中為造物應援以及兌換獎勵。",
+    "come_from": []
+  },
+  "281039": {
+    "id": "281039",
+    "name": "",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/CakeRaceIconScore.png",
+    "desc": "",
+    "come_from": []
+  },
   "300002": {
     "id": "300002",
     "name": "命途行者的贈禮",
@@ -30181,6 +31450,16 @@
     "rarity": 3,
     "icon": "icon/item/300041.png",
     "desc": "銀河漫漫無奇不有，這個箱子就裝著各個星球的特產，打開看看吧，也許裡頭有你需要的。",
+    "come_from": []
+  },
+  "300057": {
+    "id": "300057",
+    "name": "覓寶券",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 4,
+    "icon": "icon/item/300057.png",
+    "desc": "",
     "come_from": []
   },
   "300101": {
@@ -33168,6 +34447,26 @@
       "大地獸商隊（流動商人）"
     ]
   },
+  "408441": {
+    "id": "408441",
+    "name": "扎格列斯嚴選蜜酪",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401035.png",
+    "desc": "使用後立即為我方指定單體恢復等同於自身能量上限25%的能量。",
+    "come_from": []
+  },
+  "408442": {
+    "id": "408442",
+    "name": "扎格列斯嚴選麵包乾",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401036.png",
+    "desc": "使用後立即為我方指定單體回復等同於自身生命上限20%的生命值，並額外回復240點生命值。",
+    "come_from": []
+  },
   "408601": {
     "id": "408601",
     "name": "貝洛伯格臘腸",
@@ -33633,6 +34932,26 @@
     "come_from": [
       "哈托努斯鐵匠鋪"
     ]
+  },
+  "408640": {
+    "id": "408640",
+    "name": "扎格列斯嚴選視肉",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/403007.png",
+    "desc": "使用後我方全體在下次戰鬥中造成的冰屬性傷害提高20%。",
+    "come_from": []
+  },
+  "408641": {
+    "id": "408641",
+    "name": "扎格列斯嚴選紅豆",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/180007.png",
+    "desc": "使用後我方全體在下次戰鬥中防禦力提高30%。",
+    "come_from": []
   },
   "408801": {
     "id": "408801",

@@ -140,6 +140,18 @@
     "desc": "40 개척력을 소모하여 「시뮬레이션 우주」에서 몰입 보상을 교환할 수 있습니다",
     "come_from": []
   },
+  "34": {
+    "id": "34",
+    "name": "심층 몰입기",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 4,
+    "icon": "icon/item/34.png",
+    "desc": "「스타피스 가이드」에서 차원 장신구를 빠르게 추출할 수 있다",
+    "come_from": [
+      "「화폐 전쟁」 점수 보상"
+    ]
+  },
   "41": {
     "id": "41",
     "name": "업적 포인트",
@@ -218,7 +230,9 @@
     "rarity": 4,
     "icon": "icon/item/110.png",
     "desc": "개척력과 함께 사용하면 모조 꽃받침/정체된 허영이 생성하는 재료를 빠르게 획득할 수 있다",
-    "come_from": []
+    "come_from": [
+      "「화폐 전쟁」 점수 보상"
+    ]
   },
   "170": {
     "id": "170",
@@ -468,6 +482,7 @@
     "icon": "icon/item/241.png",
     "desc": "행적 레벨업의 고급 소재",
     "come_from": [
+      "「화폐 전쟁」 점수 보상",
       "시뮬레이션 우주 점수 보상",
       "무명의 공훈",
       "잔화 교환",
@@ -560,6 +575,8 @@
     "icon": "icon/item/281.png",
     "desc": "상점 「영혼이 모여 주조된 별」에서 ★5 캐릭터로 교환할 수 있다",
     "come_from": [
+      "별들의 동행자",
+      "별들의 동행자(이번 시즌 수령 완료)",
       "성혼이 최대치인 ★5 캐릭터 2회 중복 획득 시 교환 가능",
       "성혼이 최대치인 ★5 캐릭터 2회 중복 획득 시 교환 가능"
     ]
@@ -597,6 +614,7 @@
     "icon": "icon/item/503.png",
     "desc": "「시뮬레이션 우주」 보상. 헤르타 상점에서 아이템을 구매할 수 있다",
     "come_from": [
+      "「화폐 전쟁」 점수 보상",
       "시뮬레이션 우주 점수 보상"
     ]
   },
@@ -638,6 +656,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "불을 쫓는 자에게 바치는 축복\n\n신과 함께 춤추고, 영웅의 불을 이어받아 스러져 가는 거인을 되살리길.\n운명을 뒤엎고, 새벽의 빛으로 하늘과 중생을 비추길.\n그대가 이곳에 남긴 흔적은 영원히 전해지는 시가 될 것이다",
+    "come_from": []
+  },
+  "821": {
+    "id": "821",
+    "name": "어제의 내일이 되어",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/821.png",
+    "desc": "기억 속 편지",
     "come_from": []
   },
   "71000": {
@@ -3004,6 +3032,92 @@
       "「만능 합성기」- 유물 합성"
     ]
   },
+  "83231": {
+    "id": "83231",
+    "name": "영원의 땅 앰포리어스",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83232": {
+    "id": "83232",
+    "name": "영원의 땅 앰포리어스",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83233": {
+    "id": "83233",
+    "name": "영원의 땅 앰포리어스",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83234": {
+    "id": "83234",
+    "name": "영원의 땅 앰포리어스",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": [
+      "「차분화 우주」 차원 장신구 추출",
+      "「만능 합성기」- 유물 합성"
+    ]
+  },
+  "83241": {
+    "id": "83241",
+    "name": "텐고쿠@라이브스트리밍",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83242": {
+    "id": "83242",
+    "name": "텐고쿠@라이브스트리밍",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83243": {
+    "id": "83243",
+    "name": "텐고쿠@라이브스트리밍",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83244": {
+    "id": "83244",
+    "name": "텐고쿠@라이브스트리밍",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": [
+      "「차분화 우주」 차원 장신구 추출",
+      "「만능 합성기」- 유물 합성"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "차원 장신구",
@@ -4010,6 +4124,19 @@
       "「만능 합성기」- 재료 치환"
     ]
   },
+  "110432": {
+    "id": "110432",
+    "name": "눈부신 홍염",
+    "type": "Material",
+    "sub_type": "AvatarRank",
+    "rarity": 4,
+    "icon": "icon/item/110432.png",
+    "desc": "정오의 그리핀이 남긴 기이한 형태의 머리 장식. 화염 속성 캐릭터의 승급 소재",
+    "come_from": [
+      "정체된 허영 [{TextID#FloorName_20422001}]",
+      "「만능 합성기」- 재료 치환"
+    ]
+  },
   "110433": {
     "id": "110433",
     "name": "세이렌의 지느러미 잔해",
@@ -4144,6 +4271,18 @@
     "desc": "행적 레벨업의 고급 소재",
     "come_from": [
       "전쟁의 여운 [「천궁 요새」 조석의 눈]"
+    ]
+  },
+  "110508": {
+    "id": "110508",
+    "name": "범람을 끊는 침묵",
+    "type": "Material",
+    "sub_type": "WeeklyMonsterDrop",
+    "rarity": 4,
+    "icon": "icon/item/110508.png",
+    "desc": "행적 레벨업의 고급 소재",
+    "come_from": [
+      "전쟁의 여운 [{TextID#FloorName_20481001}]"
     ]
   },
   "111000": {
@@ -4806,6 +4945,16 @@
     "desc": "요정들이 요리할 때 사용하는 전설의 주방 도구. 광추 「영원한 미궁의 식사」를 중첩할 수 있다",
     "come_from": []
   },
+  "121006": {
+    "id": "121006",
+    "name": "불완전한 추억",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121006.png",
+    "desc": "수정 같은 기억의 꽃, 결함이 있고 쉽게 부서진다. 광추 「핑크빛 내일을 향해」 중첩에 사용할 수 있다",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "에이딘 코인",
@@ -4818,6 +4967,28 @@
       "에이딘 코인 상점",
       "「페나코니」 탐사 획득"
     ]
+  },
+  "123000": {
+    "id": "123000",
+    "name": "액세스 카드",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "헤르타 정거장의 신비한 컬렉션룸에 있는 「유물 보물상자」를 여는 데 사용할 수 있다",
+    "come_from": [
+      "「기이한 유물 탐사」 이벤트로 획득"
+    ]
+  },
+  "123001": {
+    "id": "123001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123001.png",
+    "desc": "",
+    "come_from": []
   },
   "140000": {
     "id": "140000",
@@ -9933,6 +10104,116 @@
     "desc": "기물, 「지식」 세계의 경계의 닻. 거센 디지털 해일의 영향으로부터 개체의 데이터 구조를 보호한다.\n필요시 그것은 내부와 외부를 연결하는 다리 역할을 하기도 한다",
     "come_from": []
   },
+  "140597": {
+    "id": "140597",
+    "name": "꿈의 커튼콜",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140597.png",
+    "desc": "<i>언제 찍었는지 모를 사진이지만, 그 사실적인 감촉은 의심할 여지가 없다. 과거에 이 장면은 분명히 일어났고, 이렇게 증거로 남겨졌다——비록 아는 사람은 적지만, 한 소녀가 지난날의 좋은꿈을 떠올릴 때면 미소를 짓게 될 것이다.</i>\n\n꿈을 꾸는 사람은 꿈을 만드는 사람이기도 하며, 꿈을 만드는 사람은 꿈을 꾸는 사람이기도 하다.\n자신의 지난날을 바치고서야 가장 아름다운 꿈세계를 짤 수 있다.\n사람들은 그 속에 빠져들지 않고, 깨어나기를 거부하지도 않는다. 그들은 좋은꿈 속에서 미래를 마주할 용기를 다시 얻게 된다.\n그리고, 내일을 향해 나아간다",
+    "come_from": []
+  },
+  "140598": {
+    "id": "140598",
+    "name": "꿈의 커튼콜",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140598.png",
+    "desc": "<i>기억이 최종적으로 어떻게 나타날지는 당신이 결정하는 것이다. 그 좋은꿈이 끝날 때, 당신은 반디가 원하는 방식으로 그녀를 기억에 새겼다.</i>\n\n꿈을 꾸는 사람은 꿈을 만드는 사람이기도 하며, 꿈을 만드는 사람은 꿈을 꾸는 사람이기도 하다.\n자신의 지난날을 바치고서야 가장 아름다운 꿈세계를 짤 수 있다.\n사람들은 그 속에 빠져들지 않고, 깨어나기를 거부하지도 않는다. 그들은 좋은꿈 속에서 미래를 마주할 용기를 다시 얻게 된다.\n그리고, 내일을 향해 나아간다",
+    "come_from": []
+  },
+  "140599": {
+    "id": "140599",
+    "name": "「분쟁」의 반지",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140599.png",
+    "desc": "「분쟁의 승자」——마이데이의 선물. 왕이자 수호자로서의 영광과 속박을 상징한다",
+    "come_from": []
+  },
+  "140600": {
+    "id": "140600",
+    "name": "「계략」의 동전",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140600.png",
+    "desc": "「계략의 방랑객」——사이퍼의 선물. 그녀의 장난스럽지만 진심 어린 축복과 갈망을 상징한다",
+    "come_from": []
+  },
+  "140601": {
+    "id": "140601",
+    "name": "「죽음」의 서리꽃",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140601.png",
+    "desc": "「내세의 시녀」——카스토리스의 선물. 저편에서 지켜보는 그녀의 강인함과 평화로움을 상징한다",
+    "come_from": []
+  },
+  "140602": {
+    "id": "140602",
+    "name": "「통로」의 봉제 인형",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140602.png",
+    "desc": "「통로의 성녀」——트리스비오스의 선물. 그녀의 수많은 몸으로 나뉜 원행과 결코 변치 않는 신념과 공감을 상징한다",
+    "come_from": []
+  },
+  "140603": {
+    "id": "140603",
+    "name": "「낭만」의 팔찌",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140603.png",
+    "desc": "「낭만의 방직공」——아글라이아의 선물. 그녀의 냉담한 아름다움 아래 한결같은 이타심과 절제를 상징한다",
+    "come_from": []
+  },
+  "140604": {
+    "id": "140604",
+    "name": "「천공」의 영궤",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140604.png",
+    "desc": "「하늘의 의사」——히아킨의 선물. 모든 이를 평등하게 사랑하는 그녀의 부드러움과 헌신을 상징한다",
+    "come_from": []
+  },
+  "140605": {
+    "id": "140605",
+    "name": "「이성」의 결정",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140605.png",
+    "desc": "「이성의 학자」——아낙사의 선물. 그가 후대에 담담하게 남긴 계몽과 비판 정신을 상징한다",
+    "come_from": []
+  },
+  "140606": {
+    "id": "140606",
+    "name": "「부세」의 염원",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140606.png",
+    "desc": "세상을 구하려면 무거운 염원을 짊어져야만 하는 법. 그것을 내려놓아야만 집념에서 벗어날 수 있다",
+    "come_from": []
+  },
+  "140607": {
+    "id": "140607",
+    "name": "「부세」의 절망",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140607.png",
+    "desc": "세상을 구하려면 뜨거운 절망이 따르기 마련인 법. 그것을 부숴야만 집념에서 벗어날 수 있다",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "Mar. 7th와 함께 찍은 사진",
@@ -11060,7 +11341,7 @@
     "sub_type": "Mission",
     "rarity": 3,
     "icon": "icon/item/150088.png",
-    "desc": "모험 종막의 보물, 전설 서막의 표지판. 「재창기」 이후의 새로운 구조에서 탄생했다.\n앰포리어스 영웅 서사시의 영향을 받아 황금 사과의 모습으로 나타났다.\n\n<i>[세월에 문명을 부여하고, 시간에 생명을 부여하리]</i>",
+    "desc": "<b>각 의상공에 해당하는 약충 예언 수수께끼를 풀면 획득할 수 있으며, 영원의 페이지에서 특별한 기념품으로 교환할 수 있다.</b>\n모험 종막의 보물, 전설 서막의 표지판. 「재창기」 이후의 새로운 구조에서 탄생했다.\n앰포리어스 영웅 서사시의 영향을 받아 황금 사과의 모습으로 나타났다.\n\n<i>「세월에 문명을 부여하고, 시간에 생명을 부여하리」</i>",
     "come_from": []
   },
   "150087": {
@@ -20412,6 +20693,106 @@
     "desc": "앰포리어스 개척 일지•재창기 이전",
     "come_from": []
   },
+  "191935": {
+    "id": "191935",
+    "name": "한 장의 메시지: 트리비",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 트리비",
+    "come_from": []
+  },
+  "191936": {
+    "id": "191936",
+    "name": "한 장의 메시지: 케리드라",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 케리드라",
+    "come_from": []
+  },
+  "191937": {
+    "id": "191937",
+    "name": "한 장의 메시지: 히실렌스",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 히실렌스",
+    "come_from": []
+  },
+  "191938": {
+    "id": "191938",
+    "name": "한 장의 메시지: 히아킨",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 히아킨",
+    "come_from": []
+  },
+  "191939": {
+    "id": "191939",
+    "name": "한 장의 메시지: 파이논",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 파이논",
+    "come_from": []
+  },
+  "191940": {
+    "id": "191940",
+    "name": "한 장의 메시지: 아낙사",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 아낙사",
+    "come_from": []
+  },
+  "191941": {
+    "id": "191941",
+    "name": "한 장의 메시지: 아글라이아",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 아글라이아",
+    "come_from": []
+  },
+  "191942": {
+    "id": "191942",
+    "name": "한 장의 메시지: 마이데이",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 마이데이",
+    "come_from": []
+  },
+  "191943": {
+    "id": "191943",
+    "name": "한 장의 메시지: 카스토리스",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 카스토리스",
+    "come_from": []
+  },
+  "191944": {
+    "id": "191944",
+    "name": "한 장의 메시지: 사이퍼",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "한 장의 메시지: 사이퍼",
+    "come_from": []
+  },
   "191945": {
     "id": "191945",
     "name": "정체불명의 방문객이 남긴 메시지",
@@ -20420,6 +20801,156 @@
     "rarity": 1,
     "icon": "icon/item/190018.png",
     "desc": "정체불명의 방문객이 남긴 메시지",
+    "come_from": []
+  },
+  "191946": {
+    "id": "191946",
+    "name": "제피로의 잠언",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "제피로의 잠언",
+    "come_from": []
+  },
+  "191947": {
+    "id": "191947",
+    "name": "팬틸리아의 잠언",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "팬틸리아의 잠언",
+    "come_from": []
+  },
+  "191948": {
+    "id": "191948",
+    "name": "아삿 프라마드의 잠언",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "아삿 프라마드의 잠언",
+    "come_from": []
+  },
+  "191949": {
+    "id": "191949",
+    "name": "셀레노바의 잠언",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "셀레노바의 잠언",
+    "come_from": []
+  },
+  "191950": {
+    "id": "191950",
+    "name": "과거의 초대장",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "과거의 초대장",
+    "come_from": []
+  },
+  "191951": {
+    "id": "191951",
+    "name": "기나긴 명단",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190017.png",
+    "desc": "기나긴 명단",
+    "come_from": []
+  },
+  "191952": {
+    "id": "191952",
+    "name": "≪다크 플레임 나이트 라이즈≫ 시사회 인터뷰",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190013.png",
+    "desc": "≪다크 플레임 나이트 라이즈≫ 시사회 인터뷰",
+    "come_from": []
+  },
+  "191953": {
+    "id": "191953",
+    "name": "배교자의 편지",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "배교자의 편지",
+    "come_from": []
+  },
+  "191954": {
+    "id": "191954",
+    "name": "스텔라론에 관한 송가",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "스텔라론에 관한 송가",
+    "come_from": []
+  },
+  "191955": {
+    "id": "191955",
+    "name": "≪곤충 떼 재난 속 세계: 질서 회복≫ 시리즈 전단지",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190015.png",
+    "desc": "≪곤충 떼 재난 속 세계: 질서 회복≫ 시리즈 전단지",
+    "come_from": []
+  },
+  "191956": {
+    "id": "191956",
+    "name": "「꿈의 주인」의 답장",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "「꿈의 주인」의 답장",
+    "come_from": []
+  },
+  "191957": {
+    "id": "191957",
+    "name": "전하지 못한 기도서",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "전하지 못한 기도서",
+    "come_from": []
+  },
+  "191958": {
+    "id": "191958",
+    "name": "δ-me13 실험 기록 (3부)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "δ-me13 실험 기록 (3부)",
+    "come_from": []
+  },
+  "191959": {
+    "id": "191959",
+    "name": "꿈의 커튼콜",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "꿈의 커튼콜",
+    "come_from": []
+  },
+  "191960": {
+    "id": "191960",
+    "name": "꿈의 커튼콜",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "꿈의 커튼콜",
     "come_from": []
   },
   "210001": {
@@ -22024,22 +22555,22 @@
   },
   "210410": {
     "id": "210410",
-    "name": "≪NAME==미소스≫",
+    "name": "≪NAME == 미소스≫",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪NAME==미소스≫가 수록되어 있다",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪NAME == 미소스≫가 수록되어 있다",
     "come_from": []
   },
   "210411": {
     "id": "210411",
-    "name": "≪NAME==로고스≫",
+    "name": "≪NAME == 로고스≫",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪NAME==로고스≫가 수록되어 있다",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪NAME == 로고스≫가 수록되어 있다",
     "come_from": []
   },
   "210412": {
@@ -22070,6 +22601,136 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪불결한 피≫가 수록되어 있다",
+    "come_from": []
+  },
+  "210415": {
+    "id": "210415",
+    "name": "≪실속 비행≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪실속 비행≫이 수록되어 있다",
+    "come_from": []
+  },
+  "210416": {
+    "id": "210416",
+    "name": "≪신들의 종착점≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪신들의 종착점≫이 수록되어 있다",
+    "come_from": []
+  },
+  "210417": {
+    "id": "210417",
+    "name": "≪신기루≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪신기루≫가 수록되어 있다",
+    "come_from": []
+  },
+  "210418": {
+    "id": "210418",
+    "name": "≪검총≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪검총≫이 수록되어 있다",
+    "come_from": []
+  },
+  "210419": {
+    "id": "210419",
+    "name": "≪영원의 페이지≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪영원의 페이지≫가 수록되어 있다",
+    "come_from": []
+  },
+  "210420": {
+    "id": "210420",
+    "name": "≪신국을 태우는 불≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪신국을 태우는 불≫이 수록되어 있다",
+    "come_from": []
+  },
+  "210421": {
+    "id": "210421",
+    "name": "≪강물처럼 모인 고난≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪강물처럼 모인 고난≫이 수록되어 있다",
+    "come_from": []
+  },
+  "210422": {
+    "id": "210422",
+    "name": "≪신의 면류관을 부숴라≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪신의 면류관을 부숴라≫가 수록되어 있다",
+    "come_from": []
+  },
+  "210423": {
+    "id": "210423",
+    "name": "≪바이러스≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪바이러스≫가 수록되어 있다",
+    "come_from": []
+  },
+  "210424": {
+    "id": "210424",
+    "name": "≪꿈을 기억하는 회랑≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪꿈을 기억하는 회랑≫이 수록되어 있다",
+    "come_from": []
+  },
+  "210425": {
+    "id": "210425",
+    "name": "≪신의 강림≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪신의 강림≫이 수록되어 있다",
+    "come_from": []
+  },
+  "210426": {
+    "id": "210426",
+    "name": "≪좀먹은 꿈≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪좀먹은 꿈≫이 수록되어 있다",
+    "come_from": []
+  },
+  "210427": {
+    "id": "210427",
+    "name": "≪악몽의 징조≫",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "열차의 축음기에서 재생할 수 있는 레코드판. 우연히 얻을 수도, 다른 사람에게 선물 받을 수도 있다. 음악이 흘러나오면 미소와 만남, 감동, 그리고 전투의 흥분 같은 모든 기억이 떠오른다. 이게 바로 빠르게 발전하는 시대 속에서도 레코드판을 수집하는 사람이 있는 이유 아닐까?\n이 레코드판에는 ≪악몽의 징조≫가 수록되어 있다",
     "come_from": []
   },
   "220000": {
@@ -22179,6 +22840,18 @@
     "desc": "문자 메시지와 채팅 대화창. 획득 후 문자 메시지나 채팅에서 변경할 수 있다",
     "come_from": [
       "「아옹아옹 사무소」 이벤트로 획득한 채팅 말풍선"
+    ]
+  },
+  "220009": {
+    "id": "220009",
+    "name": "우리는 챔피언!",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220009.png",
+    "desc": "문자 메시지와 채팅 대화창. 획득 후 문자 메시지나 채팅에서 변경할 수 있다",
+    "come_from": [
+      "「아옹 황금 챔피언십」 이벤트로 획득한 채팅 말풍선"
     ]
   },
   "221000": {
@@ -24968,7 +25641,7 @@
     "sub_type": "HeadIconFrame",
     "rarity": 5,
     "icon": "icon/item/226001.png",
-    "desc": "대국에서 승리한 자만이 가질 수 있는 장식 프레임. 그중 「병졸」은 성장을 갈망하며 싸워나가는 평범한 이를 상징한다",
+    "desc": "대국에서 승리한 자만이 가질 수 있는 장식 프레임. 그중 「병사」는 성장을 갈망하며 나아가는 평범한 이를 상징한다",
     "come_from": []
   },
   "226002": {
@@ -25000,6 +25673,42 @@
     "icon": "icon/item/226004.png",
     "desc": "대국에서 승리한 자만이 가질 수 있는 장식 프레임. 그중 「제왕」은 유아독존의 권력을 상징한다",
     "come_from": []
+  },
+  "227001": {
+    "id": "227001",
+    "name": "구세주의 월계관",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227001.png",
+    "desc": "앰포리어스가 {NICKNAME}에게 바치는 월계관",
+    "come_from": [
+      "「내가 쓰는 대로」에서 획득"
+    ]
+  },
+  "227002": {
+    "id": "227002",
+    "name": "쓰레기 기사",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227002.png",
+    "desc": "완•매의 어떤 창조물을 원형으로 제작된 머리 장식",
+    "come_from": [
+      "「달려라, 디저트!」 이벤트 참여 후 획득한 개척 코디"
+    ]
+  },
+  "227003": {
+    "id": "227003",
+    "name": "Hello, 미World!",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227003.png",
+    "desc": "미미 모양의 푹신한 모자",
+    "come_from": [
+      "이전 「꿈을 줍는 청춘」 이벤트 참여 후 획득한 개척 코디"
+    ]
   },
   "250001": {
     "id": "250001",
@@ -29743,6 +30452,486 @@
     "desc": "{TEXTJOIN#247}의 머리장식",
     "come_from": []
   },
+  "265001": {
+    "id": "265001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265002": {
+    "id": "265002",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265003": {
+    "id": "265003",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265004": {
+    "id": "265004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265005": {
+    "id": "265005",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265006": {
+    "id": "265006",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265007": {
+    "id": "265007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265008": {
+    "id": "265008",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265009": {
+    "id": "265009",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265010": {
+    "id": "265010",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265011": {
+    "id": "265011",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265012": {
+    "id": "265012",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265013": {
+    "id": "265013",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265014": {
+    "id": "265014",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265015": {
+    "id": "265015",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265016": {
+    "id": "265016",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265017": {
+    "id": "265017",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265018": {
+    "id": "265018",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265019": {
+    "id": "265019",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265020": {
+    "id": "265020",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265021": {
+    "id": "265021",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265022": {
+    "id": "265022",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265023": {
+    "id": "265023",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265024": {
+    "id": "265024",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265025": {
+    "id": "265025",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265026": {
+    "id": "265026",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265027": {
+    "id": "265027",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265028": {
+    "id": "265028",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265029": {
+    "id": "265029",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265030": {
+    "id": "265030",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265031": {
+    "id": "265031",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265032": {
+    "id": "265032",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265033": {
+    "id": "265033",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265034": {
+    "id": "265034",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265035": {
+    "id": "265035",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265036": {
+    "id": "265036",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265037": {
+    "id": "265037",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265038": {
+    "id": "265038",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265039": {
+    "id": "265039",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265040": {
+    "id": "265040",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265041": {
+    "id": "265041",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265042": {
+    "id": "265042",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265043": {
+    "id": "265043",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265044": {
+    "id": "265044",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265045": {
+    "id": "265045",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265046": {
+    "id": "265046",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265047": {
+    "id": "265047",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265048": {
+    "id": "265048",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
   "270000": {
     "id": "270000",
     "name": "오늘도 스마일",
@@ -30033,6 +31222,86 @@
     "desc": "",
     "come_from": []
   },
+  "281031": {
+    "id": "281031",
+    "name": "금화",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281031.png",
+    "desc": "「화폐 전쟁」 콘텐츠의 핵심 경제 자원. 파티원 구매, 경험치 향상, 상점 재배치에 사용할 수 있다",
+    "come_from": []
+  },
+  "281032": {
+    "id": "281032",
+    "name": "등가 다이아 지폐",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281032.png",
+    "desc": "「화폐 전쟁」 콘텐츠를 통해 획득할 수 있으며, [우위 선점] 활성화에 사용된다",
+    "come_from": []
+  },
+  "281033": {
+    "id": "281033",
+    "name": "승진 포인트",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281033.png",
+    "desc": "「화폐 전쟁」 콘텐츠를 통해 획득할 수 있으며, [승진 레벨] 상승에 사용된다",
+    "come_from": []
+  },
+  "281034": {
+    "id": "281034",
+    "name": "경험치",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/21.png",
+    "desc": "「화폐 전쟁」에서 팀 규모를 올리는 데 사용되는 경험치 재료. 노드를 클리어할 때마다 자동으로 2pt를 획득하며, 금화로도 구매할 수 있다",
+    "come_from": []
+  },
+  "281035": {
+    "id": "281035",
+    "name": "무료 재배치",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/140150.png",
+    "desc": "「화폐 전쟁」에서 상점 재배치에 사용되는 자원. 이 자원이 있을 땐 상점 재배치 시 금화가 소모되지 않는다",
+    "come_from": []
+  },
+  "281037": {
+    "id": "281037",
+    "name": "골드 초대권",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281037.png",
+    "desc": "「키메라 월드 토너먼트」 전용 초대권, 선택 화면에서 함께 싸우고 싶은 키메라 훈련사를 개방할 수 있다. 토너먼트 참가 시 획득할 수 있다",
+    "come_from": []
+  },
+  "281038": {
+    "id": "281038",
+    "name": "통통 디저트",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/270006.png",
+    "desc": "창조물들이 좋아하는 특제 디저트. 「달려라, 디저트!」 경기에서 창조물을 응원하고 보상을 교환하는 데 사용할 수 있다",
+    "come_from": []
+  },
+  "281039": {
+    "id": "281039",
+    "name": "",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/CakeRaceIconScore.png",
+    "desc": "",
+    "come_from": []
+  },
   "300002": {
     "id": "300002",
     "name": "운명의 길을 걷는 자의 선물",
@@ -30181,6 +31450,16 @@
     "rarity": 3,
     "icon": "icon/item/300041.png",
     "desc": "은하에는 별의별 것이 다 있다. 이 상자에는 다양한 행성의 특산품이 담겨 있다. 안에 필요한 게 있을지도 모르니 한번 열어보자",
+    "come_from": []
+  },
+  "300057": {
+    "id": "300057",
+    "name": "보물 탐색권",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 4,
+    "icon": "icon/item/300057.png",
+    "desc": "",
     "come_from": []
   },
   "300101": {
@@ -33168,6 +34447,26 @@
       "드로마스 상단(이동 상인)"
     ]
   },
+  "408441": {
+    "id": "408441",
+    "name": "자그레우스가 엄선한 꿀치즈",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401035.png",
+    "desc": "사용 후 즉시 지정된 단일 아군의 에너지를 자신의 에너지 최대치의 25%만큼 회복한다",
+    "come_from": []
+  },
+  "408442": {
+    "id": "408442",
+    "name": "자그레우스가 엄선한 러스크",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401036.png",
+    "desc": "사용 후 즉시 지정된 단일 아군의 HP를 자신의 HP 최대치의 20%만큼 회복하고, 추가로 HP를 240pt 회복한다",
+    "come_from": []
+  },
   "408601": {
     "id": "408601",
     "name": "벨로보그 소시지",
@@ -33633,6 +34932,26 @@
     "come_from": [
       "칼토너스의 대장간"
     ]
+  },
+  "408640": {
+    "id": "408640",
+    "name": "자그레우스가 엄선한 시육",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/403007.png",
+    "desc": "사용 후 다음번 전투에서 모든 아군이 가하는 얼음 속성 피해가 20% 증가한다",
+    "come_from": []
+  },
+  "408641": {
+    "id": "408641",
+    "name": "자그레우스가 엄선한 팥",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/180007.png",
+    "desc": "사용 후 다음번 전투에서 모든 아군의 방어력이 30% 증가한다",
+    "come_from": []
   },
   "408801": {
     "id": "408801",

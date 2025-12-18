@@ -2878,5 +2878,65 @@
     "name": "昔漣",
     "type": "事件",
     "image": "image/simulated_event/PicRogueEvent_39.png"
+  },
+  "627101": {
+    "id": "627101",
+    "name": "火漆商人（其一）",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_37.png"
+  },
+  "627102": {
+    "id": "627102",
+    "name": "火漆商人（其二）",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_37.png"
+  },
+  "627201": {
+    "id": "627201",
+    "name": "火漆合成",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_36.png"
+  },
+  "627301": {
+    "id": "627301",
+    "name": "奇美拉辯工作",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_42.png"
+  },
+  "627401": {
+    "id": "627401",
+    "name": "神賜珍寶（其一）",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_32.png"
+  },
+  "627402": {
+    "id": "627402",
+    "name": "神賜珍寶（其二）",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_32.png"
+  },
+  "627403": {
+    "id": "627403",
+    "name": "神賜珍寶（其三）",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_32.png"
+  },
+  "627501": {
+    "id": "627501",
+    "name": "門關月的焚燒",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_43.png"
+  },
+  "627601": {
+    "id": "627601",
+    "name": "劍術練習",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_34.png"
+  },
+  "627701": {
+    "id": "627701",
+    "name": "冥界航行",
+    "type": "事件",
+    "image": "image/simulated_event/PicRogueEvent_33.png"
   }
 }

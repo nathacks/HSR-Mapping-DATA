@@ -1295,6 +1295,118 @@
     "hide_desc": "Restez à mes côtés et devenons des héros ! ※ Terminer la nouvelle ère finale",
     "hide": false
   },
+  "4034701": {
+    "id": "4034701",
+    "series_id": "3",
+    "title": "L'ultime lueur",
+    "desc": "Regardez ! Là où fonce le train, se lèvent l'aurore et la victoire !\n※ Observer {M#le pionnier}{F#la pionnière} briller comme l'Express traversant les cieux",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034702": {
+    "id": "4034702",
+    "series_id": "5",
+    "title": "Pleine lune sous les cerisiers en fleurs",
+    "desc": "Qui reste-t-il en dehors de cette histoire ?\n※ Prendre congé d'Amphoreus et scruter les indices de votre prochaine destination",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034703": {
+    "id": "4034703",
+    "series_id": "3",
+    "title": "La fin est aussi le chaos primordial",
+    "desc": "Écrire un commentaire sur la preuve divine\n※ Prouver à Sagesse... ou non",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034704": {
+    "id": "4034704",
+    "series_id": "3",
+    "title": "Amour, pêche et fleur de cristal",
+    "desc": "Un cœur peut-il éclore sous l'emprise du temps ?\n※ Découvrir le secret de PhiLia093 et du Démiurge",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034705": {
+    "id": "4034705",
+    "series_id": "3",
+    "title": "La dernière grande expédition",
+    "desc": "Le prisonnier ricane et interroge le pantin : qui est le plus fou ?\n※ Atteindre les Ruines du Temps",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034706": {
+    "id": "4034706",
+    "series_id": "3",
+    "title": "L'apocalypse et ses quatre notes de bas de page",
+    "desc": "À droite de l'équation, l'Érudition, tombe dans le silence\n※ Assister à l'avènement de la Destruction",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034707": {
+    "id": "4034707",
+    "series_id": "3",
+    "title": "Son âme contient l'univers tout entier",
+    "desc": "Les étoiles seront témoins de la réponse d'Amphoreus\n※ « Bonjour à toi, monde. »",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034708": {
+    "id": "4034708",
+    "series_id": "3",
+    "title": "Ô Muse, raconte-moi",
+    "desc": "Dans le cône de lumière, le fil du destin s'entrelace\n※ Écrire un point final à cette épopée",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034801": {
+    "id": "4034801",
+    "series_id": "3",
+    "title": "Épitaphe de la vertu",
+    "desc": "Le prix à payer pour s'accrocher à ses convictions est souvent de perdre le chemin du retour\n※ Du point de vue de Luciole, retrouver AR-214",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034802": {
+    "id": "4034802",
+    "series_id": "3",
+    "title": "Le passé reflète l'avenir",
+    "desc": "Le temps danse sur le fil de la lame et seule la lumière peut s'étendre vers l'avenir\n※ Être témoin de la convergence de la Finalité et du Pionnier",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034803": {
+    "id": "4034803",
+    "series_id": "3",
+    "title": "Pas besoin de raison pour voler",
+    "desc": "Même s'il est trop tard, on peut toujours chanter les chansons qu'on veut\n※ Assister au Festival Ôdiapason des chasseurs de rêves",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034804": {
+    "id": "4034804",
+    "series_id": "3",
+    "title": "La vie et la mort se croisent",
+    "desc": "Le temps anime tous les êtres vivants, et aussi ce qui les éteint\n※ Découvrir la vérité sur Terminus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034805": {
+    "id": "4034805",
+    "series_id": "3",
+    "title": "Les souvenirs sont le prélude aux rêves",
+    "desc": "Une personne peut donner la mort, mais la beauté exige une réponse\n※ Honorer la promesse faite à Luciole",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4034806": {
+    "id": "4034806",
+    "series_id": "3",
+    "title": "L'Oubli est le dernier voile des rêves",
+    "desc": "Toute vie est faite de mystère, tout mystère est voilé de ténèbres, toutes ténèbres portent l'espoir, et tout espoir obéit à la vie\n※ Trouver un souvenir laissé par Le Dahlia",
+    "hide_desc": "",
+    "hide": true
+  },
   "4040101": {
     "id": "4040101",
     "series_id": "4",
@@ -2865,7 +2977,7 @@
   },
   "4044503": {
     "id": "4044503",
-    "series_id": "4",
+    "series_id": "8",
     "title": "Monde aquatique futuriste",
     "desc": "Les prêtres de Phagousa le disent toujours : ne nagez jamais dans la Rivière des âmes...\n※ Durant l'exploration d'Amphoreus, se faire emporter par les eaux instables",
     "hide_desc": "",
@@ -2873,7 +2985,7 @@
   },
   "4044504": {
     "id": "4044504",
-    "series_id": "4",
+    "series_id": "8",
     "title": "La mort d'Eschyle",
     "desc": "Les prêtres de Phagousa le disent toujours : attention aux objets qui tombent de haut...\n※ Durant l'exploration d'Amphoreus, se faire assommer par un lustre qui s'effondre",
     "hide_desc": "",
@@ -3009,7 +3121,7 @@
   },
   "4044606": {
     "id": "4044606",
-    "series_id": "4",
+    "series_id": "8",
     "title": "Un gros vent",
     "desc": "Tenter de traverser le ventilateur sans les capacités d'arrêt temporel et échouer",
     "hide_desc": "",
@@ -3092,6 +3204,174 @@
     "series_id": "4",
     "title": "Secrets du chant des insectes : Sagesse dans l'enfermement",
     "desc": "Comment offrir l'infinité ?\n※ Résoudre l'énigme de la prophétie au Bosquet de l'épiphanie, le Luminobois cicatriciel",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044701": {
+    "id": "4044701",
+    "series_id": "4",
+    "title": "Véritable {F#déesse}{M#dieu} des trésors d'Amphoreus",
+    "desc": "Ouvrir #1[i] coffres au trésor à Amphoreus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044702": {
+    "id": "4044702",
+    "series_id": "4",
+    "title": "Secrets du chant des insectes : Baiser du Temps",
+    "desc": "Mais quel pont étrange\n※ Résoudre l'énigme de la prophétie au Grand tombeau du Titan Sans Nom, les Résidus du cauchemar",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044703": {
+    "id": "4044703",
+    "series_id": "4",
+    "title": "Secrets du chant des insectes : Allégorie de la caverne",
+    "desc": "Que trouve-t-on à la frontière de l'Exo mythe ?\n※ Résoudre l'énigme aux Ruines du Temps, la Rive des souvenirs oubliés",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044704": {
+    "id": "4044704",
+    "series_id": "4",
+    "title": "La main d'or d'Okhema",
+    "desc": "Construire un paradis éternel pour les tisseurs\n※ Récupérer les bénédictions de #1 réminides de la Création",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044705": {
+    "id": "4044705",
+    "series_id": "4",
+    "title": "Ainsi s'achève l'œuvre de toute création",
+    "desc": "Recevoir toutes les bénédictions des réminides de la Création et résoudre chaque énigme de la prophétie",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044706": {
+    "id": "4044706",
+    "series_id": "8",
+    "title": "La Main de l'ombre, fidèle compagne de mon destin",
+    "desc": "Découvrir chaque accident provoqué par les artefacts d'Amphoreus",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044707": {
+    "id": "4044707",
+    "series_id": "4",
+    "title": "Épitaphe du feu",
+    "desc": "Terminer le Bouc émissaire doré spécial des Ruines du Temps",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044708": {
+    "id": "4044708",
+    "series_id": "4",
+    "title": "Théorie des architectures des portails",
+    "desc": "Actionner l'engrenage caché au Grand tombeau du Titan Sans Nom, les Résidus du cauchemar et réécrire la logique des Passages secrets de Janus à Amphoreus",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044709": {
+    "id": "4044709",
+    "series_id": "4",
+    "title": "Ruses, temps et semences",
+    "desc": "Invoquer le Pickpo-spectre dans les Ruines du Temps",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044710": {
+    "id": "4044710",
+    "series_id": "4",
+    "title": "Palais aux confins du vent d'ouest",
+    "desc": "Découvrir où se cache la Pickpo-spectre",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044711": {
+    "id": "4044711",
+    "series_id": "4",
+    "title": "Trois battements de l'aube et du crépuscule",
+    "desc": "Lire toutes les enluminures aux Ruines du Temps",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044712": {
+    "id": "4044712",
+    "series_id": "4",
+    "title": "Le drap des souvenirs",
+    "desc": "Recevoir le soutien de March 7th pour renforcer le pouvoir de la prière d'Oronyx",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044713": {
+    "id": "4044713",
+    "series_id": "4",
+    "title": "Képhale, un nom que le temps ne peut effacer",
+    "desc": "Revivre l'espoir et la détresse du passé lors de l'épreuve du Porte-Monde",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044714": {
+    "id": "4044714",
+    "series_id": "4",
+    "title": "Le crépuscule des dieux",
+    "desc": "Activer pour la première fois le programme cheval de Troie « Gui »",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044715": {
+    "id": "4044715",
+    "series_id": "4",
+    "title": "Pas besoin de deuxième essai",
+    "desc": "Piloter manuellement le Gui et atterrir à n'importe quel point de navigation",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044716": {
+    "id": "4044716",
+    "series_id": "4",
+    "title": "Chroniques du cheval de Troie",
+    "desc": "Terminer le Défi de malice",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044717": {
+    "id": "4044717",
+    "series_id": "4",
+    "title": "La plus ancienne des fables",
+    "desc": "Percer les secrets de l'Exo mythe",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044718": {
+    "id": "4044718",
+    "series_id": "4",
+    "title": "Et pour emporter leurs cœurs",
+    "desc": "Se procurer toutes les décorations d'intérieur d'Amphoreus",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044801": {
+    "id": "4044801",
+    "series_id": "4",
+    "title": "La fin des temps",
+    "desc": "Réparer toutes les Horloges des rêves endommagées dans le Rêve du Vieux-Chêne infesté",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044802": {
+    "id": "4044802",
+    "series_id": "4",
+    "title": "Mon péché me poursuit sans cesse",
+    "desc": "Recevoir une lettre du Maître des rêves sur la route non empruntée du Rêve du Vieux-Chêne infesté",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044803": {
+    "id": "4044803",
+    "series_id": "4",
+    "title": "Seule la réflexion demeure au carrefour",
+    "desc": "Suivre un autre sentier sur la route non empruntée du Rêve du Vieux-Chêne infesté",
     "hide_desc": "",
     "hide": false
   },
@@ -6075,7 +6355,7 @@
     "id": "4053703",
     "series_id": "5",
     "title": "SPA détente",
-    "desc": "Essayer #1 bains moussants différents dans la baignoire",
+    "desc": "Essayer #1 bains moussants dans la baignoire : de Parménide, à la rose et le bain moussant extra épicé",
     "hide_desc": "",
     "hide": true
   },
@@ -7741,7 +8021,7 @@
     "title": "Ça en fait plus pour moi !",
     "desc": "Écouter votre bébé draka se plaindre de la nourriture dans l'événement « Petit draka deviendra géant »",
     "hide_desc": "",
-    "hide": false
+    "hide": true
   },
   "4054614": {
     "id": "4054614",
@@ -7749,13 +8029,197 @@
     "title": "Gourmet de l'argile rouge",
     "desc": "S'assurer que votre bébé draka ne se plaigne jamais du goût de la nourriture dans l'événement « Petit draka deviendra géant »",
     "hide_desc": "",
-    "hide": false
+    "hide": true
   },
   "4054615": {
     "id": "4054615",
     "series_id": "5",
     "title": "Parent un jour...",
     "desc": "Obtenir #1 mots de remerciement de votre bébé draka dans l'événement « Petit draka deviendra géant »",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054701": {
+    "id": "4054701",
+    "series_id": "5",
+    "title": "Bain de sang doré",
+    "desc": "Prendre un bain avec le bain moussant chryséen",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054702": {
+    "id": "4054702",
+    "series_id": "5",
+    "title": "Pour l'éternité ou pour un instant",
+    "desc": "Échanger avec tous les Héritiers chryséens dans Une page d'éternité",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054703": {
+    "id": "4054703",
+    "series_id": "5",
+    "title": "Vent glacial et feu ardent",
+    "desc": "La bienveillance est semblable à une torche : plus elle se transmet, plus elle s'embrase\n※ Retourner au District administratif de Jarilo-VI après avoir fait vos adieux à Amphoreus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054704": {
+    "id": "4054704",
+    "series_id": "5",
+    "title": "Immortalité et création",
+    "desc": "Le mot « héros » a toujours eu une signification particulière dans le cœur des gens\n※ Retourner au Havre des astroskiffs du Luofu de Xianzhou après avoir fait vos adieux à Amphoreus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054705": {
+    "id": "4054705",
+    "series_id": "5",
+    "title": "Sirop et hydromel",
+    "desc": "La Chasse aux flammes deviendra-t-elle un simple sujet de conversation ?\n※ Retourner à l'Heure dorée à Penacony après avoir fait vos adieux à Amphoreus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054706": {
+    "id": "4054706",
+    "series_id": "5",
+    "title": "Du passé au futur",
+    "desc": "La Voie du Pionnier a toujours été ainsi : il faut se tenir prêt et garder espoir\n※ Retourner à la Zone de contrôle principale de la Station spatiale Herta après avoir fait vos adieux à Amphoreus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054707": {
+    "id": "4054707",
+    "series_id": "5",
+    "title": "Les vagues ondulantes, comme à nos débuts",
+    "desc": "Se replonger dans les souvenirs de Cyrène à l'Élysée mystérieuse",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054708": {
+    "id": "4054708",
+    "series_id": "5",
+    "title": "Le silence des étoiles demeure aussi énigmatique qu'un secret",
+    "desc": "Consulter les archives de communications entre les différentes factions galactiques et l'équipage de l'Express après la guerre",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054709": {
+    "id": "4054709",
+    "series_id": "5",
+    "title": "Trois victoires consécutives",
+    "desc": "Le coureur ayant reçu votre soutien décroche #1 fois la première place dans Le Grand Pudding Explorer",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054710": {
+    "id": "4054710",
+    "series_id": "5",
+    "title": "On est les champions",
+    "desc": "Le coureur ayant reçu votre soutien décroche la première place dans Le Grand Pudding Explorer",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054711": {
+    "id": "4054711",
+    "series_id": "5",
+    "title": "Rien ne m'empêchera de savourer ces snacks surprises",
+    "desc": "Échanger tous les snacks surprises dans Le Grand Pudding Explorer",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054712": {
+    "id": "4054712",
+    "series_id": "5",
+    "title": "Zone de récompense",
+    "desc": "Recevoir un message de Ruan Mei pendant Le Grand Pudding Explorer",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054801": {
+    "id": "4054801",
+    "series_id": "5",
+    "title": "Les murmures du long sommeil",
+    "desc": "Revivre les rêves du passé dans le Rêve du Vieux-Chêne infesté",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054802": {
+    "id": "4054802",
+    "series_id": "5",
+    "title": "Grand Chelem",
+    "desc": "Remporter #1 victoires en une seule partie lors du Championnagrouu chryséen",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054803": {
+    "id": "4054803",
+    "series_id": "5",
+    "title": "Master des chimères",
+    "desc": "Atteindre le rang or dans le Championnagrouu chryséen",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054804": {
+    "id": "4054804",
+    "series_id": "5",
+    "title": "Aucun suspense",
+    "desc": "Terminer les matchs de classement du Championnat du monde des chimères dans l'événement Championnagrouu chryséen",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054805": {
+    "id": "4054805",
+    "series_id": "5",
+    "title": "Concurrent{F#e} légendaire",
+    "desc": "Remporter #1 matchs contre d'autres joueurs dans l'événement Championnagrouu chryséen",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054806": {
+    "id": "4054806",
+    "series_id": "5",
+    "title": "Champion{F#ne} régional{F#e} d'Okhema",
+    "desc": "Vaincre tous les dresseurs de chimères dans le mode Duel chryséen de l'événement Championnagrouu chryséen",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054807": {
+    "id": "4054807",
+    "series_id": "7",
+    "title": "Contre de Qliphoth",
+    "desc": "Récupérer les points du Compteur de PV #1 fois au cours d'un combat contre le Garde colossépée en n'importe quelle difficulté",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054808": {
+    "id": "4054808",
+    "series_id": "7",
+    "title": "Tir transcendental",
+    "desc": "Avec des cibles alliées, éliminer #1 cibles ennemies à l'arrière contre le Lion trembleterre dans n'importe quelle difficulté",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054809": {
+    "id": "4054809",
+    "series_id": "7",
+    "title": "Diamant fou",
+    "desc": "Terminer le combat contre l'Ombre ravageuse en mode Cauchemar sans que la Surcharge de PV des personnages alliés ne dépasse #1",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054810": {
+    "id": "4054810",
+    "series_id": "7",
+    "title": "Pas le temps de mourir",
+    "desc": "Déclencher l'état Ensemble dans le combat du boss ennemi lors d'un combat contre le Duo synergique dans n'importe quelle difficulté",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054811": {
+    "id": "4054811",
+    "series_id": "7",
+    "title": "Larmes d'une sirène",
+    "desc": "Faire en sorte que la Sirène hallucinogène subisse un coup fatal lors d'un combat contre la Sirène des élégies dans n'importe quelle difficulté",
     "hide_desc": "",
     "hide": false
   },
@@ -8763,7 +9227,7 @@
     "id": "4072401",
     "series_id": "7",
     "title": "Un corps fragile",
-    "desc": "Infliger différents types de faiblesse #1[i] fois à un ennemi pendant un combat avec Louve d'argent",
+    "desc": "Infliger différents types de faiblesse #1[i] fois à un ennemi unique pendant un combat avec Louve d'argent",
     "hide_desc": "",
     "hide": true
   },
@@ -9162,7 +9626,7 @@
   "4073013": {
     "id": "4073013",
     "series_id": "7",
-    "title": "Lady Snowblood",
+    "title": "Dame Sang-de-neige",
     "desc": "Utiliser l'ultime d'Achéron « Rêve flétri écarlate » pour vaincre tous les ennemis et remporter la victoire au cours d'un même combat",
     "hide_desc": "",
     "hide": true
@@ -10075,7 +10539,7 @@
     "id": "4074601",
     "series_id": "7",
     "title": "Rêver à travers le temps, flotter au fil de la vie",
-    "desc": "Utiliser Évanouissement des rêves #1[i] fois au total avec Nox, le mnémesprit du personnage allié Nocterna",
+    "desc": "Faire en sorte que Nox, le mnémesprit de Nocterna, utilise Évanouissement des rêves #1[i] fois au cours d'un même combat",
     "hide_desc": "",
     "hide": true
   },
@@ -10099,7 +10563,7 @@
     "id": "4074604",
     "series_id": "7",
     "title": "Les dragons ont les solutions",
-    "desc": "Joindre le Draco spiritus à un personnage avec des invocations et réaliser #1[i] actions",
+    "desc": "Joindre le Draco spiritus à un personnage avec des invocations et réaliser #1[i] actions au cours d'un même combat",
     "hide_desc": "",
     "hide": true
   },
@@ -10126,6 +10590,102 @@
     "desc": "Une fois le Mnémesprit d'ichor : Serpentes volans en état de Chargement, déclencher plusieurs Contre de couple jusqu'à ce que l'état de Chargement soit dissipé.",
     "hide_desc": "",
     "hide": false
+  },
+  "4074701": {
+    "id": "4074701",
+    "series_id": "7",
+    "title": "L—Lueur infi—finie",
+    "desc": "Faire en sorte que Cyrène accorde une ode à #1 personnages alliés au cours d'un même combat",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074702": {
+    "id": "4074702",
+    "series_id": "7",
+    "title": "Les souvenirs s'étendent comme des vagues ondulantes",
+    "desc": "Au cours d'un même combat, après que {M#le pionnier}{F#la pionnière} a utilisé une attaque renforcée, Cyrène utilise automatiquement Menuet de fleurs et de flèches #1[i] fois.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074703": {
+    "id": "4074703",
+    "series_id": "7",
+    "title": "Tel le cycle de la vie et de la mort, deux fleurs jumelles s'ouvrent",
+    "desc": "Utiliser l'ultime Rugissement de l'apocalypse de l'alliée Castorice lorsque Nouvelle pousse est à #1%",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074704": {
+    "id": "4074704",
+    "series_id": "7",
+    "title": "À Amphoreus",
+    "desc": "Déclencher #1 répliques de soutien différentes à l'aide du Soutien de Cyrène ♪ durant le combat contre l'Anti-créateur, Incarnation de la haine",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074705": {
+    "id": "4074705",
+    "series_id": "7",
+    "title": "Ne pas laisser la rancune obscurcir la voûte étoilée",
+    "desc": "Vaincre l'Anti-créateur, Incarnation de la haine en maintenant la Haine amphoréenne en dessous de #1%",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074706": {
+    "id": "4074706",
+    "series_id": "7",
+    "title": "L'effondrement de la binarité",
+    "desc": "Appliquer Blessure béante #1 fois au Mythos emprisonné ou au Logos manipulé au cours du combat contre l'Anti-créateur, Incarnation de la haine",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074707": {
+    "id": "4074707",
+    "series_id": "7",
+    "title": "Autant en emporte le vent, aussi passager que la rosée et l'éclair",
+    "desc": "Empêcher la Matriarche de la tempête de l'Essaim de pondre l'Enfant du vide lorsque son action est avancée dans l'état Frénésie de reproduction",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074801": {
+    "id": "4074801",
+    "series_id": "7",
+    "title": "Changement de cavalier",
+    "desc": "Remporter un combat avec un Partenaire de danse du Dahlia différent de celui du début de combat",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074802": {
+    "id": "4074802",
+    "series_id": "7",
+    "title": "T'appelles ça une défense ?",
+    "desc": "Éliminer une cible ennemie en état de Protection de robustesse avec des DGT de rupture extrême",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074803": {
+    "id": "4074803",
+    "series_id": "7",
+    "title": "Ça n'arrête pas de danser !",
+    "desc": "Utiliser l'ultime {M#du pionnier}{F#de la pionnière} (L'Harmonie), de Pérégrine et du Dahlia au cours d'un même combat",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074804": {
+    "id": "4074804",
+    "series_id": "7",
+    "title": "1 002 pattes",
+    "desc": "En combat contre le Messager de la mort : Cauchemar de l'Essaim, éliminer tous les Aiguillons juvéniles pour le forcer à quitter l'état Réplication",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074805": {
+    "id": "4074805",
+    "series_id": "7",
+    "title": "Pas d'Essaim sans locustes",
+    "desc": "Pendant le combat contre le Messager de la mort : Cauchemar de l'Essaim, infliger une Rupture de faiblesse au Messager de la mort : Cauchemar de l'Essaim avant d'éliminer tous les Aiguillons juvéniles pour qu'il récupère de la robustesse en quittant l'état Réplication",
+    "hide_desc": "",
+    "hide": true
   },
   "4080101": {
     "id": "4080101",

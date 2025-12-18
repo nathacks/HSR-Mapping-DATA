@@ -3925,12 +3925,17 @@
   "673140": {
     "id": "673140",
     "name": "Eidbewahrer",
-    "desc": "Wenn die Verbündeten insgesamt 12-mal ihre Runde beendet haben, wird die Aktion der ersten Figur in der aktuellen Teamformation und ihres Memogeists um 100 % vorgezogen. Für die nächste(n) 1 Rd. erhält sie am Ende der Runde eine zusätzliche Runde. Nachdem sie in so einer zusätzlichen Runde angegriffen hat, fügt sie dem Angriffsziel zusätzlichen SCH in Höhe von 600% ihres ANG zu. Für jede Stapelung Besessenheit der Verbündeten wird der SCH-Multiplikator um 1% des ursprünglichen Multiplikators erhöht."
+    "desc": "Wenn die Verbündeten insgesamt 12-mal ihre Runde beendet haben, wird die Aktion der ersten Figur in der aktuellen Teamformation und ihres Memogeists um 100 % vorgezogen. Für die nächste(n) 1 Rd. erhält sie am Ende der Runde eine zusätzliche Runde. Nachdem sie in so einer zusätzlichen Runde angegriffen hat, fügt sie dem Angriffsziel zusätzlichen SCH in Höhe von 600% ihrer max. LP zu. Für jede Stapelung Besessenheit der Verbündeten wird der SCH-Multiplikator um 1% des ursprünglichen Multiplikators erhöht."
   },
   "673150": {
     "id": "673150",
     "name": "Priester der Elegie",
     "desc": "„Blume der Vernichtung“ erscheint in der Aktionsreihenfolge: Zeichnet die erhaltenen Stapelzahl von Blazar der Verbündeten auf. Bei der Aktion wird allen Gegnern Feuer-SCH in Höhe von 5000% des aufgezeichneten Werts plus 3000% des Basis-SCH zugefügt und die Aufzeichnungen werden gelöscht. Für jede Stapelung Besessenheit der Verbündeten wird die GES um 1% erhöht. Wenn ein Verbündeter in den Kampf eintritt oder handlungsunfähig wird bzw. ein Memogeist beschworen wird oder verschwindet, wird bei allen Verbündeten Blazar in Höhe von 25% der max. LP aufgeladen."
+  },
+  "673160": {
+    "id": "673160",
+    "name": "Sirene vom Meer",
+    "desc": "Wenn eine verbündete Figur und ihr Memogeist Besessenheit erhalten, sammelt sie die gleiche Stapelzahl an Aufladung. Sobald die Aufladung 50 Stapelung(en) erreicht, tritt sie in den Status „Klagelied“ ein. Nachdem die verbündete Figur in diesem Status angegriffen hat, verbraucht sie 16 Stapelung(en) Aufladung und fügt dem getroffenen Gegner 3-mal Nachgeschmack-SCH in Höhe von 150% ihrer max. LP zu. Der Status endet, wenn die Aufladung auf 0 fällt. Auch im Status Klagelied kann Aufladung gesammelt werden."
   },
   "673210": {
     "id": "673210",
@@ -3997,6 +4002,11 @@
     "name": "Heimat der Oden",
     "desc": "Erhöht die für Schmetterlingsseele benötigte Aufladung um 50%. Nach dem Eintritt in den Status Schmetterlingsseele wird die Aktion aller Verbündeten um 50% vorgezogen und der SCH-Multiplikator des Tatsächlichen SCH von Schmetterlingsseele wird um 50% des ursprünglichen Multiplikators erhöht. Für jede Stapelung Besessenheit der Verbündeten wird dieser zusätzlich um 1% erhöht."
   },
+  "673720": {
+    "id": "673720",
+    "name": "Sterbliche Wesen",
+    "desc": "Im Status Schmetterlingsseele wird der von allen Gegnern erlittene SCH für jeden verbrauchten Fertigkeitspunkt der Verbündeten um 10% erhöht. Diese Effekt ist stapelbar, bis zu 40%. Nach jedem Eintritt in den Status Schmetterlingsseele wird beim ersten Verbrauch von insgesamt 4 Fertigkeitspunkten die Trefferzahl von Schmetterlingsseele um 6 wiederhergestellt. Bis zum Ende dieser Schmetterlingsseele fügen die Verbündeten nach ihren Angriffen den getroffenen Zielen 1-mal Tatsächlichen SCH in Höhe von 60% des ursprünglichen SCH (außer zusätzlichem SCH) zu. Dieser Effekt gilt auch für den erlittenen DoT zu Beginn der Runde der Gegner."
+  },
   "673790": {
     "id": "673790",
     "name": "Kokonhülle-Macher",
@@ -4012,10 +4022,20 @@
     "name": "Caprismus",
     "desc": "Nachdem alle Verbündeten insgesamt 2-mal ihre Ultimates eingesetzt haben, erleidet ein zufälliger Gegner 2 Treffer, die jeweils Wind-SCH in Höhe von 600% des Basis-SCH verursachen. Außerdem erleiden angrenzende Einheiten SCH in Höhe von 30% des ursprünglichen SCH. Jedes Mal, wenn dieser Effekt ausgelöst wird, wird die Trefferzahl in diesem Kampf um 1 und der von Verbündeten verursachte Standardangriff-/Fertigkeits-/Ultimate-SCH um 12% erhöht. Dieser Effekt ist bis zu 15-mal stapelbar."
   },
+  "673890": {
+    "id": "673890",
+    "name": "Selbstlose Riesenschildkröte",
+    "desc": "„Odem der Riesenschildkröte“ erscheint in der Aktionsreihenfolge: Erhöht bei der Aktion den erlittenen SCH aller Gegner für 3 Rd. um 50% und führt insgesamt 3-mal ein Sperrfeuer auf alle Gegner aus, das Eis- und Feuer-SCH in Höhe von 6000% des Basis-SCH verursacht. Ihre Aktion wird um 30% verzögert und der WDS aller Gegner wird unabhängig vom Schwächetyp um 30 reduziert. Beim Schwächebruch werden die Brucheffekte für Eis- und Feuer-Schwächen ausgelöst. Nachdem ein Verbündeter den Ultimate durch Gehirn im Tank aktiviert hat, wird die Aktion von Odem der Riesenschildkröte um 15% vorgezogen."
+  },
   "673920": {
     "id": "673920",
     "name": "Faules Fingergelenk",
     "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, belegt er ihn mit 20 Stapelung(en) Akkord. Nach einem Angriff auf einen Gegner mit Schwächebruch verursachen der aktuelle erlittene DoT und der Akkord-SCH sofort SCH in Höhe von 24% des ursprünglichen SCH."
+  },
+  "673940": {
+    "id": "673940",
+    "name": "Yactors Tor",
+    "desc": "Nach dem Angriff eines Verbündeten besteht eine feste Chance von 60%, einem zufälligen Angriffsziel eine Schwäche eines zufälligen Typs zu implantieren, wobei noch nicht vorhandene Schwächen vorrangig implantiert werden. Die implantierte Schwäche wird entfernt, nachdem der Gegner Schwächebruch erlitten hat. Nach dem Implantieren einer Schwäche wird der Gegner in 5 Stapelung(en) Akkord versetzt und die implantierte Schwäche wird 1-mal aufgezeichnet. Dieser Effekt kann pro Aktion bis zu 2-mal ausgelöst werden. Nachdem ein beliebiger Gegner Schwächebruch erlitten hat, wird für jede aufgezeichnete Schwäche dem Ziel sowie den angrenzenden Einheiten Brucheffekt in Höhe von 250% des entsprechenden Typs zugefügt."
   },
   "673950": {
     "id": "673950",
@@ -4047,10 +4067,20 @@
     "name": "Vollstrecker",
     "desc": "Von Gegnern erlittener DoT kann Kritische Treffer verursachen. Die KRIT-Rate / Der KRIT-SCH entspricht 20% der Gesamtsumme von KRIT-Rate/KRIT-SCH aller Figuren. Der KRIT-SCH kann 120% nicht überschreiten."
   },
+  "674250": {
+    "id": "674250",
+    "name": "Leviathan vom Osten",
+    "desc": "Gegner erleiden 15% mehr Flüstern-SCH. Nachdem Gegner außerhalb ihrer eigenen Runde DoT erlitten haben, erhalten alle Verbündeten Aufladung für Blazar in Höhe von 20% ihres jeweiligen ANG. Dieser Effekt kann bei Gegnern bis zu 2-mal pro Runde ausgelöst werden."
+  },
   "674260": {
     "id": "674260",
     "name": "Einer auf See begraben",
     "desc": "Erhöht die Entfernungsschwelle für Aufladung von Flüstern um 120%. Nachdem ein Verbündeter einen Folgeangriff ausgelöst hat, verursacht Flüstern auf dem Ziel SCH in Höhe von 20% des ursprünglichen SCH."
+  },
+  "674270": {
+    "id": "674270",
+    "name": "Wellenjagender Fisch",
+    "desc": "Zu Beginn der Runde eines Gegners wird die Entfernungsschwelle von Flüstern um 20% erhöht. Dieser Effekt ist stapelbar. Für jeden DoT-Status außer Flüstern wird der Wert zusätzlich um 4% erhöht."
   },
   "674280": {
     "id": "674280",
@@ -4087,6 +4117,11 @@
     "name": "Unheilvoller Flammengeist",
     "desc": "Wenn Verbündete Blazar-SCH verursachen und Gegner sich im DoT-Status befinden, wird der SCH-Multiplikator des Blazar-SCH um 60% des ursprünglichen Multiplikators erhöht. Für jeden Typ von DoT-Status wird der SCH-Multiplikator zusätzlich um 15% erhöht."
   },
+  "674560": {
+    "id": "674560",
+    "name": "Maskierter Fremder",
+    "desc": "35% der von Verbündeten erhaltenen Schildmenge wird in Blazar umgewandelt. Nach dem Ausführen eines Folgeangriffs erhalten alle Verbündeten für 2 Rd. einen Schild in Höhe von 40% ihres ANG."
+  },
   "674570": {
     "id": "674570",
     "name": "Phönix aus der Sonnenkorona",
@@ -4096,6 +4131,11 @@
     "id": "674590",
     "name": "Vorreiter von Kremnos",
     "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, wird Blazar um 25% der max. LP aufgeladen. Wenn alle Gegner Schwächebruch erleiden, wird Blazar zu Beginn der Runde von Verbündeten nicht entfernt."
+  },
+  "674610": {
+    "id": "674610",
+    "name": "Steinlabyrinth",
+    "desc": "Wenn ein Verbündeter 20 oder mehr Stapelung Besessenheit besitzt, werden der von ihm verursachte Folgeangriff und zusätzliche SCH um 100% erhöht. Wenn sich die Anzahl der Verbündeten auf dem Kampffeld ändert, erhält der Verbündete mit der geringsten Stapelzahl von Besessenheit nach Kampfeintritt 8 Stapelung(en)."
   },
   "674620": {
     "id": "674620",
@@ -4157,10 +4197,20 @@
     "name": "Märtyrer des verbotenen Wissens",
     "desc": "Wenn ein Verbündeter seinen Ultimate einsetzt, werden bei allen Verbündeten LP in Höhe von 5% ihrer aktuellen LP verbraucht und ihr verursachter SCH um 30% erhöht. Dieser Effekt ist bis zu 4-fach stapelbar und hält 2 Rd. an."
   },
+  "674890": {
+    "id": "674890",
+    "name": "Notendieb",
+    "desc": "Nach einem erlittenen Angriff eines Gegners erleidet dieser zusätzlich Tatsächlichen SCH in Höhe seiner aktuellen LP, wenn die Stapelzahl von Akkord 10 überschritten wird und der LP-Prozentsatz unter 20% liegt. Dieser Effekt kann pro Gegner bis zu 1-mal ausgelöst werden. Wird der Effekt bei einem Elitegegner ausgelöst, erhalten alle Verbündeten 35% Aufladung für Gehirn im Tank."
+  },
   "674920": {
     "id": "674920",
     "name": "Verwelkter Patient",
     "desc": "Wenn Gegner Akkord-SCH erleiden, erleiden sie zusätzlich 1-mal Akkord-SCH in Höhe von 75% des ursprünglichen SCH. Für jeden Debuff des Ziels wird dieser SCH zusätzlich um 2% erhöht, bis zu 40%."
+  },
+  "674940": {
+    "id": "674940",
+    "name": "Beinlose Eisentaube",
+    "desc": "Nachdem Verbündete Gegner mit Schwächebruch angegriffen haben, wird der WDS-Reduzierungswert dieses Angriffs 1-mal in 75% Super-Bruch-SCH umgewandelt. Jede Stapelung Kritischer Boost verursacht zusätzlich 10% Super-Bruch-SCH."
   },
   "674950": {
     "id": "674950",
@@ -4176,6 +4226,11 @@
     "id": "675140",
     "name": "Richter des Nachtschleiers",
     "desc": "Wenn ein Memogeist verschwindet, wird die GES aller Verbündeten um 25% und ihr KRIT-SCH um 100% erhöht. Dieser Effekt hält 5 Rd. an."
+  },
+  "675150": {
+    "id": "675150",
+    "name": "Goldblut-Memogeist",
+    "desc": "Nachdem ein Verbündeter LP verloren hat, erhält er 5 Stapelung(en) Besessenheit. Dieser Effekt kann bis zu 1-mal ausgelöst werden und kann nach der Aktion einer beliebigen Einheit erneut ausgelöst werden."
   },
   "675160": {
     "id": "675160",
@@ -4212,6 +4267,11 @@
     "name": "Grimmiger Pilger",
     "desc": "Gegner werden beim Kampfeintritt mit Bluten belegt. Im Status Bluten erleiden sie zu Beginn jeder Runde physischen DoT in Höhe von 10% ihrer max. LP. Dieser SCH kann 200% der LP-Gesamtsumme aller Verbündeten nicht überschreiten."
   },
+  "675260": {
+    "id": "675260",
+    "name": "Denkschule des Korbs",
+    "desc": "Erhöht den von Gegnern erlittenen DoT um 20%. Nach einem erlittenen Folgeangriff wird Flüstern aufgeladen, wobei der Aufladewert 2% der Entfernungsschwelle entspricht."
+  },
   "675270": {
     "id": "675270",
     "name": "Knochenpflanzer",
@@ -4231,6 +4291,11 @@
     "id": "675450",
     "name": "Kremnos-Reisender",
     "desc": "Erhöht die erhaltene Schildmenge der Verbündeten um 30%. Nach einem Angriff auf einen Verbündeten, durch den er keinen SCH erlitten hat, verliert er nur 1 Stapelung(en) Kritischer Boost."
+  },
+  "675460": {
+    "id": "675460",
+    "name": "Ritter der Täuschung",
+    "desc": "Jede Stapelung Kritischer Boost erhöht den verursachten Folgeangriff-SCH zusätzlich um 5%. Wenn ein Verbündeter einen Folgeangriff ausführt, erhält er 2 Stapelung(en) Kritischer Boost."
   },
   "675480": {
     "id": "675480",
@@ -4262,10 +4327,20 @@
     "name": "Bote des roten Mondes",
     "desc": "Erhöht den Basiswert von Blazar um 50%. Nachdem ein Verbündeter einen Folgeangriff ausgelöst hat, werden bei dem Verbündeten mit dem aktuell niedrigsten LP-Prozentsatz LP in Höhe von 10% der eigenen max. LP wiederhergestellt."
   },
+  "675580": {
+    "id": "675580",
+    "name": "Furiae-Philosoph",
+    "desc": "Wenn der LP-Prozentsatz einer verbündeten Figur zum ersten Mal in einem Kampf unter 25% fällt, wird ihr Ultimate aktiviert und der Ultimate-SCH dieser Einheit sowie ihres Memogeists ignoriert in diesem Kampf 20% der VTD."
+  },
   "675590": {
     "id": "675590",
     "name": "Legion der Himmelsklinge",
     "desc": "Erhöht die erhaltene Schildmenge um 30%. Nach dem Verursachen von Schwächebruch bei einem Gegner erhalten alle Verbündeten für 2 Rd. einen Schild in Höhe von 15% ihrer max. LP."
+  },
+  "675610": {
+    "id": "675610",
+    "name": "Ruinenläufer",
+    "desc": "Erhöht die max. LP der Verbündeten um 15%. Für jeden aktuell auf dem Kampffeld befindlichen Verbündeten wird der verursachte Nachgeschmack-SCH der Verbündeten um 30% erhöht."
   },
   "675620": {
     "id": "675620",
@@ -4326,6 +4401,11 @@
     "id": "675840",
     "name": "Kind der Helix",
     "desc": "Wenn Gehirn im Tank eines Verbündeten 100 % erreicht, wird sein ANG um 80% erhöht. Nach einem Angriff wird dem Gegner mit den höchsten LP zusätzlicher SCH in Höhe von 80% des ANG zugefügt. Dieser Effekt hält 3 Rd. an."
+  },
+  "675850": {
+    "id": "675850",
+    "name": "Bizarrer Zauberspruch",
+    "desc": "Erhöht den von Verbündeten verursachten Blazar-SCH um 75%. Nach dem Einsatz des Ultimates wird Blazar um 35% der max. LP aufgeladen."
   },
   "675860": {
     "id": "675860",

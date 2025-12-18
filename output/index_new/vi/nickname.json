@@ -177,6 +177,9 @@
     "1317": [
       "Rappa"
     ],
+    "1321": [
+      "Dahlia"
+    ],
     "1401": [
       "Đại Herta"
     ],
@@ -215,6 +218,9 @@
     ],
     "1414": [
       "Dan Heng - Permansor Terrae"
+    ],
+    "1415": [
+      "Cyrene"
     ],
     "8001": [
       "{NICKNAME}"
@@ -683,11 +689,20 @@
     "22005": [
       "Món Ăn Vĩnh Hằng"
     ],
+    "22006": [
+      "Bay Đến Ngày Mai Màu Hồng"
+    ],
     "23049": [
       "Gửi Ánh Sao Của Đêm Dài"
     ],
+    "23050": [
+      "Đừng Quên Ngọn Lửa Của Cô Ấy"
+    ],
     "23051": [
       "Dù Núi Sông Vạn Dặm"
+    ],
+    "23052": [
+      "Nguyện Yêu Như Lúc Này, Mãi Mãi"
     ]
   },
   "relic_sets": {
@@ -840,6 +855,12 @@
     ],
     "322": [
       "Bờ Biển Men Say"
+    ],
+    "323": [
+      "Vùng Đất Vĩnh Hằng Amphoreus"
+    ],
+    "324": [
+      "Tengoku@Livestream"
     ]
   }
 }

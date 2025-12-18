@@ -177,6 +177,9 @@
     "1317": [
       "Rappa"
     ],
+    "1321": [
+      "Die Dahlie"
+    ],
     "1401": [
       "Große Herta"
     ],
@@ -215,6 +218,9 @@
     ],
     "1414": [
       "Dan Heng – Permansor Terrae"
+    ],
+    "1415": [
+      "Cyrene"
     ],
     "8001": [
       "{NICKNAME}"
@@ -683,11 +689,20 @@
     "22005": [
       "Wirrgarten-Restaurant für immer"
     ],
+    "22006": [
+      "Flug in einen rosaroten Morgen"
+    ],
     "23049": [
       "Auf das Sternenlicht der langen Nacht"
     ],
+    "23050": [
+      "Vergiss ihre Flamme niemals"
+    ],
     "23051": [
       "Selbst über endlose Lande"
+    ],
+    "23052": [
+      "Liebe, so ewig wie dieser Moment"
     ]
   },
   "relic_sets": {
@@ -824,7 +839,7 @@
       "Schmiede der Kalpagni-Laterne"
     ],
     "317": [
-      "Lushaka, die versunkenen See"
+      "Lushaka, die versunkene See"
     ],
     "318": [
       "Wunbanana-Park"
@@ -840,6 +855,12 @@
     ],
     "322": [
       "Küste der Weintrunkenheit"
+    ],
+    "323": [
+      "Amphoreus, Land der Ewigkeit"
+    ],
+    "324": [
+      "Tengoku@Livestream"
     ]
   }
 }

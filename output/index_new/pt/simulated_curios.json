@@ -2,14 +2,14 @@
   "1": {
     "id": "1",
     "name": "Dados de Redução de Dimensão",
-    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, 1 Bênção(s) extra(s) pode(m) ser escolhida(s), mas o número de Bênçãos disponíveis será reduzido em 1. Esta Curio será destruída quando o efeito for ativado 2 vez(es).",
+    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, 1 Bênção(s) extra(s) pode(m) ser escolhida(s), mas o número de Bênçãos disponíveis será reduzido em 1. Esta Curio será destruída quando o efeito for ativado 2 vez(es)",
     "bg_desc": "Nove dados de seis lados constituem este dispositivo piramidal bizarro. Pode reduzir o número de dimensões que ocupa continuamente e existe num mundo de três dimensões como uma entidade puramente bidimensional. Ninguém sabe quem o criou ou por quê.",
     "icon": "icon/miracle/1001.png"
   },
   "2": {
     "id": "2",
     "name": "Trametes Caótico",
-    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, aumenta em 1 o número de redefinições de Bênçãos.",
+    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, aumenta em 1 o número de redefinições de Bênçãos",
     "bg_desc": "As nuvens são geradas por um acúmulo de umidade. Elas não servem para nada e se dissipam sem qualquer aviso prévio. Contudo, quando humanos olham para nuvens com formas aleatórias, eles muitas vezes projetam sua imaginação nelas. Os Doutores do Caos não acreditam no niilismo absoluto, ou seja, tudo que parece não ter sentido certamente tem algum propósito irrefutável. O Trametes Caótico é a Curio mais comum entre eles, usada para restaurar a confiança de Autoaniquiladores desesperados para voltar a ter algum propósito na vida.",
     "icon": "icon/miracle/1002.png"
   },
@@ -303,7 +303,7 @@
   "60": {
     "id": "60",
     "name": "Dispensador de Promissórias Angelical",
-    "desc": "Fragmentos Cósmicos não são ganhos vencendo batalhas. Ao ativar este efeito 5 vez(es), esta Curio será destruída e a quantidade de Fragmentos Cósmicos possuídos atualmente será dobrada.",
+    "desc": "Fragmentos Cósmicos não são ganhos vencendo batalhas. Ao ativar este efeito 5 vez(es), esta Curio será destruída e a quantidade de Fragmentos Cósmicos possuídos atualmente será dobrada",
     "bg_desc": "Um dispensador de dívidas distribuído pelo Departamento de Consolidação de Negócios da Corporação da Paz Interastral. Quando a concha externa é aberta, ela se condensará em um contador com forma de anjo por meio da projeção de ondas de partículas de elétrons. A CPI produziu simultaneamente muitos tipos de dispensadores, incluindo uns que podem ser usados no pulso e outros em forma de travesseiros de abraço que ajudam no sono. Para usá-lo, o cliente precisa periodicamente inserir moedas de ouro para retornos muitas vezes maiores que o capital investido ao fim do ciclo da dívida. Em essência, trata-se de um produto de investimento.",
     "icon": "icon/miracle/1044.png"
   },
@@ -394,7 +394,7 @@
   "104": {
     "id": "104",
     "name": "Laços da Família",
-    "desc": "Aumenta o Dano causado de personagens em 30% para cada Curio em posse que foi destruída.",
+    "desc": "Aumenta o Dano causado de personagens em 30% para cada Curio em posse que foi destruída",
     "bg_desc": "Um fugitivo disse ter adquirido Laços da Família após abrir uma caixa peculiar, e inadvertidamente entrou em uma reunião da Família que venera Xipe, a Harmonia. Ele descreveu ter visto uma cena sem precedentes: os desejos de diversos corpos celestiais estavam emaranhados, enrolando-se em um único nó. Sob os Laços da Família, as pessoas arregalavam seus olhos, suas faces demonstravam sorrisos macabros de orelha a orelha, olhando uns para os outros com expressões idênticas. Quando ele expressou uma dúvida ao ver a cena, todos no grande salão simultaneamente levaram seus olhares a ele e falaram com a mesma voz: \"Bem-vindo\". O fugitivo ficou imediatamente assustado e, em desespero, implorou pela sua sobrevivência, com seus olhos também arregalados, seu rosto marcado pelo mesmo sorriso.",
     "icon": "icon/miracle/1057.png"
   },
@@ -415,14 +415,14 @@
   "108": {
     "id": "108",
     "name": "Relógio Cuco Fissurado",
-    "desc": "Diminui o ATQ dos personagens em 5% com uma chance de se dividir em um clone (com um máximo de 3 clones simultâneos) após vencer uma batalha.",
+    "desc": "Diminui o ATQ dos personagens em 5% com uma chance de se dividir em um clone (com um máximo de 3 clones simultâneos) após vencer uma batalha",
     "bg_desc": "Após receber um sinal da Finalidade, os Relógios Cuco conectados à catástrofe apareceram subitamente na Floresta Negra, fazendo com que <i>blockchains</i> de entidades inorgânicas quebrassem por razões desconhecidas. Porém, um Inominado passando pela floresta começou a coletar os relógios, devido a sua paixão, e estava determinado a trazer os relógios de volta para casa com ele. Os Relógios Cuco partidos se rompiam constantemente durante a jornada e, no fim, a nave do Inominado estava cheia até seu limite. Contudo, devido a sua falta de compreensão dos sinais dados pelo fenômeno emergente resultante do rompimento constante dos Relógios Cuco dentro do tempo atribuído, o Inominado foi devorado pelo Enxame na metade da sua viagem interestelar.",
     "icon": "icon/miracle/1053.png"
   },
   "109": {
     "id": "109",
     "name": "Relógio Cuco Fissurado",
-    "desc": "O ATQ do personagem é reduzido em 5%.",
+    "desc": "O ATQ do personagem é reduzido em 5%",
     "bg_desc": "",
     "icon": "icon/miracle/1053.png"
   },
@@ -506,28 +506,28 @@
   "901": {
     "id": "901",
     "name": "Relógio Cuco Fissurado",
-    "desc": "O ATQ do personagem é reduzido em 5%.",
+    "desc": "O ATQ do personagem é reduzido em 5%",
     "bg_desc": "",
     "icon": "icon/miracle/1053.png"
   },
   "902": {
     "id": "902",
     "name": "Relógio Cuco Fissurado",
-    "desc": "O ATQ do personagem é reduzido em 5%.",
+    "desc": "O ATQ do personagem é reduzido em 5%",
     "bg_desc": "",
     "icon": "icon/miracle/1053.png"
   },
   "1001": {
     "id": "1001",
     "name": "Dados de Redução de Dimensão",
-    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, 1 Bênção(s) extra(s) pode(m) ser escolhida(s), mas o número de Bênçãos disponíveis será reduzido em 1. Esta Curio será destruída quando o efeito for ativado 2 vez(es).",
+    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, 1 Bênção(s) extra(s) pode(m) ser escolhida(s), mas o número de Bênçãos disponíveis será reduzido em 1. Esta Curio será destruída quando o efeito for ativado 2 vez(es)",
     "bg_desc": "Nove dados de seis lados constituem este dispositivo piramidal bizarro. Pode reduzir o número de dimensões que ocupa continuamente e existe num mundo de três dimensões como uma entidade puramente bidimensional. Ninguém sabe quem o criou ou por quê.",
     "icon": "icon/miracle/1001.png"
   },
   "1002": {
     "id": "1002",
     "name": "Trametes Caótico",
-    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, aumenta em 1 o número de redefinições de Bênçãos.",
+    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, aumenta em 1 o número de redefinições de Bênçãos",
     "bg_desc": "As nuvens são geradas por um acúmulo de umidade. Elas não servem para nada e se dissipam sem qualquer aviso prévio. Contudo, quando humanos olham para nuvens com formas aleatórias, eles muitas vezes projetam sua imaginação nelas. Os Doutores do Caos não acreditam no niilismo absoluto, ou seja, tudo que parece não ter sentido certamente tem algum propósito irrefutável. O Trametes Caótico é a Curio mais comum entre eles, usada para restaurar a confiança de Autoaniquiladores desesperados para voltar a ter algum propósito na vida.",
     "icon": "icon/miracle/1002.png"
   },
@@ -793,7 +793,7 @@
   "1060": {
     "id": "1060",
     "name": "Dispensador de Promissórias Angelical",
-    "desc": "Fragmentos Cósmicos não são ganhos vencendo batalhas. Ao ativar este efeito 5 vez(es), esta Curio será destruída e a quantidade de Fragmentos Cósmicos possuídos atualmente será dobrada.",
+    "desc": "Fragmentos Cósmicos não são ganhos vencendo batalhas. Ao ativar este efeito 5 vez(es), esta Curio será destruída e a quantidade de Fragmentos Cósmicos possuídos atualmente será dobrada",
     "bg_desc": "Um dispensador de dívidas distribuído pelo Departamento de Consolidação de Negócios da Corporação da Paz Interastral. Quando a concha externa é aberta, ela se condensará em um contador com forma de anjo por meio da projeção de ondas de partículas de elétrons. A CPI produziu simultaneamente muitos tipos de dispensadores, incluindo uns que podem ser usados no pulso e outros em forma de travesseiros de abraço que ajudam no sono. Para usá-lo, o cliente precisa periodicamente inserir moedas de ouro para retornos muitas vezes maiores que o capital investido ao fim do ciclo da dívida. Em essência, trata-se de um produto de investimento.",
     "icon": "icon/miracle/1044.png"
   },
@@ -898,7 +898,7 @@
   "1104": {
     "id": "1104",
     "name": "Laços da Família",
-    "desc": "Aumenta o Dano causado de personagens em 30% para cada Curio em posse que foi destruída.",
+    "desc": "Aumenta o Dano causado de personagens em 30% para cada Curio em posse que foi destruída",
     "bg_desc": "Um fugitivo disse ter adquirido Laços da Família após abrir uma caixa peculiar, e inadvertidamente entrou em uma reunião da Família que venera Xipe, a Harmonia. Ele descreveu ter visto uma cena sem precedentes: os desejos de diversos corpos celestiais estavam emaranhados, enrolando-se em um único nó. Sob os Laços da Família, as pessoas arregalavam seus olhos, suas faces demonstravam sorrisos macabros de orelha a orelha, olhando uns para os outros com expressões idênticas. Quando ele expressou uma dúvida ao ver a cena, todos no grande salão simultaneamente levaram seus olhares a ele e falaram com a mesma voz: \"Bem-vindo\". O fugitivo ficou imediatamente assustado e, em desespero, implorou pela sua sobrevivência, com seus olhos também arregalados, seu rosto marcado pelo mesmo sorriso.",
     "icon": "icon/miracle/1057.png"
   },
@@ -926,14 +926,14 @@
   "1108": {
     "id": "1108",
     "name": "Relógio Cuco Fissurado",
-    "desc": "Diminui o ATQ dos personagens em 5% com uma chance de se dividir em um clone (com um máximo de 3 clones simultâneos) após vencer uma batalha.",
+    "desc": "Diminui o ATQ dos personagens em 5% com uma chance de se dividir em um clone (com um máximo de 3 clones simultâneos) após vencer uma batalha",
     "bg_desc": "Após receber um sinal da Finalidade, os Relógios Cuco conectados à catástrofe apareceram subitamente na Floresta Negra, fazendo com que <i>blockchains</i> de entidades inorgânicas quebrassem por razões desconhecidas. Porém, um Inominado passando pela floresta começou a coletar os relógios, devido a sua paixão, e estava determinado a trazer os relógios de volta para casa com ele. Os Relógios Cuco partidos se rompiam constantemente durante a jornada e, no fim, a nave do Inominado estava cheia até seu limite. Contudo, devido a sua falta de compreensão dos sinais dados pelo fenômeno emergente resultante do rompimento constante dos Relógios Cuco dentro do tempo atribuído, o Inominado foi devorado pelo Enxame na metade da sua viagem interestelar.",
     "icon": "icon/miracle/1053.png"
   },
   "1109": {
     "id": "1109",
     "name": "Relógio Cuco Fissurado",
-    "desc": "O ATQ do personagem é reduzido em 5%.",
+    "desc": "O ATQ do personagem é reduzido em 5%",
     "bg_desc": "Após receber um sinal da Finalidade, os Relógios Cuco conectados à catástrofe apareceram subitamente na Floresta Negra, fazendo com que <i>blockchains</i> de entidades inorgânicas quebrassem por razões desconhecidas. Porém, um Inominado passando pela floresta começou a coletar os relógios, devido a sua paixão, e estava determinado a trazer os relógios de volta para casa com ele. Os Relógios Cuco partidos se rompiam constantemente durante a jornada e, no fim, a nave do Inominado estava cheia até seu limite. Contudo, devido a sua falta de compreensão dos sinais dados pelo fenômeno emergente resultante do rompimento constante dos Relógios Cuco dentro do tempo atribuído, o Inominado foi devorado pelo Enxame na metade da sua viagem interestelar.",
     "icon": "icon/miracle/1053.png"
   },
@@ -1038,28 +1038,28 @@
   "1901": {
     "id": "1901",
     "name": "Relógio Cuco Fissurado",
-    "desc": "O ATQ do personagem é reduzido em 5%.",
+    "desc": "O ATQ do personagem é reduzido em 5%",
     "bg_desc": "Após receber um sinal da Finalidade, os Relógios Cuco conectados à catástrofe apareceram subitamente na Floresta Negra, fazendo com que <i>blockchains</i> de entidades inorgânicas quebrassem por razões desconhecidas. Porém, um Inominado passando pela floresta começou a coletar os relógios, devido a sua paixão, e estava determinado a trazer os relógios de volta para casa com ele. Os Relógios Cuco partidos se rompiam constantemente durante a jornada e, no fim, a nave do Inominado estava cheia até seu limite. Contudo, devido a sua falta de compreensão dos sinais dados pelo fenômeno emergente resultante do rompimento constante dos Relógios Cuco dentro do tempo atribuído, o Inominado foi devorado pelo Enxame na metade da sua viagem interestelar.",
     "icon": "icon/miracle/1053.png"
   },
   "1902": {
     "id": "1902",
     "name": "Relógio Cuco Fissurado",
-    "desc": "O ATQ do personagem é reduzido em 5%.",
+    "desc": "O ATQ do personagem é reduzido em 5%",
     "bg_desc": "Após receber um sinal da Finalidade, os Relógios Cuco conectados à catástrofe apareceram subitamente na Floresta Negra, fazendo com que <i>blockchains</i> de entidades inorgânicas quebrassem por razões desconhecidas. Porém, um Inominado passando pela floresta começou a coletar os relógios, devido a sua paixão, e estava determinado a trazer os relógios de volta para casa com ele. Os Relógios Cuco partidos se rompiam constantemente durante a jornada e, no fim, a nave do Inominado estava cheia até seu limite. Contudo, devido a sua falta de compreensão dos sinais dados pelo fenômeno emergente resultante do rompimento constante dos Relógios Cuco dentro do tempo atribuído, o Inominado foi devorado pelo Enxame na metade da sua viagem interestelar.",
     "icon": "icon/miracle/1053.png"
   },
   "3001": {
     "id": "3001",
     "name": "Dados de Redução de Dimensão",
-    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, 1 Bênção(s) extra(s) pode(m) ser escolhida(s), mas o número de Bênçãos disponíveis será reduzido em 1. Esta Curio será destruída quando o efeito for ativado 2 vez(es).",
+    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, 1 Bênção(s) extra(s) pode(m) ser escolhida(s), mas o número de Bênçãos disponíveis será reduzido em 1. Esta Curio será destruída quando o efeito for ativado 2 vez(es)",
     "bg_desc": "Nove dados de seis lados constituem este dispositivo piramidal bizarro. Pode reduzir o número de dimensões que ocupa continuamente e existe num mundo de três dimensões como uma entidade puramente bidimensional. Ninguém sabe quem o criou ou por quê.",
     "icon": "icon/miracle/1001.png"
   },
   "3002": {
     "id": "3002",
     "name": "Trametes Caótico",
-    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, aumenta em 1 o número de redefinições de Bênçãos.",
+    "desc": "Ao escolher suas Bênçãos após vencer uma batalha, aumenta em 1 o número de redefinições de Bênçãos",
     "bg_desc": "As nuvens são geradas por um acúmulo de umidade. Elas não servem para nada e se dissipam sem qualquer aviso prévio. Contudo, quando humanos olham para nuvens com formas aleatórias, eles muitas vezes projetam sua imaginação nelas. Os Doutores do Caos não acreditam no niilismo absoluto, ou seja, tudo que parece não ter sentido certamente tem algum propósito irrefutável. O Trametes Caótico é a Curio mais comum entre eles, usada para restaurar a confiança de Autoaniquiladores desesperados para voltar a ter algum propósito na vida.",
     "icon": "icon/miracle/1002.png"
   },
@@ -1325,7 +1325,7 @@
   "3060": {
     "id": "3060",
     "name": "Dispensador de Promissórias Angelical",
-    "desc": "Fragmentos Cósmicos não são ganhos vencendo batalhas. Ao ativar este efeito 5 vez(es), esta Curio será destruída e a quantidade de Fragmentos Cósmicos possuídos atualmente será dobrada.",
+    "desc": "Fragmentos Cósmicos não são ganhos vencendo batalhas. Ao ativar este efeito 5 vez(es), esta Curio será destruída e a quantidade de Fragmentos Cósmicos possuídos atualmente será dobrada",
     "bg_desc": "Um dispensador de dívidas distribuído pelo Departamento de Consolidação de Negócios da Corporação da Paz Interastral. Quando a concha externa é aberta, ela se condensará em um contador com forma de anjo por meio da projeção de ondas de partículas de elétrons. A CPI produziu simultaneamente muitos tipos de dispensadores, incluindo uns que podem ser usados no pulso e outros em forma de travesseiros de abraço que ajudam no sono. Para usá-lo, o cliente precisa periodicamente inserir moedas de ouro para retornos muitas vezes maiores que o capital investido ao fim do ciclo da dívida. Em essência, trata-se de um produto de investimento.",
     "icon": "icon/miracle/1044.png"
   },
@@ -1416,7 +1416,7 @@
   "3104": {
     "id": "3104",
     "name": "Laços da Família",
-    "desc": "Aumenta o Dano causado de personagens em 30% para cada Curio em posse que foi destruída.",
+    "desc": "Aumenta o Dano causado de personagens em 30% para cada Curio em posse que foi destruída",
     "bg_desc": "Um fugitivo disse ter adquirido Laços da Família após abrir uma caixa peculiar, e inadvertidamente entrou em uma reunião da Família que venera Xipe, a Harmonia. Ele descreveu ter visto uma cena sem precedentes: os desejos de diversos corpos celestiais estavam emaranhados, enrolando-se em um único nó. Sob os Laços da Família, as pessoas arregalavam seus olhos, suas faces demonstravam sorrisos macabros de orelha a orelha, olhando uns para os outros com expressões idênticas. Quando ele expressou uma dúvida ao ver a cena, todos no grande salão simultaneamente levaram seus olhares a ele e falaram com a mesma voz: \"Bem-vindo\". O fugitivo ficou imediatamente assustado e, em desespero, implorou pela sua sobrevivência, com seus olhos também arregalados, seu rosto marcado pelo mesmo sorriso.",
     "icon": "icon/miracle/1057.png"
   },
@@ -1444,14 +1444,14 @@
   "3108": {
     "id": "3108",
     "name": "Relógio Cuco Fissurado",
-    "desc": "Diminui o ATQ dos personagens em 5% com uma chance de se dividir em um clone (com um máximo de 3 clones simultâneos) após vencer uma batalha.",
+    "desc": "Diminui o ATQ dos personagens em 5% com uma chance de se dividir em um clone (com um máximo de 3 clones simultâneos) após vencer uma batalha",
     "bg_desc": "Após receber um sinal da Finalidade, os Relógios Cuco conectados à catástrofe apareceram subitamente na Floresta Negra, fazendo com que <i>blockchains</i> de entidades inorgânicas quebrassem por razões desconhecidas. Porém, um Inominado passando pela floresta começou a coletar os relógios, devido a sua paixão, e estava determinado a trazer os relógios de volta para casa com ele. Os Relógios Cuco partidos se rompiam constantemente durante a jornada e, no fim, a nave do Inominado estava cheia até seu limite. Contudo, devido a sua falta de compreensão dos sinais dados pelo fenômeno emergente resultante do rompimento constante dos Relógios Cuco dentro do tempo atribuído, o Inominado foi devorado pelo Enxame na metade da sua viagem interestelar.",
     "icon": "icon/miracle/1053.png"
   },
   "3109": {
     "id": "3109",
     "name": "Relógio Cuco Fissurado",
-    "desc": "O ATQ do personagem é reduzido em 5%.",
+    "desc": "O ATQ do personagem é reduzido em 5%",
     "bg_desc": "Após receber um sinal da Finalidade, os Relógios Cuco conectados à catástrofe apareceram subitamente na Floresta Negra, fazendo com que <i>blockchains</i> de entidades inorgânicas quebrassem por razões desconhecidas. Porém, um Inominado passando pela floresta começou a coletar os relógios, devido a sua paixão, e estava determinado a trazer os relógios de volta para casa com ele. Os Relógios Cuco partidos se rompiam constantemente durante a jornada e, no fim, a nave do Inominado estava cheia até seu limite. Contudo, devido a sua falta de compreensão dos sinais dados pelo fenômeno emergente resultante do rompimento constante dos Relógios Cuco dentro do tempo atribuído, o Inominado foi devorado pelo Enxame na metade da sua viagem interestelar.",
     "icon": "icon/miracle/1053.png"
   },
@@ -1598,14 +1598,14 @@
   "3208": {
     "id": "3208",
     "name": "Magnetismo Misterioso",
-    "desc": "Após entrar em um Domínio de Combate, seu conteúdo será substituído imediatamente com o conteúdo de um Domínio de Elite. Após entrar em um Domínio de Combate ou um Domínio de Elite 2 vez(es), esta Curio será destruída e concederá 200 Fragmentos Cósmicos.",
+    "desc": "Após entrar em um Domínio de Combate, seu conteúdo será substituído imediatamente com o conteúdo de um Domínio de Elite. Após entrar em um Domínio de Combate ou um Domínio de Elite 2 vez(es), esta Curio será destruída e concederá 200 Fragmentos Cósmicos",
     "bg_desc": "Para combater a determinação da Erudição, os Enigmáticos realizaram um grande trabalho em relação ao conhecimento que ainda não foi definido. Eles inseriram a Névoa do Pensamento e a Chuva da Sensação em uma única lente prismática, e suas cores combinadas se alteraram infinitamente para formar um \"campo magnético\" que pode afetar os sentidos. Regozijantes com seu sucesso, os Enigmáticos buscaram continuar com essa linha de pesquisa, mas foram forçados a parar, pois quanto mais eles se comprometiam com esse estudo, mas incertos eles ficavam da necessidade de sua continuidade.",
     "icon": "icon/miracle/1084.png"
   },
   "3209": {
     "id": "3209",
     "name": "\"Coração Orgânico\"",
-    "desc": "A Face do Dado dourado não aparecerá ao jogar os dados. Depois de jogar os dados 4 vez(es), esta Curio será destruída e concederá 2 chance(s) de trapaça.",
+    "desc": "A Face do Dado dourado não aparecerá ao jogar os dados. Depois de jogar os dados 4 vez(es), esta Curio será destruída e concederá 2 chance(s) de trapaça",
     "bg_desc": "Formas de vida mecânicas também possuem esteriótipos para as orgânicas. Por exemplo, este coração fundido com uma maçã, ou essa maçã fundida com um coração. Infelizmente, a natureza dessa questão permanecerá eternamente inconclusiva. Seu criador, o Dr. Olsen, foi acusado de ser \"muito conhecedor do mundo orgânico\" e foi \"resolvido\" pelo Império Maquinário durante a guerra. Sem dúvidas, apenas uma forma de vida orgânica teria sido capaz de provar sua inocência.",
     "icon": "icon/miracle/1077.png"
   },
@@ -1633,7 +1633,7 @@
   "3213": {
     "id": "3213",
     "name": "\"Agrupador de Pensamento\" Médio",
-    "desc": "Aumenta em 25% os preços para itens da loja em Domínios de Transação.",
+    "desc": "Aumenta em 25% os preços para itens da loja em Domínios de Transação",
     "bg_desc": "Seguindo o calendário da era das máquinas, neste dia, às três da tarde, o invasivo Agrupador de Pensamento Médio entrou na mente de um indivíduo orgânico arrogante na Cidade Mecânica. O \"Agrupador de Pensamento\" Médio quebrou o coração dele. Ele percebeu que o limite de todos os talentos dele chegava à média dos membros da comunidade. Mas ele não se desesperou, pois ele logo aprendeu a dominar esta habilidade nova e única, escondendo sua onda de emoções das massas inorgânicas, se tornando a máquina mais mediana de todas e embarcando no Caminho do Equilíbrio.",
     "icon": "icon/miracle/1083.png"
   },
@@ -1661,14 +1661,14 @@
   "3901": {
     "id": "3901",
     "name": "Relógio Cuco Fissurado",
-    "desc": "O ATQ do personagem é reduzido em 5%.",
+    "desc": "O ATQ do personagem é reduzido em 5%",
     "bg_desc": "Após receber um sinal da Finalidade, os Relógios Cuco conectados à catástrofe apareceram subitamente na Floresta Negra, fazendo com que <i>blockchains</i> de entidades inorgânicas quebrassem por razões desconhecidas. Porém, um Inominado passando pela floresta começou a coletar os relógios, devido a sua paixão, e estava determinado a trazer os relógios de volta para casa com ele. Os Relógios Cuco partidos se rompiam constantemente durante a jornada e, no fim, a nave do Inominado estava cheia até seu limite. Contudo, devido a sua falta de compreensão dos sinais dados pelo fenômeno emergente resultante do rompimento constante dos Relógios Cuco dentro do tempo atribuído, o Inominado foi devorado pelo Enxame na metade da sua viagem interestelar.",
     "icon": "icon/miracle/1053.png"
   },
   "3902": {
     "id": "3902",
     "name": "Relógio Cuco Fissurado",
-    "desc": "O ATQ do personagem é reduzido em 5%.",
+    "desc": "O ATQ do personagem é reduzido em 5%",
     "bg_desc": "Após receber um sinal da Finalidade, os Relógios Cuco conectados à catástrofe apareceram subitamente na Floresta Negra, fazendo com que <i>blockchains</i> de entidades inorgânicas quebrassem por razões desconhecidas. Porém, um Inominado passando pela floresta começou a coletar os relógios, devido a sua paixão, e estava determinado a trazer os relógios de volta para casa com ele. Os Relógios Cuco partidos se rompiam constantemente durante a jornada e, no fim, a nave do Inominado estava cheia até seu limite. Contudo, devido a sua falta de compreensão dos sinais dados pelo fenômeno emergente resultante do rompimento constante dos Relógios Cuco dentro do tempo atribuído, o Inominado foi devorado pelo Enxame na metade da sua viagem interestelar.",
     "icon": "icon/miracle/1053.png"
   }

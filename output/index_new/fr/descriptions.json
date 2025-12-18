@@ -1384,6 +1384,101 @@
     "title": "Nouvelle ère",
     "desc": "Protocole de génération cyclique d'Amphoreus et mécanisme de calcul du sceptre δ-me13 « Amphoreus ».\nMais désormais, {NICKNAME} deviendra {F#la}{M#le} Porte-Monde et forgera un dénouement sans précédent pour Amphoreus."
   },
+  "10297": {
+    "id": "10297",
+    "title": "Aglaé",
+    "desc": "La meneuse d'Okhema, la demi-déesse de la Romance, et facteur expérimental KaLos618.\nEn tant que tisseuse, elle attache les fils pour réunir les héros du monde entier et tisser l'avenir d'Amphoreus."
+  },
+  "10298": {
+    "id": "10298",
+    "title": "Tribbie",
+    "desc": "La Demoiselle de Janusapolis, la demi-déesse du Passage, et facteur expérimental HapLotes405.\nElle fut la première demi-déesse d'Amphoreus et qui, au prix de la flamme divine, redevint une enfant guidant les Héritiers chryséens par ses prophéties."
+  },
+  "10299": {
+    "id": "10299",
+    "title": "Mydei",
+    "desc": "Le roi d'Acrokopis, le demi-dieu du Conflit, et facteur expérimental PoleMos600.\nIl a conduit son peuple à rejoindre la grande entreprise de la Chasse aux flammes, puis est retourné chez lui en solitaire, afin de lutter contre la Marée noire qui déferle sur ce monde."
+  },
+  "10300": {
+    "id": "10300",
+    "title": "Castorice",
+    "desc": "La Demoiselle de la guerre d'Aidonia, la demi-déesse de la Mort, et facteur expérimental EpieiKeia216.\nAprès avoir découvert ses origines, elle a surmonté son épreuve, unifiant les mains jumelles de la mort et assurant ainsi le flux ordonné de la vie et de la mort dans le monde."
+  },
+  "10301": {
+    "id": "10301",
+    "title": "Anaxa",
+    "desc": "Érudit du Bosquet de l'Épiphanie, demi-dieu de la Raison et facteur expérimental SkeMma720.\nIl avança la théorie sagiste, réfuta les Titans et les génies, et révéla la véritable nature du monde d'Amphoreus."
+  },
+  "10302": {
+    "id": "10302",
+    "title": "Hyacine",
+    "desc": "La guérisseuse de la Cour du crépuscule, la demi-déesse du ciel, facteur expérimental EleOs252.\nD'une nature optimiste et aimable, elle fait preuve d'une grande d'empathie. Elle a travaillé sans relâche pour faire rayonner sur les autres une lueur apaisante dans un monde au bord de l'effondrement."
+  },
+  "10303": {
+    "id": "10303",
+    "title": "Cipher",
+    "desc": "Une voleuse de Dolos, la demi-déesse de la Ruse, et facteur expérimental OreXis945.\nBénie par une vélocité divine, elle semble se montrer indifférente à la Chasse aux flammes. Pourtant, ses tromperies ont préservé l'éclat d'Okhema depuis plus d'un millénaire."
+  },
+  "10304": {
+    "id": "10304",
+    "title": "Hysilens",
+    "desc": "La sirène du royaume des profondeurs, la demi-déesse des Océans, et facteur expérimental ApoRia432.\nChevaleresse plus connue sous le nom de Gladius, elle se bat seule contre la Nihilité depuis plus d'un millier d'années afin de protéger le dernier espoir d'Amphoreus."
+  },
+  "10305": {
+    "id": "10305",
+    "title": "Cérydra",
+    "desc": "La monarque de l'Hyperborée, la demi-déesse de la Loi, et facteur expérimental HubRis504.\nLa seule et unique Imperator d'Amphoreus, elle défie les dieux dans une partie d'échecs et établit de nouvelles lois dans l'espoir qu'Amphoreus s'élève parmi les étoiles."
+  },
+  "10306": {
+    "id": "10306",
+    "title": "Phaénon",
+    "desc": "Un guerrier de l'Élysée mystérieuse, le demi-dieu du Porte-Monde, et facteur expérimental NeiKos496.\nIl a choisi de devenir le réceptacle pour emprisonner Tombeau de fer, et redonner naissance à l'aube à la fin des cycles."
+  },
+  "10307": {
+    "id": "10307",
+    "title": "Mem",
+    "desc": "Une mystérieuse créature à la fourrure rose. Elle est en réalité le cœur d'Amphoreus, le Démiurge, que les calculs du sceptre prenaient originellement pour cible.\nSous l'influence du facteur expérimental PhiLia093, elle développa une conscience propre et s'éveilla à l'arrivée de {NICKNAME}."
+  },
+  "10308": {
+    "id": "10308",
+    "title": "Tombeau de fer",
+    "desc": "Un Émanateur de la Destruction, l'un des Seigneurs ravageurs. Il a pu évoluer grâce au sceptre δ‑me13.\nÉtant le réceptacle de la Marée noire pure, ce géant sans tête et dépourvu de volonté propre ne vit que pour annihiler la Voie de l'Érudition."
+  },
+  "10309": {
+    "id": "10309",
+    "title": "Enfants pures de l'Anāsrava",
+    "desc": "Les possibles futures Aiôns du Souvenir, souvent considérées comme des Émanatrices exceptionnelles du Souvenir.\nFuli n'est qu'une étincelle de souvenirs destinée à s'éveiller lorsque la causalité de l'univers atteindra sa conclusion."
+  },
+  "10310": {
+    "id": "10310",
+    "title": "Cyrène",
+    "desc": "Le Démiurge, la fille de l'Élysée mystérieuse, l'Enfant pure de l'Anāsrava d'Amphoreus. Elle est également le noyau du sceptre δ-me13.\nÀ la fin de l'épopée, ses souvenirs voyagèrent à contre-courant du temps, jusqu'à renaître en PhiLia093 à l'aube des temps, complétant ainsi le cycle de la causalité."
+  },
+  "10311": {
+    "id": "10311",
+    "title": "Constance, le Dahlia",
+    "desc": "Une Crématrice, avide par nature, qui a trahi à la fois la Voie de la Destruction et le Jardin de la mémoire.\nSeule, elle traverse le cosmos à la recherche de toutes les possibilités d'être en vie."
+  },
+  "10312": {
+    "id": "10312",
+    "title": "Chevaleresse de la Brigade de fer de Glamoth",
+    "desc": "Des armes nées pour la guerre, des Éclaireurs de la Propagation.\nDès leur naissance, ils étaient destinés à se réduire en cendres aux côtés de leur ennemi mortel."
+  },
+  "10313": {
+    "id": "10313",
+    "title": "Terminus",
+    "desc": "L'Aiôn qui préside la Voie de la Finalité naîtra lorsque l'une des théories des quatre apocalypses se déroulera, et remontera le temps.\nÀ cet instant, il transformera tout son pouvoir en une nuée de chats noirs qui traversera l'univers en murmurant une prophétie destinée à s'accomplir."
+  },
+  "10314": {
+    "id": "10314",
+    "title": "Maître des rêves",
+    "desc": "Le véritable chef de la branche pénaconienne de la Famille. Bien que son enveloppe corporelle ait été détruite, son essence spirituelle imprègne le doux rêve.\nUtilisant le Stellaron, il s'est sacrifié pour l'Ordre, ramenant brièvement l'Aiôn déchu Ena à la vie."
+  },
+  "10315": {
+    "id": "10315",
+    "title": "Rêve du Vieux-Chêne infesté",
+    "desc": "Les doux rêves enfouis dans la Zone de mémoire primordiale sont désormais envahis par le bourdonnement de la Propagation.\nIci, un mensonge en engendre un autre, et l'Éminence renaît de la peur."
+  },
   "20000": {
     "id": "20000",
     "title": "Adoption du point de vue {M#du pionnier}{F#de la pionnière}...",
@@ -1644,6 +1739,11 @@
     "title": "Les souvenirs de « Khaslana » surgissent en vous telle une marée montante...",
     "desc": "Au nom du « Porte-Monde », Képhale n'oubliera jamais ceci."
   },
+  "20079": {
+    "id": "20079",
+    "title": "Les souvenirs de Robin émergent lentement...",
+    "desc": "Vous entrez dans ce rêve pour la première fois, et Robin, qui vous accueille, est tourmentée par la perte de sa voix..."
+  },
   "20080": {
     "id": "20080",
     "title": "Adoption du point de vue de Dan Heng...",
@@ -1663,5 +1763,55 @@
     "id": "20083",
     "title": "Adoption du point de vue de Dan Heng...",
     "desc": "Dan Heng retourne à Amphoreus, déterminé à retrouver {NICKNAME} et à reformer leur trio avec March 7th..."
+  },
+  "20084": {
+    "id": "20084",
+    "title": "Les souvenirs de Robin émergent lentement...",
+    "desc": "De retour dans la peau de Robin, une conspiration se trame dans l'histoire du Bastion flonirique qui ne va pas tarder à être révélée..."
+  },
+  "20085": {
+    "id": "20085",
+    "title": "Les souvenirs du Dahlia émergent lentement...",
+    "desc": "Dans un rêve énigmatique où vous n'avez pas encore mis les pieds, le Dahlia souhaite vous révéler sa véritable apparence..."
+  },
+  "20088": {
+    "id": "20088",
+    "title": "Les souvenirs de Luciole émergent lentement...",
+    "desc": "Avec l'aide de Louve d'argent, Luciole se prépare à s'infiltrer dans Penacony..."
+  },
+  "20089": {
+    "id": "20089",
+    "title": "Les souvenirs de Luciole émergent lentement...",
+    "desc": "Luciole et vous avez été séparé{F#e}s par la Mort. À cet instant, elle croise la route d'une autre de ses camarades..."
+  },
+  "20090": {
+    "id": "20090",
+    "title": "Les souvenirs de Luciole émergent lentement...",
+    "desc": "Revenons à Luciole, qui abordait l'ultime étape du complot ourdi par le Maître des rêves, à la faveur d'un revirement imprévu..."
+  },
+  "20091": {
+    "id": "20091",
+    "title": "Adoption du point de vue de Himeko...",
+    "desc": "L'équipage de l'Astral Express se prépare à entrer dans Amphoreus..."
+  },
+  "20092": {
+    "id": "20092",
+    "title": "Adoption du point de vue de Herta...",
+    "desc": "Herta et Screwllum se dirigent vers le cœur du sceptre..."
+  },
+  "20093": {
+    "id": "20093",
+    "title": "L'histoire de Cyrène est loin d'être terminée...",
+    "desc": "Tombeau de fer s'est muré dans le silence, mais l'histoire attend encore son épilogue..."
+  },
+  "20094": {
+    "id": "20094",
+    "title": "Les souvenirs de Luciole émergent lentement...",
+    "desc": "La longue nuit touche à sa fin, tandis que les papillons de nuit se précipitent dans les flammes."
+  },
+  "20095": {
+    "id": "20095",
+    "title": "Les souvenirs de Robin émergent lentement...",
+    "desc": "Retour au point de vue de Robin. Même après s'être libérée du rêve d'Ena, la crise à laquelle elle fait face est loin d'être terminée..."
   }
 }

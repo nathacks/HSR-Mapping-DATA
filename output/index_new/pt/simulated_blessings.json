@@ -3925,12 +3925,17 @@
   "673140": {
     "id": "673140",
     "name": "Mantenedor de Promessas",
-    "desc": "Após a rodada 12 (contagem do número acumulado de rodadas de todos os aliados) terminar, Avança Adiante a ação do primeiro personagem na equipe atual e de seu Memoespírito em 100%. Durante a(s) próxima(s) 1 rodada(s), concede a eles uma rodada extra no final das rodadas. Após usarem um ataque nessa rodada extra, causam Dano Adicional igual a 600% do ATQ do atacante ao alvo atacado. Cada acúmulo de \"Obsessão\" que os aliados possuírem aumenta este multiplicador de Dano em 1% do multiplicador original."
+    "desc": "Após a rodada 12 (contagem do número acumulado de rodadas de todos os aliados) terminar, Avança Adiante a ação do primeiro personagem na equipe atual e de seu Memoespírito em 100%. Durante a(s) próxima(s) 1 rodada(s), concede a eles uma rodada extra no final das rodadas. Após usarem um ataque nessa rodada extra, causam Dano Adicional igual a 600% dos PV máximos do atacante ao alvo atacado. Cada acúmulo de \"Obsessão\" que os aliados possuírem aumenta este multiplicador de Dano em 1% do multiplicador original."
   },
   "673150": {
     "id": "673150",
     "name": "Sacerdote da Elegia",
     "desc": "A \"Flor da Aniquilação\" aparece na Ordem de Ação: registra \"Blazar\" obtido pelos aliados. Quando ela age, causa Dano de Fogo igual a 5000% do valor registrado + 3000% do Dano base a todos os inimigos, depois limpa o registro. Aumenta sua VEL em 1% para cada acúmulo de \"Obsessão\" que os aliados possuam. Quando um aliado-alvo entra em combate ou é derrubado, ou quando um Memoespírito é invocado ou desaparece, concede Carga de \"Blazar\" em um valor igual a 25% dos PV máximos de todos os aliados-alvo."
+  },
+  "673160": {
+    "id": "673160",
+    "name": "Sereia Litorânea",
+    "desc": "Quando um personagem aliado e seu Memoespírito obtêm \"Obsessão\", ambos obtêm a mesma quantidade de acúmulos de Carga. Ao atingir 50 acúmulos, eles entram no estado de \"Nênia\". Quando um personagem nesse estado realiza um ataque, ele consome 16 acúmulos de Carga para causar 3 instâncias de Dano de \"Sabor Residual\" iguais a 150% de seus PV máximos ao inimigo-alvo atacado. O estado termina quando os acúmulos de Carga chegam a 0, mas é possível continuar acumulando Carga enquanto o estado de \"Nênia\" estiver ativo."
   },
   "673210": {
     "id": "673210",
@@ -3997,6 +4002,11 @@
     "name": "Lar das Odes",
     "desc": "A Carga necessária para \"Espírito de Borboleta\" aumenta em 50%. Após entrar no estado \"Espírito de Borboleta\", Avança Adiante a ação de todos os aliados-alvo em 50%, e o multiplicador de Dano Verdadeiro causado por \"Espírito de Borboleta\" aumenta em 50% do multiplicador original, aumentando adicionalmente em 1% para cada acúmulo de \"Obsessão\" possuído por todos os aliados."
   },
+  "673720": {
+    "id": "673720",
+    "name": "Seres Mortais",
+    "desc": "Enquanto estiver no estado de \"Espírito de Borboleta\", sempre que todos os aliados consomem 1 Ponto de Perícia, o Dano recebido por todos os inimigos aumenta em 10%, acumulando até um máximo de 40%. Após entrar no estado de \"Espírito de Borboleta\" e consumir um total de 4 Pontos de Perícia pela primeira vez, recupera 6 contagem(ns) de ataque de \"Espírito de Borboleta\". Antes que este estado de \"Espírito de Borboleta\" termine, após os aliados-alvo atacarem, causa 1 instância de Dano Verdadeiro igual a 60% do Dano original (excluindo Dano Adicional) ao alvo atacado. Esse efeito também se aplica ao Dano Contínuo recebido pelos inimigos-alvo no início de suas rodadas."
+  },
   "673790": {
     "id": "673790",
     "name": "Costureira de Casulos",
@@ -4012,10 +4022,20 @@
     "name": "Caprismo",
     "desc": "Após todos os aliados usarem suas Perícias Supremas um total de 2 vez(es), causa 2 instância(s) de Dano de Vento igual a 600% do Dano base a um inimigo-alvo aleatório. O Dano causado será igual a 30% do Dano original às unidades adjacentes. Sempre que esse efeito for ativado, aumenta o número de instâncias em 1 nessa batalha e aumenta o Dano causado de ATQ Básico / Perícia / Perícia Suprema pelos aliados-alvo em 12%, até um máximo de 15 vez(es)."
   },
+  "673890": {
+    "id": "673890",
+    "name": "Tartaruga Gigante Altruísta",
+    "desc": "A \"Respiração da Tartaruga Gigante\" aparece na Ordem de Ação: ao agir, aumenta o Dano recebido por todos os inimigos em 50%, durando 3 rodadas, realiza 3 \"Barragens\" contra todos os inimigos, causando Dano de Gelo e de Fogo igual a 6000% do \"Dano base\", atrasando suas ações em 30% e reduzindo em 30 a Tenacidade de todos os inimigos-alvo, ignorando o Tipo de Fraqueza. Ao aplicar Quebra de Fraqueza a um inimigo, são ativados os efeitos de Quebra de Fraqueza de Gelo e de Fogo. Quando um aliado-alvo ativa sua Perícia Suprema sob o efeito de \"Cérebro In Vitro\", Avança Adiante a ação da \"Respiração da Tartaruga Gigante\" em 15%."
+  },
   "673920": {
     "id": "673920",
     "name": "Falange Preguiçosa",
     "desc": "Quando um aliado-alvo causa Quebra de Fraqueza a um inimigo-alvo, inflige 20 acúmulos de \"Harmonizar\" a ele. Após atacar inimigos-alvo que sofreram Quebra de Fraqueza, faz com que qualquer Dano Contínuo atualmente aplicado e \"Harmonizar\" causem imediatamente Dano igual a 24% do Dano original."
+  },
+  "673940": {
+    "id": "673940",
+    "name": "Portão de Yactor",
+    "desc": "Após um aliado-alvo usar um ataque, há uma chance fixa de 60% de adicionar 1 Fraqueza de um Tipo aleatório a um inimigo-alvo aleatório, priorizando um Tipo de Fraqueza que o inimigo ainda não possua. Esta Fraqueza aplicada é removida depois que o inimigo que a recebeu sofre Quebra de Fraqueza. Após adicionar uma Fraqueza a um inimigo-alvo, aplica 5 acúmulo(s) de \"Harmonizar\" ao inimigo e registra a Fraqueza adicionada uma vez. Este efeito só pode ser ativado até 2 vez(es) por ação. Quando qualquer inimigo-alvo sofre Quebra de Fraqueza, com base nas Fraquezas registradas, cada registro causa 250% do Efeito de Quebra do Tipo correspondente ao alvo e aos inimigos adjacentes."
   },
   "673950": {
     "id": "673950",
@@ -4047,10 +4067,20 @@
     "name": "Executor",
     "desc": "Os Danos Contínuos recebidos por inimigos-alvo podem ser CRIT. A Chance de CRIT/Dano CRIT é igual a 20% da Chance de CRIT/Dano CRIT total dos todos os personagens aliados, com o Dano CRIT limitado a 120%."
   },
+  "674250": {
+    "id": "674250",
+    "name": "Leviatã do Leste",
+    "desc": "Aumenta o Dano de \"Murmúrio\" recebido pelos inimigos-alvo em 15%. Após os inimigos-alvo receberem Dano Contínuo fora da própria rodada, todos os aliados recebem Carga de \"Blazar\" igual a 20% de seus respectivos ATQs. Este efeito pode ser ativado até 2 vezes por inimigo-alvo por rodada."
+  },
   "674260": {
     "id": "674260",
     "name": "Aquele Enterrado no Mar",
     "desc": "O limite de dissipação de \"Murmúrio\" aumenta em 120%. Após os aliados realizarem um Ataque Extra, faz com que o \"Murmúrio\" no inimigo atacado cause Dano igual a 20% do Dano original."
+  },
+  "674270": {
+    "id": "674270",
+    "name": "Peixe Caça-Ondas",
+    "desc": "No início da rodada do inimigo-alvo, o limite para remover \"Murmúrio\" aumenta em 20%. Este efeito é acumulável. Para cada estado de Dano Contínuo diferente de \"Murmúrio\", o limite aumenta adicionalmente em 4%."
   },
   "674280": {
     "id": "674280",
@@ -4087,6 +4117,11 @@
     "name": "Espírito das Chamas Sinistro",
     "desc": "Quando os aliados causam Dano de \"Blazar\" e o inimigo-alvo está em qualquer estado de Dano Contínuo, o multiplicador de Dano dessa instância de \"Blazar\" aumenta em 60% do multiplicador original. Cada tipo de Dano Contínuo aumenta adicionalmente esse multiplicador em 15%."
   },
+  "674560": {
+    "id": "674560",
+    "name": "Estranho Mascarado",
+    "desc": "Converte 35% do efeito de Escudo do aliado-alvo em \"Blazar\". Após realizar um Ataque Extra, concede a todos os aliados um Escudo igual a 40% de seus ATQs por 2 rodada(s)."
+  },
   "674570": {
     "id": "674570",
     "name": "Fênix Coronal",
@@ -4096,6 +4131,11 @@
     "id": "674590",
     "name": "Vanguarda de Kremnos",
     "desc": "Quando os aliados-alvo aplicam Quebra de Fraqueza a qualquer inimigo, carregam \"Blazar\" em um valor igual a 25% dos PV máximos. Se todos os inimigos-alvo estiverem afligidos com Quebra de Fraqueza, \"Blazar\" não será reiniciado no início das rodadas dos aliados."
+  },
+  "674610": {
+    "id": "674610",
+    "name": "Labirinto de Pedra",
+    "desc": "Quando os aliados-alvo possuem 20 ou mais acúmulos de \"Obsessão\", seus Ataques Extras e Danos Adicionais aumentam em 100%. Após entrar em combate, quando o número de aliados-alvo no campo muda, concede 8 acúmulos de \"Obsessão\" ao aliado-alvo com o menor número de acúmulos de \"Obsessão\"."
   },
   "674620": {
     "id": "674620",
@@ -4157,10 +4197,20 @@
     "name": "Mártir do Conhecimento Proibido",
     "desc": "Quando qualquer aliado-alvo usa sua Perícia Suprema, consome PV de todos os aliados-alvo num valor igual a 5% dos seus PV atuais e aumenta seu Dano causado em 30% até um máximo de 4 acúmulo(s), durando por 2 rodada(s)."
   },
+  "674890": {
+    "id": "674890",
+    "name": "Ladrão de Notas",
+    "desc": "Quando um inimigo-alvo é atacado, se os acúmulos de \"Harmonizar\" excederem 10 e sua porcentagem de PV estiver abaixo de 20%, ele recebe adicionalmente Dano Verdadeiro igual aos seus PV atuais. Este efeito só pode ser ativado uma vez por inimigo-alvo. Quando ativado em inimigos de Elite, o \"Cérebro In Vitro\" de todos os aliados recebe 35% de Carga."
+  },
   "674920": {
     "id": "674920",
     "name": "Paciente Decadente",
     "desc": "Quando os inimigos-alvo sofrem Dano de \"Harmonizar\", recebem adicionalmente 1 instância de Dano de \"Harmonizar\" igual a 75% do Dano original. Cada penalidade presente atualmente no alvo aumenta adicionalmente esse Dano em 2%, até um máximo de 40%."
+  },
+  "674940": {
+    "id": "674940",
+    "name": "Pombo de Ferro Sem Pernas",
+    "desc": "Após qualquer aliado-alvo atacar um inimigo afligido com Quebra de Fraqueza, converte a Redução de Tenacidade desse ataque em 1 instância de Super Dano de Quebra igual a 75%. Para cada acúmulo de \"Impulso Crítico\" obtido, este efeito causa adicionalmente 10% de Super Dano de Quebra."
   },
   "674950": {
     "id": "674950",
@@ -4176,6 +4226,11 @@
     "id": "675140",
     "name": "Juiz do Véu da Noite",
     "desc": "Quando um Memoespírito desaparece, aumenta a VEL de todos os aliados-alvo em 25% e o Dano CRIT em 100% por 5 rodada(s)."
+  },
+  "675150": {
+    "id": "675150",
+    "name": "Memoespírito de Icor",
+    "desc": "Quando um aliado-alvo perde PV, obtém 5 acúmulo(s) de \"Obsessão\". Isso pode ser ativado até 1 vez(es) e pode ser ativado novamente após qualquer unidade agir."
   },
   "675160": {
     "id": "675160",
@@ -4212,6 +4267,11 @@
     "name": "Peregrino Sinistro",
     "desc": "Quando os inimigos-alvo entram na batalha, eles são afligidos pelo efeito de \"Sangramento\". Enquanto estão afligidos com \"Sangramento\", eles recebem Dano Físico Contínuo igual a 10% dos seus PV máximos no início da sua rodada. Este Dano não pode exceder 200% do total de PV de todos os aliados-alvo."
   },
+  "675260": {
+    "id": "675260",
+    "name": "Escola de Vime",
+    "desc": "Aumenta o Dano Contínuo do inimigo-alvo em 20%. Após receber um Ataque Extra, ganha Carga de \"Murmúrio\" igual a 2% do limite de reinício."
+  },
   "675270": {
     "id": "675270",
     "name": "Cultivador de Ossos",
@@ -4231,6 +4291,11 @@
     "id": "675450",
     "name": "Viajante de Kremnos",
     "desc": "Aumenta o Efeito de Escudo obtido por aliados-alvo em 30%. Após os aliados-alvo serem atacados e se não tiverem sofrido Dano nesse ataque, eles perderão apenas1 acúmulo(s) de \"Bônus Crítico\"."
+  },
+  "675460": {
+    "id": "675460",
+    "name": "Cavaleiro Trapaceiro",
+    "desc": "Cada acúmulo de \"Bônus Crítico\" aumenta o Dano de Ataque Extra em 5%. Quando o personagem aliado realizar um Ataque Extra, ganha 2 acúmulos de \"Bônus Crítico\"."
   },
   "675480": {
     "id": "675480",
@@ -4262,10 +4327,20 @@
     "name": "Mensageiro da Lua Vermelha",
     "desc": "Aumenta o Valor de Base de \"Blazar\" em 50%. Após qualquer aliado utilizar um Ataque extra, o aliado com o menor percentual de PV atual restaura PV em um valor igual a 10% de seus PV máximos."
   },
+  "675580": {
+    "id": "675580",
+    "name": "Filósofo Erínio",
+    "desc": "Quando os PV do personagem aliado caírem abaixo de 25% pela primeira vez em um único combate, ativa a Perícia Suprema e permite que o Dano da Perícia Suprema desta unidade e do Memoespírito neste combate ignore 20% da DEF do inimigo-alvo."
+  },
   "675590": {
     "id": "675590",
     "name": "Legião da Lâmina Celestial",
     "desc": "Aumenta o Efeito de Escudo obtido em 30%. Após aplicar Quebra de Fraqueza a um inimigo, todos os aliados recebem um Escudo igual a 15% de seus PV máximos, com duração de 2 rodada(s)."
+  },
+  "675610": {
+    "id": "675610",
+    "name": "Andarilho da Ruína",
+    "desc": "Aumenta os PV máximos do aliado-alvo em 15%. Para cada aliado-alvo atualmente no campo, aumenta o Dano de \"Sabor Residual\" do aliado-alvo em 30%."
   },
   "675620": {
     "id": "675620",
@@ -4326,6 +4401,11 @@
     "id": "675840",
     "name": "Criança da Espiral",
     "desc": "Quando o \"Cérebro In Vitro\" de um aliado-alvo atinge 100%, aumenta seu ATQ em 80%. Após usar um ataque, causa Dano Adicional igual a 80% do ATQ ao inimigo-alvo com mais PV entre os alvos atacados, com duração de 3 rodada(s)."
+  },
+  "675850": {
+    "id": "675850",
+    "name": "Feitiço Bizarro",
+    "desc": "Aumenta o Dano de \"Blazar\" do aliado-alvo em 75%. Após usar a Perícia Suprema, ganha Carga de \"Blazar\" igual a 35% dos PV máximos."
   },
   "675860": {
     "id": "675860",

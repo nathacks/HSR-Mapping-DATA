@@ -949,6 +949,16 @@
     "name": "Kate (im Dienst)",
     "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
   },
+  "202": {
+    "id": "202",
+    "name": "Verein der Chimärenliebhaber",
+    "icon": "icon/avatar/UI_Message_Group_Default.png"
+  },
+  "203": {
+    "id": "203",
+    "name": "Was isst Müllkuchen heute?",
+    "icon": "icon/avatar/UI_Message_Group_Default.png"
+  },
   "1000": {
     "id": "1000",
     "name": "Pom-Pom",
@@ -1244,6 +1254,11 @@
     "name": "Rappa",
     "icon": "icon/avatar//1317.png"
   },
+  "1321": {
+    "id": "1321",
+    "name": "Die Dahlie",
+    "icon": "icon/avatar//1321.png"
+  },
   "1401": {
     "id": "1401",
     "name": "Große Herta",
@@ -1303,6 +1318,11 @@
     "id": "1413",
     "name": "Evernight",
     "icon": "icon/avatar//1413.png"
+  },
+  "1415": {
+    "id": "1415",
+    "name": "Cyrene",
+    "icon": "icon/avatar//1415.png"
   },
   "200001": {
     "id": "200001",
@@ -1585,6 +1605,30 @@
     "name": "Dan Heng – Permansor Terrae: Lauernd",
     "rarity": 5,
     "icon": "icon/avatar/IconHead_200146.png"
+  },
+  "200147": {
+    "id": "200147",
+    "name": "Cyrene: Verabredung",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200147.png"
+  },
+  "200148": {
+    "id": "200148",
+    "name": "Wellen der Vergangenheit: Verabredung",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200148.png"
+  },
+  "200149": {
+    "id": "200149",
+    "name": "Die Dahlie: Rückerinnerung",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200149.png"
+  },
+  "200150": {
+    "id": "200150",
+    "name": "Schwarzer Schwan: Rückerinnerung",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200150.png"
   },
   "201001": {
     "id": "201001",
@@ -1952,6 +1996,12 @@
     "rarity": 5,
     "icon": "icon/avatar/1317.png"
   },
+  "201321": {
+    "id": "201321",
+    "name": "Die Dahlie",
+    "rarity": 5,
+    "icon": "icon/avatar/1321.png"
+  },
   "201401": {
     "id": "201401",
     "name": "Große Herta",
@@ -2029,6 +2079,12 @@
     "name": "Dan Heng – Permansor Terrae",
     "rarity": 5,
     "icon": "icon/avatar/1414.png"
+  },
+  "201415": {
+    "id": "201415",
+    "name": "Cyrene",
+    "rarity": 5,
+    "icon": "icon/avatar/1415.png"
   },
   "202001": {
     "id": "202001",
@@ -2150,6 +2206,12 @@
     "rarity": 4,
     "icon": "icon/avatar/IconHead_202020.png"
   },
+  "202021": {
+    "id": "202021",
+    "name": "Memi",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202021.png"
+  },
   "202022": {
     "id": "202022",
     "name": "Trianne-Puppe",
@@ -2185,6 +2247,12 @@
     "name": "7. März: Festival",
     "rarity": 5,
     "icon": "icon/avatar/IconHead_202029.png"
+  },
+  "202030": {
+    "id": "202030",
+    "name": "Der Goldene Nymphkäfer",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202030.png"
   },
   "202031": {
     "id": "202031",
@@ -2240,6 +2308,18 @@
     "rarity": 4,
     "icon": "icon/avatar/IconHead_202040.png"
   },
+  "202041": {
+    "id": "202041",
+    "name": "Endgültiger Sieger",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202041.png"
+  },
+  "202042": {
+    "id": "202042",
+    "name": "Auf dem Wandgemälde",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202042.png"
+  },
   "208001": {
     "id": "208001",
     "name": "{NICKNAME}: Die Zerstörung",
@@ -2266,13 +2346,13 @@
   },
   "208005": {
     "id": "208005",
-    "name": "{NICKNAME} – Die Harmonie",
+    "name": "{NICKNAME}: Die Harmonie",
     "rarity": 5,
     "icon": "icon/avatar/8005.png"
   },
   "208006": {
     "id": "208006",
-    "name": "{NICKNAME} – Die Harmonie",
+    "name": "{NICKNAME}: Die Harmonie",
     "rarity": 5,
     "icon": "icon/avatar/8006.png"
   },

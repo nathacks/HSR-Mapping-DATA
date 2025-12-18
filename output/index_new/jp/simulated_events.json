@@ -2878,5 +2878,65 @@
     "name": "キュレネ",
     "type": "イベント",
     "image": "image/simulated_event/PicRogueEvent_39.png"
+  },
+  "627101": {
+    "id": "627101",
+    "name": "{RUBY_B#ふうろう}封蝋{RUBY_E#}の{RUBY_B#しょうにん}商人{RUBY_E#}（その1）",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_37.png"
+  },
+  "627102": {
+    "id": "627102",
+    "name": "{RUBY_B#ふうろう}封蝋{RUBY_E#}の{RUBY_B#しょうにん}商人{RUBY_E#}（その2）",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_37.png"
+  },
+  "627201": {
+    "id": "627201",
+    "name": "{RUBY_B#ふうろう}封蝋{RUBY_E#}の{RUBY_B#ごうせい}合成{RUBY_E#}",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_36.png"
+  },
+  "627301": {
+    "id": "627301",
+    "name": "キメラの{RUBY_B#しごと}仕事{RUBY_E#}について",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_42.png"
+  },
+  "627401": {
+    "id": "627401",
+    "name": "{RUBY_B#かみ}神{RUBY_E#}の{RUBY_B#おく}贈{RUBY_E#}り{RUBY_B#もの}物{RUBY_E#}（その1）",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_32.png"
+  },
+  "627402": {
+    "id": "627402",
+    "name": "{RUBY_B#かみ}神{RUBY_E#}の{RUBY_B#おく}贈{RUBY_E#}り{RUBY_B#もの}物{RUBY_E#}（その2）",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_32.png"
+  },
+  "627403": {
+    "id": "627403",
+    "name": "{RUBY_B#かみ}神{RUBY_E#}の{RUBY_B#おく}贈{RUBY_E#}り{RUBY_B#もの}物{RUBY_E#}（その3）",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_32.png"
+  },
+  "627501": {
+    "id": "627501",
+    "name": "{RUBY_B#もんかん}門関{RUBY_E#}の{RUBY_B#つき}月{RUBY_E#}の{RUBY_B#しょうきゃく}焼却{RUBY_E#}",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_43.png"
+  },
+  "627601": {
+    "id": "627601",
+    "name": "{RUBY_B#けんじゅつ}剣術{RUBY_E#}の{RUBY_B#れんしゅう}練習{RUBY_E#}",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_34.png"
+  },
+  "627701": {
+    "id": "627701",
+    "name": "{RUBY_B#めいかいこうこう}冥界航行{RUBY_E#}",
+    "type": "イベント",
+    "image": "image/simulated_event/PicRogueEvent_33.png"
   }
 }

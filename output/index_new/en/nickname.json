@@ -177,6 +177,9 @@
     "1317": [
       "Rappa"
     ],
+    "1321": [
+      "The Dahlia"
+    ],
     "1401": [
       "The Herta"
     ],
@@ -215,6 +218,9 @@
     ],
     "1414": [
       "Dan Heng • Permansor Terrae"
+    ],
+    "1415": [
+      "Cyrene"
     ],
     "8001": [
       "{NICKNAME}"
@@ -683,11 +689,20 @@
     "22005": [
       "The Forever Victual"
     ],
+    "22006": [
+      "Fly Into a Pink Tomorrow"
+    ],
     "23049": [
       "To Evernight's Stars"
     ],
+    "23050": [
+      "Never Forget Her Flame"
+    ],
     "23051": [
       "Though Worlds Apart"
+    ],
+    "23052": [
+      "This Love, Forever"
     ]
   },
   "relic_sets": {
@@ -840,6 +855,12 @@
     ],
     "322": [
       "Revelry by the Sea"
+    ],
+    "323": [
+      "Amphoreus, The Eternal Land"
+    ],
+    "324": [
+      "Tengoku@Livestream"
     ]
   }
 }

@@ -140,6 +140,18 @@
     "desc": "開拓力40を消費して獲得できる。「模擬宇宙」内で没入報酬と交換可能",
     "come_from": []
   },
+  "34": {
+    "id": "34",
+    "name": "深層没入器",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 4,
+    "icon": "icon/item/34.png",
+    "desc": "「スターピースガイド」で次元界オーナメントをクイック抽出できる",
+    "come_from": [
+      "「マネーウォーズ」ポイント報酬"
+    ]
+  },
   "41": {
     "id": "41",
     "name": "アチーブメントポイント",
@@ -217,8 +229,10 @@
     "sub_type": "Material",
     "rarity": 4,
     "icon": "icon/item/110.png",
-    "desc": "開拓力と合わせて使うと、疑似花萼/凝結虚影の素材を素材を素早く獲得できる。",
-    "come_from": []
+    "desc": "開拓力と合わせて使うと、疑似花萼/凝結虚影の素材を素早く獲得できる。",
+    "come_from": [
+      "「マネーウォーズ」ポイント報酬"
+    ]
   },
   "170": {
     "id": "170",
@@ -468,6 +482,7 @@
     "icon": "icon/item/241.png",
     "desc": "軌跡レベルアップ用の高級素材。",
     "come_from": [
+      "「マネーウォーズ」ポイント報酬",
       "「模擬宇宙」ポイント報酬",
       "ナナシの勲功",
       "エンバー交換",
@@ -560,6 +575,8 @@
     "icon": "icon/item/281.png",
     "desc": "ショップ「集霊創星」で★5キャラクターと交換可能。",
     "come_from": [
+      "千星、旅は道づれ",
+      "千星、旅は道づれ（今期は受取済み）",
       "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能",
       "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能"
     ]
@@ -597,6 +614,7 @@
     "icon": "icon/item/503.png",
     "desc": "「模擬宇宙」の報酬、ヘルタショップでアイテムと交換できる。",
     "come_from": [
+      "「マネーウォーズ」ポイント報酬",
       "「模擬宇宙」ポイント報酬"
     ]
   },
@@ -638,6 +656,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "火を追う者への祝福。\n\n願わくば君が神々と共に踊り、英雄の炎を継いで、黄昏の巨人に再び火を灯すことを。\n願わくば君が運命を覆し、黎明の輝きで天地とあらゆる命を照らすことを。\n君の足跡は、やがて語り継がれる詩篇となる。",
+    "come_from": []
+  },
+  "821": {
+    "id": "821",
+    "name": "明日は昨日に",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/821.png",
+    "desc": "記憶の中の手紙",
     "come_from": []
   },
   "71000": {
@@ -3004,6 +3032,92 @@
       "「万能合成マシン」- 遺物合成"
     ]
   },
+  "83231": {
+    "id": "83231",
+    "name": "永遠の地オンパロス",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83232": {
+    "id": "83232",
+    "name": "永遠の地オンパロス",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83233": {
+    "id": "83233",
+    "name": "永遠の地オンパロス",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83234": {
+    "id": "83234",
+    "name": "永遠の地オンパロス",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": [
+      "「階差宇宙」オーナメント抽出",
+      "「万能合成マシン」- 遺物合成"
+    ]
+  },
+  "83241": {
+    "id": "83241",
+    "name": "天国@配信ルーム",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83242": {
+    "id": "83242",
+    "name": "天国@配信ルーム",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83243": {
+    "id": "83243",
+    "name": "天国@配信ルーム",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83244": {
+    "id": "83244",
+    "name": "天国@配信ルーム",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": [
+      "「階差宇宙」オーナメント抽出",
+      "「万能合成マシン」- 遺物合成"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "次元界オーナメント",
@@ -4010,6 +4124,19 @@
       "「万能合成マシン」- 素材交換"
     ]
   },
+  "110432": {
+    "id": "110432",
+    "name": "明輝の紅炎",
+    "type": "Material",
+    "sub_type": "AvatarRank",
+    "rarity": 4,
+    "icon": "icon/item/110432.png",
+    "desc": "サンライトグリフォンが落とした異形の冠。炎属性キャラクターの昇格素材。",
+    "come_from": [
+      "凝結虚影「{TextID#FloorName_20422001}」",
+      "「万能合成マシン」- 素材交換"
+    ]
+  },
   "110433": {
     "id": "110433",
     "name": "セイレーンのひれ",
@@ -4144,6 +4271,18 @@
     "desc": "軌跡レベルアップ用の高級素材。",
     "come_from": [
       "歴戦余韻「『天穹要塞』晨昏の目」"
+    ]
+  },
+  "110508": {
+    "id": "110508",
+    "name": "滅流の沈黙",
+    "type": "Material",
+    "sub_type": "WeeklyMonsterDrop",
+    "rarity": 4,
+    "icon": "icon/item/110508.png",
+    "desc": "軌跡レベルアップ用の高級素材。",
+    "come_from": [
+      "歴戦余韻「{TextID#FloorName_20481001}」"
     ]
   },
   "111000": {
@@ -4806,6 +4945,16 @@
     "desc": "妖精たちが料理に使用する伝説の調理器具。光円錐「永遠の迷境ごはん」の重畳に使える。",
     "come_from": []
   },
+  "121006": {
+    "id": "121006",
+    "name": "不完全な追憶",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121006.png",
+    "desc": "水晶のような記憶の花、不完全で壊れやすい。光円錐「ピンク色の明日へ」の重畳に使える。",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "エディオンコイン",
@@ -4818,6 +4967,28 @@
       "エディオンコインショップ",
       "「ピノコニー」での探索で獲得"
     ]
+  },
+  "123000": {
+    "id": "123000",
+    "name": "アクセスカード",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "宇宙ステーション「ヘルタ」の不思議なコレクションにある「遺物宝箱」を開けるのに使用できる。",
+    "come_from": [
+      "「奇物宝庫トレジャー」イベントで獲得"
+    ]
+  },
+  "123001": {
+    "id": "123001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123001.png",
+    "desc": "",
+    "come_from": []
   },
   "140000": {
     "id": "140000",
@@ -9933,6 +10104,116 @@
     "desc": "奇物。「知恵」の世界における界域アンカー。個体のデータ構造をストームの影響から守ることができる。\nまた、必要に応じて外部との連絡ツールとしても使える。",
     "come_from": []
   },
+  "140597": {
+    "id": "140597",
+    "name": "夢のカーテンコール",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140597.png",
+    "desc": "<i>いつ撮られたかもわからない写真だが、そのリアルな感触に疑う余地はない。そこに写された出来事は現実に起こり、写真という形で確かな証として残された——あまり知られていないが、ある少女がかつての美しき夢を思い出す時、この事実を思い、そっと微笑むのだ。</i>\n\n夢を見る者は夢を創る者であり、その逆もまたしかり。\n自分の過去を捧げることでこそ、最も美しい夢境を紡ぐことができる。\n人々はそれに溺れたり、目覚めを拒んだりしない。美しき夢の中で、再び未来に向き合う勇気を取り戻すのだ。\nそして、明日へ向かって——",
+    "come_from": []
+  },
+  "140598": {
+    "id": "140598",
+    "name": "夢のカーテンコール",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140598.png",
+    "desc": "<i>思い出をどのような形にするかは、あなた自身が決めることだ。あの美しき夢が終わった時、あなたはホタルが望んだ形で彼女を記憶に刻んだ。</i>\n\n夢を見る者は夢を創る者であり、その逆もまたしかり。\n自分の過去を捧げることでこそ、最も美しい夢境を紡ぐことができる。\n人々はそれに溺れたり、目覚めを拒んだりしない。美しき夢の中で、再び未来に向き合う勇気を取り戻すのだ。\nそして、明日へ向かって——",
+    "come_from": []
+  },
+  "140599": {
+    "id": "140599",
+    "name": "「紛争」のシグネットリング",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140599.png",
+    "desc": "「紛争の覇者」——モーディスからの贈り物。王者にして守護者である彼の、栄光と約束の象徴である。",
+    "come_from": []
+  },
+  "140600": {
+    "id": "140600",
+    "name": "「詭術」のコイン",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140600.png",
+    "desc": "「詭術の漂客」——サフェルからの贈り物。お茶目な彼女が真心を込めた、祝福と渇望の象徴である。",
+    "come_from": []
+  },
+  "140601": {
+    "id": "140601",
+    "name": "「死」の寒花",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140601.png",
+    "desc": "「来生の侍女」——キャストリスからの贈り物。彼岸で見守り続ける彼女の、忍耐と安らぎの象徴である。",
+    "come_from": []
+  },
+  "140602": {
+    "id": "140602",
+    "name": "「門と道」のぬいぐるみ",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140602.png",
+    "desc": "「門と道の聖女」——トリスビアスからの贈り物。千の身に分かれ長い旅を経た彼女の、変わることのない信念と共感の象徴である。",
+    "come_from": []
+  },
+  "140603": {
+    "id": "140603",
+    "name": "「浪漫」のブレスレット",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140603.png",
+    "desc": "「浪漫の織る者」——アグライアからの贈り物。その冷淡なまでの美しさの下に隠された、変わることのない無私と節制の象徴である。",
+    "come_from": []
+  },
+  "140604": {
+    "id": "140604",
+    "name": "「天空」の霊匣",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140604.png",
+    "desc": "「天空の医師」——ヒアンシーからの贈り物。全ての人々を平等に愛する彼女の、慈愛と献身の象徴である。",
+    "come_from": []
+  },
+  "140605": {
+    "id": "140605",
+    "name": "「理性」の至玉",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140605.png",
+    "desc": "「理性の学者」——アナイクスからの贈り物。彼が後世の人々に残した啓蒙と批判の象徴である。",
+    "come_from": []
+  },
+  "140606": {
+    "id": "140606",
+    "name": "「世負い」の願い",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140606.png",
+    "desc": "世界を救うには、重い願望を背負わなければならない。その願望を手放してこそ、執念から解放される。",
+    "come_from": []
+  },
+  "140607": {
+    "id": "140607",
+    "name": "「世負い」の絶望",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140607.png",
+    "desc": "世界を救うには、煮え滾る絶望に身を焼かれなければならない。その絶望を打ち砕いてこそ、執念から解放される。",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "三月なのかとのツーショット",
@@ -11060,7 +11341,7 @@
     "sub_type": "Mission",
     "rarity": 3,
     "icon": "icon/item/150088.png",
-    "desc": "冒険の終幕に登場する宝であり、伝説の序章の道標でもある。「再創世」後の新たな構造から生まれたもの。\nオンパロスの英雄叙事詩の影響を受け、金のリンゴの形をしている。\n\n<i>「歳月に文明を、時に命を」</i>",
+    "desc": "<b>それぞれのラフトラのエンドモの預言の謎をクリアすると獲得でき、永遠の1ページにて特別な記念品と交換できる。</b>\n冒険の終幕に登場する宝であり、伝説の序章の道標でもある。「再創世」後の新たな構造から生まれたもの。\nオンパロスの英雄叙事詩の影響を受け、金のリンゴの形をしている。\n\n<i>「歳月に文明を、時に命を」</i>",
     "come_from": []
   },
   "150087": {
@@ -20412,6 +20693,106 @@
     "desc": "オンパロス開拓日誌・再創世の前に",
     "come_from": []
   },
+  "191935": {
+    "id": "191935",
+    "name": "一枚のメモ：トリビー",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：トリビー",
+    "come_from": []
+  },
+  "191936": {
+    "id": "191936",
+    "name": "一枚のメモ：ケリュドラ",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：ケリュドラ",
+    "come_from": []
+  },
+  "191937": {
+    "id": "191937",
+    "name": "一枚のメモ：セイレンス",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：セイレンス",
+    "come_from": []
+  },
+  "191938": {
+    "id": "191938",
+    "name": "一枚のメモ：ヒアンシー",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：ヒアンシー",
+    "come_from": []
+  },
+  "191939": {
+    "id": "191939",
+    "name": "一枚のメモ：ファイノン",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：ファイノン",
+    "come_from": []
+  },
+  "191940": {
+    "id": "191940",
+    "name": "一枚のメモ：アナイクス",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：アナイクス",
+    "come_from": []
+  },
+  "191941": {
+    "id": "191941",
+    "name": "一枚のメモ：アグライア",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：アグライア",
+    "come_from": []
+  },
+  "191942": {
+    "id": "191942",
+    "name": "一枚のメモ：モーディス",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：モーディス",
+    "come_from": []
+  },
+  "191943": {
+    "id": "191943",
+    "name": "一枚のメモ：キャストリス",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：キャストリス",
+    "come_from": []
+  },
+  "191944": {
+    "id": "191944",
+    "name": "一枚のメモ：サフェル",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一枚のメモ：サフェル",
+    "come_from": []
+  },
   "191945": {
     "id": "191945",
     "name": "正体不明の訪問者からのメッセージ",
@@ -20420,6 +20801,156 @@
     "rarity": 1,
     "icon": "icon/item/190018.png",
     "desc": "正体不明の訪問者からのメッセージ",
+    "come_from": []
+  },
+  "191946": {
+    "id": "191946",
+    "name": "風焔の箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "風焔の箴言",
+    "come_from": []
+  },
+  "191947": {
+    "id": "191947",
+    "name": "幻朧の箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "幻朧の箴言",
+    "come_from": []
+  },
+  "191948": {
+    "id": "191948",
+    "name": "帰寂の箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "帰寂の箴言",
+    "come_from": []
+  },
+  "191949": {
+    "id": "191949",
+    "name": "星嘯の箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "星嘯の箴言",
+    "come_from": []
+  },
+  "191950": {
+    "id": "191950",
+    "name": "過去からの招待状",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "過去からの招待状",
+    "come_from": []
+  },
+  "191951": {
+    "id": "191951",
+    "name": "長い名簿",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190017.png",
+    "desc": "長い名簿",
+    "come_from": []
+  },
+  "191952": {
+    "id": "191952",
+    "name": "『ブラックフレイムライダー・ライジング』プレミアインタビュー",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190013.png",
+    "desc": "『ブラックフレイムライダー・ライジング』プレミアインタビュー",
+    "come_from": []
+  },
+  "191953": {
+    "id": "191953",
+    "name": "道に背く者からの手紙",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "道に背く者からの手紙",
+    "come_from": []
+  },
+  "191954": {
+    "id": "191954",
+    "name": "星核への賛歌",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "星核への賛歌",
+    "come_from": []
+  },
+  "191955": {
+    "id": "191955",
+    "name": "『蝗害中の世界：秩序の再構築』シリーズパンフレット",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190015.png",
+    "desc": "『蝗害中の世界：秩序の再構築』シリーズパンフレット",
+    "come_from": []
+  },
+  "191956": {
+    "id": "191956",
+    "name": "「夢の主」からの返信",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "「夢の主」からの返信",
+    "come_from": []
+  },
+  "191957": {
+    "id": "191957",
+    "name": "出せなかった時祷書",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "出せなかった時祷書",
+    "come_from": []
+  },
+  "191958": {
+    "id": "191958",
+    "name": "δ-me13実験記録（その3）",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "δ-me13実験記録（その3）",
+    "come_from": []
+  },
+  "191959": {
+    "id": "191959",
+    "name": "夢のカーテンコール",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "夢のカーテンコール",
+    "come_from": []
+  },
+  "191960": {
+    "id": "191960",
+    "name": "夢のカーテンコール",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "夢のカーテンコール",
     "come_from": []
   },
   "210001": {
@@ -22024,22 +22555,22 @@
   },
   "210410": {
     "id": "210410",
-    "name": "『NAME==ミソス』",
+    "name": "『NAME == ミソス』",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『NAME==ミソス』。",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『NAME == ミソス』。",
     "come_from": []
   },
   "210411": {
     "id": "210411",
-    "name": "『NAME==ロゴス』",
+    "name": "『NAME == ロゴス』",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『NAME==ロゴス』。",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『NAME == ロゴス』。",
     "come_from": []
   },
   "210412": {
@@ -22070,6 +22601,136 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『穢れた血』。",
+    "come_from": []
+  },
+  "210415": {
+    "id": "210415",
+    "name": "『失速飛行』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『失速飛行』。",
+    "come_from": []
+  },
+  "210416": {
+    "id": "210416",
+    "name": "『神々の終着点』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『神々の終着点』。",
+    "come_from": []
+  },
+  "210417": {
+    "id": "210417",
+    "name": "『蜃気楼』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『蜃気楼』。",
+    "come_from": []
+  },
+  "210418": {
+    "id": "210418",
+    "name": "『剣の墓』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『剣の墓』。",
+    "come_from": []
+  },
+  "210419": {
+    "id": "210419",
+    "name": "『永遠の1ページ』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『永遠の1ページ』。",
+    "come_from": []
+  },
+  "210420": {
+    "id": "210420",
+    "name": "『神の国を焼き尽くす炎』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『神の国を焼き尽くす炎』。",
+    "come_from": []
+  },
+  "210421": {
+    "id": "210421",
+    "name": "『苦難が集いし川』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『苦難が集いし川』。",
+    "come_from": []
+  },
+  "210422": {
+    "id": "210422",
+    "name": "『神の冠を砕け』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『神の冠を砕け』。",
+    "come_from": []
+  },
+  "210423": {
+    "id": "210423",
+    "name": "『ウイルス』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『ウイルス』。",
+    "come_from": []
+  },
+  "210424": {
+    "id": "210424",
+    "name": "『夢の回廊』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『夢の回廊』。",
+    "come_from": []
+  },
+  "210425": {
+    "id": "210425",
+    "name": "『神の降臨』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『神の降臨』。",
+    "come_from": []
+  },
+  "210426": {
+    "id": "210426",
+    "name": "『蝕まれた夢』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『蝕まれた夢』。",
+    "come_from": []
+  },
+  "210427": {
+    "id": "210427",
+    "name": "『夢魘の凶兆』",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "列車の蓄音機で再生できるレコード、偶然の所得で、他人からの贈り物でもある。音律が飛び交じる時、その笑顔、入れ違い、感触、そして戦う時の高ぶる気持ちが、次々と心の中に湧き上がる。時代が進んでも、レコードを収集する人がいるのは、心に触れてくる旋律が原因なのだろう。\nこのレコードに刻まれているのは『夢魘の凶兆』。",
     "come_from": []
   },
   "220000": {
@@ -22179,6 +22840,18 @@
     "desc": "メッセージとチャットの吹き出し。獲得後、メッセージおよびチャット内で変更できる。",
     "come_from": [
       "イベント「ガオガオ事務所」で獲得できるチャットの吹き出し"
+    ]
+  },
+  "220009": {
+    "id": "220009",
+    "name": "最強のキメラトレーナー！",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220009.png",
+    "desc": "メッセージとチャットの吹き出し。獲得後、メッセージおよびチャット内で変更できる。",
+    "come_from": [
+      "イベント「黄金のガオガオバトル」で獲得できるチャットの吹き出し"
     ]
   },
   "221000": {
@@ -25000,6 +25673,42 @@
     "icon": "icon/item/226004.png",
     "desc": "対局の勝者だけが手に入れられるアイコンフレーム。なかでも「キング」の駒は、唯我独尊たり得るだけの強大な権力を象徴している。",
     "come_from": []
+  },
+  "227001": {
+    "id": "227001",
+    "name": "救世主の月桂冠",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227001.png",
+    "desc": "オンパロスより{NICKNAME}に贈られた月桂冠。",
+    "come_from": [
+      "「紡がれた物語」で獲得"
+    ]
+  },
+  "227002": {
+    "id": "227002",
+    "name": "操縦士ゴミンミ",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227002.png",
+    "desc": "ルアン・メェイの創造物の1体をモデルに作られたカチューシャ。",
+    "come_from": [
+      "イベント「風雲！にゃんこ城」をクリアすると獲得できる開拓コーデ"
+    ]
+  },
+  "227003": {
+    "id": "227003",
+    "name": "ハロー・ミュ～ワールド！",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227003.png",
+    "desc": "ミュリオンデザインのもふもふフード。",
+    "come_from": [
+      "イベント「夢を拾う韶光」の過去回で獲得できる開拓コーデ"
+    ]
   },
   "250001": {
     "id": "250001",
@@ -29743,6 +30452,486 @@
     "desc": "{TEXTJOIN#247}の頭飾り",
     "come_from": []
   },
+  "265001": {
+    "id": "265001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265002": {
+    "id": "265002",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265003": {
+    "id": "265003",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265004": {
+    "id": "265004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265005": {
+    "id": "265005",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265006": {
+    "id": "265006",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265007": {
+    "id": "265007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265008": {
+    "id": "265008",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265009": {
+    "id": "265009",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265010": {
+    "id": "265010",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265011": {
+    "id": "265011",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265012": {
+    "id": "265012",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265013": {
+    "id": "265013",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265014": {
+    "id": "265014",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265015": {
+    "id": "265015",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265016": {
+    "id": "265016",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265017": {
+    "id": "265017",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265018": {
+    "id": "265018",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265019": {
+    "id": "265019",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265020": {
+    "id": "265020",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265021": {
+    "id": "265021",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265022": {
+    "id": "265022",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265023": {
+    "id": "265023",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265024": {
+    "id": "265024",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265025": {
+    "id": "265025",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265026": {
+    "id": "265026",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265027": {
+    "id": "265027",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265028": {
+    "id": "265028",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265029": {
+    "id": "265029",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265030": {
+    "id": "265030",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265031": {
+    "id": "265031",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265032": {
+    "id": "265032",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265033": {
+    "id": "265033",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265034": {
+    "id": "265034",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265035": {
+    "id": "265035",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265036": {
+    "id": "265036",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265037": {
+    "id": "265037",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265038": {
+    "id": "265038",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265039": {
+    "id": "265039",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265040": {
+    "id": "265040",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265041": {
+    "id": "265041",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265042": {
+    "id": "265042",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265043": {
+    "id": "265043",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265044": {
+    "id": "265044",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265045": {
+    "id": "265045",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265046": {
+    "id": "265046",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265047": {
+    "id": "265047",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265048": {
+    "id": "265048",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
   "270000": {
     "id": "270000",
     "name": "絶えない笑顔",
@@ -30033,6 +31222,86 @@
     "desc": "",
     "come_from": []
   },
+  "281031": {
+    "id": "281031",
+    "name": "コイン",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281031.png",
+    "desc": "プレイモード「マネーウォーズ」における主要なリソースである。パーティメンバーの購入や経験値アップ、ショップの更新に使用できる。",
+    "come_from": []
+  },
+  "281032": {
+    "id": "281032",
+    "name": "等価宝幣",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281032.png",
+    "desc": "「マネーウォーズ」で獲得でき、「最適配置」の解放に使用できる。",
+    "come_from": []
+  },
+  "281033": {
+    "id": "281033",
+    "name": "昇進ポイント",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281033.png",
+    "desc": "「マネーウォーズ」で獲得でき、「昇進レベル」の解放に使用できる。",
+    "come_from": []
+  },
+  "281034": {
+    "id": "281034",
+    "name": "経験値",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/21.png",
+    "desc": "「マネーウォーズ」でパーティ規模を拡大するための経験値素材。各パートをクリアすると自動的に2獲得でき、コインでも購入できる。",
+    "come_from": []
+  },
+  "281035": {
+    "id": "281035",
+    "name": "無料更新",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/140150.png",
+    "desc": "「マネーウォーズ」でショップの更新に使用するリソース。このリソースが存在している間、ショップの更新にコインを消費しない。",
+    "come_from": []
+  },
+  "281037": {
+    "id": "281037",
+    "name": "黄金の招待券",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281037.png",
+    "desc": "「キメラワールドトーナメント」の特別招待券。選択画面で共に戦いたいキメラトレーナーを解放できる。トーナメント戦に参加することで入手可能。",
+    "come_from": []
+  },
+  "281038": {
+    "id": "281038",
+    "name": "ぴょんぴょんおやつ",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/270006.png",
+    "desc": "全ての創造物が大好きな特製お菓子。「風雲！にゃんこ城」で創造物を応援したり、報酬と交換したりすることができる。",
+    "come_from": []
+  },
+  "281039": {
+    "id": "281039",
+    "name": "",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/CakeRaceIconScore.png",
+    "desc": "",
+    "come_from": []
+  },
   "300002": {
     "id": "300002",
     "name": "運命の行人の贈り物",
@@ -30181,6 +31450,16 @@
     "rarity": 3,
     "icon": "icon/item/300041.png",
     "desc": "この箱には広大な銀河に存在する奇抜な特産品がいろいろと詰め込まれている。さあ、開けてみよう。あなたが必要としているものが入っているかもしれない。",
+    "come_from": []
+  },
+  "300057": {
+    "id": "300057",
+    "name": "宝探し券",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 4,
+    "icon": "icon/item/300057.png",
+    "desc": "",
     "come_from": []
   },
   "300101": {
@@ -33168,6 +34447,26 @@
       "大地獣キャラバン（行商人）"
     ]
   },
+  "408441": {
+    "id": "408441",
+    "name": "ザグレウスの厳選チーズ",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401035.png",
+    "desc": "使用後、指定した味方単体のEPを25%回復する。",
+    "come_from": []
+  },
+  "408442": {
+    "id": "408442",
+    "name": "ザグレウスの厳選乾パン",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401036.png",
+    "desc": "使用後、指定した味方単体のHPを最大HP20%+240回復する。",
+    "come_from": []
+  },
   "408601": {
     "id": "408601",
     "name": "ベロブルグソーセージ",
@@ -33633,6 +34932,26 @@
     "come_from": [
       "ハートヌスの鍛冶屋"
     ]
+  },
+  "408640": {
+    "id": "408640",
+    "name": "ザグレウスの厳選視肉",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/403007.png",
+    "desc": "使用後、次の戦闘で味方全体の氷属性ダメージ+20%。",
+    "come_from": []
+  },
+  "408641": {
+    "id": "408641",
+    "name": "ザグレウスの厳選小豆",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/180007.png",
+    "desc": "使用後、次の戦闘で味方全体の防御力+30%。",
+    "come_from": []
   },
   "408801": {
     "id": "408801",

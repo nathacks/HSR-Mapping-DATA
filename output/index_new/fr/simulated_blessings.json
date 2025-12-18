@@ -966,8 +966,8 @@
   "612643": {
     "id": "612643",
     "name": "<i>L'albatros en peinture</i>",
-    "desc": "Pour chaque ennemi touché par l'ATQ de suivi d'un personnage, ce dernier inflige des DGT additionnels équivalents à 24% de son ATQ à tous les ennemis touchés.",
-    "enhanced_desc": "Pour chaque ennemi touché par l'ATQ de suivi d'un personnage, ce dernier inflige des DGT additionnels équivalents à 36% de son ATQ à tous les ennemis touchés."
+    "desc": "Pour chaque cible ennemie touchée par l'ATQ de suivi d'un personnage, ce dernier inflige des DGT additionnels équivalents à 24% de son ATQ à tous les ennemis touchés.",
+    "enhanced_desc": "Pour chaque cible ennemie touchée par l'ATQ de suivi d'un personnage, ce dernier inflige des DGT additionnels équivalents à 36% de son ATQ à tous les ennemis touchés."
   },
   "612644": {
     "id": "612644",
@@ -1934,7 +1934,7 @@
   "615642": {
     "id": "615642",
     "name": "<i>L'albatros en peinture</i>",
-    "desc": "Pour chaque ennemi touché par l'ATQ de suivi d'un personnage, ce dernier inflige des DGT additionnels équivalents à 24% de son ATQ à tous les ennemis touchés."
+    "desc": "Pour chaque cible ennemie touchée par l'ATQ de suivi d'un personnage, ce dernier inflige des DGT additionnels équivalents à 24% de son ATQ à tous les ennemis touchés."
   },
   "615643": {
     "id": "615643",
@@ -1969,7 +1969,7 @@
   "615652": {
     "id": "615652",
     "name": "<i>Suspiria</i>",
-    "desc": "Augmente les DGT d'ATQ de suivi infligés par les personnages de 26%."
+    "desc": "Augmente les DGT d'ATQ de suivi des personnages de 26%."
   },
   "615653": {
     "id": "615653",
@@ -3925,12 +3925,17 @@
   "673140": {
     "id": "673140",
     "name": "Gardien du serment",
-    "desc": "Après le tour 12 (compté comme le nombre total de tours de tous les alliés), avance l'action du premier personnage de l'équipe actuelle et de son mnémesprit de 100 %. Lors des 1 tour(s) suivant(s), ils bénéficient d'un tour supplémentaire à la fin de chaque tour. En attaquant pendant ces tours supplémentaires, inflige aux ennemis attaqués des DGT additionnels équivalents à 600% de l'ATQ de l'assaillant. Chaque cumul d'Obsession appliqué aux alliés augmente ces DGT de 1% du multiplicateur initial."
+    "desc": "Après le tour 12 (compté comme le nombre total de tours de tous les alliés), avance l'action du premier personnage de l'équipe actuelle et de son mnémesprit de 100 %. Lors des 1 tour(s) suivant(s), ils bénéficient d'un tour supplémentaire à la fin de chaque tour. En attaquant pendant ces tours supplémentaires, inflige aux ennemis attaqués des DGT additionnels équivalents à 600% des PV max de l'assaillant. Chaque cumul d'Obsession appliqué aux alliés augmente ces DGT de 1% du multiplicateur initial."
   },
   "673150": {
     "id": "673150",
     "name": "Prêtre de l'élégie",
     "desc": "Fleur de l'annihilation apparaît dans l'ordre d'action et enregistre la valeur de Blazar obtenue par les alliés. Lors de son action, Fleur de l'annihilation inflige des DGT de feu équivalents à 5000% de la valeur enregistrée + 3000% des DGT de base à toutes les cibles ennemies, puis réinitialise la valeur enregistrée. Sa VIT augmente de 1% pour chaque cumul d'Obsession que possèdent les alliés. Lorsqu'une cible alliée entre en combat ou est à terre, ou lorsqu'un mnémesprit est invoqué ou disparaît, les alliés obtiennent une charge de Blazar équivalente à 25% des PV max de toutes les cibles alliées."
+  },
+  "673160": {
+    "id": "673160",
+    "name": "Sirène côtière",
+    "desc": "Lorsqu'un personnage allié et son mnémesprit bénéficient d'Obsession, ils accumulent un nombre égal de cumuls de charge. Après avoir atteint 50 cumuls, ils entrent dans l'état Chant funèbre. Lorsqu'un personnage avec Chant funèbre lance une attaque, il consomme 16 cumuls de charge pour infliger 3 instances de DGT d'Arrière-goût équivalents à 150% de ses PV max à la cible ennemie. L'état se dissipe lorsque le nombre de cumuls tombe à 0. La charge est cumulable dans l'état de Chant funèbre."
   },
   "673210": {
     "id": "673210",
@@ -3997,6 +4002,11 @@
     "name": "Maison des poèmes",
     "desc": "La charge nécessaire pour activer Âme de papillon augmente de 50%. Après l'entrée dans l'état Âme de papillon, l'action de toutes les cibles alliées est avancée de 50% et le multiplicateur de DGT des DGT réels infligés par Âme de papillon augmente à hauteur de 50% du multiplicateur initial. D'autre part, chaque cumul d'Obsession appliqué à tous les alliés augmente ce multiplicateur de 1% supplémentaires."
   },
+  "673720": {
+    "id": "673720",
+    "name": "Mortels",
+    "desc": "Dans l'état Âme de papillon, chaque fois que tous les alliés consomment 1 point de compétence, les DGT subis par tous les ennemis augmentent de 10%, cumulable jusqu'à 40%. Une fois dans l'état Âme de papillon et après avoir consommé un total de 4 points de compétence pour la première fois, récupère 6 attaques d'Âme de papillon. D'autre part, avant que l'état actuel d'Âme de papillon ne se dissipe, lorsqu'une cible alliée attaque, inflige à la cible attaquée 1 instance de DGT réels supplémentaires équivalents à 60% des DGT initiaux (hors DGT additionnels). Cet effet s'applique aussi aux dégâts sur la durée subis par les cibles ennemies au début de leur tour."
+  },
   "673790": {
     "id": "673790",
     "name": "Fabricant de chrysalides",
@@ -4012,10 +4022,20 @@
     "name": "Caprisme",
     "desc": "Après que les alliés ont utilisé un total de 2 ultimes, inflige 2 instance(s) de DGT de vent équivalents à 600% des DGT de base à une cible ennemie aléatoire . Ces DGT appliquent des DGT équivalents à 30% des DGT initiaux aux unités adjacentes. Chaque fois que cet effet est déclenché, le nombre d'instances pour le reste du combat augmente de 1 et les DGT d'ATQ normale, de compétence et d'ultime infligés par les cibles alliées augmentent de 12%. Cet effet peut se cumuler jusqu'à 15 fois."
   },
+  "673890": {
+    "id": "673890",
+    "name": "Tortue géante altruiste",
+    "desc": "Souffle de la tortue géante apparaît dans l'ordre d'action. Lorsque le Souffle de la tortue géante agit, augmente les DGT subis par tous les ennemis de 50% pour une durée de 3 tours, lance 3 attaques sur tous les ennemis, infligeant des DGT de glace et de feu équivalents à 6000% des DGT de base, retarde leurs actions de 30% et réduit la robustesse de toutes les cibles ennemies de 30 en ignorant le type de faiblesse. Si une cible ennemie subit une Rupture de faiblesse, déclenche les effets de Rupture de faiblesse de glace et de feu. Lorsqu'une cible alliée active son ultime avec Cerveau dans une cuve, avance l'action de Souffle de la tortue géante de 15%."
+  },
   "673920": {
     "id": "673920",
     "name": "Articulation de la paresse",
     "desc": "Lorsqu'un allié inflige une Rupture de faiblesse à une cible ennemie, lui applique 20 cumuls d'Harmonisation. Après avoir attaqué une cible ennemie en état de Rupture de faiblesse, les cumuls Harmonisation et les dégâts sur la durée appliqués lui infligent immédiatement des DGT équivalents à 24% des DGT initiaux."
+  },
+  "673940": {
+    "id": "673940",
+    "name": "Porte de Yactor",
+    "desc": "Lorsqu'une cible alliée attaque, il y a 60% de chances fixes d'ajouter 1 Faiblesse d'un type aléatoire à une cible ennemie aléatoire, donnant la priorité aux types de faiblesses que la cible ennemie ne possède pas déjà. La Faiblesse ajoutée se dissipe après que la cible ennemie a subi une Rupture de faiblesse. Après avoir ajouté une Faiblesse à une cible ennemie, lui applique 5 cumuls d'Harmonisation et enregistre la Faiblesse ajoutée une fois. Cet effet ne peut se déclencher que jusqu'à 2 fois par action. Lorsqu'une cible ennemie subit une Rupture de faiblesse, en fonction des Faiblesses enregistrées, chaque Faiblesse enregistrée inflige à la cible et aux cibles adjacentes 250% de l'effet de Rupture du type correspondant."
   },
   "673950": {
     "id": "673950",
@@ -4047,10 +4067,20 @@
     "name": "Exécuteur",
     "desc": "Les dégâts sur la durée subis par les cibles ennemies peuvent être critiques. Les chances de coup critique/DGT critiques sont équivalents à 20% des chances de coup critique/DGT critiques de tous les personnages alliés. Les DGT critiques ne peuvent pas dépasser 120%."
   },
+  "674250": {
+    "id": "674250",
+    "name": "Léviathan de l'Est",
+    "desc": "Augmente les DGT de Murmure subis par les cibles ennemies de 15%. Après qu'une cible ennemie a subi des dégâts sur la durée en dehors de son tour, applique à tous les alliés une charge de Blazar équivalente à 20% de leur ATQ respective. Cet effet peut être déclenché jusqu'à 2 fois par tour et par cible ennemie."
+  },
   "674260": {
     "id": "674260",
     "name": "Enterreur marin",
     "desc": "Augmente le seuil de suppression de Murmure de 120%. Après qu'une cible alliée a lancé une ATQ de suivi, Murmure inflige des DGT équivalents à 20% des DGT initiaux à la cible attaquée."
+  },
+  "674270": {
+    "id": "674270",
+    "name": "Poisson chasseur de vagues",
+    "desc": "Au début du tour de la cible ennemie, le seuil de dissipation de Murmure augmente de 20%. Cet effet est cumulable. Pour chaque dégât sur la durée autre que Murmure, le seuil augmente de 4% supplémentaire."
   },
   "674280": {
     "id": "674280",
@@ -4087,6 +4117,11 @@
     "name": "Esprit de la flamme menaçante",
     "desc": "Lorsqu'une cible alliée inflige des DGT de Blazar et que l'ennemi est affecté par un état de dégâts sur la durée, le multiplicateur de DGT de cette instance de Blazar augmente à hauteur de 60% du multiplicateur initial. Chaque type de dégâts sur la durée augmente ce multiplicateur de 15% supplémentaires."
   },
+  "674560": {
+    "id": "674560",
+    "name": "Étranger masqué",
+    "desc": "Convertit 35% de la valeur de bouclier de la cible alliée en Blazar. Après avoir déclenché une ATQ de suivi, accorde à tous les alliés des boucliers équivalents à 40% de leurs ATQ respectives pour une durée de 2 tour(s)."
+  },
   "674570": {
     "id": "674570",
     "name": "Phénix de la couronne solaire",
@@ -4096,6 +4131,11 @@
     "id": "674590",
     "name": "Avant-garde d'Acrokopis",
     "desc": "Lorsqu'une cible alliée inflige une Rupture de faiblesse à une cible ennemie, charge Blazar à hauteur de 25% des PV max. Si toutes les cibles ennemies subissent une Rupture de faiblesse, Blazar n'est pas supprimé au début du tour des cibles alliées."
+  },
+  "674610": {
+    "id": "674610",
+    "name": "Labyrinthe de pierre",
+    "desc": "Lorsqu'une cible alliée bénéficie d'au moins 20 cumuls d'Obsession, augmente ses DGT d'ATQ de suivi et ses DGT additionnels de 100%. Après être entré en combat, lorsque le nombre de cibles alliées sur le champ de bataille change, accorde 8 cumuls d'Obsession à la cible alliée avec le moins de cumuls d'Obsession."
   },
   "674620": {
     "id": "674620",
@@ -4157,10 +4197,20 @@
     "name": "Martyr du savoir interdit",
     "desc": "Lorsqu'une cible alliée utilise un ultime, toutes les cibles alliées consomment des PV équivalents à 5% de leurs PV actuels et les DGT qu'ils infligent augmentent de 30% jusqu'à un max de 4 cumuls, pour une durée de 2 tours."
   },
+  "674890": {
+    "id": "674890",
+    "name": "Voleur de notes",
+    "desc": "Lorsqu'une cible ennemie subit une attaque, si le nombre de cumuls d'Harmonisation est supérieur à 10 et que ses PV sont inférieurs à 20%, elle subit des DGT réels supplémentaires équivalents à ses PV actuels. Cet effet ne peut se déclencher qu'une fois par cible ennemie. Lorsque cet effet s'applique à un ennemi élite, accorde 35% de charge de Cerveau dans une cuve à tous les alliés."
+  },
   "674920": {
     "id": "674920",
     "name": "Patient en déclin",
     "desc": "Lorsqu'une cible ennemie subit des DGT d'Harmonisation, elle subit 1 instance de DGT d'Harmonisation supplémentaires équivalents à 75% des DGT initiaux. Chaque malus appliqué sur la cible augmente ces DGT de 2%, jusqu'à un maximum de 40%."
+  },
+  "674940": {
+    "id": "674940",
+    "name": "Pigeon de fer sans pattes",
+    "desc": "Après qu'une cible alliée a attaqué une cible ennemie en état de Rupture de faiblesse, convertit la réduction de robustesse de cette attaque en 1 instance de 75% de DGT de rupture extrême. Pour chaque cumul d'Amélioration critique obtenu, cet effet inflige 10% de DGT de rupture extrême supplémentaires."
   },
   "674950": {
     "id": "674950",
@@ -4176,6 +4226,11 @@
     "id": "675140",
     "name": "Juge du voile nocturne",
     "desc": "Après qu'un mnémesprit disparaît, la VIT de toutes les cibles alliées augmente de 25%, et les DGT critiques augmentent de 100% pendant 5 tours."
+  },
+  "675150": {
+    "id": "675150",
+    "name": "Mnémesprit d'ichor",
+    "desc": "Lorsqu'une cible alliée perd des PV, accorde 5 cumuls d'Obsession. Cet effet peut se déclencher jusqu'à 1 fois et peut être réactivé après l'action d'une unité."
   },
   "675160": {
     "id": "675160",
@@ -4212,6 +4267,11 @@
     "name": "Pèlerin lugubre",
     "desc": "Lorsqu'une cible ennemie entre en combat, elle se voit infliger l'effet Saignement. Sous l'effet Saignement, elle subit des dégâts physiques sur la durée équivalents à 10% de ses PV max au début de son tour. Ces DGT ne peuvent pas dépasser 200% des PV totaux de toutes les cibles alliées."
   },
+  "675260": {
+    "id": "675260",
+    "name": "École du panier",
+    "desc": "Augmente les dégâts sur la durée subis par les cibles ennemies de 20%. Après avoir subi une ATQ de suivi, charge Murmure d'un montant équivalent à 2% du seuil de suppression."
+  },
   "675270": {
     "id": "675270",
     "name": "Semeur d'os",
@@ -4231,6 +4291,11 @@
     "id": "675450",
     "name": "Voyageur d'Acrokopis",
     "desc": "Augmente la valeur de bouclier accordée aux alliés de 30%. Lorsqu'une cible alliée subit une attaque et qu'aucun DGT n'a été infligé, elle ne perd que 1 cumul(s) d'Amélioration critique."
+  },
+  "675460": {
+    "id": "675460",
+    "name": "Cavalier farceur",
+    "desc": "Chaque cumul d'Amélioration critique augmente les DGT d'ATQ de suivi de 5%. Lorsqu'une cible alliée lance une ATQ de suivi, accorde 2 cumuls d'Amélioration critique."
   },
   "675480": {
     "id": "675480",
@@ -4262,10 +4327,20 @@
     "name": "Messager de la lune rouge",
     "desc": "Augmente la valeur de base de Blazar de 50%. Après qu'une cible alliée a lancé une ATQ de suivi, la cible alliée avec le pourcentage de PV le plus bas restaure un montant de PV équivalent à 10% de ses PV max."
   },
+  "675580": {
+    "id": "675580",
+    "name": "Philosophe de la fureur divine",
+    "desc": "Lorsque le pourcentage de PV d'un personnage allié tombe en dessous de 25% pour la première fois en combat, active l'ultime et cette unité. Aussi, les DGT d'ultime infligés par cette unité et son mnémesprit lors du combat ignorent 20% de la DÉF."
+  },
   "675590": {
     "id": "675590",
     "name": "Légion de la lame céleste",
     "desc": "Augmente la valeur de bouclier reçue de 30%. Après avoir infligé une Rupture de faiblesse à une cible ennemie, tous les alliés bénéficient un bouclier d'une valeur équivalente à 15% de leurs PV max respectifs pendant 2 tours."
+  },
+  "675610": {
+    "id": "675610",
+    "name": "Arpenteur des ruines",
+    "desc": "Augmente les PV max de la cible alliée de 15%. Pour chaque cible alliée actuellement présente sur le champ de bataille, augmente les DGT d'Arrière-goût de la cible alliée de 30%."
   },
   "675620": {
     "id": "675620",
@@ -4326,6 +4401,11 @@
     "id": "675840",
     "name": "Enfant de la spirale",
     "desc": "Lorsque le Cerveau dans une cuve d'une cible alliée atteint 100 %, augmente son ATQ de 80%. Après avoir utilisé une attaque, inflige des DGT additionnels équivalents à 80% de l'ATQ à la cible ennemie ayant le plus de PV parmi les cibles attaquées pendant 3 tours."
+  },
+  "675850": {
+    "id": "675850",
+    "name": "Sortilège étrange",
+    "desc": "Augmente les DGT de Blazar de la cible alliée de 75%. Après avoir utilisé un ultime, accorde une charge de Blazar équivalente à 35% des PV max."
   },
   "675860": {
     "id": "675860",

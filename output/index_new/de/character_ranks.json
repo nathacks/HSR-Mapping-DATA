@@ -601,7 +601,7 @@
     "id": "100606",
     "name": "Overlay-Netzwerk",
     "rank": 6,
-    "desc": "Erhöht den von Silberwolf verursachten SCH für jeden Debuff des Gegners um 20%%, bis zu max. 1%",
+    "desc": "Erhöht den von Silberwolf verursachten SCH für jeden Debuff des Gegners um 20%%, bis zu 1%",
     "materials": [
       {
         "id": "11006",
@@ -833,7 +833,7 @@
     "id": "101302",
     "name": "Triumph und Verfolgung",
     "rank": 2,
-    "desc": "Erhöht für jede Auslösung des Talents die KRIT-Rate von Herta um 3%%. Dieser Effekt ist bis zu 5-mal stapelbar.",
+    "desc": "Erhöht für jede Auslösung des Talents die KRIT-Rate dieser Einheit um 3%%. Dieser Effekt ist bis zu 5-mal stapelbar.",
     "materials": [
       {
         "id": "11013",
@@ -1639,7 +1639,7 @@
     "id": "110601",
     "name": "Siegesbericht",
     "rank": 1,
-    "desc": "Wird ein Gegner besiegt, erhält Pela 5 Pkt. Energie zurück.",
+    "desc": "Wird ein Gegner besiegt, stellt Pela 5 Pkt. Energie wieder her.",
     "materials": [
       {
         "id": "11106",
@@ -2569,7 +2569,7 @@
     "id": "120301",
     "name": "Taufe der Lebenden",
     "rank": 1,
-    "desc": "Ist das Feld aktiv, wird der ANG aller Verbündeten um 20%% erhöht.",
+    "desc": "Ist das Kraftfeld aktiv, wird der ANG aller Verbündeten um 20%% erhöht.",
     "materials": [
       {
         "id": "11203",
@@ -2620,7 +2620,7 @@
     "id": "120304",
     "name": "Urteil der Dornenkrone",
     "rank": 4,
-    "desc": "Ist das Feld aktiv, werden Gegner geschwächt und sie verursachen 12%% weniger SCH.",
+    "desc": "Ist das Kraftfeld aktiv, werden Gegner geschwächt und sie verursachen 12%% weniger SCH.",
     "materials": [
       {
         "id": "11203",
@@ -3966,7 +3966,7 @@
     "id": "121704",
     "name": "Gefesselt im Leben, gebunden im Streit",
     "rank": 4,
-    "desc": "Wenn sie einen Verbündeten mit ihrer Fertigkeit heilt oder der Effekt ihres Talents ausgelöst wird, erhöht sich Huohuos bewirkte Heilung abhängig davon, wie niedrig die LP des Verbündeten sind, jedoch bis zu 80%%.",
+    "desc": "Wenn Huohuo mit ihrer Fertigkeit oder durch Auslösen ihres Talents einen Verbündeten heilt, steigt die bewirkte Heilung umso mehr, je niedriger die aktuellen LP des Verbündeten sind, bis zu einer maximalen Erhöhung von 80%%.",
     "materials": [
       {
         "id": "11217",
@@ -4068,7 +4068,7 @@
     "id": "121804",
     "name": "Innerer Frieden, blühende Lebenskraft",
     "rank": 4,
-    "desc": "Solange das Feld aktiv ist, wird der ANG der Gegner um 15%% reduziert.",
+    "desc": "Solange das Kraftfeld aktiv ist, wird der ANG der Gegner um 15%% reduziert.",
     "materials": [
       {
         "id": "11218",
@@ -4247,7 +4247,7 @@
     "id": "122102",
     "name": "Erwachter Schimmer",
     "rank": 2,
-    "desc": "Wenn durch einen Konter SCH verursacht wird, werden 20%% der VTD des Ziels ignoriert.",
+    "desc": "Wenn durch einen Konter SCH verursacht wird, werden 20%% der VTD des Gegners ignoriert.",
     "materials": [
       {
         "id": "11221",
@@ -4963,7 +4963,7 @@
     "id": "130301",
     "name": "Neuralstickerei",
     "rank": 1,
-    "desc": "Während das Feld des Ultimates aktiv ist, ignoriert der von Verbündeten verursachte SCH 20%% der VTD des Zieles.",
+    "desc": "Während das Kraftfeld des Ultimates aktiv ist, ignoriert der von Verbündeten verursachte SCH 20%% der VTD des Zieles.",
     "materials": [
       {
         "id": "11303",
@@ -5051,7 +5051,7 @@
     "id": "130306",
     "name": "Vom Schleier halb bedeckt",
     "rank": 6,
-    "desc": "Verlängert die aktive Dauer des vom Ultimate erzeugten Felds um 1 Rd. Der Multiplikator vom Bruch-SCH ihres Talents wird zusätzlich um 2% erhöht.",
+    "desc": "Verlängert die aktive Dauer des vom Ultimate erzeugten Kraftfelds um 1 Rd. Der Multiplikator vom Bruch-SCH ihres Talents wird zusätzlich um 2% erhöht.",
     "materials": [
       {
         "id": "11303",
@@ -5422,7 +5422,7 @@
     "id": "130704",
     "name": "Tränen, ein Geschenk",
     "rank": 4,
-    "desc": "Der Effekt-WDS von Gegnern mit dem Status Enthüllung wird um 10%% reduziert. Schwarzer Schwan stellt zu Beginn jeder Runde des betroffenen Ziels oder wenn es besiegt wird 8 Pkt. Energie wieder her. Dieser Effekt der Energiewiederherstellung kann während der Dauer von Enthüllung nur 1-mal ausgelöst werden. Die Auslösungsanzahl wird aktualisiert, wenn der Gegner erneut mit Enthüllung belegt wird.",
+    "desc": "Der Effekt-WDS von Gegnern mit dem Status Enthüllung wird um 10%% reduziert. Schwarzer Schwan stellt zu Beginn jeder Runde des betroffenen Ziels oder wenn es besiegt wird 8 Pkt. Energie wieder her. Dieser Effekt der Energiewiederherstellung kann während der Dauer von Enthüllung bis zu 1-mal ausgelöst werden. Die Auslösungsanzahl wird aktualisiert, wenn der Gegner erneut mit Enthüllung belegt wird.",
     "materials": [
       {
         "id": "11307",
@@ -6329,6 +6329,108 @@
     "level_up_skills": [],
     "icon": "icon/skill/1317_Rank6.png"
   },
+  "132101": {
+    "id": "132101",
+    "name": "Wenn eine Knospe zum Erblühen bereit ist",
+    "rank": 1,
+    "desc": "Der vom Talent gewährte Multiplikator des Super-Bruch-SCH gilt für alle verbündeten Figuren, wobei der Multiplikator für „Tanzpartner“ zusätzlich um 40%% erhöht wird. Nachdem ein Tanzpartner angegriffen hat, erleiden getroffene Gegner eine zusätzliche feste WDS-Reduzierung in Höhe von 25%% ihres max. WDS (mindestens 10 Pkt., bis zu 300 Pkt.). Dieser Effekt kann pro Gegner nur 1-mal ausgelöst werden. Die Auslösungsanzahl wird zurückgesetzt, nachdem der Gegner einen Todesstoß erlitten hat.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1321_Rank1.png"
+  },
+  "132102": {
+    "id": "132102",
+    "name": "Neugeboren, frisch, lieblich",
+    "rank": 2,
+    "desc": "Wenn die Dahlie auf dem Kampffeld ist, wird der WDS aller Typen aller Gegner um 20%% reduziert. Wenn ein Gegner das Kampffeld betritt, tritt er sofort für 3 Rd. in den Status „Verwelken“.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1321_Rank2.png"
+  },
+  "132103": {
+    "id": "132103",
+    "name": "Ach, die Blütenblätter, so zart wie Gaze",
+    "rank": 3,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "132103",
+        "num": 2
+      },
+      {
+        "id": "132101",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1321_Ultra.png"
+  },
+  "132104": {
+    "id": "132104",
+    "name": "Weh, der Blütenkern, von Insekten zerfressen",
+    "rank": 4,
+    "desc": "Erhöht die Trefferzahl des Folgeangriffs des Talents um 5. Erhöht beim Einsatz den erlittenen SCH aller Gegner für 2 Rd. um 12%%.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1321_Rank4.png"
+  },
+  "132105": {
+    "id": "132105",
+    "name": "Verwelken, Verwesen, voller Hass",
+    "rank": 5,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "132102",
+        "num": 2
+      },
+      {
+        "id": "132104",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/1321_BP.png"
+  },
+  "132106": {
+    "id": "132106",
+    "name": "Doch bleibt sie stets so schön und tödlich",
+    "rank": 6,
+    "desc": "Erhöht den Brucheffekt der „Tanzpartner“ um 1.5%. Beim Ausführen des Folgeangriffs des Talents wird die nächste Aktion beider Tanzpartner um 20%% vorgezogen.",
+    "materials": [
+      {
+        "id": "11321",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1321_Rank6.png"
+  },
   "140101": {
     "id": "140101",
     "name": "Nacht der fallenden Sterne",
@@ -6565,7 +6667,7 @@
     "id": "140301",
     "name": "Ritual des Streuzuckers",
     "rank": 1,
-    "desc": "Nachdem Verbündete während der Dauer des Feldes Gegner angegriffen haben, wird bei dem Ziel, dem das Feld zusätzlichen SCH zufügt, zusätzlich Tatsächlicher SCH in Höhe von 24%% der gesamten Schadenmenge dieses Angriffs verursacht.",
+    "desc": "Nachdem Verbündete während der Dauer des Kraftfelds Gegner angegriffen haben, wird bei dem Ziel, dem das Kraftfeld zusätzlichen SCH zufügt, zusätzlich Tatsächlicher SCH in Höhe von 24%% der gesamten Schadenmenge dieses Angriffs verursacht.",
     "materials": [
       {
         "id": "11403",
@@ -6579,7 +6681,7 @@
     "id": "140302",
     "name": "Guide zum süßen Traum",
     "rank": 2,
-    "desc": "Erhöht den durch das Feld verursachten zusätzlichen SCH auf 1.2% des ursprünglichen SCH. Wenn das Feld zusätzlichen SCH verursacht, wird noch 1-mal zusätzlicher SCH verursacht.",
+    "desc": "Erhöht den durch das Kraftfeld verursachten zusätzlichen SCH auf 1.2% des ursprünglichen SCH. Wenn das Kraftfeld zusätzlichen SCH verursacht, wird noch 1-mal zusätzlicher SCH verursacht.",
     "materials": [
       {
         "id": "11403",
@@ -7361,7 +7463,7 @@
     "id": "141002",
     "name": "Du willst wissen, warum die Wellen so rauschen",
     "rank": 2,
-    "desc": "Während das Feld aktiv ist, wirkt die SCH-Erhöhung der Spur „Saiten der Perlen“ auf alle Verbündeten.",
+    "desc": "Während das Kraftfeld aktiv ist, wirkt die SCH-Erhöhung der Spur „Saiten der Perlen“ auf alle Verbündeten.",
     "materials": [
       {
         "id": "11410",
@@ -7398,7 +7500,7 @@
     "id": "141004",
     "name": "Sieh nur, warum die Zeit dahinfließt",
     "rank": 4,
-    "desc": "Während das Feld aktiv ist, wird der WDS aller Typen aller Gegner um 20%% reduziert.",
+    "desc": "Während das Kraftfeld aktiv ist, wird der WDS aller Typen aller Gegner um 20%% reduziert.",
     "materials": [
       {
         "id": "11410",
@@ -7435,7 +7537,7 @@
     "id": "141006",
     "name": "Versunkene, wann kehrst du zurück",
     "rank": 6,
-    "desc": "Während das Feld aktiv ist, wird zu Beginn jeder Runde oder nach einem Einzelangriff eines Verbündeten die max. Auslösungszahl von Hysilens’ physischem DoT-Effekt auf 12 und der SCH-Multiplikator des verursachten SCH um 20%% erhöht.",
+    "desc": "Während das Kraftfeld aktiv ist, wird zu Beginn jeder Runde oder nach einem Einzelangriff eines Verbündeten die max. Auslösungszahl von Hysilens’ physischem DoT-Effekt auf 12 und der SCH-Multiplikator des verursachten SCH um 20%% erhöht.",
     "materials": [
       {
         "id": "11410",
@@ -7449,7 +7551,7 @@
     "id": "141201",
     "name": "Eroberung der Kronen aller",
     "rank": 1,
-    "desc": "Die Figur mit „Militärverdienst“ ignoriert beim Verursachen von SCH 16%% der VTD des Gegners. Wenn Militärverdienst zu „Adelstitel“ hochgestuft wird, ignoriert diese Figur beim Verursachen von Fertigkeits-SCH zusätzlich 20%% der VTD des Gegners. Beim Einsatz von Cerydras Fertigkeit stellt sie bei einem anvisierten Verbündeten 2 Pkt. Energie wieder her.",
+    "desc": "Die Figur mit „Militärverdienst“ ignoriert beim Verursachen von SCH 16%% der VTD des Gegners. Wenn Militärverdienst zu „Adelstitel“ hochgestuft wird, ignoriert diese Figur beim Verursachen von Fertigkeits-SCH zusätzlich 20%% der VTD des Ziels. Beim Einsatz von Cerydras Fertigkeit stellt sie bei einem anvisierten Verbündeten 2 Pkt. Energie wieder her.",
     "materials": [
       {
         "id": "11412",
@@ -7537,7 +7639,7 @@
     "id": "141206",
     "name": "Reise ins Sternenmeer",
     "rank": 6,
-    "desc": "Erhöht die WDS-DUR aller Typen von der Figur mit „Militärverdienst“ um 20%% und den Multiplikator des zusätzlichen SCH, der durch Militärverdienst ausgelöst wird, um 3%. Wenn sich ein Teammitglied mit Militärverdienst auf dem Kampffeld befindet, wird Cerydras WDS-DUR aller Typen um 20%% erhöht.",
+    "desc": "Erhöht die WDS-DUR aller Typen der Figur mit „Militärverdienst“ um 20%% und den Multiplikator des zusätzlichen SCH, der durch Militärverdienst ausgelöst wird, um 3%. Wenn sich ein Teammitglied mit Militärverdienst auf dem Kampffeld befindet, wird Cerydras WDS-DUR aller Typen um 20%% erhöht.",
     "materials": [
       {
         "id": "11412",
@@ -7774,6 +7876,188 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/1414_Rank6.png"
+  },
+  "141501": {
+    "id": "141501",
+    "name": "Leere, wo das Gedicht beginnt",
+    "rank": 1,
+    "desc": "Wenn der Demiurg die Memogeist-Technik „Gedicht an das Ego“ auslöst und „Walzer von Blumen und Pfeilen“ einsetzt, erhält er 6 Pkt. „Rückerinnerung“ und die Anzahl der Abpraller dieses Angriffs wird zusätzlich um 12 erhöht.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1415_Rank1.png"
+  },
+  "141502": {
+    "id": "141502",
+    "name": "Das Morgen in dreizehn leuchtenden Farben",
+    "rank": 2,
+    "desc": "Erhält beim Kampfeintritt zusätzlich 12 Pkt. „Rückerinnerung“. Für jede unterschiedliche verbündete Figur, die den Buff der Memogeist-Technik des Demiurgen erhält, wird der SCH-Multiplikator des von Verbündeten durch das Kraftfeld der Fertigkeit verursachten Tatsächlichen SCH um 6%% erhöht, bis zu 24%%.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1415_Rank2.png"
+  },
+  "141503": {
+    "id": "141503",
+    "name": "Nur durch dich, wie ich es schrieb",
+    "rank": 3,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15. Technikstufe des Memogeists +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "141503",
+        "num": 2
+      },
+      {
+        "id": "141504",
+        "num": 2
+      },
+      {
+        "id": "1141501",
+        "num": 1
+      },
+      {
+        "id": "141514",
+        "num": 2
+      },
+      {
+        "id": "1141502",
+        "num": 1
+      },
+      {
+        "id": "1141513",
+        "num": 1
+      },
+      {
+        "id": "1141514",
+        "num": 1
+      },
+      {
+        "id": "1141515",
+        "num": 1
+      },
+      {
+        "id": "1141516",
+        "num": 1
+      },
+      {
+        "id": "1141517",
+        "num": 1
+      },
+      {
+        "id": "1141518",
+        "num": 1
+      },
+      {
+        "id": "1141519",
+        "num": 1
+      },
+      {
+        "id": "1141520",
+        "num": 1
+      },
+      {
+        "id": "1141521",
+        "num": 1
+      },
+      {
+        "id": "1141522",
+        "num": 1
+      },
+      {
+        "id": "1141523",
+        "num": 1
+      },
+      {
+        "id": "1141524",
+        "num": 1
+      },
+      {
+        "id": "1141525",
+        "num": 1
+      },
+      {
+        "id": "1141526",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1415_Ultra.png"
+  },
+  "141504": {
+    "id": "141504",
+    "name": "Schreibe die nächste Seite mit einem Lächeln",
+    "rank": 4,
+    "desc": "Jedes Mal, nachdem der Demiurg „Walzer von Blumen und Pfeilen“ eingesetzt hat, wird der Abpraller-SCH-Multiplikator der ausgelösten Memogeist-Technik „Gedicht an das Ego“ für den aktuellen Kampf um 6%% erhöht, bis zu 24-fach.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1415_Rank4.png"
+  },
+  "141505": {
+    "id": "141505",
+    "name": "Blicke, schweifend über gestrige Blumenbeete",
+    "rank": 5,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10. Talentstufe des Memogeists +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "141502",
+        "num": 2
+      },
+      {
+        "id": "141501",
+        "num": 1
+      },
+      {
+        "id": "1141503",
+        "num": 1
+      },
+      {
+        "id": "1141505",
+        "num": 1
+      },
+      {
+        "id": "141508",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1415_BP.png"
+  },
+  "141506": {
+    "id": "141506",
+    "name": "Erinnerungen, verwandelt in Wellen ♪",
+    "rank": 6,
+    "desc": "Wenn Cyrene zum ersten Mal ihren Ultimate einsetzt, wird die Aktion aller Verbündeten um 1% vorgezogen. Jedes Mal, wenn der Demiurg die Memogeist-Technik „Gedicht an das Ego“ auslöst und „Walzer von Blumen und Pfeilen“ einsetzt, werden basierend auf der Auslösungsanzahl in diesem Kampf die folgenden Effekte erhalten:\n1-mal: Reduziert die VTD aller Gegner um 20%%, wenn sich der Demiurg auf dem Kampffeld befindet.\n2-mal oder mehr: Die Aktion aller Verbündeten wird um 24%% vorgezogen.",
+    "materials": [
+      {
+        "id": "11415",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1415_Rank6.png"
   },
   "800101": {
     "id": "800101",
@@ -8519,6 +8803,10 @@
       {
         "id": "1800707",
         "num": 1
+      },
+      {
+        "id": "800708",
+        "num": 1
       }
     ],
     "icon": "icon/skill/8007_Ultra.png"
@@ -8644,6 +8932,10 @@
       },
       {
         "id": "1800707",
+        "num": 1
+      },
+      {
+        "id": "800808",
         "num": 1
       }
     ],
@@ -8857,7 +9149,7 @@
     "id": "1100606",
     "name": "Overlay-Netzwerk",
     "rank": 6,
-    "desc": "Erhöht den von Silberwolf verursachten SCH für jeden Debuff des Gegners um 20%%, bis zu max. 1%",
+    "desc": "Erhöht den von Silberwolf verursachten SCH für jeden Debuff des Gegners um 20%%, bis zu 1%",
     "materials": [
       {
         "id": "11006",

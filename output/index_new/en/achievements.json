@@ -1295,6 +1295,118 @@
     "hide_desc": "Stand with me, and become heroes! ※ Complete the final \"Era Nova\"",
     "hide": false
   },
+  "4034701": {
+    "id": "4034701",
+    "series_id": "3",
+    "title": "The End of Light",
+    "desc": "Behold, where the chariot charges forth lies dawn and victory\n※ Witness the Trailblazer, manifesting as the Express, traversing the skies",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034702": {
+    "id": "4034702",
+    "series_id": "5",
+    "title": "The Moon Waxes Beneath Blooming Sakura",
+    "desc": "Who else remains beyond the story?\n※ Bid farewell to Amphoreus and glimpse the clues to the next destination",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034703": {
+    "id": "4034703",
+    "series_id": "3",
+    "title": "The End Is Also the Primordial Chaos",
+    "desc": "Write a footnote for god's proof\n※ Prove to Nous... or not",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034704": {
+    "id": "4034704",
+    "series_id": "3",
+    "title": "Love, Peach, and Crystal Flower",
+    "desc": "Can a heart bloom when watered by time?\n※ Reveal the secret of PhiLia093 and Demiurge",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034705": {
+    "id": "4034705",
+    "series_id": "3",
+    "title": "The Final Grand Journey",
+    "desc": "The prisoner laughs at the puppet, asking who is more absurd\n※ Arrive at the Ruins of Time",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034706": {
+    "id": "4034706",
+    "series_id": "3",
+    "title": "The Apocalypse and Its Four Footnotes",
+    "desc": "The right side of the equation, the Erudition, falls silent\n※ Witness the moment the Destruction descends",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034707": {
+    "id": "4034707",
+    "series_id": "3",
+    "title": "Her Soul Is the Entire Universe",
+    "desc": "The stars shall witness Amphoreus's answer\n※ \"Hello, World\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034708": {
+    "id": "4034708",
+    "series_id": "3",
+    "title": "O Muse, Tell Me",
+    "desc": "Within the Light Cone, all is fated\n※ Write the final sentence of this epic",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034801": {
+    "id": "4034801",
+    "series_id": "3",
+    "title": "Virtuous's Epitaph",
+    "desc": "The cost of holding onto beliefs is often losing the way back\n※ In Firefly's POV, reunite with AR-214",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034802": {
+    "id": "4034802",
+    "series_id": "3",
+    "title": "The Past Is the Future's Reflection",
+    "desc": "Time dances on the blade's edge, only light can pierce through to the future\n※ Witness the convergence of \"Finality\" and \"Trailblaze\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034803": {
+    "id": "4034803",
+    "series_id": "3",
+    "title": "Flying Requires No Reason",
+    "desc": "Even if it's too late, we still have the choice to sing whatever we can\n※ Witness the Charmony Festival of Dreamchasers",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034804": {
+    "id": "4034804",
+    "series_id": "3",
+    "title": "Life Is a Near Miss With Death",
+    "desc": "Time is what ignites all living things, yet time, too, extinguishes them\n※ Reveal the truth about Terminus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034805": {
+    "id": "4034805",
+    "series_id": "3",
+    "title": "Memories are the Prelude to Dreams",
+    "desc": "A single person can enact death alone, but beauty requires a response\n※ Fulfill the promise with Firefly",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4034806": {
+    "id": "4034806",
+    "series_id": "3",
+    "title": "Oblivion is the Curtain Call of Dreams",
+    "desc": "All life opens up mysteries, all mysteries are veiled in darkness, all darkness carries hope, and all hope obeys life\n※ Find a fragment of Remembrance left to you by The Dahlia",
+    "hide_desc": "",
+    "hide": true
+  },
   "4040101": {
     "id": "4040101",
     "series_id": "4",
@@ -2865,7 +2977,7 @@
   },
   "4044503": {
     "id": "4044503",
-    "series_id": "4",
+    "series_id": "8",
     "title": "Future Waterworld",
     "desc": "Phagousa's priests always warn: Never swim in the River of Souls...\nDuring exploration in Amphoreus, get swept into the volatile waters",
     "hide_desc": "",
@@ -2873,7 +2985,7 @@
   },
   "4044504": {
     "id": "4044504",
-    "series_id": "4",
+    "series_id": "8",
     "title": "The Death of Aeschylus",
     "desc": "Phagousa's priests always warn: Watch for falling debris from above...\n※ During exploration in Amphoreus, get struck by a collapsing chandelier",
     "hide_desc": "",
@@ -3009,7 +3121,7 @@
   },
   "4044606": {
     "id": "4044606",
-    "series_id": "4",
+    "series_id": "8",
     "title": "Not Your Average Revolving Door",
     "desc": "Attempt to pass through the ventilation fan without \"time-stop\" abilities and fail",
     "hide_desc": "",
@@ -3092,6 +3204,174 @@
     "series_id": "4",
     "title": "Chirping Secret: Wisdom in Confinement",
     "desc": "How to offer Infinity?\n※ Solve the prophecy puzzle in \"Radiant Scarwood\" Grove of Epiphany",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044701": {
+    "id": "4044701",
+    "series_id": "4",
+    "title": "Amphoreus's True God of Treasures",
+    "desc": "Open Treasures #1[i] time(s) in Amphoreus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044702": {
+    "id": "4044702",
+    "series_id": "4",
+    "title": "Chirping Secret: Kiss of Time",
+    "desc": "What shape is that bridge?\n※ Solve the prophetic riddle in \"Nightmare's Echo\" Great Tomb of the Nameless Titan",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044703": {
+    "id": "4044703",
+    "series_id": "4",
+    "title": "Chirping Secret: Allegory of the Cave",
+    "desc": "What is hidden in the Exomyth?\n※ Solve the prophetic riddle in \"Memortis Shore\" Ruins of Time",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044704": {
+    "id": "4044704",
+    "series_id": "4",
+    "title": "Okhema's Golden Touch",
+    "desc": "Build an eternal paradise for the weavers\n※ Collect blessings from #1 Creation Nymph(s)",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044705": {
+    "id": "4044705",
+    "series_id": "4",
+    "title": "Thus Was All Creation Complete",
+    "desc": "Collect the blessing of all Creation Nymphs and solve all prophetic riddles",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044706": {
+    "id": "4044706",
+    "series_id": "8",
+    "title": "Hand of Shadow, Always by My Side",
+    "desc": "Experience the unexpected accidents triggered by every type of Amphorean object",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044707": {
+    "id": "4044707",
+    "series_id": "4",
+    "title": "Fire's Epitaph",
+    "desc": "Complete the special Golden Scapegoat in the Ruins of Time",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044708": {
+    "id": "4044708",
+    "series_id": "4",
+    "title": "Portal Configuration Theory",
+    "desc": "Manipulate the secret path mechanism in \"Nightmare's Echo\" Great Tomb of the Nameless Titan to alter the logic of all Janus's Hidden Passages in Amphoreus",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044709": {
+    "id": "4044709",
+    "series_id": "4",
+    "title": "Trickery, Time, and Seeds",
+    "desc": "Summon the Spirithief in the Ruins of Time",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044710": {
+    "id": "4044710",
+    "series_id": "4",
+    "title": "Palace Where Wind Dwells",
+    "desc": "Find the Spirithief's Hideout",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044711": {
+    "id": "4044711",
+    "series_id": "4",
+    "title": "Twilight's Three Heartbeats",
+    "desc": "Discover all enlightenments in the Ruins of Time",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044712": {
+    "id": "4044712",
+    "series_id": "4",
+    "title": "The Beddings of Memories",
+    "desc": "With March 7th's assistance, temporarily enhance the power of Oronyx's Prayer",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044713": {
+    "id": "4044713",
+    "series_id": "4",
+    "title": "Kephale Will Never Forget This",
+    "desc": "Pass the trial of \"Worldbearing\" and witness the hope and despair of days gone by",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044714": {
+    "id": "4044714",
+    "series_id": "4",
+    "title": "Twilight of the Gods",
+    "desc": "Launch the Trojan Program \"Mistletoe\" for the first time",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044715": {
+    "id": "4044715",
+    "series_id": "4",
+    "title": "No Relaunch Required",
+    "desc": "Manually land the \"Mistletoe\" at any waypoint",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044716": {
+    "id": "4044716",
+    "series_id": "4",
+    "title": "Trojan Age",
+    "desc": "Complete the \"Whimsy Challenge\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044717": {
+    "id": "4044717",
+    "series_id": "4",
+    "title": "The Oldest Fable",
+    "desc": "Uncover the Exomyth's secret",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044718": {
+    "id": "4044718",
+    "series_id": "4",
+    "title": "Take Their Hearts With You",
+    "desc": "Acquire all home decorations from Amphoreus",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044801": {
+    "id": "4044801",
+    "series_id": "4",
+    "title": "Ticker's Vision",
+    "desc": "Repair all broken Dream Tickers in the Dream of Gnawing Oak",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044802": {
+    "id": "4044802",
+    "series_id": "4",
+    "title": "My Sin Is Ever Before Me",
+    "desc": "Receive a letter from the Dreammaster in The Road Not Taken of Dream of Gnawing Oak",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044803": {
+    "id": "4044803",
+    "series_id": "4",
+    "title": "Only Reflection Remains at the Crossroads",
+    "desc": "Follow another road in The Road Not Taken of Dream of Gnawing Oak",
     "hide_desc": "",
     "hide": false
   },
@@ -6075,7 +6355,7 @@
     "id": "4053703",
     "series_id": "5",
     "title": "Bath Buddy",
-    "desc": "Try #1 different Bath Soak(s) when bathing in the tub",
+    "desc": "Try the #1 Bath Soaks of Parmenides, Rose Fragrance, and Spicy Red Oil when bathing in the tub",
     "hide_desc": "",
     "hide": true
   },
@@ -7741,7 +8021,7 @@
     "title": "More For Me Then!",
     "desc": "Hear your baby dromas grumble about how the food tastes in the \"Nice Weather for Dromases\" event",
     "hide_desc": "",
-    "hide": false
+    "hide": true
   },
   "4054614": {
     "id": "4054614",
@@ -7749,13 +8029,197 @@
     "title": "Master Chef of Redsoil",
     "desc": "Ensure your baby dromas never grumbles about food flavor in the \"Nice Weather for Dromases\" event",
     "hide_desc": "",
-    "hide": false
+    "hide": true
   },
   "4054615": {
     "id": "4054615",
     "series_id": "5",
     "title": "Once a Parent...",
     "desc": "Get #1 thank-you notes from your baby dromas in the \"Nice Weather for Dromases\" event",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054701": {
+    "id": "4054701",
+    "series_id": "5",
+    "title": "Bathe in Golden Blood",
+    "desc": "Use the \"Chrysos Spirit Bath Soak\" while taking a bath",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054702": {
+    "id": "4054702",
+    "series_id": "5",
+    "title": "Eternity or a Single Page",
+    "desc": "Talk to all Chrysos Heir heroes in An Eternal Page",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054703": {
+    "id": "4054703",
+    "series_id": "5",
+    "title": "Frost and Flame",
+    "desc": "Kindness is like a torch. It burns brighter when shared\n※ After bidding farewell to Amphoreus, return to the Jarilo-VI Administrative District",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054704": {
+    "id": "4054704",
+    "series_id": "5",
+    "title": "Immortality and Origination",
+    "desc": "The word \"hero\" has always held meaning in people's hearts\n※ After bidding farewell to Amphoreus, return to Central Starskiff Haven of the Xianzhou Luofu",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054705": {
+    "id": "4054705",
+    "series_id": "5",
+    "title": "Syrup and Honey Brew",
+    "desc": "Will the Flame-Chase Journey end up as mere dinner-table chatter?\n※ After bidding farewell to Amphoreus, return to Penacony's Golden Hour",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054706": {
+    "id": "4054706",
+    "series_id": "5",
+    "title": "Yesterday and Tomorrow",
+    "desc": "Trailblaze has always been like this: be ready, but keep hope alive\n※ After bidding farewell to Amphoreus, return to the master control zone of the Herta Space Station",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054707": {
+    "id": "4054707",
+    "series_id": "5",
+    "title": "Like Rippling Waves at First Sight",
+    "desc": "Reunite with the memories Cyrene left in Aedes Elysiae",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054708": {
+    "id": "4054708",
+    "series_id": "5",
+    "title": "Stars, Silent as Enigmas",
+    "desc": "View the post-war communication records between various cosmic powers and the Express Crew",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054709": {
+    "id": "4054709",
+    "series_id": "5",
+    "title": "Three-in-a-Row",
+    "desc": "In a single \"Snack Dash\" match, the supported participant finishes in first place #1 times",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054710": {
+    "id": "4054710",
+    "series_id": "5",
+    "title": "We're the Champions",
+    "desc": "In \"Snack Dash,\" the supported participant takes first place in a stage",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054711": {
+    "id": "4054711",
+    "series_id": "5",
+    "title": "I Can Eat Trick Snacks",
+    "desc": "Exchange all Trick Snacks in \"Snack Dash\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054712": {
+    "id": "4054712",
+    "series_id": "5",
+    "title": "Domain - Reward",
+    "desc": "Receive information from Ruan Mei in \"Snack Dash\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054801": {
+    "id": "4054801",
+    "series_id": "5",
+    "title": "Murmurs of the Long Slumber",
+    "desc": "Relive past dreams in the Dream of Gnawing Oak",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054802": {
+    "id": "4054802",
+    "series_id": "5",
+    "title": "Grand Slam",
+    "desc": "Win #1 matches in total during a single Chrysos Awoo Championship",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054803": {
+    "id": "4054803",
+    "series_id": "5",
+    "title": "Chimera Master",
+    "desc": "Reach Gold rank in the Chrysos Awoo Championship",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054804": {
+    "id": "4054804",
+    "series_id": "5",
+    "title": "Winning from the Outset",
+    "desc": "Complete the placement matches in the Chimera World Tournament during the Chrysos Awoo Championship",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054805": {
+    "id": "4054805",
+    "series_id": "5",
+    "title": "Legendary Challenger",
+    "desc": "Win #1 matches in the Chrysos Awoo Championship against other players",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054806": {
+    "id": "4054806",
+    "series_id": "5",
+    "title": "Okhema Regional Champion",
+    "desc": "Defeat all chimera trainers in Chrysos Showdown Mode during the Chrysos Awoo Championship",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054807": {
+    "id": "4054807",
+    "series_id": "7",
+    "title": "Qliphoth Counter",
+    "desc": "In a battle of any difficulty against the Greatsword Guardian, ally characters must restore \"HP Count\" a total of #1 times.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054808": {
+    "id": "4054808",
+    "series_id": "7",
+    "title": "Transcendent Shot",
+    "desc": "In any difficulty against Earthshaker Leo, ally targets defeat \"Back Row Target\" #1 times",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054809": {
+    "id": "4054809",
+    "series_id": "7",
+    "title": "Crazy Diamond",
+    "desc": "Clear the Nightmare difficulty combat against Corrupting Shadowfiend with all ally characters' \"HP Overload\" not exceeding #1",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054810": {
+    "id": "4054810",
+    "series_id": "7",
+    "title": "No Time to Die",
+    "desc": "Trigger the enemy boss's \"Fight in Unity\" once in combat against Synergy Duo on any difficulty",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054811": {
+    "id": "4054811",
+    "series_id": "7",
+    "title": "Siren Tears",
+    "desc": "Ally \"Hallucinogenic Mermaid\" takes fatal damage in a battle against Elegy Siren at any difficulty",
     "hide_desc": "",
     "hide": false
   },
@@ -8139,7 +8603,7 @@
     "id": "4070803",
     "series_id": "7",
     "title": "Mozambique Drill",
-    "desc": "Defeat #1[i] enemies with Follow-up ATK in a single battle",
+    "desc": "Defeat #1[i] enemies with Follow-Up ATK in a single battle",
     "hide_desc": "",
     "hide": false
   },
@@ -8147,7 +8611,7 @@
     "id": "4070804",
     "series_id": "7",
     "title": "Follow-Up Breaker (I)",
-    "desc": "Defeat #1[i] enemies with Follow-up ATK",
+    "desc": "Defeat #1[i] enemies with Follow-Up ATK",
     "hide_desc": "",
     "hide": false
   },
@@ -8155,7 +8619,7 @@
     "id": "4070805",
     "series_id": "7",
     "title": "Follow-Up Breaker (II)",
-    "desc": "Defeat #1[i] enemies with Follow-up ATK",
+    "desc": "Defeat #1[i] enemies with Follow-Up ATK",
     "hide_desc": "",
     "hide": false
   },
@@ -8763,7 +9227,7 @@
     "id": "4072401",
     "series_id": "7",
     "title": "This Fragile Body",
-    "desc": "Use Silver Wolf to apply different Type Weaknesses for a total of #1[i] time(s) to a single enemy in a single battle",
+    "desc": "Use Silver Wolf to apply different Type Weaknesses for a total of #1[i] time(s) to one enemy in a single battle",
     "hide_desc": "",
     "hide": true
   },
@@ -9059,7 +9523,7 @@
     "id": "4072907",
     "series_id": "7",
     "title": "Chain Peoplebreaker",
-    "desc": "In a single battle, trigger the Follow-up ATK effect from Dr. Ratio's Talent, \"Cogito, Ergo Sum,\" for #1[i] consecutive turns",
+    "desc": "In a single battle, trigger the Follow-Up ATK effect from Dr. Ratio's Talent, \"Cogito, Ergo Sum,\" for #1[i] consecutive turns",
     "hide_desc": "",
     "hide": false
   },
@@ -9483,7 +9947,7 @@
     "id": "4073510",
     "series_id": "7",
     "title": "Bloodless Blade",
-    "desc": "Win a battle without triggering the Follow-up ATK from Moze's Talent",
+    "desc": "Win a battle without triggering the Follow-Up ATK from Moze's Talent",
     "hide_desc": "",
     "hide": true
   },
@@ -9755,7 +10219,7 @@
     "id": "4074108",
     "series_id": "7",
     "title": "Saturated Covering Fire",
-    "desc": "Use ally character Tribbie to trigger #1[i] Follow-up ATK(s) from her Talent in a single battle",
+    "desc": "Use ally character Tribbie to trigger #1[i] Follow-Up ATK(s) from her Talent in a single battle",
     "hide_desc": "",
     "hide": true
   },
@@ -10075,7 +10539,7 @@
     "id": "4074601",
     "series_id": "7",
     "title": "Dream Across Time, Float Through Life",
-    "desc": "Use \"Dream, Dissolving, as Dew\" #1[i] times in total using ally character Evernight's Evey",
+    "desc": "In a single battle, use \"Dream, Dissolving, as Dew\" #1[i] times in total via ally character Evernight's Evey",
     "hide_desc": "",
     "hide": true
   },
@@ -10099,7 +10563,7 @@
     "id": "4074604",
     "series_id": "7",
     "title": "With Dragons Come Solutions",
-    "desc": "Have \"Souldragon\" attach to a character with summons and take #1[i] actions",
+    "desc": "In a single battle, have \"Souldragon\" attach to a character with summons and take #1[i] actions",
     "hide_desc": "",
     "hide": true
   },
@@ -10126,6 +10590,102 @@
     "desc": "After \"Ichor Memosprite: Winged Serpent\" enters the Charging state, trigger multiple \"Torque Counter\" until its Charging state is dispelled",
     "hide_desc": "",
     "hide": false
+  },
+  "4074701": {
+    "id": "4074701",
+    "series_id": "7",
+    "title": "In—Infi—Infinite Light",
+    "desc": "In a single battle, have #1 ally characters obtain poems from Cyrene",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074702": {
+    "id": "4074702",
+    "series_id": "7",
+    "title": "Then Memories Became Rippling Waves",
+    "desc": "In a single battle, after Trailblazer (Remembrance) uses enhanced attack, have Cyrene automatically use \"Minuet of Blooms and Plumes\" a total of #1[i] times",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074703": {
+    "id": "4074703",
+    "series_id": "7",
+    "title": "As Life and Death, Two Flowers Share One Stem",
+    "desc": "Use the ally Castorice's Ultimate \"Doomshriek, Dawn's Chime\" when \"Newbud\" reaches #1%",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074704": {
+    "id": "4074704",
+    "series_id": "7",
+    "title": "To Amphoreus",
+    "desc": "During the battle against Anti-Creator, Hatred Inundate, trigger #1 different support lines using \"Cyrene's Support ♪\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074705": {
+    "id": "4074705",
+    "series_id": "7",
+    "title": "Do Not Let Hatred Blot Out The Stars",
+    "desc": "Win the battle against Anti-Creator, Hatred Inundate, while keeping \"Amphorean Hatred\" at no higher than #1%",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074706": {
+    "id": "4074706",
+    "series_id": "7",
+    "title": "Binary Collapse",
+    "desc": "In the battle with Anti-Creator, Hatred Inundate, inflict the \"Grave Wound\" state on Imprisoned Mythos or Manipulated Logos #1 time(s)",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074707": {
+    "id": "4074707",
+    "series_id": "7",
+    "title": "Like Dew and Lightning, Gone With The Wind",
+    "desc": "After Cyclonic Swarm Mother enters the \"Breeding Frenzy\" state, prevent it from spawning \"Mirage Fizzle Kid\" when its action is advanced",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074801": {
+    "id": "4074801",
+    "series_id": "7",
+    "title": "Outgrow the Old, Espouse the New",
+    "desc": "When winning a battle, the teammate who is The Dahlia's \"Dance Partner\" is different from who it was at the start of combat",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074802": {
+    "id": "4074802",
+    "series_id": "7",
+    "title": "You're as Laughable as Your Cover",
+    "desc": "Defeat an enemy target with Super Break DMG while it's under Toughness Protection",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074803": {
+    "id": "4074803",
+    "series_id": "7",
+    "title": "Dance! Dance! Dance!",
+    "desc": "Have Trailblazer (Harmony), Fugue, and The Dahlia all use their Ultimates in a single battle",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074804": {
+    "id": "4074804",
+    "series_id": "7",
+    "title": "Ragtag Swarm",
+    "desc": "In combat with Harbinger of Death: Swarm Nightmare, defeat all Juvenile Stings to force it out of the \"Gene Duplication\" state",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074805": {
+    "id": "4074805",
+    "series_id": "7",
+    "title": "Catch the Locust, Catch the Swarm",
+    "desc": "During the battle with Harbinger of Death: Swarm Nightmare, break the Harbinger of Death: Swarm Nightmare before defeating all Juvenile Stings, and it recovers Toughness before exiting \"Gene Duplication\" state",
+    "hide_desc": "",
+    "hide": true
   },
   "4080101": {
     "id": "4080101",
@@ -11090,7 +11650,7 @@
   "4092342": {
     "id": "4092342",
     "series_id": "9",
-    "title": "A 4-Star Rarity Daydream",
+    "title": "A 4-Star Daydream",
     "desc": "Have #1[i] or less Cosmic Fragment(s) when clearing Simulated Universe",
     "hide_desc": "",
     "hide": false

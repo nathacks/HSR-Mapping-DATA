@@ -3925,12 +3925,17 @@
   "673140": {
     "id": "673140",
     "name": "Người Bảo Vệ Lời Thề",
-    "desc": "Khi toàn bộ phe ta tích lũy kết thúc hiệp 12 lần, nhân vật vị trí đầu tiên trong đội hiện tại và Linh Hồn Ký Ức sẽ Ưu Tiên Hành Động 100%, và trong 1 hiệp sau đó, khi kết thúc hiệp sẽ khiến bản thân nhận được hiệp thêm. Thi triển tấn công trong hiệp thêm, sẽ gây Sát Thương Kèm Theo bằng 600% Tấn Công cho mục tiêu bị tấn công, phe ta cứ mỗi khi có 1 tầng \"Chấp Niệm\" thì Bội Số Sát Thương này sẽ tăng bằng 1% bội số ban đầu."
+    "desc": "Khi toàn bộ phe ta tích lũy kết thúc hiệp 12 lần, nhân vật vị trí đầu tiên trong đội hiện tại và Linh Hồn Ký Ức của nhân vật đó sẽ Ưu Tiên Hành Động 100%, và trong 1 hiệp sau đó, sau khi kết thúc hiệp sẽ khiến bản thân nhận được hiệp thêm, sau khi thi triển tấn công trong hiệp thêm này, sẽ gây Sát Thương Kèm Theo bằng 600% Giới Hạn HP cho mục tiêu bị tấn công, phe ta cứ mỗi khi có 1 tầng \"Chấp Niệm\" thì Bội Số Sát Thương này sẽ tăng bằng 1% bội số ban đầu."
   },
   "673150": {
     "id": "673150",
     "name": "Cầu Nguyện Khúc Bi Ca",
     "desc": "Trên thứ tự hành động xuất hiện \"Hoa Đoạn Diệt\": Ghi lại Bùng Nổ Ánh Sáng phe ta nhận được, khi hành động, sẽ gây Sát Thương Hỏa bằng 5000% giá trị ghi nhận +3000% sát thương cơ bản cho toàn bộ phe địch và xóa giá trị ghi nhận. Phe ta mỗi khi có 1 tầng \"Chấp Niệm\", thì Tốc Độ tăng 1%. Khi mục tiêu phe ta vào chiến đấu hoặc rơi vào trạng thái không thể chiến đấu/Linh Hồn Ký Ức được triệu hồi hoặc biến mất, sẽ nạp năng lượng \"Bùng Nổ Ánh Sáng\" bằng 25% Giới Hạn HP cho toàn bộ mục tiêu phe ta."
+  },
+  "673160": {
+    "id": "673160",
+    "name": "Siren Bờ Biển",
+    "desc": "Khi nhân vật phe ta và Linh Hồn Ký Ức của nhân vật đó nhận được \"Chấp Niệm\", sẽ tích lũy số tầng Nạp Năng Lượng tương ứng cho nhân vật đó, sau khi Nạp Năng Lượng đạt 50 tầng, sẽ vào trạng thái \"Bi Ca\". Khi nhân vật phe ta trong trạng thái \"Bi Ca\" tung đòn tấn công, sẽ tiêu hao 16 tầng Nạp Năng Lượng và gây ra 3 lần sát thương \"Dư Vị\" bằng 150% Giới Hạn HP của nhân vật lên mục tiêu phe địch bị tấn công. Khi số tầng tiêu hao còn 0, sẽ thoát khỏi trạng thái này. Trong trạng thái \"Bi Ca\" vẫn có thể cộng dồn Nạp Năng Lượng."
   },
   "673210": {
     "id": "673210",
@@ -3997,6 +4002,11 @@
     "name": "Ngôi Nhà Của Những Khúc Ca",
     "desc": "Nạp Năng Lượng cần cho \"Hồn Bướm\" tăng 50%. Sau khi vào trạng thái \"Hồn Bướm\", toàn bộ mục tiêu phe ta sẽ Ưu Tiên Hành Động 50%, Bội Số Sát Thương Chuẩn \"Hồn Bướm\" gây ra tăng bằng 50% bội số ban đầu, mỗi 1 tầng Chấp Niệm của toàn bộ phe ta sẽ tăng thêm 1%."
   },
+  "673720": {
+    "id": "673720",
+    "name": "Sinh Linh Phàm Tục",
+    "desc": "Trong trạng thái \"Hồn Bướm\", mỗi khi toàn bộ phe ta tiêu hao 1 Điểm Chiến Kỹ, sát thương toàn bộ phe địch phải chịu sẽ tăng 10%, có thể cộng dồn, tối đa không vượt quá 40%. Sau mỗi lần vào trạng thái \"Hồn Bướm\", khi lần đầu tích lũy tiêu hao 4 Điểm Chiến Kỹ, sẽ hồi phục 6 lần số lần tấn công của \"Hồn Bướm\", và trước khi thoát khỏi trạng thái \"Hồn Bướm\" lần này, sau khi mục tiêu phe ta phát động tấn công, sẽ gây 1 lần Sát Thương Chuẩn bằng 60% sát thương gốc (ngoại trừ Sát Thương Kèm Theo) lên mục tiêu bị tấn công, hiệu ứng này cũng có hiệu lực với Sát Thương Duy Trì mà mục tiêu phe địch phải chịu khi bắt đầu hiệp."
+  },
   "673790": {
     "id": "673790",
     "name": "Thợ May Áo Kén",
@@ -4012,10 +4022,20 @@
     "name": "Học Phái Sơn Dương",
     "desc": "Sau khi toàn bộ phe ta tích lũy thi triển 2 lần Tuyệt Kỹ, sẽ gây 2 đòn sát thương Phong bằng 600% sát thương cơ bản cho mục tiêu phe địch ngẫu nhiên và sát thương này sẽ gây sát thương bằng 30% sát thương ban đầu cho đơn vị lân cận. Mỗi lần kích hoạt hiệu ứng này, đều sẽ khiến số đòn sát thương trong lần chiến đấu này tăng 1, đồng thời khiến sát thương Tấn Công Thường/Chiến Kỹ/Tuyệt Kỹ mục tiêu phe ta gây ra tăng 12%, tối đa tăng 15 lần."
   },
+  "673890": {
+    "id": "673890",
+    "name": "Rùa Khổng Lồ Vị Tha",
+    "desc": "Trên thứ tự hành động xuất hiện \"Hơi Thở Rùa Khổng Lồ\": Khi hành động khiến sát thương toàn phe địch phải chịu tăng 50%, duy trì 3 hiệp, đồng thời bắn 3 lần vào toàn bộ phe địch, tích lũy gây sát thương Băng, Hỏa bằng 6000% Sát Thương Cơ Bản, khiến chúng Trì Hoãn Hành Động 30%, đồng thời bỏ qua Thuộc Tính Điểm Yếu và làm giảm 30 điểm Sức Bền của toàn bộ mục tiêu phe địch, khi phá vỡ Điểm Yếu của phe địch, kích hoạt hiệu ứng Phá Vỡ Điểm Yếu Băng và Hỏa. Sau khi mục tiêu phe ta dùng \"Bộ Não Trong Thùng\" kích hoạt Tuyệt Kỹ, sẽ khiến \"Hơi Thở Rùa Khổng Lồ\" Ưu Tiên Hành Động 15%."
+  },
   "673920": {
     "id": "673920",
     "name": "Khớp Ngón Tay Lười Biếng",
     "desc": "Khi mục tiêu phe ta phá vỡ điểm yếu của mục tiêu phe địch, sẽ khiến kẻ đó rơi vào 20 tầng \"Hòa Âm\", sau khi tấn công mục tiêu phe địch trong trạng thái Phá Vỡ Điểm Yếu, sẽ khiến Sát Thương Duy Trì kẻ đó đang phải chịu và \"Hòa Âm\" lập tức gây sát thương bằng 24% sát thương ban đầu."
+  },
+  "673940": {
+    "id": "673940",
+    "name": "Cổng Yactor",
+    "desc": "Sau khi mục tiêu phe ta thi triển tấn công, có 60% xác suất cố định thêm 1 Điểm Yếu thuộc tính ngẫu nhiên cho mục tiêu tấn công ngẫu nhiên, ưu tiên thêm Điểm Yếu chưa có, Điểm Yếu thêm vào sẽ xóa sau khi mục tiêu phe địch bị Phá Vỡ. Sau khi thêm Điểm Yếu cho mục tiêu phe địch, khiến mục tiêu phe địch rơi vào 5 tầng \"Hòa Âm\", và ghi lại 1 lần Điểm Yếu thêm vào, mỗi lần hành động tối đa kích hoạt hiệu ứng này 2 lần. Sau khi mục tiêu phe địch bất kỳ bị phá vỡ, dựa trên Điểm Yếu đã ghi nhận, mỗi lần ghi nhận sẽ gây 250% hiệu ứng Phá Vỡ thuộc tính tương ứng lên mục tiêu đó và các mục tiêu lân cận."
   },
   "673950": {
     "id": "673950",
@@ -4047,10 +4067,20 @@
     "name": "Người Thi Hành Án",
     "desc": "Sát Thương Duy Trì mà mục tiêu phe địch phải chịu có thể Bạo Kích. Tỷ Lệ Bạo Kích/Sát Thương Bạo Kích sẽ bằng 20% tổng Tỷ Lệ Bạo Kích/Sát Thương Bạo Kích của toàn bộ nhân vật phe ta, Sát Thương Bạo Kích tối đa không vượt quá 120%."
   },
+  "674250": {
+    "id": "674250",
+    "name": "Thủy Quái Phương Đông",
+    "desc": "Sát thương \"Thầm Thì\" mục tiêu phe địch phải chịu tăng thêm 15%. Sau khi mục tiêu phe địch nhận Sát Thương Duy Trì ngoài hiệp của chúng, sẽ Nạp Năng Lượng \"Bùng Nổ Ánh Sáng\" cho toàn bộ mục tiêu phe ta bằng 20% Tấn Công của mỗi người, mỗi hiệp mục tiêu phe địch tối đa chỉ có thể kích hoạt hiệu ứng này 2 lần."
+  },
   "674260": {
     "id": "674260",
     "name": "Kẻ Mai Táng Trong Biển Cả",
     "desc": "Ngưỡng xóa \"Thầm Thì\" tăng 120%. Sau khi mục tiêu phe ta phát động Đòn Đánh Theo Sau sẽ khiến \"Thầm Thì\" của mục tiêu bị tấn công gây ra sát thương bằng 20% sát thương ban đầu."
+  },
+  "674270": {
+    "id": "674270",
+    "name": "Cá Đuổi Sóng",
+    "desc": "Khi bắt đầu hiệp của mục tiêu phe địch, ngưỡng xóa bỏ \"Thầm Thì\" tăng 20%, hiệu ứng này có thể cộng dồn, cứ mỗi khi có 1 trạng thái Sát Thương Duy Trì không phải \"Thầm Thì\", thì sẽ tăng thêm 4%."
   },
   "674280": {
     "id": "674280",
@@ -4087,6 +4117,11 @@
     "name": "Hồn Lửa Tai Ương",
     "desc": "Nếu mục tiêu phe địch ở trạng thái Sát Thương Duy Trì chịu sát thương \"Bùng Nổ Ánh Sáng\" do mục tiêu phe ta gây ra, thì bội số sát thương \"Bùng Nổ Ánh Sáng\" lần này sẽ tăng bằng 60% bội số ban đầu. Mỗi khi có 1 loại trạng thái Sát Thương Duy Trì thì sẽ tăng thêm 15%."
   },
+  "674560": {
+    "id": "674560",
+    "name": "Quái Khách Mặt Nạ",
+    "desc": "Chuyển hóa 35% lượng Khiên mà mục tiêu phe ta nhận được thành \"Bùng Nổ Ánh Sáng\". Sau khi phát động Đòn Đánh Theo Sau, sẽ khiến tất cả phe ta nhận được lượng Khiên bằng 40% Tấn Công của họ trong 2 hiệp."
+  },
   "674570": {
     "id": "674570",
     "name": "Hào Quang Chim Bất Tử",
@@ -4096,6 +4131,11 @@
     "id": "674590",
     "name": "Đồng Đội Kremnos",
     "desc": "Khi mục tiêu phe ta phá vỡ điểm yếu của mục tiêu phe địch, sẽ Nạp Năng Lượng cho \"Bùng Nổ Ánh Sáng\" bằng 25% Giới Hạn HP. Nếu tất cả mục tiêu phe địch đều đang trong trạng thái Phá Vỡ Điểm Yếu, thì sẽ không xóa \"Bùng Nổ Ánh Sáng\" khi bắt đầu hiệp của mục tiêu phe ta."
+  },
+  "674610": {
+    "id": "674610",
+    "name": "Mê Cung Đá",
+    "desc": "Khi mục tiêu phe ta có từ 20 tầng \"Chấp Niệm\" trở lên, Đòn Đánh Theo Sau và Sát Thương Kèm Theo gây ra sẽ tăng 100%. Sau khi vào trận, khi số lượng mục tiêu phe ta trên sân thay đổi, sẽ cung cấp 8 tầng \"Chấp Niệm\" cho mục tiêu có số tầng \"Chấp Niệm\" thấp nhất của phe ta."
   },
   "674620": {
     "id": "674620",
@@ -4157,10 +4197,20 @@
     "name": "Người Tuẫn Đạo Vì Tri Thức Cấm",
     "desc": "Khi mục tiêu phe ta thi triển Tuyệt Kỹ sẽ khiến toàn bộ mục tiêu phe ta tiêu hao HP bằng 5% HP hiện tại, đồng thời tăng sát thương gây ra 30%, tối đa cộng dồn 4 tầng, duy trì 2 hiệp."
   },
+  "674890": {
+    "id": "674890",
+    "name": "Kẻ Trộm Bài Giảng",
+    "desc": "Sau khi mục tiêu phe địch bị tấn công, nếu số tầng \"Hòa Âm\" lớn hơn 10 và Phần Trăm HP thấp hơn 20%, sẽ nhận thêm Sát Thương Chuẩn bằng với HP hiện tại, mỗi mục tiêu phe địch tối đa chỉ kích hoạt hiệu ứng này 1 lần. Khi kích hoạt hiệu ứng này lên kẻ địch Tinh Anh, sẽ Nạp Năng Lượng cho \"Bộ Não Trong Thùng\" của toàn phe ta 35%."
+  },
   "674920": {
     "id": "674920",
     "name": "Bệnh Nhân Khô Héo",
     "desc": "Khi mục tiêu phe địch chịu sát thương \"Hòa Âm\", thì sẽ chịu thêm 1 lần sát thương \"Hòa Âm\" bằng 75% sát thương ban đầu. Cứ mỗi khi rơi vào 1 Hiệu Ứng Xấu thì sát thương này sẽ tăng thêm 2%, tối đa tăng 40%."
+  },
+  "674940": {
+    "id": "674940",
+    "name": "Chim Bồ Câu Sắt Không Chân",
+    "desc": "Sau khi mục tiêu phe ta tấn công mục tiêu phe địch trong trạng thái Phá Vỡ Điểm Yếu, sẽ khiến điểm Giảm Sức Bền của lần tấn công này chuyển hóa thành 1 lần Siêu Sát Thương Phá Vỡ 75%, cứ mỗi khi có 1 tầng \"Chính Xác\" sẽ gây thêm 10% Siêu Sát Thương Phá Vỡ."
   },
   "674950": {
     "id": "674950",
@@ -4176,6 +4226,11 @@
     "id": "675140",
     "name": "Người Phán Quyết Màn Đêm",
     "desc": "Khi Linh Hồn Ký Ức biến mất, sẽ tăng Tốc Độ của toàn bộ mục tiêu phe ta 25%, tăng Sát Thương Bạo Kích 100%, duy trì 5 hiệp."
+  },
+  "675150": {
+    "id": "675150",
+    "name": "Linh Hồn Ký Ức Máu Vàng",
+    "desc": "Sau khi mục tiêu phe ta tiêu hao HP, sẽ nhận được 5 tầng \"Chấp Niệm\", tối đa kích hoạt 1 lần, sau khi đơn vị bất kỳ hành động sẽ có thể kích hoạt lại."
   },
   "675160": {
     "id": "675160",
@@ -4212,6 +4267,11 @@
     "name": "Người Hành Hương U Tối",
     "desc": "Khi kẻ địch vào chiến đấu, chúng sẽ rơi vào trạng thái Chảy Máu. Ở trạng thái Chảy Máu, vào đầu mỗi hiệp, mục tiêu phe địch sẽ chịu Sát Thương Vật Lý Duy Trì bằng 10% Giới Hạn HP của bản thân, tối đa không vượt quá 200% tổng HP của toàn bộ mục tiêu phe ta."
   },
+  "675260": {
+    "id": "675260",
+    "name": "Học Phái Đan Sọt",
+    "desc": "Sát Thương Duy Trì mục tiêu phe địch phải chịu tăng 20%, sau khi nhận Đòn Đánh Theo Sau, sẽ Nạp Năng Lượng cho \"Thầm Thì\", giá trị nạp bằng 2% ngưỡng xóa bỏ."
+  },
   "675270": {
     "id": "675270",
     "name": "Người Trồng Cốt",
@@ -4231,6 +4291,11 @@
     "id": "675450",
     "name": "Kẻ Lữ Hành Kremnos",
     "desc": "Lượng Khiên mục tiêu phe ta nhận được tăng 30%. Sau khi mục tiêu phe ta bị tấn công, nếu không bị sát thương trong lần tấn công này, thì chỉ sẽ mất 1 tầng \"Chính Xác\"."
+  },
+  "675460": {
+    "id": "675460",
+    "name": "Hiệp Sĩ Quỷ Kế",
+    "desc": "Mỗi tầng \"Chính Xác\" sẽ khiến Sát Thương Đòn Đánh Theo Sau tăng thêm 5%, khi mục tiêu phe ta phát động Đòn Đánh Theo Sau, sẽ nhận được 2 tầng \"Chính Xác\"."
   },
   "675480": {
     "id": "675480",
@@ -4262,10 +4327,20 @@
     "name": "Sứ Giả Trăng Đỏ",
     "desc": "Giá trị cơ bản của \"Bùng Nổ Ánh Sáng\" tăng 50%. Sau khi mục tiêu phe ta phát động Đòn Đánh Theo Sau, sẽ khiến mục tiêu có Phần Trăm HP thấp nhất của phe ta hồi HP bằng 10% Giới Hạn HP của bản thân."
   },
+  "675580": {
+    "id": "675580",
+    "name": "Triết Gia Thần Phạt",
+    "desc": "Sau khi Phần Trăm HP của nhân vật phe ta lần đầu tiên trong trận giảm xuống dưới 25%, sẽ kích hoạt Tuyệt Kỹ, đồng thời trong trận đấu này, Sát Thương Tuyệt Kỹ gây ra bởi bản thân và Linh Hồn Ký Ức có thể bỏ qua 20% Phòng Thủ."
+  },
   "675590": {
     "id": "675590",
     "name": "Quân Đoàn Ngọn Giáo Trời",
     "desc": "Lượng Khiên nhận được tăng 30%. Sau khi phá vỡ điểm yếu của mục tiêu phe địch, toàn bộ phe ta nhận được Khiên bằng 15% Giới Hạn HP, duy trì 2 hiệp."
+  },
+  "675610": {
+    "id": "675610",
+    "name": "Hành Giả Phế Tích",
+    "desc": "Giới Hạn HP của mục tiêu phe ta tăng 15%. Với mỗi mục tiêu phe ta đang có trên sân, sát thương \"Dư Vị\" mục tiêu phe ta gây ra sẽ tăng 30%."
   },
   "675620": {
     "id": "675620",
@@ -4326,6 +4401,11 @@
     "id": "675840",
     "name": "Đứa Con Của Xoắn Ốc",
     "desc": "Khi Bộ Não Trong Thùng của mục tiêu phe ta đạt 100%, Tấn Công sẽ tăng 80%. Sau khi thi triển tấn công, sẽ gây cho mục tiêu phe địch có HP cao nhất nằm trong số các mục tiêu bị tấn công lượng Sát Thương Kèm Theo bằng 80% Tấn Công, duy trì 3 hiệp."
+  },
+  "675850": {
+    "id": "675850",
+    "name": "Thần Chú Kỳ Bí",
+    "desc": "Sát thương \"Bùng Nổ Ánh Sáng\" mục tiêu phe ta gây ra tăng 75%, sau khi thi triển Tuyệt Kỹ, Nạp Năng Lượng \"Bùng Nổ Ánh Sáng\" bằng 35% Giới Hạn HP."
   },
   "675860": {
     "id": "675860",

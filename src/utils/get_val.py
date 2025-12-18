@@ -1,11 +1,4 @@
-"""
-Utility for safely retrieving a hash value from a variable or dictionary.
-"""
-
-from typing import Any
-
-
-def get_hash(value: Any) -> int:
+def get_val(value) -> int:
     """
     Retrieve a hash value from a dictionary or a raw value.
 

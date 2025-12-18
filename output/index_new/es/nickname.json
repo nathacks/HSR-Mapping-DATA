@@ -177,6 +177,9 @@
     "1317": [
       "Rappa"
     ],
+    "1321": [
+      "La Dalia"
+    ],
     "1401": [
       "Sra. Herta"
     ],
@@ -215,6 +218,9 @@
     ],
     "1414": [
       "Dan Heng - Permansor Terrae"
+    ],
+    "1415": [
+      "Cirene"
     ],
     "8001": [
       "{NICKNAME}"
@@ -683,11 +689,20 @@
     "22005": [
       "Viandas sin fin"
     ],
+    "22006": [
+      "Volando hacia un mañana rosado"
+    ],
     "23049": [
       "A la estrella de la larga noche"
     ],
+    "23050": [
+      "No olvides su fuego"
+    ],
     "23051": [
       "A través de montañas y ríos"
+    ],
+    "23052": [
+      "Amor eterno como este momento"
     ]
   },
   "relic_sets": {
@@ -840,6 +855,12 @@
     ],
     "322": [
       "Litoral embriagado"
+    ],
+    "323": [
+      "Amphoreus, la tierra eterna"
+    ],
+    "324": [
+      "Tengoku@sala de chat"
     ]
   }
 }

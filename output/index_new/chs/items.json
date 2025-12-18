@@ -140,6 +140,18 @@
     "desc": "消耗40开拓力兑换，可在「模拟宇宙」中换取沉浸奖励",
     "come_from": []
   },
+  "34": {
+    "id": "34",
+    "name": "深度沉浸器",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 4,
+    "icon": "icon/item/34.png",
+    "desc": "可在「星际和平指南」中快速提取位面饰品",
+    "come_from": [
+      "「货币战争」积分奖励"
+    ]
+  },
   "41": {
     "id": "41",
     "name": "成就点数",
@@ -218,7 +230,9 @@
     "rarity": 4,
     "icon": "icon/item/110.png",
     "desc": "配合开拓力使用，可以快速获取拟造花萼/凝滞虚影产出的材料。",
-    "come_from": []
+    "come_from": [
+      "「货币战争」积分奖励"
+    ]
   },
   "170": {
     "id": "170",
@@ -468,6 +482,7 @@
     "icon": "icon/item/241.png",
     "desc": "行迹升级的高阶素材。",
     "come_from": [
+      "「货币战争」积分奖励",
       "「模拟宇宙」积分奖励",
       "无名勋礼",
       "余烬兑换",
@@ -560,6 +575,8 @@
     "icon": "icon/item/281.png",
     "desc": "可在商店「聚灵铸星」处兑换5星角色。",
     "come_from": [
+      "千星旅伴",
+      "千星旅伴（本期已领取）",
       "重复获取2次星魂已满的5星角色时可兑换",
       "重复获取2次星魂已满的5星角色时可兑换"
     ]
@@ -597,6 +614,7 @@
     "icon": "icon/item/503.png",
     "desc": "「模拟宇宙」奖励，可在黑塔的商店中用它购买物品。",
     "come_from": [
+      "「货币战争」积分奖励",
       "「模拟宇宙」积分奖励"
     ]
   },
@@ -638,6 +656,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "献予逐火之人的祝福\n\n愿你与神共舞，承英雄之火重燃暮落的巨人。\n愿你推翻命运，以破晓之辉照拂天地与众生。\n你在此间的行迹，终将载入亘古传颂的诗篇。",
+    "come_from": []
+  },
+  "821": {
+    "id": "821",
+    "name": "成为昨日的明天",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/821.png",
+    "desc": "记忆中的信",
     "come_from": []
   },
   "71000": {
@@ -3004,6 +3032,92 @@
       "「万能合成机」- 遗器合成"
     ]
   },
+  "83231": {
+    "id": "83231",
+    "name": "永恒之地翁法罗斯",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83232": {
+    "id": "83232",
+    "name": "永恒之地翁法罗斯",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83233": {
+    "id": "83233",
+    "name": "永恒之地翁法罗斯",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83234": {
+    "id": "83234",
+    "name": "永恒之地翁法罗斯",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71050.png",
+    "desc": "",
+    "come_from": [
+      "「差分宇宙」位面饰品提取",
+      "「万能合成机」- 遗器合成"
+    ]
+  },
+  "83241": {
+    "id": "83241",
+    "name": "天国@直播间",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83242": {
+    "id": "83242",
+    "name": "天国@直播间",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83243": {
+    "id": "83243",
+    "name": "天国@直播间",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83244": {
+    "id": "83244",
+    "name": "天国@直播间",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71051.png",
+    "desc": "",
+    "come_from": [
+      "「差分宇宙」位面饰品提取",
+      "「万能合成机」- 遗器合成"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "位面饰品",
@@ -4010,6 +4124,19 @@
       "「万能合成机」- 材料置换"
     ]
   },
+  "110432": {
+    "id": "110432",
+    "name": "明辉日珥",
+    "type": "Material",
+    "sub_type": "AvatarRank",
+    "rarity": 4,
+    "icon": "icon/item/110432.png",
+    "desc": "正阳狮鹫遗落的异型头冠，火属性角色的晋升素材。",
+    "come_from": [
+      "凝滞虚影【{TextID#FloorName_20422001}】",
+      "「万能合成机」- 材料置换"
+    ]
+  },
   "110433": {
     "id": "110433",
     "name": "海妖残鳍",
@@ -4144,6 +4271,18 @@
     "desc": "行迹升级的高阶素材。",
     "come_from": [
       "历战余响【「穹顶关塞」晨昏之眼】"
+    ]
+  },
+  "110508": {
+    "id": "110508",
+    "name": "灭流绝溢的缄默",
+    "type": "Material",
+    "sub_type": "WeeklyMonsterDrop",
+    "rarity": 4,
+    "icon": "icon/item/110508.png",
+    "desc": "行迹升级的高阶素材。",
+    "come_from": [
+      "历战余响【{TextID#FloorName_20481001}】"
     ]
   },
   "111000": {
@@ -4806,6 +4945,16 @@
     "desc": "妖精们烹饪时使用的传说中的厨具。可用于叠影光锥「永远的迷境饭」。",
     "come_from": []
   },
+  "121006": {
+    "id": "121006",
+    "name": "有瑕的追忆",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121006.png",
+    "desc": "水晶般的记忆之花，有瑕而易碎。可用于叠影光锥「飞向粉色的明天」。",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "艾迪恩代币",
@@ -4818,6 +4967,28 @@
       "艾迪恩游戏币商店",
       "「匹诺康尼」探索获得"
     ]
+  },
+  "123000": {
+    "id": "123000",
+    "name": "权限卡",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "可用于开启黑塔空间站神秘收藏库中的「遗器宝箱」。",
+    "come_from": [
+      "「奇库寻遗」活动获得"
+    ]
+  },
+  "123001": {
+    "id": "123001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123001.png",
+    "desc": "",
+    "come_from": []
   },
   "140000": {
     "id": "140000",
@@ -9933,6 +10104,116 @@
     "desc": "奇物，「智识」世界中的界域定锚，能够保护个体数据结构不受激烈的数字海啸影响。\n必要时，它也能成为内外沟通的桥梁。",
     "come_from": []
   },
+  "140597": {
+    "id": "140597",
+    "name": "梦的谢幕礼",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140597.png",
+    "desc": "<i>不知何时拍下的照片，但那真实的触感毋庸置疑。在过去，这一幕切实地发生过了，并以此留下证明——尽管少有人知，但当一位少女回忆起曾经的美梦时，将会为此微笑。</i>\n\n做梦的人，也是造梦的人。造梦的人，也是做梦的人。\n献出自己的往事，才能织就最美好的梦境。\n人们不会沉溺其中，不愿复醒。他们会在美梦中，重新获得面对未来的勇气。\n然后，向着明天。",
+    "come_from": []
+  },
+  "140598": {
+    "id": "140598",
+    "name": "梦的谢幕礼",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140598.png",
+    "desc": "<i>回忆最终如何呈现，是由你决定的。在那场美梦结束时，你以流萤渴盼的方式，将她铭记。</i>\n\n做梦的人，也是造梦的人。造梦的人，也是做梦的人。\n献出自己的往事，才能织就最美好的梦境。\n人们不会沉溺其中，不愿复醒。他们会在美梦中，重新获得面对未来的勇气。\n然后，向着明天。",
+    "come_from": []
+  },
+  "140599": {
+    "id": "140599",
+    "name": "「纷争」的王戒",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140599.png",
+    "desc": "来自「纷争的冠军」——万敌的馈赠，象征着他身为王者，亦为守护者的荣耀与约束。",
+    "come_from": []
+  },
+  "140600": {
+    "id": "140600",
+    "name": "「诡计」的礼币",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140600.png",
+    "desc": "来自「诡计的羁客」——赛飞儿的馈赠，象征着她俏皮却真挚的祝福与渴望。",
+    "come_from": []
+  },
+  "140601": {
+    "id": "140601",
+    "name": "「死亡」的寒葩",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140601.png",
+    "desc": "来自「来生的侍女」——遐蝶的馈赠，象征着她守望于彼岸的坚韧与平和。",
+    "come_from": []
+  },
+  "140602": {
+    "id": "140602",
+    "name": "「门径」的布偶",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140602.png",
+    "desc": "来自「门径的圣子」——缇里西庇俄丝的馈赠，象征着她千身远行、从未更改的信念与同理。",
+    "come_from": []
+  },
+  "140603": {
+    "id": "140603",
+    "name": "「浪漫」的珠镯",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140603.png",
+    "desc": "来自「浪漫的织者」——阿格莱雅的馈赠，象征着她漠然的至美之下，始终如一的无私与节制。",
+    "come_from": []
+  },
+  "140604": {
+    "id": "140604",
+    "name": "「天空」的灵椟",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140604.png",
+    "desc": "来自「天空的医师」——风堇的馈赠，象征着她平等爱着世人的温柔与奉献。",
+    "come_from": []
+  },
+  "140605": {
+    "id": "140605",
+    "name": "「理性」的至玉",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140605.png",
+    "desc": "来自「理性的学士」——那刻夏的馈赠，象征着他坦然留给后人的启蒙与批判。",
+    "come_from": []
+  },
+  "140606": {
+    "id": "140606",
+    "name": "「负世」的愿望",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140606.png",
+    "desc": "若要救世，则必然负担着沉重的愿望。唯有将其卸下，方能消解执念。",
+    "come_from": []
+  },
+  "140607": {
+    "id": "140607",
+    "name": "「负世」的绝望",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140607.png",
+    "desc": "若要救世，则必然伴随着滚烫的绝望。唯有将其打碎，方能消解执念。",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "与三月七的合照",
@@ -11060,7 +11341,7 @@
     "sub_type": "Mission",
     "rarity": 3,
     "icon": "icon/item/150088.png",
-    "desc": "冒险终幕的宝藏、传奇序章的道标，诞生自「再创世」后的崭新架构。\n受到翁法罗斯英雄史诗的影响，它以一枚金苹果的模样呈现。\n\n<i>「给岁月以文明，给时光以生命。」</i>",
+    "desc": "<b>完成每个衣匠对应的若虫预言谜题后获得，可在一页永恒兑换独特纪念品。</b>\n冒险终幕的宝藏、传奇序章的道标，诞生自「再创世」后的崭新架构。\n受到翁法罗斯英雄史诗的影响，它以一枚金苹果的模样呈现。\n\n<i>「给岁月以文明，给时光以生命。」</i>",
     "come_from": []
   },
   "150087": {
@@ -20412,6 +20693,106 @@
     "desc": "翁法罗斯开拓日志•在再创世之前",
     "come_from": []
   },
+  "191935": {
+    "id": "191935",
+    "name": "一页寄语：缇宝",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：缇宝",
+    "come_from": []
+  },
+  "191936": {
+    "id": "191936",
+    "name": "一页寄语：刻律德菈",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：刻律德菈",
+    "come_from": []
+  },
+  "191937": {
+    "id": "191937",
+    "name": "一页寄语：海瑟音",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：海瑟音",
+    "come_from": []
+  },
+  "191938": {
+    "id": "191938",
+    "name": "一页寄语：风堇",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：风堇",
+    "come_from": []
+  },
+  "191939": {
+    "id": "191939",
+    "name": "一页寄语：白厄",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：白厄",
+    "come_from": []
+  },
+  "191940": {
+    "id": "191940",
+    "name": "一页寄语：那刻夏",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：那刻夏",
+    "come_from": []
+  },
+  "191941": {
+    "id": "191941",
+    "name": "一页寄语：阿格莱雅",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：阿格莱雅",
+    "come_from": []
+  },
+  "191942": {
+    "id": "191942",
+    "name": "一页寄语：万敌",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：万敌",
+    "come_from": []
+  },
+  "191943": {
+    "id": "191943",
+    "name": "一页寄语：遐蝶",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：遐蝶",
+    "come_from": []
+  },
+  "191944": {
+    "id": "191944",
+    "name": "一页寄语：赛飞儿",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/191935.png",
+    "desc": "一页寄语：赛飞儿",
+    "come_from": []
+  },
   "191945": {
     "id": "191945",
     "name": "不明访客的留言",
@@ -20420,6 +20801,156 @@
     "rarity": 1,
     "icon": "icon/item/190018.png",
     "desc": "不明访客的留言",
+    "come_from": []
+  },
+  "191946": {
+    "id": "191946",
+    "name": "焚风的箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "焚风的箴言",
+    "come_from": []
+  },
+  "191947": {
+    "id": "191947",
+    "name": "幻胧的箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "幻胧的箴言",
+    "come_from": []
+  },
+  "191948": {
+    "id": "191948",
+    "name": "归寂的箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "归寂的箴言",
+    "come_from": []
+  },
+  "191949": {
+    "id": "191949",
+    "name": "星啸的箴言",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "星啸的箴言",
+    "come_from": []
+  },
+  "191950": {
+    "id": "191950",
+    "name": "往昔的邀请函",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "往昔的邀请函",
+    "come_from": []
+  },
+  "191951": {
+    "id": "191951",
+    "name": "一份长长的名单",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190017.png",
+    "desc": "一份长长的名单",
+    "come_from": []
+  },
+  "191952": {
+    "id": "191952",
+    "name": "《黑焰骑士崛起》首映采访",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190013.png",
+    "desc": "《黑焰骑士崛起》首映采访",
+    "come_from": []
+  },
+  "191953": {
+    "id": "191953",
+    "name": "背道者的来信",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "背道者的来信",
+    "come_from": []
+  },
+  "191954": {
+    "id": "191954",
+    "name": "有关星核的颂歌",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "有关星核的颂歌",
+    "come_from": []
+  },
+  "191955": {
+    "id": "191955",
+    "name": "《蝗灾中的世界：重建秩序》丛书宣传单",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190015.png",
+    "desc": "《蝗灾中的世界：重建秩序》丛书宣传单",
+    "come_from": []
+  },
+  "191956": {
+    "id": "191956",
+    "name": "「梦主」的回信",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/140236.png",
+    "desc": "「梦主」的回信",
+    "come_from": []
+  },
+  "191957": {
+    "id": "191957",
+    "name": "未能送出的时祷书",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "未能送出的时祷书",
+    "come_from": []
+  },
+  "191958": {
+    "id": "191958",
+    "name": "δ-me13实验记录（部分：其三）",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190018.png",
+    "desc": "δ-me13实验记录（部分：其三）",
+    "come_from": []
+  },
+  "191959": {
+    "id": "191959",
+    "name": "梦的谢幕礼",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "梦的谢幕礼",
+    "come_from": []
+  },
+  "191960": {
+    "id": "191960",
+    "name": "梦的谢幕礼",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190016.png",
+    "desc": "梦的谢幕礼",
     "come_from": []
   },
   "210001": {
@@ -22024,22 +22555,22 @@
   },
   "210410": {
     "id": "210410",
-    "name": "《NAME==秘所思》",
+    "name": "《NAME == 秘所思》",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《NAME==秘所思》。",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《NAME == 秘所思》。",
     "come_from": []
   },
   "210411": {
     "id": "210411",
-    "name": "《NAME==逻各斯》",
+    "name": "《NAME == 逻各斯》",
     "type": "Usable",
     "sub_type": "MusicAlbum",
     "rarity": 3,
     "icon": "icon/item/210001.png",
-    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《NAME==逻各斯》。",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《NAME == 逻各斯》。",
     "come_from": []
   },
   "210412": {
@@ -22070,6 +22601,136 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《不洁之血》。",
+    "come_from": []
+  },
+  "210415": {
+    "id": "210415",
+    "name": "《失速飞行》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《失速飞行》。",
+    "come_from": []
+  },
+  "210416": {
+    "id": "210416",
+    "name": "《神祇的终点》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《神祇的终点》。",
+    "come_from": []
+  },
+  "210417": {
+    "id": "210417",
+    "name": "《蜃楼》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《蜃楼》。",
+    "come_from": []
+  },
+  "210418": {
+    "id": "210418",
+    "name": "《剑冢》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《剑冢》。",
+    "come_from": []
+  },
+  "210419": {
+    "id": "210419",
+    "name": "《一页永恒》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《一页永恒》。",
+    "come_from": []
+  },
+  "210420": {
+    "id": "210420",
+    "name": "《烧尽神国之火》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《烧尽神国之火》。",
+    "come_from": []
+  },
+  "210421": {
+    "id": "210421",
+    "name": "《苦难汇聚成河》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《苦难汇聚成河》。",
+    "come_from": []
+  },
+  "210422": {
+    "id": "210422",
+    "name": "《打碎神的冠冕》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《打碎神的冠冕》。",
+    "come_from": []
+  },
+  "210423": {
+    "id": "210423",
+    "name": "《病毒》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《病毒》。",
+    "come_from": []
+  },
+  "210424": {
+    "id": "210424",
+    "name": "《忆梦浮廊》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《忆梦浮廊》。",
+    "come_from": []
+  },
+  "210425": {
+    "id": "210425",
+    "name": "《神降》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《神降》。",
+    "come_from": []
+  },
+  "210426": {
+    "id": "210426",
+    "name": "《鸣蛀之梦》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《鸣蛀之梦》。",
+    "come_from": []
+  },
+  "210427": {
+    "id": "210427",
+    "name": "《深魇噩兆》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能在列车的留声机上播放的碟片，是偶然所得，亦是他人馈赠。音律飞旋时，那些笑容、擦肩、触碰，还有战斗时激荡的心绪，都一一涌上心头。或许这就是时代飞速发展向前，却依然有人在收集碟片的原因。\n当前碟片中刻录着《深魇噩兆》。",
     "come_from": []
   },
   "220000": {
@@ -22179,6 +22840,18 @@
     "desc": "短信和聊天对话框，获得后可在短信及聊天中进行更换",
     "come_from": [
       "「嗷呜嗷呜事务所」活动获得的聊天气泡"
+    ]
+  },
+  "220009": {
+    "id": "220009",
+    "name": "我们是冠军",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220009.png",
+    "desc": "短信和聊天对话框，获得后可在短信及聊天中进行更换",
+    "come_from": [
+      "「嗷呜黄金大师赛」活动获得的聊天气泡"
     ]
   },
   "221000": {
@@ -25000,6 +25673,42 @@
     "icon": "icon/item/226004.png",
     "desc": "独属于对弈胜者的装饰框，此为其中的「帝王」，象征着唯我独尊的权柄。",
     "come_from": []
+  },
+  "227001": {
+    "id": "227001",
+    "name": "救世主的桂冠",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227001.png",
+    "desc": "翁法罗斯献予{NICKNAME}的桂冠。",
+    "come_from": [
+      "「如我所书」获得"
+    ]
+  },
+  "227002": {
+    "id": "227002",
+    "name": "垃垃司机",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227002.png",
+    "desc": "以阮•梅造物中某只为原型制成的发箍。",
+    "come_from": [
+      "「点心糕饼向前冲」活动后获得的开拓穿搭"
+    ]
+  },
+  "227003": {
+    "id": "227003",
+    "name": "Hello 迷World！",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227003.png",
+    "desc": "迷迷造型的毛绒兜帽。",
+    "come_from": [
+      "往期「拾梦韶华」活动获得的开拓穿搭"
+    ]
   },
   "250001": {
     "id": "250001",
@@ -29743,6 +30452,486 @@
     "desc": "{TEXTJOIN#247}的头饰",
     "come_from": []
   },
+  "265001": {
+    "id": "265001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265002": {
+    "id": "265002",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265003": {
+    "id": "265003",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265004": {
+    "id": "265004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 1,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265005": {
+    "id": "265005",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265006": {
+    "id": "265006",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265007": {
+    "id": "265007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265008": {
+    "id": "265008",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265009": {
+    "id": "265009",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265010": {
+    "id": "265010",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265011": {
+    "id": "265011",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265012": {
+    "id": "265012",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265013": {
+    "id": "265013",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265014": {
+    "id": "265014",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265015": {
+    "id": "265015",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265016": {
+    "id": "265016",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265017": {
+    "id": "265017",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265018": {
+    "id": "265018",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265019": {
+    "id": "265019",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265020": {
+    "id": "265020",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265021": {
+    "id": "265021",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265022": {
+    "id": "265022",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265023": {
+    "id": "265023",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265024": {
+    "id": "265024",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265025": {
+    "id": "265025",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265026": {
+    "id": "265026",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265027": {
+    "id": "265027",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265028": {
+    "id": "265028",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265029": {
+    "id": "265029",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265030": {
+    "id": "265030",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265031": {
+    "id": "265031",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265032": {
+    "id": "265032",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265033": {
+    "id": "265033",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265034": {
+    "id": "265034",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265035": {
+    "id": "265035",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 2,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265036": {
+    "id": "265036",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265037": {
+    "id": "265037",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265038": {
+    "id": "265038",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265039": {
+    "id": "265039",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265040": {
+    "id": "265040",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265041": {
+    "id": "265041",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265042": {
+    "id": "265042",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265043": {
+    "id": "265043",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265044": {
+    "id": "265044",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265045": {
+    "id": "265045",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265046": {
+    "id": "265046",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265047": {
+    "id": "265047",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "265048": {
+    "id": "265048",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
   "270000": {
     "id": "270000",
     "name": "笑口常开",
@@ -30033,6 +31222,86 @@
     "desc": "",
     "come_from": []
   },
+  "281031": {
+    "id": "281031",
+    "name": "金币",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281031.png",
+    "desc": "「货币战争」玩法内的核心经济资源，可用于购买小队成员、提升经验、刷新商店。",
+    "come_from": []
+  },
+  "281032": {
+    "id": "281032",
+    "name": "等价钻钞",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281032.png",
+    "desc": "通过「货币战争」玩法获取，可用于激活【优势布局】。",
+    "come_from": []
+  },
+  "281033": {
+    "id": "281033",
+    "name": "晋升点",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281033.png",
+    "desc": "通过「货币战争」玩法获取，可用于【晋升等级】的提升。",
+    "come_from": []
+  },
+  "281034": {
+    "id": "281034",
+    "name": "经验",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/21.png",
+    "desc": "「货币战争」中用于提高团队规模的经验材料。通过每个节点后自动获取2点，也可通过金币进行购买",
+    "come_from": []
+  },
+  "281035": {
+    "id": "281035",
+    "name": "免费刷新",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/140150.png",
+    "desc": "「货币战争」中用于刷新商店的资源。该资源存在时，刷新商店将不消耗金币。",
+    "come_from": []
+  },
+  "281037": {
+    "id": "281037",
+    "name": "黄金邀请券",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281037.png",
+    "desc": "「奇美拉世界锦标赛」特制的邀请券，可以在选择界面解锁你希望并肩作战的奇美拉训练家。可以通过参与锦标赛获得。",
+    "come_from": []
+  },
+  "281038": {
+    "id": "281038",
+    "name": "蹦蹦点心",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/270006.png",
+    "desc": "所有造物都喜欢的特制点心。可用于在「点心糕饼向前冲」赛事中为造物应援以及兑换奖励。",
+    "come_from": []
+  },
+  "281039": {
+    "id": "281039",
+    "name": "",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/CakeRaceIconScore.png",
+    "desc": "",
+    "come_from": []
+  },
   "300002": {
     "id": "300002",
     "name": "命途行者的赠礼",
@@ -30181,6 +31450,16 @@
     "rarity": 3,
     "icon": "icon/item/300041.png",
     "desc": "银河漫漫无奇不有，这只箱子就装着各个星球的特产，打开看看吧，也许里头有你需要的。",
+    "come_from": []
+  },
+  "300057": {
+    "id": "300057",
+    "name": "觅宝券",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 4,
+    "icon": "icon/item/300057.png",
+    "desc": "",
     "come_from": []
   },
   "300101": {
@@ -33168,6 +34447,26 @@
       "大地兽商队（流动商人）"
     ]
   },
+  "408441": {
+    "id": "408441",
+    "name": "扎格列斯严选蜜酪",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401035.png",
+    "desc": "使用后立即为我方指定单体恢复等同于自身能量上限25%能量。",
+    "come_from": []
+  },
+  "408442": {
+    "id": "408442",
+    "name": "扎格列斯严选面包干",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/401036.png",
+    "desc": "使用后立即为我方指定单体回复等同于自身生命上限20%的生命值，并额外回复240点生命值。",
+    "come_from": []
+  },
   "408601": {
     "id": "408601",
     "name": "贝洛伯格红肠",
@@ -33633,6 +34932,26 @@
     "come_from": [
       "哈托努斯铁匠铺"
     ]
+  },
+  "408640": {
+    "id": "408640",
+    "name": "扎格列斯严选视肉",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/403007.png",
+    "desc": "使用后我方全体在下次战斗中造成的冰属性伤害提高20%。",
+    "come_from": []
+  },
+  "408641": {
+    "id": "408641",
+    "name": "扎格列斯严选红豆",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/180007.png",
+    "desc": "使用后我方全体在下次战斗中防御力提高30%。",
+    "come_from": []
   },
   "408801": {
     "id": "408801",

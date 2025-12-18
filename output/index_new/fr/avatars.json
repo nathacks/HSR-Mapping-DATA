@@ -949,6 +949,16 @@
     "name": "Kate (En service)",
     "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
   },
+  "202": {
+    "id": "202",
+    "name": "Association des passionnés de chimères",
+    "icon": "icon/avatar/UI_Message_Group_Default.png"
+  },
+  "203": {
+    "id": "203",
+    "name": "Que va manger Gâteau d'ordures aujourd'hui ?",
+    "icon": "icon/avatar/UI_Message_Group_Default.png"
+  },
   "1000": {
     "id": "1000",
     "name": "Pom-Pom",
@@ -1244,6 +1254,11 @@
     "name": "Rappa",
     "icon": "icon/avatar//1317.png"
   },
+  "1321": {
+    "id": "1321",
+    "name": "Le Dahlia",
+    "icon": "icon/avatar//1321.png"
+  },
   "1401": {
     "id": "1401",
     "name": "La Grande Herta",
@@ -1303,6 +1318,11 @@
     "id": "1413",
     "name": "Nocterna",
     "icon": "icon/avatar//1413.png"
+  },
+  "1415": {
+    "id": "1415",
+    "name": "Cyrène",
+    "icon": "icon/avatar//1415.png"
   },
   "200001": {
     "id": "200001",
@@ -1585,6 +1605,30 @@
     "name": "Dan Heng • Permansor Terrae : À l'affût",
     "rarity": 5,
     "icon": "icon/avatar/IconHead_200146.png"
+  },
+  "200147": {
+    "id": "200147",
+    "name": "Cyrène : Promesse",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200147.png"
+  },
+  "200148": {
+    "id": "200148",
+    "name": "Vagues de l'histoire : Promesse",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200148.png"
+  },
+  "200149": {
+    "id": "200149",
+    "name": "Le Dahlia : Réminiscence",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200149.png"
+  },
+  "200150": {
+    "id": "200150",
+    "name": "Cygne noir : Réminiscence",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200150.png"
   },
   "201001": {
     "id": "201001",
@@ -1952,6 +1996,12 @@
     "rarity": 5,
     "icon": "icon/avatar/1317.png"
   },
+  "201321": {
+    "id": "201321",
+    "name": "Le Dahlia",
+    "rarity": 5,
+    "icon": "icon/avatar/1321.png"
+  },
   "201401": {
     "id": "201401",
     "name": "La Grande Herta",
@@ -2029,6 +2079,12 @@
     "name": "Dan Heng • Permansor Terrae",
     "rarity": 5,
     "icon": "icon/avatar/1414.png"
+  },
+  "201415": {
+    "id": "201415",
+    "name": "Cyrène",
+    "rarity": 5,
+    "icon": "icon/avatar/1415.png"
   },
   "202001": {
     "id": "202001",
@@ -2150,6 +2206,12 @@
     "rarity": 4,
     "icon": "icon/avatar/IconHead_202020.png"
   },
+  "202021": {
+    "id": "202021",
+    "name": "Mem",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202021.png"
+  },
   "202022": {
     "id": "202022",
     "name": "Poupée de Trianne",
@@ -2185,6 +2247,12 @@
     "name": "March 7th : Fête",
     "rarity": 5,
     "icon": "icon/avatar/IconHead_202029.png"
+  },
+  "202030": {
+    "id": "202030",
+    "name": "Réminide doré",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202030.png"
   },
   "202031": {
     "id": "202031",
@@ -2239,6 +2307,18 @@
     "name": "« Le Mini Draka grandit »",
     "rarity": 4,
     "icon": "icon/avatar/IconHead_202040.png"
+  },
+  "202041": {
+    "id": "202041",
+    "name": "Pari gagnant",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202041.png"
+  },
+  "202042": {
+    "id": "202042",
+    "name": "Sur la fresque",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202042.png"
   },
   "208001": {
     "id": "208001",

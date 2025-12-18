@@ -1295,6 +1295,118 @@
     "hide_desc": "Bergabunglah bersamaku dan menjadi pahlawan! ※ Selesaikan \"Era Penciptaan Ulang\" terakhir",
     "hide": false
   },
+  "4034701": {
+    "id": "4034701",
+    "series_id": "3",
+    "title": "Ujung Cahaya",
+    "desc": "Lihat, ke mana pun kereta perang melaju, fajar dan kemenangan menanti di sana\n※ Menyaksikan Trailblazer yang berubah menjadi Astral Express melintasi cakrawala",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034702": {
+    "id": "4034702",
+    "series_id": "5",
+    "title": "Bulan Purnama di Bawah Mekarnya Sakura",
+    "desc": "Siapa yang masih berada di luar cerita?\n※ Ucapkan selamat tinggal pada Amphoreus dan lihat petunjuk tentang destinasi berikutnya",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034703": {
+    "id": "4034703",
+    "series_id": "3",
+    "title": "Akhir Juga Merupakan Kekacauan Primordial",
+    "desc": "Tulis satu baris komentar tentang pembuktian dewa\n※ Buktikan kepada Nous, atau tidak buktikan",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034704": {
+    "id": "4034704",
+    "series_id": "3",
+    "title": "Kasih, Persik, Bunga Kristal",
+    "desc": "Bisakah hati berbunga oleh siraman waktu?\n※ Ungkap rahasia antara PhiLia093 dan Demiurge",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034705": {
+    "id": "4034705",
+    "series_id": "3",
+    "title": "Perjalanan Agung Terakhir",
+    "desc": "Tahanan tertawa dan bertanya pada boneka, siapa yang lebih konyol di antara mereka?\n※ Tiba di Reruntuhan Waktu",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034706": {
+    "id": "4034706",
+    "series_id": "3",
+    "title": "Kiamat dan Empat Catatan Kakinya",
+    "desc": "Sisi kanan persamaan, yakni \"Erudition\", telah jatuh dalam keheningan\n※ Rasakan langsung momen datangnya \"Destruction\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034707": {
+    "id": "4034707",
+    "series_id": "3",
+    "title": "Jiwanya adalah Segenap Alam Semesta",
+    "desc": "Bintang-bintang akan melihat jawaban Amphoreus\n※ \"Halo, Dunia\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034708": {
+    "id": "4034708",
+    "series_id": "3",
+    "title": "Wahai Muse, Ceritakan Padaku",
+    "desc": "Di dalam Light Cone, semuanya sudah ditakdirkan\n※ Tuliskan akhir untuk kisah epik ini",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034801": {
+    "id": "4034801",
+    "series_id": "3",
+    "title": "Epitaf Sang Agung",
+    "desc": "Harga yang harus dibayar untuk mempertahankan keyakinan adalah kehilangan jalan pulang\n※ Dari sudut pandang Firefly, bertemu kembali dengan AR-214",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034802": {
+    "id": "4034802",
+    "series_id": "3",
+    "title": "Masa Lalu adalah Cerminan Masa Depan",
+    "desc": "Waktu menari di ujung pisau, hanya cahaya yang dapat menghunus ke masa depan\n※ Saksikan pertemuan antara \"Finality\" dan \"Trailblaze\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034803": {
+    "id": "4034803",
+    "series_id": "3",
+    "title": "Terbang Tak Butuh Alasan",
+    "desc": "Walau sudah terlambat, kita masih bisa menyanyikan lagu yang bisa kita nyanyikan\n※ Saksikan Festival Charmony para pengejar mimpi",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034804": {
+    "id": "4034804",
+    "series_id": "3",
+    "title": "Kehidupan Itu Berpapasan dengan Kematian",
+    "desc": "Yang membakar semua makhluk adalah waktu, dan waktu pulalah yang memadamkannya\n※ Ungkap kebenaran tentang Terminus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034805": {
+    "id": "4034805",
+    "series_id": "3",
+    "title": "Kenangan adalah Pembukaan dari Mimpi",
+    "desc": "Seseorang dapat memerankan kematian seorang diri, tetapi keindahan membutuhkan respons\n※ Penuhi janji dengan Firefly",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4034806": {
+    "id": "4034806",
+    "series_id": "3",
+    "title": "Kelupaan adalah Upacara Penutupan Mimpi",
+    "desc": "Semua kehidupan membuka misteri, semua misteri tertutup kegelapan, semua kegelapan membawa harapan, semua harapan tunduk pada kehidupan\n※ Temukan sekumpulan memori yang ditinggalkan The Dahlia untukmu",
+    "hide_desc": "",
+    "hide": true
+  },
   "4040101": {
     "id": "4040101",
     "series_id": "4",
@@ -2865,7 +2977,7 @@
   },
   "4044503": {
     "id": "4044503",
-    "series_id": "4",
+    "series_id": "8",
     "title": "Dunia Air Masa Depan",
     "desc": "Imam Phagousa selalu berkata, jangan berenang di Sungai Jiwa ....\n※ Terseret perubahan wujud air saat menjelajahi Amphoreus",
     "hide_desc": "",
@@ -2873,7 +2985,7 @@
   },
   "4044504": {
     "id": "4044504",
-    "series_id": "4",
+    "series_id": "8",
     "title": "Kematian Aeschylus",
     "desc": "Imam Phagousa selalu berkata, hati-hati dengan benda yang jatuh dari atas ....\n※ Tertimpa lampu gantung dan langit-langit yang runtuh saat menjelajahi Amphoreus",
     "hide_desc": "",
@@ -3009,7 +3121,7 @@
   },
   "4044606": {
     "id": "4044606",
-    "series_id": "4",
+    "series_id": "8",
     "title": "Ini Bukan Pintu Putar",
     "desc": "Gagal melewati kipas ventilasi dengan tanpa menggunakan metode \"menghentikan waktu sementara\"",
     "hide_desc": "",
@@ -3092,6 +3204,174 @@
     "series_id": "4",
     "title": "Rahasia Suara Serangga: Pencerahan dari Kurungan",
     "desc": "Bagaimana cara memberikan persembahan tanpa batas?\n※ Pecahkan teka-teki ramalan di \"Rimba Jejak Pendar\" Grove of Epiphany",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044701": {
+    "id": "4044701",
+    "series_id": "4",
+    "title": "Dewa Sejati yang Menjaga Harta Amphoreus",
+    "desc": "Membuka Peti Harta #1[i] kali di Amphoreus",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044702": {
+    "id": "4044702",
+    "series_id": "4",
+    "title": "Rahasia Suara Serangga: Kecupan Waktu",
+    "desc": "Apa bentuk jembatan itu?\n※ Pecahkan teka-teki ramalan \"Sisa-Sisa Mimpi Kelam\" Makam Agung Titan Tanpa Nama",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044703": {
+    "id": "4044703",
+    "series_id": "4",
+    "title": "Rahasia Suara Serangga: Fabel Gua",
+    "desc": "Apa yang tersembunyi di Melampaui Mitologi?\n※ Pecahkan teka-teki ramalan \"Tepi Seberang Pusara Memori\" Reruntuhan Waktu",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044704": {
+    "id": "4044704",
+    "series_id": "4",
+    "title": "Sentuhan Emas Okhema",
+    "desc": "Bangun surga abadi untuk para penenun\n※ Kumpulkan #1 berkat dari Nimfa Penciptaan",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044705": {
+    "id": "4044705",
+    "series_id": "4",
+    "title": "Maka Selesailah Semua Penciptaan",
+    "desc": "Kumpulkan semua berkat Nimfa Penciptaan dan pecahkan semua teka-teki ramalan",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044706": {
+    "id": "4044706",
+    "series_id": "8",
+    "title": "Tangan Kelabu Selalu Menyertaiku",
+    "desc": "Rasakan insiden yang disebabkan oleh setiap objek Amphoreus",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044707": {
+    "id": "4044707",
+    "series_id": "4",
+    "title": "Batu Nisan Api",
+    "desc": "Selesaikan Kambing Hitam Emas khusus di Reruntuhan Waktu",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044708": {
+    "id": "4044708",
+    "series_id": "4",
+    "title": "Teori Konfigurasi Jalur",
+    "desc": "Operasikan mekanisme penggerak jalur rahasia di \"Sisa-Sisa Mimpi Kelam\" Makam Agung Titan Tanpa Nama untuk mengubah logika semua \"Jalur Rahasia Janus\" di Amphoreus",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044709": {
+    "id": "4044709",
+    "series_id": "4",
+    "title": "Tipu Muslihat, Waktu, dan Benih",
+    "desc": "Panggil Roh Pencuri di Reruntuhan Waktu",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044710": {
+    "id": "4044710",
+    "series_id": "4",
+    "title": "Istana Tempat Penghentian Angin",
+    "desc": "Temukan tempat persembunyian Roh Pencuri",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044711": {
+    "id": "4044711",
+    "series_id": "4",
+    "title": "Tiga Detak Jantung Fajar dan Senja",
+    "desc": "Temukan semua kumpulan pencerahan di Reruntuhan Waktu",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044712": {
+    "id": "4044712",
+    "series_id": "4",
+    "title": "Selimut Memori",
+    "desc": "Mendapatkan bantuan dari March 7th yang meningkatkan kekuatan Doa Oronyx untuk sementara",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044713": {
+    "id": "4044713",
+    "series_id": "4",
+    "title": "Kephale Takkan Pernah Lupa",
+    "desc": "Lewati ujian \"Penopang Dunia\" serta saksikan harapan dan keputusasaan di masa lalu",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044714": {
+    "id": "4044714",
+    "series_id": "4",
+    "title": "Senja Para Dewa",
+    "desc": "Aktifkan Program Trojan \"Mistletoe\" untuk yang pertama kali",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044715": {
+    "id": "4044715",
+    "series_id": "4",
+    "title": "Tak Perlu Terbang Ulang",
+    "desc": "Daratkan Mistletoe secara manual di titik navigasi mana pun",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044716": {
+    "id": "4044716",
+    "series_id": "4",
+    "title": "Era Trojan Horse",
+    "desc": "Selesaikan \"Tantangan Muslihat\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044717": {
+    "id": "4044717",
+    "series_id": "4",
+    "title": "Fabel Tertua",
+    "desc": "Temukan rahasia \"Melampaui Mitologi\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044718": {
+    "id": "4044718",
+    "series_id": "4",
+    "title": "Bawa Jantung Mereka Bersamamu",
+    "desc": "Mendapatkan semua dekorasi rumah dari Amphoreus",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044801": {
+    "id": "4044801",
+    "series_id": "4",
+    "title": "Pandangan Penghujung Jam",
+    "desc": "Memperbaiki semua Jam Dunia Mimpi yang rusak di \"Dream of Gnawing Oak\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044802": {
+    "id": "4044802",
+    "series_id": "4",
+    "title": "Dosa-Dosaku Selalu Terpampang di Hadapanku",
+    "desc": "Mendapatkan surat dari Pemilik Mimpi di The Road Not Taken di \"Dream of Gnawing Oak\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044803": {
+    "id": "4044803",
+    "series_id": "4",
+    "title": "Bayangan di Persimpangan",
+    "desc": "Berjalan mengikuti jalan lain di The Road Not Taken di \"Dream of Gnawing Oak\"",
     "hide_desc": "",
     "hide": false
   },
@@ -6075,7 +6355,7 @@
     "id": "4053703",
     "series_id": "5",
     "title": "Raja Mandi",
-    "desc": "Mencoba menggunakan #1 jenis sabun mandi saat mandi di bak mandi",
+    "desc": "Mencoba menggunakan #1 jenis sabun mandi Parmenides, Wangi Mawar, dan Minyak Panas Pedas saat berendam di bak mandi",
     "hide_desc": "",
     "hide": true
   },
@@ -7738,10 +8018,10 @@
   "4054613": {
     "id": "4054613",
     "series_id": "5",
-    "title": "Tidak Mau? Oke, Aku yang Makan.",
+    "title": "Tidak Mau? Oke, Aku yang Makan!",
     "desc": "Dengarkan dromas cilik mengeluh padamu tentang rasa makanannya di \"Cuacanya Bagus Sekali, Ayo Pelihara!\"",
     "hide_desc": "",
-    "hide": false
+    "hide": true
   },
   "4054614": {
     "id": "4054614",
@@ -7749,13 +8029,197 @@
     "title": "Jagoan Kecil Tanah Merah",
     "desc": "Pastikan dromas cilik tidak pernah mengeluh tentang rasa makanannya di \"Cuacanya Bagus Sekali, Ayo Pelihara!\"",
     "hide_desc": "",
-    "hide": false
+    "hide": true
   },
   "4054615": {
     "id": "4054615",
     "series_id": "5",
     "title": "Guru Sehari ....",
     "desc": "Terima #1 surat terima kasih dari dromas cilik di \"Cuacanya Bagus Sekali, Ayo Pelihara!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054701": {
+    "id": "4054701",
+    "series_id": "5",
+    "title": "Bermandikan Darah Emas",
+    "desc": "Mencoba menggunakan Sabun Mandi Chrysos saat berendam di bak mandi",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054702": {
+    "id": "4054702",
+    "series_id": "5",
+    "title": "Keabadian atau Satu Halaman",
+    "desc": "Bicara dengan semua pahlawan Keturunan Chrysos di Lembaran Abadi",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054703": {
+    "id": "4054703",
+    "series_id": "5",
+    "title": "Angin Dingin dan Bara Api",
+    "desc": "Kebaikan itu bagaikan obor, yang menyala makin terang bila dibagikan\n※ Setelah meninggalkan Amphoreus, kembali ke Jarilo-Ⅵ Administrative District",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054704": {
+    "id": "4054704",
+    "series_id": "5",
+    "title": "Keabadian dan Penciptaan",
+    "desc": "Kata \"pahlawan\" memang memiliki makna yang mendalam di hati rakyat\n※ Setelah meninggalkan Amphoreus, kembali ke Xianzhou \"Luofu\" Central Starskiff Haven",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054705": {
+    "id": "4054705",
+    "series_id": "5",
+    "title": "Sirop dan Nektar",
+    "desc": "Apakah perjalanan pengejaran api akan menjadi bahan perbincangan sehari-hari?\n※ Setelah meninggalkan Amphoreus, kembali ke Golden Hour, Penacony",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054706": {
+    "id": "4054706",
+    "series_id": "5",
+    "title": "Hari Kemarin dan Hari Esok",
+    "desc": "\"Perintisan\" adalah perpaduan antara selalu siap siaga dan tetap menyimpan harapan\n※ Setelah meninggalkan Amphoreus, kembali ke Master Control Zone, Stasiun Luar Angkasa \"Herta\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054707": {
+    "id": "4054707",
+    "series_id": "5",
+    "title": "Bagai Riak pada Pandangan Pertama",
+    "desc": "Bertemu kembali dengan memori yang ditinggalkan Cyrene di Aedes Elysiae",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054708": {
+    "id": "4054708",
+    "series_id": "5",
+    "title": "Bintang-Bintang Diam Penuh Misteri",
+    "desc": "Lihat catatan komunikasi antara berbagai kekuatan di galaksi dengan kru Express setelah perang",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054709": {
+    "id": "4054709",
+    "series_id": "5",
+    "title": "Tiga Berturut-turut",
+    "desc": "Dalam 1 pertandingan \"Camilan, Maju!\", kontestan yang didukung berhasil meraih juara pertama #1 kali",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054710": {
+    "id": "4054710",
+    "series_id": "5",
+    "title": "Kita Juaranya",
+    "desc": "Pemain yang didukung meraih juara pertama babak di \"Camilan, Maju!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054711": {
+    "id": "4054711",
+    "series_id": "5",
+    "title": "Hore, Aku Bisa Makan Trick Snack",
+    "desc": "Tukarkan semua Trick Snack di \"Camilan, Maju!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054712": {
+    "id": "4054712",
+    "series_id": "5",
+    "title": "Zona - \"Hadiah\"",
+    "desc": "Menerima pesan dari Ruan Mei di \"Camilan, Maju!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054801": {
+    "id": "4054801",
+    "series_id": "5",
+    "title": "Igauan Mimpi Panjang",
+    "desc": "Menelusuri mimpi masa lalu di \"Dream of Gnawing Oak\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054802": {
+    "id": "4054802",
+    "series_id": "5",
+    "title": "Menang Besar",
+    "desc": "Memperoleh total #1 kemenangan dalam 1 pertandingan \"Kejuaraan Auu Chrysos\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054803": {
+    "id": "4054803",
+    "series_id": "5",
+    "title": "Master Chimera",
+    "desc": "Peringkat kejuaraan di \"Kejuaraan Auu Chrysos\" mencapai peringkat emas",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054804": {
+    "id": "4054804",
+    "series_id": "5",
+    "title": "Menang di Garis Awal",
+    "desc": "Di \"Kejuaraan Auu Chrysos\", selesaikan pertandingan penentu peringkat Kejuaraan Dunia Chimera",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054805": {
+    "id": "4054805",
+    "series_id": "5",
+    "title": "Penantang Legendaris",
+    "desc": "Meraih #1 kemenangan total dalam pertarungan melawan pemain di \"Kejuaraan Auu Chrysos\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054806": {
+    "id": "4054806",
+    "series_id": "5",
+    "title": "Juara Utama Area Okhema",
+    "desc": "Kalahkan semua pelatih Chimera dalam mode Duel Chrysos di \"Kejuaraan Auu Chrysos\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054807": {
+    "id": "4054807",
+    "series_id": "7",
+    "title": "Penghitung Anti Qlipoth",
+    "desc": "Dalam pertempuran melawan \"Greatsword Guardian\" dengan tingkat kesulitan apa pun, karakter tim memulihkan total #1 kali \"Perhitungan HP\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054808": {
+    "id": "4054808",
+    "series_id": "7",
+    "title": "Melampaui Tembakan",
+    "desc": "Dalam pertempuran melawan \"Earthshaker Leo\" dengan tingkat kesulitan apa pun, rekan tim mengalahkan total #1 \"Target Barisan Belakang\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054809": {
+    "id": "4054809",
+    "series_id": "7",
+    "title": "Berlian Sableng",
+    "desc": "Dalam pertempuran melawan \"Corrupting Shadowfiend\" tingkat kesulitan Mimpi Buruk, \"HP Beban\" seluruh karakter tim tidak lebih dari #1 dan lolos stage",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054810": {
+    "id": "4054810",
+    "series_id": "7",
+    "title": "Terlalu Sibuk untuk Mati",
+    "desc": "Dalam pertempuran melawan \"Synergy Duo\" dengan tingkat kesulitan apa pun, memicu \"Fight in Unity\" milik Boss musuh 1 kali",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054811": {
+    "id": "4054811",
+    "series_id": "7",
+    "title": "Air Mata Siren",
+    "desc": "Dalam pertempuran melawan \"Elegy Siren\" dengan tingkat kesulitan apa pun, \"Hallucinogenic Mermaid\" rekan tim menerima DMG mematikan 1 kali",
     "hide_desc": "",
     "hide": false
   },
@@ -9795,7 +10259,7 @@
     "id": "4074204",
     "series_id": "7",
     "title": "Pahlawan Tidak Pernah Mati",
-    "desc": "Saat efek unik Castorice terpicu, membuat #1 karakter tim memperoleh status \"Mooncocoon\" secara bersamaan",
+    "desc": "Saat efek eksklusif Castorice terpicu, membuat #1 karakter tim memperoleh status \"Mooncocoon\" secara bersamaan",
     "hide_desc": "",
     "hide": true
   },
@@ -10075,7 +10539,7 @@
     "id": "4074601",
     "series_id": "7",
     "title": "Mimpi Melintasi Waktu, Embun Membawa Kefanaan",
-    "desc": "Lancarkan total #1[i] kali \"Dream, Dissolving, as Dew\" menggunakan Evey milik karakter tim Evernight",
+    "desc": "Melancarkan total #1[i] kali \"Dream, Dissolving, as Dew\" menggunakan Evey milik karakter tim Evernight dalam 1 pertempuran",
     "hide_desc": "",
     "hide": true
   },
@@ -10099,7 +10563,7 @@
     "id": "4074604",
     "series_id": "7",
     "title": "Di Mana Ada Naga, Di Situ Ada Jalan",
-    "desc": "Lekatkan \"Souldragon\" pada karakter yang memiliki objek panggilan dan beraksi total #1[i] kali",
+    "desc": "Menambahkan \"Souldragon\" pada karakter yang memiliki objek panggilan dan beraksi total #1[i] kali dalam 1 pertempuran",
     "hide_desc": "",
     "hide": true
   },
@@ -10126,6 +10590,102 @@
     "desc": "Setelah \"Ichor Memosprite: Winged Serpent\" memasuki status Charge, memicu beberapa kali \"Torque Counter\" sampai menghapus status Charge-nya",
     "hide_desc": "",
     "hide": false
+  },
+  "4074701": {
+    "id": "4074701",
+    "series_id": "7",
+    "title": "Ca-Cahaya Tak Ter-Terbatas",
+    "desc": "Dalam 1 pertempuran, #1 rekan tim memiliki puisi yang diberikan oleh Cyrene secara bersamaan",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074702": {
+    "id": "4074702",
+    "series_id": "7",
+    "title": "Kemudian Kenangan Menjadi Riak",
+    "desc": "Dalam 1 pertempuran, setelah Trailblazer (Remembrance) melancarkan Enhanced Basic Attack, Cyrene otomatis melancarkan \"Minuet of Blooms and Plumes\" #1[i] kali",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074703": {
+    "id": "4074703",
+    "series_id": "7",
+    "title": "Bak Hidup dan Mati, 2 Bunga Berbagi 1 Tangkai",
+    "desc": "Menggunakan Ultimate karakter tim Castorice \"Doomshriek, Dawn's Chime\" saat \"Newbud\" mencapai #1%",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074704": {
+    "id": "4074704",
+    "series_id": "7",
+    "title": "Untuk Amphoreus",
+    "desc": "Dalam pertempuran melawan \"Anti-Creator, Hatred Inundate\", memicu total #1 jenis suara dukungan yang berbeda menggunakan \"Cyrene's Support ♪\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074705": {
+    "id": "4074705",
+    "series_id": "7",
+    "title": "Jangan Biarkan Dendam Tutupi Langit Berbintang",
+    "desc": "Memenangkan pertempuran melawan \"Anti-Creator, Hatred Inundate\" dengan syarat \"Amphorean Hatred\" tidak melampaui #1%",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074706": {
+    "id": "4074706",
+    "series_id": "7",
+    "title": "Keterpurukan Ganda",
+    "desc": "Dalam pertempuran melawan \"Anti-Creator, Hatred Inundate\", membuat \"Imprisoned Mythos\" atau \"Manipulated Logos\" memasuki status \"Grave Wound\" #1 kali",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074707": {
+    "id": "4074707",
+    "series_id": "7",
+    "title": "Lenyap Bersama Angin, Bagai Embun dan Kilat",
+    "desc": "Setelah Cyclonic Swarm Mother memasuki status \"Breeding Frenzy\", pendahuluan aksinya tidak dapat menetaskan \"Mirage Fizzle Kid\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074801": {
+    "id": "4074801",
+    "series_id": "7",
+    "title": "Tinggalkan yang Lama, Cintai yang Baru",
+    "desc": "Saat memenangkan pertempuran, rekan \"Dance Partner\" The Dahlia berbeda dengan saat pertempuran dimulai",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074802": {
+    "id": "4074802",
+    "series_id": "7",
+    "title": "Kamu dan Pelindungmu Sama-Sama Konyol",
+    "desc": "Kalahkan target musuh yang berstatus Toughness Protection menggunakan Super Break DMG",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074803": {
+    "id": "4074803",
+    "series_id": "7",
+    "title": "Joget! Joget! Joget!",
+    "desc": "Dalam satu pertempuran, Trailblazer Path \"Harmony\", Fugue, dan The Dahlia pernah melancarkan Ultimate",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074804": {
+    "id": "4074804",
+    "series_id": "7",
+    "title": "Gerombolan Serangga",
+    "desc": "Dalam pertempuran melawan \"Harbinger of Death: Swarm Nightmare\", mengalahkan semua \"Juvenile Sting\" untuk membuat mereka keluar dari status \"Gene Replication\".",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074805": {
+    "id": "4074805",
+    "series_id": "7",
+    "title": "Atasi Serangga dari Akarnya",
+    "desc": "Dalam pertempuran melawan \"Harbinger of Death: Swarm Nightmare\", mengakibatkan Break pada \"Harbinger of Death: Swarm Nightmare\" sebelum menghancurkan semua \"Juvenile Sting\", dan memulihkan Toughness tanpa keluar dari status \"Gene Replication\"",
+    "hide_desc": "",
+    "hide": true
   },
   "4080101": {
     "id": "4080101",
@@ -10635,7 +11195,7 @@
     "id": "4083203",
     "series_id": "8",
     "title": "Patungan",
-    "desc": "Biarkan Boothill dan Aventurine berebut membayar tagihan\n※ Dalam 1 pertempuran yang sama, picu suara Aventurine \"Skill: 1\" dan Boothill \"Pertempuran Dimulai: Weakness Break\"",
+    "desc": "Biarkan Boothill dan Aventurine berebut membayar tagihan\n※ Dalam 1 pertempuran yang sama, picu suara Aventurine \"Skill 1\" dan Boothill \"Pertempuran Dimulai: Weakness Break\"",
     "hide_desc": "",
     "hide": true
   },

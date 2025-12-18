@@ -1295,6 +1295,118 @@
     "hide_desc": "¡Únanse a mí y conviértanse en héroes!※Completa la última Era Nova.",
     "hide": false
   },
+  "4034701": {
+    "id": "4034701",
+    "series_id": "3",
+    "title": "El final de la luz",
+    "desc": "¡Mira, hacia donde se dirige el carro de guerra, allí está el amanecer y la victoria!\n※Observa {F#a la}{M#al} Trazacaminos manifestad{F#a}{M#o} como el Expreso atravesar el firmamento.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034702": {
+    "id": "4034702",
+    "series_id": "5",
+    "title": "Luna llena, bajo los cerezos en flor",
+    "desc": "¿Quién más está más allá de la historia?\n※Despídete de Amphoreus y descubre pistas sobre el siguiente destino.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034703": {
+    "id": "4034703",
+    "series_id": "3",
+    "title": "El fin es también el caos primordial",
+    "desc": "Escribe una nota para la prueba divina.\n※Dale tu testimonio a Nous... o no.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034704": {
+    "id": "4034704",
+    "series_id": "3",
+    "title": "Amor, Durazno, flor de cristal",
+    "desc": "¿Puede un corazón florecer bajo el paso del tiempo?\n※Revela el secreto entre PhiLia093 y el Demiurgo.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034705": {
+    "id": "4034705",
+    "series_id": "3",
+    "title": "El último gran viaje",
+    "desc": "El prisionero pregunta con una sonrisa al títere quién es más absurdo.\n※Llega a las Ruinas del Tiempo.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034706": {
+    "id": "4034706",
+    "series_id": "3",
+    "title": "El apocalipsis y sus cuatro notas al pie",
+    "desc": "El lado derecho de la ecuación, la Erudición, enmudece.\n※Presencia el momento en que la Destrucción desciende.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034707": {
+    "id": "4034707",
+    "series_id": "3",
+    "title": "Su alma es el universo entero",
+    "desc": "Las estrellas verán la respuesta de Amphoreus.\n※\"Hola, mundo\".",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034708": {
+    "id": "4034708",
+    "series_id": "3",
+    "title": "Musa, cuéntame",
+    "desc": "Dentro del cono de luz, todo es destino.\n※Escribe el punto final de la epopeya.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034801": {
+    "id": "4034801",
+    "series_id": "3",
+    "title": "Epitafio de la nobleza",
+    "desc": "El precio de mantener las convicciones siempre es perder el camino de regreso.\n※Vuelve a encontrarte con AR-214 desde la perspectiva de Luciérnaga.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034802": {
+    "id": "4034802",
+    "series_id": "3",
+    "title": "El pasado es el reflejo del futuro",
+    "desc": "El tiempo baila sobre el filo de la navaja, solo la luz puede ir como un rayo hacia el futuro.\n※Sé testigo de la convergencia entre la Conclusión y la Vía Trazacaminos.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034803": {
+    "id": "4034803",
+    "series_id": "3",
+    "title": "No se necesitan razones para volar",
+    "desc": "Incluso si es demasiado tarde para todo, aún podemos cantar las canciones que nos sabemos.\n※Presencia el Festival Carismonía de quienes persiguen sus sueños.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034804": {
+    "id": "4034804",
+    "series_id": "3",
+    "title": "La vida y la muerte siempre se están cruzando",
+    "desc": "El tiempo es quien quema a todos los seres vivos, y también quien los extingue.\n※Revela la verdad sobre Terminus.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4034805": {
+    "id": "4034805",
+    "series_id": "3",
+    "title": "Los recuerdos son el preludio de los sueños",
+    "desc": "Una persona puede morir sola, pero la belleza requiere una respuesta.\n※Cumple la promesa que le hiciste a Luciérnaga.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4034806": {
+    "id": "4034806",
+    "series_id": "3",
+    "title": "El olvido es el telón final de los sueños",
+    "desc": "Toda vida engendra misterio, todo misterio está envuelto en oscuridad, toda oscuridad sostiene esperanza, toda esperanza obedece a la vida.\n※Encuentra un recuerdo que te dejó la Dalia.",
+    "hide_desc": "",
+    "hide": true
+  },
   "4040101": {
     "id": "4040101",
     "series_id": "4",
@@ -2865,7 +2977,7 @@
   },
   "4044503": {
     "id": "4044503",
-    "series_id": "4",
+    "series_id": "8",
     "title": "Mundo acuático del futuro",
     "desc": "Los sacerdotes de Fagusa siempre dicen que no se puede nadar en el río Estigia...\n※Sé arrastrad{F#a}{M#o} por las aguas cambiantes durante la exploración de Amphoreus.",
     "hide_desc": "",
@@ -2873,7 +2985,7 @@
   },
   "4044504": {
     "id": "4044504",
-    "series_id": "4",
+    "series_id": "8",
     "title": "La muerte de Esquilo",
     "desc": "Los sacerdotes de Fagusa siempre dicen que hay que tener cuidado con los objetos que caen desde lo alto...\n※Sé golpead{F#a}{M#o} por una lámpara que cae desde el techo durante la exploración de Amphoreus.",
     "hide_desc": "",
@@ -3009,7 +3121,7 @@
   },
   "4044606": {
     "id": "4044606",
-    "series_id": "4",
+    "series_id": "8",
     "title": "Esto no es una puerta giratoria",
     "desc": "Intenta pasar a través del ventilador y falla sin pausar el tiempo.",
     "hide_desc": "",
@@ -3059,7 +3171,7 @@
     "id": "4044612",
     "series_id": "4",
     "title": "Gancho bajo",
-    "desc": "No creas que estás a salvo solo porque te escondiste en el sector exterior...\n※Usa el ataque de puño de la Mano de Zagreus para derrotar a los enemigos que hay en las esquinas de la Gran Tumba del Titán Sin Nombre, Matriz Universal.",
+    "desc": "No creas que estás a salvo solo porque te escondiste en el sector exterior...\n※Usa el ataque de puño de la Mano de Zagreus para derrotar al enemigo que hay en un rincón de la Gran Tumba del Titán Sin Nombre, Matriz Universal.",
     "hide_desc": "",
     "hide": false
   },
@@ -3092,6 +3204,174 @@
     "series_id": "4",
     "title": "El canto de los insectos: sabiduría en cautiverio",
     "desc": "¿Cómo ofrecer el infinito?\n※Resuelve el acertijo de la profecía del Soto de las Musas, Cicatriz Radiante",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044701": {
+    "id": "4044701",
+    "series_id": "4",
+    "title": "El dios verdadero de los cofres de Amphoreus",
+    "desc": "Abre #1[i] tesoros en Amphoreus.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044702": {
+    "id": "4044702",
+    "series_id": "4",
+    "title": "El canto de los insectos: el beso del tiempo",
+    "desc": "¿Qué forma tiene ese puente?\n※Resuelve el acertijo de la profecía en la Gran Tumba del Titán Sin Nombre, Vestigios del Desastre.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044703": {
+    "id": "4044703",
+    "series_id": "4",
+    "title": "El canto de los insectos: alegoría de la caverna",
+    "desc": "¿Qué se oculta más allá del Exomito?\n※Resuelve el acertijo de la profecía de las Ruinas del Tiempo, Orilla de los Recuerdos Enterrados.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044704": {
+    "id": "4044704",
+    "series_id": "4",
+    "title": "La mano de oro de Oqueima",
+    "desc": "Crea un paraíso eterno para las tejedoras.\n※Reúne bendiciones de #1 ninfas de la creación.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044705": {
+    "id": "4044705",
+    "series_id": "4",
+    "title": "Y así se completó la obra de toda la creación",
+    "desc": "Recolecta todas las bendiciones de las ninfas de la creación y resuelve todos los acertijos de la profecía.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044706": {
+    "id": "4044706",
+    "series_id": "8",
+    "title": "Mano Sombría, mi eterna compañera",
+    "desc": "Experimenta los accidentes causados por cada objeto de Amphoreus.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044707": {
+    "id": "4044707",
+    "series_id": "4",
+    "title": "Epitafio de fuego",
+    "desc": "Completa el Chivo expiatorio dorado especial de las Ruinas del Tiempo.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044708": {
+    "id": "4044708",
+    "series_id": "4",
+    "title": "Teoría de las sendas morfológicas",
+    "desc": "Manipula el impulsor de la senda secreta en la Gran Tumba del Titán Sin Nombre, Vestigios del Desastre, para alterar la lógica de todas las Sendas secretas de Jano en Amphoreus.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044709": {
+    "id": "4044709",
+    "series_id": "4",
+    "title": "Engaños, tiempo y semillas",
+    "desc": "Invoca al espirizuelo en las Ruinas del Tiempo.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044710": {
+    "id": "4044710",
+    "series_id": "4",
+    "title": "El palacio donde se detiene el viento",
+    "desc": "Encuentra el escondite del espirizuelo.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044711": {
+    "id": "4044711",
+    "series_id": "4",
+    "title": "Los tres latidos del amanecer y el ocaso",
+    "desc": "Descubre todas las iluminaciones dentro de las Ruinas del Tiempo.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044712": {
+    "id": "4044712",
+    "series_id": "4",
+    "title": "Sábanas de los recuerdos",
+    "desc": "Con la ayuda de Siete de Marzo, aumenta temporalmente el poder de la Plegaria a Oronix.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044713": {
+    "id": "4044713",
+    "series_id": "4",
+    "title": "Kefale nunca olvidará esto",
+    "desc": "A través de la prueba del Sostén del Mundo, sé testigo de la esperanza y desesperación del pasado.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044714": {
+    "id": "4044714",
+    "series_id": "4",
+    "title": "El crepúsculo de los dioses",
+    "desc": "Inicia por primera vez el programa troyano Muérdago.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044715": {
+    "id": "4044715",
+    "series_id": "4",
+    "title": "No es necesario volver a volar",
+    "desc": "Aterriza manualmente la nave Muérdago en cualquier punto de navegación.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044716": {
+    "id": "4044716",
+    "series_id": "4",
+    "title": "La era del troyano",
+    "desc": "Completa el desafío del Capricho.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044717": {
+    "id": "4044717",
+    "series_id": "4",
+    "title": "La fábula más antigua",
+    "desc": "Descubre los secretos del Exomito.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044718": {
+    "id": "4044718",
+    "series_id": "4",
+    "title": "Llévate sus corazones",
+    "desc": "Obtén todas las decoraciones del hogar de Amphoreus.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4044801": {
+    "id": "4044801",
+    "series_id": "4",
+    "title": "El final del tiempo",
+    "desc": "Repara todos los Minuteros oníricos rotos en el Sueño del roble carcomido.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044802": {
+    "id": "4044802",
+    "series_id": "4",
+    "title": "Mi pecado siempre va por delante",
+    "desc": "Recibe la carta del maestro de los sueños en el camino no tomado del Sueño del roble carcomido.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4044803": {
+    "id": "4044803",
+    "series_id": "4",
+    "title": "Las rutas secundarias solo dejan reflejos",
+    "desc": "Avanza por una ruta diferente en el camino no tomado del Sueño del roble carcomido.",
     "hide_desc": "",
     "hide": false
   },
@@ -6075,7 +6355,7 @@
     "id": "4053703",
     "series_id": "5",
     "title": "Un poco más de espuma",
-    "desc": "Prueba #1 lociones de baño mientras te bañas.",
+    "desc": "Prueba #1 loción(es) de baño: de Parménides, de rosas y de baño picante mientras te bañas.",
     "hide_desc": "",
     "hide": true
   },
@@ -7741,7 +8021,7 @@
     "title": "Si no te lo comes, me lo como yo",
     "desc": "En «El taller trazacaminos para dromas peculiares», el pequeño droma se queja del sabor de la comida.",
     "hide_desc": "",
-    "hide": false
+    "hide": true
   },
   "4054614": {
     "id": "4054614",
@@ -7749,13 +8029,197 @@
     "title": "Gourmet de la tierra roja",
     "desc": "En «El taller trazacaminos para dromas peculiares», el pequeño droma nunca se queja de la comida.",
     "hide_desc": "",
-    "hide": false
+    "hide": true
   },
   "4054615": {
     "id": "4054615",
     "series_id": "5",
     "title": "Un día como {F#madre}{M#padre}...",
     "desc": "En «El taller trazacaminos para dromas peculiares», recibe #1 veces el agradecimiento del pequeño droma.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054701": {
+    "id": "4054701",
+    "series_id": "5",
+    "title": "En un baño de sangre dorada",
+    "desc": "Prueba la loción de baño espiritual dorada mientras te bañas.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054702": {
+    "id": "4054702",
+    "series_id": "5",
+    "title": "Eternidad o una página",
+    "desc": "Habla con todos los Herederos de Crisos en la Página eterna.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054703": {
+    "id": "4054703",
+    "series_id": "5",
+    "title": "Viento gélido y fuego feroz",
+    "desc": "La bondad es como una antorcha, se vuelve más brillante cuando se transmite.\n※Después de despedirte de Amphoreus, regresa al distrito administrativo de Jarilo-VI.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054704": {
+    "id": "4054704",
+    "series_id": "5",
+    "title": "Inmortalidad y creación",
+    "desc": "La palabra \"héroe\" ya tiene un peso especial en el corazón de la gente.\n※Después de despedirte de Amphoreus, regresa a la zona central de la Dársena de astroesquifes del Luofu de Xianzhou.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054705": {
+    "id": "4054705",
+    "series_id": "5",
+    "title": "Sirope e hidromiel",
+    "desc": "¿Será el Viaje buscallamas tema de conversación en la sobremesa?\n※Vuelve al Momento Dorado de Colonipenal tras despedirte de Amphoreus.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054706": {
+    "id": "4054706",
+    "series_id": "5",
+    "title": "Ayer y mañana",
+    "desc": "Trazar caminos siempre ha sido así: estar preparad{F#a}{M#o} y mantener la esperanza.\n※Después de despedirte de Amphoreus, regresa a la zona de mando principal de la Estación Espacial Herta.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054707": {
+    "id": "4054707",
+    "series_id": "5",
+    "title": "Como las ondas del primer encuentro",
+    "desc": "Vuelve a encontrarte con los recuerdos de Cirene en Elisios.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054708": {
+    "id": "4054708",
+    "series_id": "5",
+    "title": "Estrellas, silenciosas como un enigma",
+    "desc": "Revisa los registros de comunicación entre las fuerzas del cosmos y la tripulación del Expreso Astral después de la guerra.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054709": {
+    "id": "4054709",
+    "series_id": "5",
+    "title": "Triple consecutivo",
+    "desc": "En una partida de Miaudalenas a la carrera, los corredores que recibieron apoyo obtienen el primer lugar #1 veces.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054710": {
+    "id": "4054710",
+    "series_id": "5",
+    "title": "¡Somos los campeones!",
+    "desc": "En Miaudalenas a la carrera, el corredor que recibió apoyo obtiene el primer lugar en la etapa.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054711": {
+    "id": "4054711",
+    "series_id": "5",
+    "title": "Puedo comer aperitivos con truco",
+    "desc": "Canjea todos los aperitivos con truco en Miaudalenas a la carrera.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054712": {
+    "id": "4054712",
+    "series_id": "5",
+    "title": "Recompensas",
+    "desc": "Recibe un mensaje de Ruan Mei en Miaudalenas a la carrera.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054801": {
+    "id": "4054801",
+    "series_id": "5",
+    "title": "Susurros del sueño eterno",
+    "desc": "Revive los sueños del pasado en el Sueño del roble carcomido.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054802": {
+    "id": "4054802",
+    "series_id": "5",
+    "title": "Grand Slam",
+    "desc": "Consigue #1 victorias en una solo torneo durante el Gran Torneo Auuuu de Crisos.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054803": {
+    "id": "4054803",
+    "series_id": "5",
+    "title": "Entrenado{F#ra}{M#r} de quimeras",
+    "desc": "Alcanza el rango Oro en el Gran Torneo Auuuu de Crisos.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054804": {
+    "id": "4054804",
+    "series_id": "5",
+    "title": "Ganar desde la línea de salida",
+    "desc": "Completa los encuentros de clasificación de la Copa mundial de quimeras en el Gran Torneo Auuuu de Crisos.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054805": {
+    "id": "4054805",
+    "series_id": "5",
+    "title": "Contendiente legendari{F#a}{M#o}",
+    "desc": "Consigue #1 victorias perfectas en las batallas contra otros jugadores en el Gran Torneo Auuuu de Crisos.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054806": {
+    "id": "4054806",
+    "series_id": "5",
+    "title": "Campe{F#ona}{M#ón} de la región de Oqueima",
+    "desc": "Vence a todos los entrenadores de quimeras en el modo duelo dorado del Gran Torneo Auuuu de Crisos.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4054807": {
+    "id": "4054807",
+    "series_id": "7",
+    "title": "Contador cabalístico inverso",
+    "desc": "Los personajes aliados recuperan #1 veces el Contador de PV durante el combate contra Guarda del Espadón en cualquier dificultad.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054808": {
+    "id": "4054808",
+    "series_id": "7",
+    "title": "Disparo trascendental",
+    "desc": "Los aliados eliminan un total de #1 objetivos de fila trasera durante el combate contra León Sísmico en cualquier dificultad.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054809": {
+    "id": "4054809",
+    "series_id": "7",
+    "title": "Diamante loco",
+    "desc": "Supera la etapa sin que la Sobrecarga de PV de ningún personaje aliado supere #1 en una batalla contra la Sombra Erosiva en dificultad pesadilla.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054810": {
+    "id": "4054810",
+    "series_id": "7",
+    "title": "Sin tiempo para morir",
+    "desc": "Activa una vez el estado \"Unidos con un mismo propósito\" del jefe enemigo durante el combate contra Guerreros Binarios en cualquier dificultad.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4054811": {
+    "id": "4054811",
+    "series_id": "7",
+    "title": "Lágrimas de sirena",
+    "desc": "La Sirena Alucinógena aliada recibe daño letal durante el combate contra la Sirena del Epicedio en cualquier dificultad.",
     "hide_desc": "",
     "hide": false
   },
@@ -9667,7 +10131,7 @@
     "id": "4074018",
     "series_id": "7",
     "title": "El recuerdo contraataca",
-    "desc": "Elimina a #1[i] enemigos en total con daño de habilidad del mnemoduende.",
+    "desc": "Elimina a #1[i] enemigos en total con daño de habilidad de mnemoduende.",
     "hide_desc": "",
     "hide": false
   },
@@ -10075,7 +10539,7 @@
     "id": "4074601",
     "series_id": "7",
     "title": "Soñar a través del tiempo y flotar por la vida",
-    "desc": "Usa a Nox cuando Larganoche es un personaje aliado para lanzar #1[i] veces Sueños que desaparecen como el rocío.",
+    "desc": "En una sola batalla, usa a Nox cuando Larganoche es un personaje aliado para lanzar #1[i] veces Sueños que desaparecen como el rocío.",
     "hide_desc": "",
     "hide": true
   },
@@ -10099,7 +10563,7 @@
     "id": "4074604",
     "series_id": "7",
     "title": "Un dragón lo soluciona todo",
-    "desc": "Espiridraco se adjunta a un personaje con invocaciones y realiza #1[i] acciones.",
+    "desc": "En una sola batalla, Espiridraco se adjunta a un personaje con invocaciones y realiza #1[i] acciones.",
     "hide_desc": "",
     "hide": true
   },
@@ -10126,6 +10590,102 @@
     "desc": "Después de que el Mnemoduende de Sangre Dorada: Serpiente Alada entre en estado de Recarga, activa Contragolpe de torsión varias veces hasta que se disipe su estado de Recarga.",
     "hide_desc": "",
     "hide": false
+  },
+  "4074701": {
+    "id": "4074701",
+    "series_id": "7",
+    "title": "L-luz in-infinita",
+    "desc": "En una sola batalla, #1 compañeros de equipo aliado poseen el poema de Cirene.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074702": {
+    "id": "4074702",
+    "series_id": "7",
+    "title": "Y entonces, los recuerdos se convierten en ondas",
+    "desc": "En una sola batalla, Cirene lanza automáticamente Danza de flores y flechas #1[i] veces después de que {F#la}{M#el} Trazacaminos de la Vía de la Reminiscencia lance su ATQ básico potenciado.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074703": {
+    "id": "4074703",
+    "series_id": "7",
+    "title": "Como la vida y la muerte, flores gemelas en un mismo tallo",
+    "desc": "Lanza la habilidad definitiva Estertor, tintineo del renacer con el personaje aliado Castorice cuando Nuevo brote alcance el #1%.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074704": {
+    "id": "4074704",
+    "series_id": "7",
+    "title": "A Amphoreus",
+    "desc": "Durante la batalla contra Anticreador, Odio Desbordante, activa #1 voces diferentes de apoyo usando ♪ Apoyo de Cirene ♪.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074705": {
+    "id": "4074705",
+    "series_id": "7",
+    "title": "No dejes que el odio oscurezca el cielo estrellado",
+    "desc": "En la batalla contra Anticreador, Odio Desbordante, obtén la victoria mientras Odio de Amphoreus no supere el #1%.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074706": {
+    "id": "4074706",
+    "series_id": "7",
+    "title": "Colapso dual",
+    "desc": "En la batalla contra Anticreador, Odio Desbordante, afecta con Herida grave a Mythos Aprisionado o a Logos Manipulado #1 vez.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074707": {
+    "id": "4074707",
+    "series_id": "7",
+    "title": "Como el rocío y el relámpago, se desvanece como el viento",
+    "desc": "Cuando la Madre Ciclón entra en estado de Furor reproductor, no puede incubar Cría de Ilusión Vacía al adelantar su acción.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074801": {
+    "id": "4074801",
+    "series_id": "7",
+    "title": "Afuera lo viejo, venga lo nuevo",
+    "desc": "Al final de la batalla, el compañero de equipo que sea Pareja de baile de la Dalia no es el mismo personaje que al inicio del combate.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074802": {
+    "id": "4074802",
+    "series_id": "7",
+    "title": "¿A eso lo llamas protección?",
+    "desc": "Usa Daño de Ultrarruptura para eliminar a un enemigo en el estado de Protección de Firmeza.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4074803": {
+    "id": "4074803",
+    "series_id": "7",
+    "title": "¡A bailar!",
+    "desc": "En una sola batalla, {F#la}{M#el} Trazacaminos de la Vía de Armonía, Fugue y la Dalia han lanzado sus habilidades definitivas.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074804": {
+    "id": "4074804",
+    "series_id": "7",
+    "title": "Reunión de insectos",
+    "desc": "Durante el combate contra Precursor de la Muerte: Plaga de las Pesadillas, haz que salga del estado \"Réplica genética\" eliminando a todos los Insectos Aguijoneadores Inmaduros.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4074805": {
+    "id": "4074805",
+    "series_id": "7",
+    "title": "Para atrapar insectos, primero atrapa langostas",
+    "desc": "Durante el combate contra Precursor de la Muerte: Plaga de las Pesadillas, rompe su Debilidad sin haber eliminado a todos los Insectos Aguijoneadores Inmaduros y con Precursor de la Muerte: Plaga de las Pesadillas recuperando su Firmeza sin haber salido del estado de Réplica genética.",
+    "hide_desc": "",
+    "hide": true
   },
   "4080101": {
     "id": "4080101",

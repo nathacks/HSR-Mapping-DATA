@@ -177,6 +177,9 @@
     "1317": [
       "Rappa"
     ],
+    "1321": [
+      "A Dália"
+    ],
     "1401": [
       "A Herta"
     ],
@@ -215,6 +218,9 @@
     ],
     "1414": [
       "Dan Heng - Permansor Terrae"
+    ],
+    "1415": [
+      "Cyrene"
     ],
     "8001": [
       "{NICKNAME}"
@@ -683,11 +689,20 @@
     "22005": [
       "O Víveres Eterno"
     ],
+    "22006": [
+      "Rumo ao Amanhã Cor-de-Rosa"
+    ],
     "23049": [
       "Ao Brilho Estelar da Noite Eterna"
     ],
+    "23050": [
+      "Nunca Esqueça Sua Chama"
+    ],
     "23051": [
       "Ainda que o Caminho Seja Longo"
+    ],
+    "23052": [
+      "Instante de Eterno Amor"
     ]
   },
   "relic_sets": {
@@ -840,6 +855,12 @@
     ],
     "322": [
       "Folia à Beira-Mar"
+    ],
+    "323": [
+      "Amphoreus, a Terra Eterna"
+    ],
+    "324": [
+      "Tengoku@Stream"
     ]
   }
 }

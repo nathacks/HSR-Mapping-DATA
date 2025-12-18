@@ -3925,12 +3925,17 @@
   "673140": {
     "id": "673140",
     "name": "Oathkeeper",
-    "desc": "Saat setiap total 12 giliran berlalu bagi seluruh rekan tim, aksi dari karakter pertama dalam tim saat ini dan Memosprite miliknya akan didahulukan 100%, dan untuk 1 giliran berikutnya, akan memperoleh 1 Giliran Tambahan setelah gilirannya berakhir. Setelah melancarkan serangan dalam Giliran Tambahan ini, akan mengakibatkan DMG Tambahan sebesar 600% ATK pada target serangan. Untuk setiap 1 lapis \"Obsession\" yang dimiliki rekan tim, DMG Multiplier ini akan meningkat sebesar 1% dari Multiplier aslinya."
+    "desc": "Saat total 12 giliran berlalu bagi seluruh rekan tim, aksi dari karakter pertama dalam tim saat ini dan Memosprite miliknya akan didahulukan 100%, dan untuk 1 giliran berikutnya, akan memperoleh giliran tambahan setelah gilirannya berakhir. Setelah melancarkan serangan dalam giliran tambahan tersebut, akan mengakibatkan DMG Tambahan sebesar 600% Max HP pada target serangan. Untuk setiap 1 lapis \"Obsession\" yang dimiliki rekan tim, DMG Multiplier tersebut akan meningkat sebesar 1% dari Multiplier aslinya."
   },
   "673150": {
     "id": "673150",
     "name": "Elegy Priest",
     "desc": "Hitung mundur \"Flower of Annihilation\" akan muncul di Susunan Aksi: Mencatat \"Blazar\" yang diperoleh rekan tim. Saat beraksi, akan mengakibatkan Fire DMG pada seluruh target musuh sebesar 5000% + 3000% dari nilai DMG Dasar yang dicatat, lalu menghapus nilai yang tercatat. Untuk setiap 1 lapis \"Obsession\" yang dimiliki rekan tim, SPD akan meningkat 1%. Saat rekan tim memasuki pertempuran/gugur/saat Memosprite dipanggil atau menghilang, akan mengisi Charge \"Blazar\" sebesar 25% Max HP seluruh rekan tim."
+  },
+  "673160": {
+    "id": "673160",
+    "name": "Seaside Siren",
+    "desc": "Saat karakter tim dan Memosprite miliknya memperoleh \"Obsession\", akan mengakumulasi Charge dalam jumlah yang sama untuk karakter tersebut. Setelah Charge mencapai 50 lapis, memasuki status \"Dirge\". Setelah karakter tim yang berstatus \"Dirge\" melancarkan serangan, akan mengonsumsi 16 lapis Charge dan mengakibatkan 3 kali \"Aftertaste\" DMG sebesar 150% Max HP karakter pada target musuh yang terkena serangan. Saat Charge dikonsumsi hingga 0 lapis, akan keluar dari status tersebut. Tetap dapat mengakumulasi Charge saat berstatus \"Dirge\"."
   },
   "673210": {
     "id": "673210",
@@ -3997,6 +4002,11 @@
     "name": "Home of Odes",
     "desc": "Jumlah Charge yang diperlukan untuk \"Butterfly Soul\" meningkat 50%. Setelah memasuki status \"Butterfly Soul\", aksi seluruh rekan tim akan didahulukan 50%, dan True DMG Multiplier yang diakibatkan \"Butterfly Soul\" akan meningkat sebesar 50% dari Multiplier aslinya, dan untuk setiap 1 lapis \"Obsession\" yang dimiliki seluruh rekan tim, akan meningkat ekstra sebesar 1%."
   },
+  "673720": {
+    "id": "673720",
+    "name": "Mortal Beings",
+    "desc": "Saat berstatus \"Butterfly Soul\", setiap 1 Poin Skill yang dikonsumsi rekan tim mana pun akan meningkatkan 10% DMG yang diterima seluruh musuh. Efek ini dapat ditumpuk hingga 40%. Setiap setelah memasuki status \"Butterfly Soul\", setelah mengonsumsi total 4 Poin Skill untuk pertama kalinya, akan memulihkan 6 kali serangan \"Butterfly Soul\", dan setelah rekan tim melancarkan serangan akan mengakibatkan pada target serangan 1 kali True DMG sebesar 60% dari DMG aslinya (tidak termasuk DMG Tambahan) sebelum \"Butterfly Soul\" kali ini berakhir. Efek ini juga berlaku untuk DoT yang diterima target musuh saat gilirannya dimulai."
+  },
   "673790": {
     "id": "673790",
     "name": "Cocoon Dressmaker",
@@ -4012,10 +4022,20 @@
     "name": "Caprism",
     "desc": "Setelah seluruh rekan tim melancarkan total 2 kali Ultimate, akan mengakibatkan 2 Hit Wind DMG sebesar 600% DMG Dasar pada target musuh acak. DMG ini akan mengakibatkan DMG sebesar 30% dari DMG aslinya pada musuh di sekitar target. Setiap kali efek ini terpicu, jumlah Hit DMG dalam pertempuran ini akan bertambah 1, dan akan meningkatkan 12% Basic Attack/Skill/Ultimate DMG yang diakibatkan rekan tim, dapat ditumpuk hingga 15 lapis."
   },
+  "673890": {
+    "id": "673890",
+    "name": "Selfless Giant Turtle",
+    "desc": "\"Giant Turtle's Breath\" muncul di Susunan Aksi: Saat beraksi akan meningkatkan 50% DMG yang diterima seluruh musuh selama 3 giliran, serta menyerang seluruh musuh 3 kali, total mengakibatkan Ice DMG dan Fire DMG sebesar 6000% DMG Dasar, menunda aksi mereka sebesar 30%, dan mengurangi 30 Toughness seluruh target musuh tanpa memedulikan Tipe Weakness. Saat mengakibatkan Weakness Break pada musuh, akan memicu efek Ice dan Fire Weakness Break. Setelah rekan tim menggunakan \"Brain in a Vat\" untuk mengaktifkan Ultimate, akan mendahulukan aksi \"Giant Turtle's Breath\" sebesar 15%."
+  },
   "673920": {
     "id": "673920",
     "name": "Lazy Fingerjoint",
     "desc": "Saat rekan tim mengakibatkan Weakness Break pada musuh, akan membuatnya memasuki 20 lapis \"Harmonize\". Setelah menyerang target musuh berstatus Weakness Break, DoT dan \"Harmonize\" yang diterima target tersebut akan segera menghasilkan DMG sebesar 24% dari DMG aslinya."
+  },
+  "673940": {
+    "id": "673940",
+    "name": "Gate of Yactor",
+    "desc": "Setelah rekan tim melancarkan serangan, terdapat 60% peluang tetap untuk menambahkan 1 Weakness Tipe acak pada target serangan acak (mengutamakan menambahkan Weakness yang belum dimiliki), Weakness yang ditambahkan akan dihapus setelah target musuh terkena Weakness Break. Setelah menambahkan Weakness pada target musuh, membuat target musuh memasuki 5 lapis \"Harmonize\", dan mencatat 1 kali Weakness yang ditambahkan, efek ini dapat dipicu maksimal 2 kali di setiap aksi. Saat target musuh mana pun terkena Weakness Break, akan mengakibatkan 250% efek Break Tipe terkait untuk setiap 1 kali Weakness yang dicatat pada target tersebut dan target di sekitarnya."
   },
   "673950": {
     "id": "673950",
@@ -4047,10 +4067,20 @@
     "name": "Executor",
     "desc": "DoT yang diterima target musuh dapat CRIT Hit. CRIT Rate/CRIT DMG adalah sebesar 20% dari total CRIT Rate/CRIT DMG seluruh karakter tim. CRIT DMG maksimal tidak melebihi 120%."
   },
+  "674250": {
+    "id": "674250",
+    "name": "Leviathan of the East",
+    "desc": "\"Murmur\" DMG yang diterima target musuh meningkat 15%. Setelah target musuh menerima DoT di luar gilirannya, akan mengisi Charge \"Blazar\" untuk seluruh rekan tim sebesar 20% ATK mereka masing-masing. Target musuh dapat memicu efek ini hingga 2 kali di setiap giliran."
+  },
   "674260": {
     "id": "674260",
     "name": "One Buried At Sea",
     "desc": "Batasan penghapusan \"Murmur\" meningkat 120%. Setelah rekan tim melancarkan Serangan Lanjutan, \"Murmur\" milik target serangan akan menghasilkan DMG sebesar 20% dari DMG aslinya."
+  },
+  "674270": {
+    "id": "674270",
+    "name": "Wave-Chasing Fish",
+    "desc": "Saat giliran target musuh dimulai, batasan penghapusan \"Murmur\" meningkat 20%. Efek ini dapat ditumpuk. Meningkat ekstra 4% untuk setiap 1 status DoT yang dimiliki selain \"Murmur\"."
   },
   "674280": {
     "id": "674280",
@@ -4087,6 +4117,11 @@
     "name": "Ominous Flamespirit",
     "desc": "Saat rekan tim mengakibatkan \"Blazar\" DMG, jika target musuh berstatus DoT, maka DMG Multiplier \"Blazar\" kali ini akan meningkat sebesar 60% dari Multiplier aslinya. Untuk setiap 1 jenis status DoT yang dimiliki, akan meningkat ekstra 15%."
   },
+  "674560": {
+    "id": "674560",
+    "name": "Masked Stranger",
+    "desc": "35% dari kekuatan Shield yang diperoleh rekan tim dikonversi menjadi \"Blazar\". Setelah melancarkan Serangan Lanjutan, seluruh rekan tim akan memperoleh Shield sebesar 40% ATK mereka selama 2 giliran."
+  },
   "674570": {
     "id": "674570",
     "name": "Coronal Phoenix",
@@ -4096,6 +4131,11 @@
     "id": "674590",
     "name": "Kremnos Vanguards",
     "desc": "Setelah rekan tim mengakibatkan Weakness Break pada target musuh, akan mengisi Charge \"Blazar\" sebesar 25% Max HP. Jika semua target musuh berada dalam status Weakness Break, \"Blazar\" tidak akan dihapus saat giliran rekan tim dimulai."
+  },
+  "674610": {
+    "id": "674610",
+    "name": "Stone Maze",
+    "desc": "Saat rekan tim memiliki lebih dari atau sama dengan 20 lapis \"Obsession\", Serangan Lanjutan dan DMG Tambahan yang diakibatkan meningkat 100%. Setelah memasuki pertempuran, saat jumlah rekan tim di medan pertempuran berubah, akan memberikan 8 lapis \"Obsession\" pada rekan tim dengan jumlah lapisan \"Obsession\" paling sedikit."
   },
   "674620": {
     "id": "674620",
@@ -4157,10 +4197,20 @@
     "name": "Forbidden Knowledge's Martyr",
     "desc": "Saat rekan tim melancarkan Ultimate, akan membuat seluruh rekan tim mengonsumsi HP sebesar 5% dari HP saat ini, dan meningkatkan DMG yang diakibatkan sebesar 30%, dapat ditumpuk hingga 4 lapis dan berlangsung selama 2 giliran."
   },
+  "674890": {
+    "id": "674890",
+    "name": "Note Thief",
+    "desc": "Setelah target musuh terkena serangan, jika jumlah \"Harmonize\" lebih dari 10 lapis dan persentase HP di bawah 20%, maka akan menerima ekstra True DMG sebesar HP saat ini. Setiap target musuh dapat memicu efek ini maksimal 1 kali. Saat memicu efek ini pada musuh elite, akan mengisi 35% Energy \"Brain in a Vat\" untuk seluruh rekan tim."
+  },
   "674920": {
     "id": "674920",
     "name": "Wilting Patient",
     "desc": "Saat target musuh menerima \"Harmonize\" DMG, akan menerima ekstra 1 kali \"Harmonize\" DMG sebesar 75% dari DMG aslinya. Untuk setiap 1 status Debuff yang dimilikinya, DMG ini akan meningkat ekstra 2%, maksimal meningkat 40%."
+  },
+  "674940": {
+    "id": "674940",
+    "name": "Legless Iron Pigeon",
+    "desc": "Setelah rekan tim menyerang target musuh yang berstatus Weakness Break, Pengurangan Toughness dari serangan kali ini akan dikonversi menjadi 1 kali 75% Super Break DMG, dan mengakibatkan ekstra 10% Super Break DMG untuk setiap 1 lapis \"Critical Boost\" yang dimiliki."
   },
   "674950": {
     "id": "674950",
@@ -4176,6 +4226,11 @@
     "id": "675140",
     "name": "Judge of the Nightveil",
     "desc": "Saat Memosprite menghilang, SPD seluruh rekan tim akan meningkat 25%, CRIT DMG meningkat 100%, berlangsung selama 5 giliran."
+  },
+  "675150": {
+    "id": "675150",
+    "name": "Ichor Memosprite",
+    "desc": "Setelah rekan tim mengonsumsi HP, akan memperoleh 5 lapis \"Obsession\". Maksimal dapat dipicu 1 kali, dan dapat dipicu lagi setelah unit mana pun beraksi."
   },
   "675160": {
     "id": "675160",
@@ -4212,6 +4267,11 @@
     "name": "Grim Pilgrim",
     "desc": "Target musuh akan memasuki status Bleed saat memasuki pertempuran. Saat berstatus Bleed, target musuh akan menerima Physical DoT sebesar 10% Max HP dirinya setiap saat gilirannya dimulai. DMG ini tidak dapat melebihi 200% dari total HP seluruh rekan tim."
   },
+  "675260": {
+    "id": "675260",
+    "name": "Wicker School",
+    "desc": "DoT yang diterima target musuh meningkat 20%. Setelah terkena Serangan Lanjutan, akan mengisi Charge \"Murmur\" sebesar 2% dari batasan penghapusan."
+  },
   "675270": {
     "id": "675270",
     "name": "Bone Planter",
@@ -4231,6 +4291,11 @@
     "id": "675450",
     "name": "Kremnos Traveler",
     "desc": "Kekuatan Shield yang diperoleh rekan tim meningkat 30%. Setelah rekan tim terkena serangan, jika tidak menerima DMG dari serangan kali ini, maka rekan tim tersebut hanya akan kehilangan 1 lapis \"Critical Boost\"."
+  },
+  "675460": {
+    "id": "675460",
+    "name": "Trickster Knight",
+    "desc": "Setiap lapis \"Critical Boost\" meningkatkan ekstra 5% DMG Serangan Lanjutan yang diakibatkan. Saat rekan tim melancarkan Serangan Lanjutan, akan memperoleh 2 lapis \"Critical Boost\"."
   },
   "675480": {
     "id": "675480",
@@ -4262,10 +4327,20 @@
     "name": "Red Moon's Messenger",
     "desc": "Nilai Dasar \"Blazar\" meningkat 50%. Setelah rekan tim melancarkan Serangan Lanjutan, akan memulihkan HP rekan tim yang persentase HP-nya saat ini paling rendah, sebesar 10% Max HP dirinya."
   },
+  "675580": {
+    "id": "675580",
+    "name": "Furiae Philosopher",
+    "desc": "Setelah persentase HP karakter tim dalam satu pertempuran lebih rendah dari 25% untuk pertama kalinya, mengaktifkan Ultimate dan membuat Ultimate DMG yang diakibatkan diri sendiri dan Memosprite dalam pertempuran ini mengabaikan 20% DEF."
+  },
   "675590": {
     "id": "675590",
     "name": "Skyblade's Legion",
     "desc": "Kekuatan Shield yang diperoleh meningkat 30%. Setelah mengakibatkan Weakness Break pada target musuh, seluruh rekan tim akan memperoleh Shield sebesar 15% Max HP, berlangsung selama 2 giliran."
+  },
+  "675610": {
+    "id": "675610",
+    "name": "Ruin Strider",
+    "desc": "Max HP rekan tim meningkat 15%. Setiap 1 rekan tim yang saat ini berada di medan pertempuran meningkatkan 30% \"Aftertaste\" DMG yang diakibatkan rekan tim."
   },
   "675620": {
     "id": "675620",
@@ -4326,6 +4401,11 @@
     "id": "675840",
     "name": "Child of Spiral",
     "desc": "Saat \"Brain in a Vat\" rekan tim mencapai 100%, ATK akan meningkat 80%. Setelah melancarkan serangan, akan mengakibatkan DMG Tambahan sebesar 80% ATK pada target musuh yang HP-nya tertinggi di antara target yang terserang, berlangsung selama 3 giliran."
+  },
+  "675850": {
+    "id": "675850",
+    "name": "Bizarre Spell",
+    "desc": "\"Blazar\" DMG yang diakibatkan rekan tim meningkat 75%. Setelah melancarkan Ultimate, mengisi Charge \"Blazar\" sebesar 35% Max HP."
   },
   "675860": {
     "id": "675860",

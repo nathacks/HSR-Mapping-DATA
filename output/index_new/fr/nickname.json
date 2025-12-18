@@ -177,6 +177,9 @@
     "1317": [
       "Rappa"
     ],
+    "1321": [
+      "Le Dahlia"
+    ],
     "1401": [
       "La Grande Herta"
     ],
@@ -215,6 +218,9 @@
     ],
     "1414": [
       "Dan Heng • Permansor Terrae"
+    ],
+    "1415": [
+      "Cyrène"
     ],
     "8001": [
       "{NICKNAME}"
@@ -683,11 +689,20 @@
     "22005": [
       "Un goût d'éternité"
     ],
+    "22006": [
+      "Envol vers un lendemain rosé"
+    ],
     "23049": [
       "Jusqu'aux étoiles de l'Éternuitée"
     ],
+    "23050": [
+      "Une flamme à graver"
+    ],
     "23051": [
       "Par-delà les paysages infinis"
+    ],
+    "23052": [
+      "Éternel amour"
     ]
   },
   "relic_sets": {
@@ -840,6 +855,12 @@
     ],
     "322": [
       "Rives enivrantes"
+    ],
+    "323": [
+      "Amphoreus, la terre éternelle"
+    ],
+    "324": [
+      "Tengoku@Stream"
     ]
   }
 }

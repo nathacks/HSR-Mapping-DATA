@@ -3795,7 +3795,7 @@
   "672371": {
     "id": "672371",
     "name": "Árbol del abandono",
-    "desc": "Aumenta la curación realizada del personaje en un 30%. Tras realizar una curación a un objetivo aliado, un enemigo al azar obtiene 2 Espora(s)."
+    "desc": "Aumenta la curación realizada del personaje en un 30%. Tras realizar una curación a un aliado, un enemigo al azar obtiene 2 Espora(s)."
   },
   "672400": {
     "id": "672400",
@@ -3925,12 +3925,17 @@
   "673140": {
     "id": "673140",
     "name": "Guardián del juramento",
-    "desc": "Después de que todos los aliados hayan terminado su turno 12 veces en total, el primer personaje del equipo actual y su mnemoduende adelantan su acción un 100% y obtienen un turno adicional tras 1 turno. Tras atacar en este turno adicional, infligen a los objetivos atacados un 600% del ATQ como daño adicional. Por cada acumulación de Obsesión de los aliados, el multiplicador de este daño aumenta en un 1% del multiplicador original."
+    "desc": "Después de que todos los aliados hayan terminado su turno 12 veces en total, el primer personaje del equipo actual y su mnemoduende adelantan su acción un 100% y obtienen un turno adicional tras 1 turno. Tras atacar en este turno adicional, infligen a los objetivos atacados un 600% de los PV máx. como daño adicional. Por cada acumulación de Obsesión de los aliados, el multiplicador de este daño aumenta en un 1% del multiplicador original."
   },
   "673150": {
     "id": "673150",
     "name": "Letanía fúnebre",
     "desc": "Flor de la destrucción aparece en el orden de acción: registra la obtención de Blázar por parte del equipo. Al actuar, inflige a todos los enemigos un Daño de Fuego equivalente al 5000% + 3000% del daño base registrado, y luego borra el registro. Por cada acumulación de Obsesión de los aliados, la VEL aumenta en un 1%. Cuando un aliado entra en combate o es derrotado, o cuando un mnemoduende es invocado o desaparece, todos los aliados cargan una cantidad de Blázar equivalente al 25% de sus PV máx."
+  },
+  "673160": {
+    "id": "673160",
+    "name": "Sirena varada",
+    "desc": "Cuando un personaje aliado y su mnemoduende obtienen Obsesión, ese personaje acumula la misma cantidad de cargas. Al alcanzar 50 cargas, entra en el estado de Elegía. Después de que un personaje aliado en el estado de Elegía ataque, consume 16 cargas e inflige 3 veces un daño de Regusto equivalente al 150% de sus PV máx. a los enemigos atacados. Al consumir todas las cargas, sale de este estado. Durante el estado de Elegía también se pueden acumular cargas."
   },
   "673210": {
     "id": "673210",
@@ -3997,6 +4002,11 @@
     "name": "Hogar de las odas",
     "desc": "La cantidad de carga necesaria para Alma de mariposa aumenta en un 50%. Tras entrar en el estado de Alma de mariposa, se adelanta la acción de todos los aliados un 50%, y el multiplicador del Daño verdadero que inflige Alma de mariposa aumenta en un 50% del multiplicador original. Por cada acumulación de Obsesión que tengan todos los aliados, aumenta en un 1% adicional."
   },
+  "673720": {
+    "id": "673720",
+    "name": "Seres ordinarios",
+    "desc": "En el estado de Alma de mariposa, el daño que reciben todos los enemigos aumenta en un 10% por cada pt. de habilidad básica que consuman todos los aliados. Este efecto se puede acumular hasta un máximo del 40%. Cada vez que se entra en el estado de Alma de mariposa, se recuperan 6 ataques de Alma de mariposa tras consumir por primera vez un total de 4 pts. de habilidad básica. Además, antes de salir de este estado de Alma de mariposa, los aliados infligen a los objetivos atacados un Daño verdadero equivalente al 60% del daño original (sin contar el daño adicional) tras atacar. Este efecto también se aplica al Daño con el tiempo que recibe el enemigo al comienzo de su turno."
+  },
   "673790": {
     "id": "673790",
     "name": "Sastre de crisálidas",
@@ -4012,10 +4022,20 @@
     "name": "Escuela Cabramontesa",
     "desc": "Después de que todos los aliados hayan lanzado la habilidad definitiva 2 veces, se inflige 2 veces un Daño de Viento equivalente al 600% del daño base a un enemigo al azar. Este daño inflige un daño equivalente al 30% del daño original a las unidades adyacentes. Cada vez que se activa este efecto, las veces que se inflige daño aumentan en 1 durante esta batalla y aumenta el daño de ATQ básico/habilidad básica/habilidad definitiva que infligen los aliados en un 12%. Puede acumularse como máximo 15 veces."
   },
+  "673890": {
+    "id": "673890",
+    "name": "Megatortuga altruista",
+    "desc": "Aliento de megatortuga aparece en el orden de acción. Al actuar, hace que todos los enemigos reciban un 50% más de daño durante 3 turno(s); lanza 3 ataques de metralleta contra todos los enemigos que infligen un total de un 6000% del daño base como Daño de Hielo y Fuego; retrasa la acción de todos los enemigos un 30%, y reduce su Firmeza en 30 puntos ignorando el tipo de Debilidad. Al romper la Debilidad del enemigo, activa los efectos de Ruptura de las Debilidades de Hielo y Fuego. Después de que un aliado active su habilidad definitiva mediante Cerebro en una cubeta, la acción de Aliento de megatortuga se adelanta un 15%."
+  },
   "673920": {
     "id": "673920",
     "name": "Articulación inactiva",
     "desc": "Cuando un aliado rompe la Debilidad de un enemigo, le aplica 20 acumulaciones de Armónico. Tras atacar a un enemigo con Ruptura de Debilidad, los estados de Daño con el tiempo que tenga actualmente y Armónico infligen inmediatamente un daño equivalente al 24% del daño original."
+  },
+  "673940": {
+    "id": "673940",
+    "name": "Puerta de Yactor",
+    "desc": "Después de que un aliado ataque, hay una probabilidad fija del 60% de implantar 1 Debilidad de un tipo al azar a un objetivo aleatorio, priorizando implantar una Debilidad que aún no tenga. La Debilidad implantada se disipa después de que el enemigo se recupere del estado de Ruptura de Debilidad. Tras implantar una Debilidad a un enemigo, lo afecta con 5 acumulación(es) de Armónico y se registra una vez la Debilidad implantada. Este efecto solo se puede activar 2 vez por acción. Tras romper la Debilidad de cualquier enemigo, y según las Debilidades registradas, por cada registro se inflige un 250% del efecto de Ruptura del tipo correspondiente tanto a ese enemigo como a los objetivos adyacentes."
   },
   "673950": {
     "id": "673950",
@@ -4047,10 +4067,20 @@
     "name": "Sentenciador",
     "desc": "El Daño con el tiempo que recibe el enemigo puede causar Golpe CRIT. La Prob. CRIT/el Daño CRIT son equivalentes al 20% de la suma de la Prob. CRIT/el Daño CRIT de todos los personajes aliados. El Daño CRIT no puede superar el 120% como máximo."
   },
+  "674250": {
+    "id": "674250",
+    "name": "Kraken del mar oriental",
+    "desc": "El daño de Murmullo que recibe el enemigo aumenta en un 15%. Después de que el enemigo reciba Daño con el tiempo fuera de su turno, todos los aliados obtienen una carga de Blázar equivalente al 20% de su ATQ. El enemigo puede activar este efecto hasta 2 vez(es) por turno."
+  },
   "674260": {
     "id": "674260",
     "name": "Entierro marino",
     "desc": "El umbral de eliminación de Murmullo aumenta en un 120%. Después de que un aliado lance un ataque adicional, el Murmullo del objetivo atacado inflige un 20% de su daño original."
+  },
+  "674270": {
+    "id": "674270",
+    "name": "Pez que sigue las olas",
+    "desc": "Al inicio del turno del enemigo, el umbral de eliminación de Murmullo aumenta en un 20%. Este efecto se puede acumular y aumenta en un 4% adicional por cada estado de Daño con el tiempo que no sea Murmullo."
   },
   "674280": {
     "id": "674280",
@@ -4087,6 +4117,11 @@
     "name": "Espíritu ígneo ominoso",
     "desc": "Cuando un aliado inflige daño de Blázar, si el objetivo enemigo está afectado con estados de Daño con el tiempo, el multiplicador de daño de Blázar aumenta en un 60% del multiplicador original. Por cada estado de Daño con el tiempo del objetivo, el multiplicador aumenta en un 15% adicional."
   },
+  "674560": {
+    "id": "674560",
+    "name": "Desconocido enmascarado",
+    "desc": "El 35% del efecto de escudo que recibe un aliado se convierte en Blázar. Tras lanzar un ataque adicional, todos los aliados obtienen un escudo equivalente al 40% de su ATQ durante 2 turno(s)."
+  },
   "674570": {
     "id": "674570",
     "name": "Fénix coronado",
@@ -4096,6 +4131,11 @@
     "id": "674590",
     "name": "Vanguardia de Kremnos",
     "desc": "Cuando un aliado rompe la Debilidad de un enemigo, carga una cantidad de Blázar equivalente al 25% de sus PV máx. Si todos los enemigos están afectados por Ruptura de Debilidad, Blázar no se eliminará al inicio del turno de los aliados."
+  },
+  "674610": {
+    "id": "674610",
+    "name": "Laberinto de piedras",
+    "desc": "Cuando un aliado tiene 20 o más acumulaciones de Obsesión, el daño de ataque adicional y el daño adicional que inflige aumentan en un 100%. Tras entrar en combate, cuando cambia la cantidad de aliados que hay en el campo de batalla, otorga 8 acumulación(es) de Obsesión al aliado que tenga menos."
   },
   "674620": {
     "id": "674620",
@@ -4157,10 +4197,20 @@
     "name": "Mártir del conocimiento prohibido",
     "desc": "Cuando un aliado lanza la habilidad definitiva, todos los aliados pierden un 5% de sus PV actuales y el daño que infligen aumenta en un 30%. Puede acumularse hasta 4 veces y dura 2 turnos."
   },
+  "674890": {
+    "id": "674890",
+    "name": "Ladrones de apuntes",
+    "desc": "Después de que un enemigo reciba un ataque, si tiene más de 10 acumulaciones de Armónico y su porcentaje de PV es inferior al 20%, recibe un Daño verdadero extra equivalente a sus PV actuales. Este efecto solo se puede activar una vez por enemigo. Cuando se activa este efecto en un enemigo de élite, todos los aliados obtienen un 35% de carga de Cerebro en una cubeta."
+  },
   "674920": {
     "id": "674920",
     "name": "Paciente marchito",
     "desc": "Cuando un enemigo recibe daño de Armónico, recibe 1 vez de forma adicional un daño de Armónico equivalente al 75% del daño original. Por cada estado negativo que tenga, este daño aumenta adicionalmente en un 2%, hasta un máximo del 40%."
+  },
+  "674940": {
+    "id": "674940",
+    "name": "Paloma metálica paticoja",
+    "desc": "Después de que un aliado ataque a un enemigo con Ruptura de Debilidad, la Reducción de Firmeza de este ataque se convierte 1 vez en un 75% de Daño de Ultrarruptura. Por cada acumulación de Empujón crítico, inflige adicionalmente un 10% de Daño de Ultrarruptura."
   },
   "674950": {
     "id": "674950",
@@ -4176,6 +4226,11 @@
     "id": "675140",
     "name": "Juez del velo de la noche",
     "desc": "Cuando un mnemoduende desaparece, la VEL y el Daño CRIT de todos los aliados aumentan respectivamente en un 25% y un 100% durante 5 turnos."
+  },
+  "675150": {
+    "id": "675150",
+    "name": "Mnemoduende de Sangre Dorada",
+    "desc": "Después de que un aliado pierda PV, obtiene 5 acumulación(es) de Obsesión. Este efecto se puede activar hasta 1 vez(es) y puede volver a activarse después de que cualquier unidad actúe."
   },
   "675160": {
     "id": "675160",
@@ -4212,6 +4267,11 @@
     "name": "Peregrino de las tinieblas",
     "desc": "El enemigo es afectado con Sangrado al entrar en combate. En el estado de Sangrado, el enemigo recibe un 10% de sus PV máx. como Daño Físico con el tiempo al principio de cada turno. Este daño no puede exceder un 200% de la suma de los PV de todos los aliados."
   },
+  "675260": {
+    "id": "675260",
+    "name": "Escuela de la Cesta",
+    "desc": "El Daño con el tiempo que recibe el enemigo aumenta en un 20%. Tras recibir un ataque adicional, Murmullo se carga por un valor equivalente al 2% del umbral de eliminación."
+  },
   "675270": {
     "id": "675270",
     "name": "Plantahuesos",
@@ -4231,6 +4291,11 @@
     "id": "675450",
     "name": "Viajero de Kremnos",
     "desc": "El efecto de escudo que reciben los aliados aumenta en un 30%. Si un aliado no recibe daño después de ser atacado, solo pierde 1 acumulación de Empujón crítico."
+  },
+  "675460": {
+    "id": "675460",
+    "name": "Guerrero tramposo",
+    "desc": "Cada acumulación de Empujón crítico aumenta el daño de ataque adicional en un 5% extra. Cuando un aliado lanza un ataque adicional, obtiene 2 acumulación(es) de Empujón crítico."
   },
   "675480": {
     "id": "675480",
@@ -4262,10 +4327,20 @@
     "name": "Emisario de la luna escarlata",
     "desc": "El valor base de Blázar aumenta en un 50%. Cuando un aliado lanza un ataque adicional, el aliado con el menor porcentaje de PV actual regenera un 10% de sus PV máx."
   },
+  "675580": {
+    "id": "675580",
+    "name": "Filósofo de la Furia",
+    "desc": "Cuando el porcentaje de PV de un personaje aliado sea inferior a 25% por primera vez en un combate, se activa la habilidad definitiva. El daño de habilidad definitiva que infligen tanto esta unidad como el mnemoduende durante este combate ignora un 20% de la DEF."
+  },
   "675590": {
     "id": "675590",
     "name": "Legión de la lanza celestial",
     "desc": "El efecto de escudo obtenido aumenta en un 30%. Tras romper la Debilidad de un enemigo, todos los aliados obtienen un escudo equivalente al 15% de sus PV máx. durante 2 turnos."
+  },
+  "675610": {
+    "id": "675610",
+    "name": "Caminantes de las ruinas",
+    "desc": "Los PV máx. de los aliados aumentan en un 15%. Por cada aliado que haya actualmente en el campo de batalla, el daño de Regusto que infligen los aliados aumenta en un 30%."
   },
   "675620": {
     "id": "675620",
@@ -4326,6 +4401,11 @@
     "id": "675840",
     "name": "Hijo de la espiral",
     "desc": "Cuando el Cerebro en una cubeta de un aliado alcanza el 100%, su ATQ aumenta en un 80%. Tras atacar, inflige un 80% de su ATQ como daño adicional al enemigo con más PV de los objetivos atacados. Dura 3 turnos."
+  },
+  "675850": {
+    "id": "675850",
+    "name": "Hechizo misterioso",
+    "desc": "El daño de Blázar que infligen los aliados aumenta en un 75%. Tras lanzar la habilidad definitiva, Blázar se carga en una cantidad equivalente al 35% de los PV máx."
   },
   "675860": {
     "id": "675860",

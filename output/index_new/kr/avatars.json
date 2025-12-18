@@ -949,6 +949,16 @@
     "name": "케이트(근무 중)",
     "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
   },
+  "202": {
+    "id": "202",
+    "name": "키메라 애호가 협회",
+    "icon": "icon/avatar/UI_Message_Group_Default.png"
+  },
+  "203": {
+    "id": "203",
+    "name": "오늘은 쓰레기 케이크한테 뭘 먹일까",
+    "icon": "icon/avatar/UI_Message_Group_Default.png"
+  },
   "1000": {
     "id": "1000",
     "name": "폼폼",
@@ -1244,6 +1254,11 @@
     "name": "라파",
     "icon": "icon/avatar//1317.png"
   },
+  "1321": {
+    "id": "1321",
+    "name": "달리아",
+    "icon": "icon/avatar//1321.png"
+  },
   "1401": {
     "id": "1401",
     "name": "더 헤르타",
@@ -1303,6 +1318,11 @@
     "id": "1413",
     "name": "{RUBY_B#긴 밤의 달}에버나이트{RUBY_E#}",
     "icon": "icon/avatar//1413.png"
+  },
+  "1415": {
+    "id": "1415",
+    "name": "키레네",
+    "icon": "icon/avatar//1415.png"
   },
   "200001": {
     "id": "200001",
@@ -1585,6 +1605,30 @@
     "name": "단항•등황•잠복",
     "rarity": 5,
     "icon": "icon/avatar/IconHead_200146.png"
+  },
+  "200147": {
+    "id": "200147",
+    "name": "키레네•약속을 향해",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200147.png"
+  },
+  "200148": {
+    "id": "200148",
+    "name": "과거의 물결•약속을 향해",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200148.png"
+  },
+  "200149": {
+    "id": "200149",
+    "name": "달리아•추억",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200149.png"
+  },
+  "200150": {
+    "id": "200150",
+    "name": "블랙 스완•추억",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200150.png"
   },
   "201001": {
     "id": "201001",
@@ -1952,6 +1996,12 @@
     "rarity": 5,
     "icon": "icon/avatar/1317.png"
   },
+  "201321": {
+    "id": "201321",
+    "name": "달리아",
+    "rarity": 5,
+    "icon": "icon/avatar/1321.png"
+  },
   "201401": {
     "id": "201401",
     "name": "더 헤르타",
@@ -2029,6 +2079,12 @@
     "name": "단항•등황",
     "rarity": 5,
     "icon": "icon/avatar/1414.png"
+  },
+  "201415": {
+    "id": "201415",
+    "name": "키레네",
+    "rarity": 5,
+    "icon": "icon/avatar/1415.png"
   },
   "202001": {
     "id": "202001",
@@ -2150,6 +2206,12 @@
     "rarity": 4,
     "icon": "icon/avatar/IconHead_202020.png"
   },
+  "202021": {
+    "id": "202021",
+    "name": "미미",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202021.png"
+  },
   "202022": {
     "id": "202022",
     "name": "트리앤 인형",
@@ -2185,6 +2247,12 @@
     "name": "Mar. 7th•축제",
     "rarity": 5,
     "icon": "icon/avatar/IconHead_202029.png"
+  },
+  "202030": {
+    "id": "202030",
+    "name": "황금 약충",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202030.png"
   },
   "202031": {
     "id": "202031",
@@ -2239,6 +2307,18 @@
     "name": "「점점 커지는 작은 드로마스」",
     "rarity": 4,
     "icon": "icon/avatar/IconHead_202040.png"
+  },
+  "202041": {
+    "id": "202041",
+    "name": "최후의 승자",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202041.png"
+  },
+  "202042": {
+    "id": "202042",
+    "name": "벽화 위",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202042.png"
   },
   "208001": {
     "id": "208001",

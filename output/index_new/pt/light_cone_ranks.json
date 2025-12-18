@@ -3741,7 +3741,7 @@
   "21060": {
     "id": "21060",
     "skill": "Anseio",
-    "desc": "Aumenta a Chance de CRIT do usuário em #1[i]%. O Dano da Perícia Suprema e o Dano do Ataque Extraa causados pelo usuário aumentam em #2[i]%.",
+    "desc": "Aumenta a Chance de CRIT do usuário em #1[i]%. O Dano da Perícia Suprema e o Dano do Ataque Extra causados pelo usuário aumentam em #2[i]%.",
     "params": [
       [
         0.12,
@@ -4295,6 +4295,70 @@
         {
           "type": "AttackAddedRatio",
           "value": 0.32
+        }
+      ]
+    ]
+  },
+  "22006": {
+    "id": "22006",
+    "skill": "Contemplar",
+    "desc": "Aumenta o Dano CRIT do usuário em #1[i]%. Quando equipado {F#pela Desbravadora}{M#pelo Desbravador} (A Recordação), aumenta o Dano causado por todos os aliados-alvo em #2[i]% e aumenta o Dano causado pelo ATQ Básico Aprimorado \"Vamos Escrever o Amanhã!\" em #3[i]%.",
+    "params": [
+      [
+        0.12,
+        0.08,
+        0.6
+      ],
+      [
+        0.15,
+        0.1,
+        0.7
+      ],
+      [
+        0.18,
+        0.12,
+        0.8
+      ],
+      [
+        0.21,
+        0.14,
+        0.9
+      ],
+      [
+        0.24,
+        0.16,
+        1
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.12
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.15
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.24
         }
       ]
     ]
@@ -7859,6 +7923,65 @@
       ]
     ]
   },
+  "23050": {
+    "id": "23050",
+    "skill": "Imolação",
+    "desc": "Aumenta o Efeito de Quebra do usuário em #1[i]%. Ao entrar em combate, aumenta o Dano de Quebra causado pelo usuário e por outro aliado que tenha ativado o combate em #2[i]%. Se não houver nenhum aliado que tenha ativado o combate, aplica este efeito ao usuário e ao aliado com o maior Efeito de Quebra. Efeitos do mesmo tipo não podem ser acumulados. Quando o usuário aplica Fraqueza a um inimigo-alvo, recupera 1 Ponto de Perícia. Este efeito só pode ser ativado uma vez, e a contagem de ativação é reiniciada ao usar a Perícia Suprema.",
+    "params": [
+      [
+        0.6,
+        0.32
+      ],
+      [
+        0.75,
+        0.42
+      ],
+      [
+        0.9,
+        0.52
+      ],
+      [
+        1.05,
+        0.62
+      ],
+      [
+        1.2,
+        0.72
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 0.6
+        }
+      ],
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 0.75
+        }
+      ],
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 0.9
+        }
+      ],
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 1.05
+        }
+      ],
+      [
+        {
+          "type": "BreakDamageAddedRatioBase",
+          "value": 1.2
+        }
+      ]
+    ]
+  },
   "23051": {
     "id": "23051",
     "skill": "Nova Escama",
@@ -7934,6 +8057,75 @@
         {
           "type": "AttackAddedRatio",
           "value": 1.28
+        }
+      ]
+    ]
+  },
+  "23052": {
+    "id": "23052",
+    "skill": "Uma Promessa",
+    "desc": "Aumenta a VEL do usuário em #1[i]%. Quando o Memoespírito do usuário usa uma Perícia de Memoespírito em um aliado, recebe \"Vazio\", que aumenta o Dano recebido por todos os inimigos em #3[i]%. Quando o Memoespírito do usuário usa uma Perícia de Memoespírito em um inimigo, recebe \"Verso\", que aumenta o Dano CRIT de todos os aliados em #2[i]%. Quando o Memoespírito do usuário possui tanto \"Vazio\" quanto \"Verso\", aumenta os efeitos de \"Vazio\" e \"Verso\" em #4[i]%.",
+    "params": [
+      [
+        0.18,
+        0.16,
+        0.1,
+        0.6
+      ],
+      [
+        0.21,
+        0.19,
+        0.12,
+        0.65
+      ],
+      [
+        0.24,
+        0.22,
+        0.14,
+        0.7
+      ],
+      [
+        0.27,
+        0.25,
+        0.16,
+        0.75
+      ],
+      [
+        0.3,
+        0.28,
+        0.18,
+        0.8
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.24
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.27
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.3
         }
       ]
     ]

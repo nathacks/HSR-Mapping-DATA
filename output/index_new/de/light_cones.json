@@ -1079,6 +1079,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22006": {
+    "id": "22006",
+    "name": "Flug in einen rosaroten Morgen",
+    "rarity": 4,
+    "path": "Memory",
+    "desc": "Ein sanfter Wind zerstreut die Wolken und enthüllt die Galaxie.\nGoldener Glanz erstrahlt beim Klang von Epen im Sternenhimmel.\n\n<i>„Sternschnuppen, Begegnungen, Versprechen!“</i>\nDie kleine Fee blickt zum Himmel auf, wie beim ersten Treffen, wie beim Wiedersehen.\n\n<i>„Memi, wartet. Trailblaze, die Welt!“</i>\nDie Augen der kleinen Fee werden vom Sternenlicht erhellt – sie funkeln wie das rosarote Morgen.",
+    "icon": "icon/light_cone/22006.png",
+    "preview": "image/light_cone_preview/22006.png",
+    "portrait": "image/light_cone_portrait/22006.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "Nacht auf der Milchstraße",
@@ -1672,10 +1684,22 @@
     "name": "Auf das Sternenlicht der langen Nacht",
     "rarity": 5,
     "path": "Memory",
-    "desc": "In den Ritzen der Zeit hallt nur ihr Herzschlag wider.\nWie in jenen zahllosen Tagen und Nächten von einst – wachen im Dunkel und ruhen in der Nacht.\n\nSie hütet die Erinnerungen, die ihr anvertraut wurden.\nVon einem leeren Ausgangspunkt aus bemalt das Mädchen mit leuchtenden Farben all die Orte, an denen sie verweilte: der heimelig eingerichtete Express, die Gefährten mit ihren Eigenheiten, die strahlend schönen Planeten ... Alles wie ein Traum, der so hinreißend ist, dass man nie erwachen möchte.\n\n<i>„Die wahre Reise von 7. März beginnt erst jetzt!“</i>\nDas Bekenntnis des Mädchens klingt, als würde es ihr ins Ohr geflüstert.\n\nSie blickt in den fernen Sternenhimmel. Ein Lichtstrahl naht ...\nDas Licht des Expresses, hell wie eine Sternschnuppe.\n\n<i>„Gute Nacht, März ... Wenn du eines Tages erwachst, soll dein Trailblaze weitergehen. ♭“</i>\n\nDie Memoria-Flut steigt auf, und sie verbirgt ihren Wunsch tief in ihrem Herzen. Jene leise Stimme, jenes Leuchten ...\nNichts davon hat sie je vergessen.",
+    "desc": "In den Ritzen der Zeit hallt nur ihr Herzschlag wider.\nWie in jenen zahllosen Tagen und Nächten von einst – wachen im Dunkel und ruhen in der Nacht.\n\nSie hütet die Erinnerungen, die ihr anvertraut wurden.\nVon einem leeren Ausgangspunkt aus bemalt das Mädchen mit leuchtenden Farben all die Orte, an denen sie verweilte: der heimelig eingerichtete Express, die Gefährten mit ihren Eigenheiten, die strahlend schönen Planeten ... Alles wie ein Traum, der so hinreißend ist, dass man nie erwachen möchte.\n\n„Die wahre Reise von 7. März beginnt erst jetzt!“\nDas Bekenntnis des Mädchens klingt, als würde es ihr ins Ohr geflüstert.\n\nSie blickt in den fernen Sternenhimmel. Ein Lichtstrahl naht ...\nDas Licht des Expresses, hell wie eine Sternschnuppe.\n\n„Gute Nacht, März ... Wenn du eines Tages erwachst, soll dein Trailblaze weitergehen. ♭“\n\nDie Memoria-Flut steigt auf, und sie verbirgt ihren Wunsch tief in ihrem Herzen. Jene leise Stimme, jenes Leuchten ...\nNichts davon hat sie je vergessen.",
     "icon": "icon/light_cone/23049.png",
     "preview": "image/light_cone_preview/23049.png",
     "portrait": "image/light_cone_portrait/23049.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23050": {
+    "id": "23050",
+    "name": "Vergiss ihre Flamme niemals",
+    "rarity": 5,
+    "path": "Warlock",
+    "desc": "<i>„Komm, komm zu mir ...“</i>\nEine lebendige Erinnerung, von Flammen geleitet, umhüllt ihren Körper und ihre Seele.\n\nDie vergangenen Tage sind ins Grab gesunken. Ist das wahr?\n<i>„Psst, weine nicht, weigere dich nicht ...“</i>\nSie brennt sich in die Herzen anderer ein, während fremde Blicke allmählich vertraut werden.\n<i>„Erinnerst du dich jetzt?“</i>\n\nDie Glut der alten Erinnerungen verweht, und ihr Gesicht trägt einen Hauch berauschenden Blütendufts ...\n<i>„Ich bin deine Erinnerung.“</i>",
+    "icon": "icon/light_cone/23050.png",
+    "preview": "image/light_cone_preview/23050.png",
+    "portrait": "image/light_cone_portrait/23050.png",
     "max_rank": 5,
     "max_promotion": 6
   },
@@ -1688,6 +1712,18 @@
     "icon": "icon/light_cone/23051.png",
     "preview": "image/light_cone_preview/23051.png",
     "portrait": "image/light_cone_portrait/23051.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23052": {
+    "id": "23052",
+    "name": "Liebe, so ewig wie dieser Moment",
+    "rarity": 5,
+    "path": "Memory",
+    "desc": "Der azurblaue Himmel spiegelt eine strahlende Zukunft wider.\nEin Schritt, zwei Schritte ... Der Weg des Mädchens war so lang, aber glücklicherweise sind diese geschätzten Geschichten im Laufe der Zeit nicht in Vergessenheit geraten.\nNun, gemeinsam von allen geschrieben, ist das Epos vollendet und begrüßt sein Finale.\n\nSterne, Blumen, Vögel und eine wunderschöne neue Welt.\nGaze, Kränze, lange Kleider und der segenbringende Wind.\nDie Suche von dreißig Millionen Leben verwandelte sich in einen einzigen Moment des Glücks, der eine Ewigkeit voller Worte aufwiegen konnte.\n\n<i>„Hihi, versprochen ...“</i>\nDas Mädchen dreht sich um und lächelt sanft.\n<i>„Einer von uns bleibt in der Vergangenheit, der andere geht in Richtung Zukunft ... aber unsere Herzen waren nie getrennt. ♪“</i>\n\nSie stellt sich auf die Zehenspitzen und tritt in die Vergangenheit ein ...\nUnd die Erinnerung, die sich in Wellen der Vergangenheit verwandelt, treibt dem Morgen entgegen.",
+    "icon": "icon/light_cone/23052.png",
+    "preview": "image/light_cone_preview/23052.png",
+    "portrait": "image/light_cone_portrait/23052.png",
     "max_rank": 5,
     "max_promotion": 6
   },
