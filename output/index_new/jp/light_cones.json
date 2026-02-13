@@ -275,6 +275,30 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "20023": {
+    "id": "20023",
+    "name": "{RUBY_B#ししょう}嗤笑{RUBY_E#}",
+    "rarity": 3,
+    "path": "Elation",
+    "desc": "凝縮された時間から得られる希薄な力。一瞬にも満たない刹那が、壮絶な運命を織りなす。\n\n<i>「笑顔の起源は、恐怖と威嚇から生まれる歯を見せる行為だった」</i>",
+    "icon": "icon/light_cone/20023.png",
+    "preview": "image/light_cone_preview/20023.png",
+    "portrait": "image/light_cone_portrait/20023.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "20024": {
+    "id": "20024",
+    "name": "{RUBY_B#ざんるい}残涙{RUBY_E#}",
+    "rarity": 3,
+    "path": "Elation",
+    "desc": "凝縮された時間から得られる希薄な力。一瞬にも満たない刹那が、壮絶な運命を織りなす。\n\n<i>「最も深い悲しみには涙がない。究極の喜びと痛みが同じであるように」</i>",
+    "icon": "icon/light_cone/20024.png",
+    "preview": "image/light_cone_preview/20024.png",
+    "portrait": "image/light_cone_portrait/20024.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "21000": {
     "id": "21000",
     "name": "{RUBY_B#しゅじゅつご}手術後{RUBY_E#}の{RUBY_B#かいわ}会話{RUBY_E#}",
@@ -1007,6 +1031,30 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "21064": {
+    "id": "21064",
+    "name": "タケタケ{RUBY_B#ぼうけんき}冒険記{RUBY_E#}",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "<i>「ミッシュルーム、火花の秘境へようこそ～♥」</i>\n<i>「丹タケ、しかめっ面はやめて、笑って！」</i>\n<i>「グレイノコ、火花に見惚れちゃったの？最高だね！」</i>\n<i>「チュンノコ——美味しそうだから、君に決めたよ～」</i>\n\nさあ、逃げ回って。人の欲望は抜け出せないウサギの穴——\nさあ、笑って。きらびやかな世界の一員になるの——\n\n<i>「君だけの特別番組…『誰もがかわいい火花になれる』へようこそ！」</i>",
+    "icon": "icon/light_cone/21064.png",
+    "preview": "image/light_cone_preview/21064.png",
+    "portrait": "image/light_cone_portrait/21064.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "21065": {
+    "id": "21065",
+    "name": "{RUBY_B#きょう}今日{RUBY_E#}は{RUBY_B#こううん}好運{RUBY_E#}",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "<i>「へえ、本当にそれでいいの？」</i>\n<i>「フン、絶対に間違いないわ！」</i>\n<i>「今回の賭けは、手用軟膏1本だけじゃないからね」</i>\n<i>「こんな単純な遊びに…変数があるわけないもの」</i>\n桃色の髪の少女は顔を背け、それ以上惑わされないようにした。\n\n<i>「茶柱の立ち具合から察するに、君はあれを出すべきだと思うけど」</i>\n女性は札を引き、裏返した——\n<i>「あら、ツキが回ってきたみたい」</i>\n<i>「もう1回！こんなのあり得ない……」</i>\n……\n\n少女は姉弟子とどれほどの回数、占い遊びをしたか忘れてしまった。ただ覚えているのは、姉弟子がいつも「もう1回」に付き合ってくれたことだけ。\nその後、定められた予言から逃れようと、少女は反対を押し切って羅浮の太卜司に入った。\n羅浮に着いたばかりの頃、彼女は本に1枚の綺麗なくじ札が挟まっているのを見つけた。異郷の地で目にしたよく知る筆跡に、少女の目元がじわりと熱くなった。\n\n<i>「運命に別の可能性がないなんて誰が決めたの？私の幸運のくじを、君にあげる」</i>",
+    "icon": "icon/light_cone/21065.png",
+    "preview": "image/light_cone_preview/21065.png",
+    "portrait": "image/light_cone_portrait/21065.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "22000": {
     "id": "22000",
     "name": "{RUBY_B#はじ}初{RUBY_E#}めてのクエストの{RUBY_B#まえ}前{RUBY_E#}に",
@@ -1724,6 +1772,30 @@
     "icon": "icon/light_cone/23052.png",
     "preview": "image/light_cone_preview/23052.png",
     "portrait": "image/light_cone_portrait/23052.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23053": {
+    "id": "23053",
+    "name": "きらびやかな{RUBY_B#せかい}世界{RUBY_E#}",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "彼女が笑えば、ファンたちも笑う。\n彼女が悲しめば、ファンたちも涙を流す。\n彼女が怒れば、ファンたちも怒る。\n\n<i>「可愛くて愛らしくて、みんなに好かれてる。火花はまさに私がなりたい姿……」</i>\n<i>「騙されないで、火花は毒で、嘘の塊なの……」</i>\n<i>「火花を一生推します！火花が生きる勇気をくれました……」</i>\n<i>「火花はこの世から消えるべきだ！」</i>\n……\n\nクリック、弾幕、コメント…一人ひとりの瞳の中で、「火花」はより一層激しく燃え上がる。\n\n<i>「みんなの気持ち、ちゃんと受け取ったよ！最高な方法で恩返しするからね～♥例えば……」</i>\n\n配信の終わり際、少女はまばたきをした後、まるでスクリーンの向こうにいる全員の心を見通したかのように続けた——\n\n<i>「もしもチャンスがあったら、君は火花になりたい？」</i>",
+    "icon": "icon/light_cone/23053.png",
+    "preview": "image/light_cone_preview/23053.png",
+    "portrait": "image/light_cone_portrait/23053.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23054": {
+    "id": "23054",
+    "name": "{RUBY_B#かのじょ}彼女{RUBY_E#}が{RUBY_B#み}視{RUBY_E#}ると{RUBY_B#き}決{RUBY_E#}めた{RUBY_B#とき}時{RUBY_E#}",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "十方光映法界の中で、彼女はまた、輝く珠の網のように幾重にも重なり合う運命を、無限に連なっていく因果を見つめていた。\n\n<i>「何が視えた？」</i>\n師匠にそう問われたことがある。\n\n卜者の中には、自身のちっぽけさを悟り、人の力では運命を変えられないと信じる者がいる。\nまた、未来の状況を視て、その流れに従うことを最善とする者も。\n\nその時、少女が法界から視たのは、果てしない闇——既に定められた未来だった。\nだが同時に、「星の光」も視えていた——神々の眼差しに呑み込まれていない、かすかな可能性の輝きを。\n\nその星の光が彼女の手からこぼれ落ち、方壺に永遠の闇夜が訪れたことがあった。\nだが、彼女がわずかな変数を掴み取り、玉殿の吉凶を反転させたことも。\n\n<i>「『詰み』が『詰み』であり続けるのは、誰も運命に逆らおうとしないから」</i>\nたとえ運命に定められた危地へ踏み込むことになろうとも——答えを見つけ出したかった。\n\n<i>「何が視えたかは重要じゃない。何ができるか、それこそが重要なの」</i>",
+    "icon": "icon/light_cone/23054.png",
+    "preview": "image/light_cone_preview/23054.png",
+    "portrait": "image/light_cone_portrait/23054.png",
     "max_rank": 5,
     "max_promotion": 6
   },

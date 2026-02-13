@@ -605,6 +605,19 @@
       "Kehormatan Tanpa Nama"
     ]
   },
+  "291": {
+    "id": "291",
+    "name": "Harapan Transformasi Jadi Pahlawan",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/291.png",
+    "desc": "Di Planarcadia tempat harapan dapat berubah menjadi kekuatan, harapan untuk \"mengangkat cahaya dan menjadi pahlawan\" telah menjawabmu, dan berubah menjadi wujud nyata yang menyemangati perjalananmu. Terimalah dulu, cepat atau lambat ia akan menjadi satu-satunya bantuan bagimu.\n\n<i>\"Menurut statistik yang tidak dapat dipercaya, setiap orang di Planarcadia pernah bermimpi untuk berubah menjadi pahlawan super.\"</i>",
+    "come_from": [
+      "Diperoleh dari Hadiah Level Bonus \"Berita Rakun\"",
+      "Hadiah Misi Trailblaze"
+    ]
+  },
   "503": {
     "id": "503",
     "name": "Herta Bond",
@@ -2072,6 +2085,92 @@
       "Omni-Synthesizer: Synthesis Relic"
     ]
   },
+  "81291": {
+    "id": "81291",
+    "name": "Ever-Glorious Magical Girl",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71052.png",
+    "desc": "",
+    "come_from": []
+  },
+  "81292": {
+    "id": "81292",
+    "name": "Ever-Glorious Magical Girl",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71052.png",
+    "desc": "",
+    "come_from": []
+  },
+  "81293": {
+    "id": "81293",
+    "name": "Ever-Glorious Magical Girl",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71052.png",
+    "desc": "",
+    "come_from": []
+  },
+  "81294": {
+    "id": "81294",
+    "name": "Ever-Glorious Magical Girl",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71052.png",
+    "desc": "",
+    "come_from": [
+      "Cavern of Corrosion: {TextID#FloorName_20501001}",
+      "\"Omni-Synthesizer\" - Synthesis Relic"
+    ]
+  },
+  "81301": {
+    "id": "81301",
+    "name": "Diviner of Distant Reach",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71053.png",
+    "desc": "",
+    "come_from": []
+  },
+  "81302": {
+    "id": "81302",
+    "name": "Diviner of Distant Reach",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71053.png",
+    "desc": "",
+    "come_from": []
+  },
+  "81303": {
+    "id": "81303",
+    "name": "Diviner of Distant Reach",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71053.png",
+    "desc": "",
+    "come_from": []
+  },
+  "81304": {
+    "id": "81304",
+    "name": "Diviner of Distant Reach",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71053.png",
+    "desc": "",
+    "come_from": [
+      "Cavern of Corrosion: {TextID#FloorName_20501001}",
+      "\"Omni-Synthesizer\" - Synthesis Relic"
+    ]
+  },
   "83011": {
     "id": "83011",
     "name": "Space Sealing Station",
@@ -3187,7 +3286,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110111.png",
-    "desc": "Potongan senjata yang dijatuhkan anggota Antimatter Legion. Dapat meningkatkan sedikit level Trace milik karakter Destruction.",
+    "desc": "Potongan senjata yang dijatuhkan anggota Antimatter Legion. Dapat meningkatkan sedikit Path Trace milik karakter Destruction.",
     "come_from": [
       "Calyx \"Storage Zone\"",
       "Penukaran Ember",
@@ -3201,7 +3300,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110112.png",
-    "desc": "Sisa pedang yang dijatuhkan anggota Antimatter Legion. Dapat meningkatkan level Trace milik karakter Destruction dalam jumlah sedang.",
+    "desc": "Sisa pedang yang dijatuhkan anggota Antimatter Legion. Dapat meningkatkan Path Trace milik karakter Destruction secara moderat.",
     "come_from": [
       "Calyx \"Storage Zone\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3216,7 +3315,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110113.png",
-    "desc": "Senjata rusak yang dijatuhkan anggota Antimatter Legion. Dapat meningkatkan banyak level Trace milik karakter Destruction.",
+    "desc": "Senjata rusak yang dijatuhkan anggota Antimatter Legion. Dapat meningkatkan Path Trace milik karakter Destruction secara drastis.",
     "come_from": [
       "Calyx \"Storage Zone\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3230,7 +3329,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110121.png",
-    "desc": "Mata panah yang ditempa dengan Frost Steel oleh pengrajin Xianzhou. Dapat meningkatkan sedikit level Trace milik karakter Hunt dalam jumlah sedang.",
+    "desc": "Mata panah yang ditempa dengan Frost Steel oleh pengrajin Xianzhou. Dapat meningkatkan sedikit Path Trace milik karakter Hunt.",
     "come_from": [
       "Calyx \"Outlying Snow Plains\"",
       "Penukaran Ember",
@@ -3244,7 +3343,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110122.png",
-    "desc": "Mata panah yang ditempa dengan Stellaris Essence oleh pengrajin Xianzhou. Dapat meningkatkan level Trace milik karakter Hunt dalam jumlah sedang.",
+    "desc": "Mata panah yang ditempa dengan Stellaris Essence oleh pengrajin Xianzhou. Dapat meningkatkan Path Trace milik karakter Hunt secara moderat.",
     "come_from": [
       "Calyx \"Outlying Snow Plains\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3259,7 +3358,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110123.png",
-    "desc": "Potongan Sky-Shattering Lux Arrow yang ditembakkan Reignbow Arbiter. Dapat meningkatkan banyak level Trace milik karakter Hunt.",
+    "desc": "Potongan Sky-Shattering Lux Arrow yang ditembakkan Reignbow Arbiter. Dapat meningkatkan Path Trace milik karakter Hunt secara drastis.",
     "come_from": [
       "Calyx \"Outlying Snow Plains\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3273,7 +3372,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110131.png",
-    "desc": "Kunci magis yang muncul di tangan cendekiawan. Dapat meningkatkan sedikit level Trace milik karakter Erudition.",
+    "desc": "Kunci magis yang muncul di tangan cendekiawan. Dapat meningkatkan sedikit Path Trace milik karakter Erudition.",
     "come_from": [
       "Calyx \"Rivet Town\"",
       "Penukaran Ember",
@@ -3287,7 +3386,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110132.png",
-    "desc": "Kunci magis yang muncul di tangan orang bijak di dunia. Dapat meningkatkan level Trace milik karakter Erudition dalam jumlah sedang.",
+    "desc": "Kunci magis yang muncul di tangan orang bijak di dunia. Dapat meningkatkan Path Trace milik karakter Erudition secara moderat.",
     "come_from": [
       "Calyx \"Rivet Town\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3302,7 +3401,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110133.png",
-    "desc": "Kunci magis yang muncul di tangan jenius terbaik segalaksi. Dapat meningkatkan banyak level Trace milik karakter Erudition.",
+    "desc": "Kunci magis yang muncul di tangan jenius terbaik segalaksi. Dapat meningkatkan Path Trace milik karakter Erudition secara drastis.",
     "come_from": [
       "Calyx \"Rivet Town\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3316,7 +3415,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110141.png",
-    "desc": "Perisai tangan kuno yang terbuat dari perunggu. Pembuatannya kasar namun tahan lama. Dapat meningkatkan sedikit level Trace milik karakter Preservation.",
+    "desc": "Perisai tangan kuno yang terbuat dari perunggu. Pembuatannya kasar namun tahan lama. Dapat meningkatkan sedikit Path Trace milik karakter Preservation.",
     "come_from": [
       "Calyx \"Supply Zone\"",
       "Penukaran Ember",
@@ -3330,7 +3429,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110142.png",
-    "desc": "Perisai yang dibuat dari paduan logam tak diketahui, cara pembuatannya tak tergantikan. Dapat meningkatkan level Trace milik karakter Preservation dalam jumlah sedang.",
+    "desc": "Perisai yang dibuat dari paduan logam tak diketahui, cara pembuatannya tak tergantikan. Dapat meningkatkan Path Trace milik karakter Preservation secara moderat.",
     "come_from": [
       "Calyx \"Supply Zone\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3345,7 +3444,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110143.png",
-    "desc": "Perisai aneh bertatahkan amber yang dipahat dari langit. Dapat meningkatkan banyak level Trace milik karakter Preservation.",
+    "desc": "Perisai aneh bertatahkan amber yang dipahat dari langit. Dapat meningkatkan Path Trace milik karakter Preservation secara drastis.",
     "come_from": [
       "Calyx \"Supply Zone\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3359,7 +3458,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110151.png",
-    "desc": "Sepotong zat hitam yang ditangkap dari kehampaan. Dapat meningkatkan sedikit level Trace milik karakter Nihility.",
+    "desc": "Sepotong zat hitam yang ditangkap dari kehampaan. Dapat meningkatkan sedikit Path Trace milik karakter Nihility.",
     "come_from": [
       "Calyx \"Great Mine\"",
       "Penukaran Ember",
@@ -3373,7 +3472,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110152.png",
-    "desc": "Sepotong materi gelap yang diambil dari kehampaan. Dapat meningkatkan level Trace milik karakter Nihility dalam jumlah sedang.",
+    "desc": "Sepotong materi gelap yang diambil dari kehampaan. Dapat meningkatkan Path Trace milik karakter Nihility secara moderat.",
     "come_from": [
       "Calyx \"Great Mine\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3388,7 +3487,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110153.png",
-    "desc": "Sebongkah materi gelap yang diambil dari kehampaan. Dapat meningkatkan banyak level Trace milik karakter Nihility.",
+    "desc": "Sebongkah materi gelap yang diambil dari kehampaan. Dapat meningkatkan Path Trace milik karakter Nihility secara drastis.",
     "come_from": [
       "Calyx \"Great Mine\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3402,7 +3501,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110161.png",
-    "desc": "Kotak musik kecil yang dibuat oleh pengrajin yang tidak dikenal. Dapat meningkatkan sedikit level Trace milik karakter Harmony.",
+    "desc": "Kotak musik kecil yang dibuat oleh pengrajin yang tidak dikenal. Dapat meningkatkan sedikit Path Trace milik karakter Harmony.",
     "come_from": [
       "Calyx \"Robot Settlement\"",
       "Penukaran Ember",
@@ -3416,7 +3515,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110162.png",
-    "desc": "Kotak musik yang dibuat oleh pengrajin yang tidak dikenal. Dapat meningkatkan level Trace milik karakter Harmony dalam jumlah medium.",
+    "desc": "Kotak musik yang dibuat oleh pengrajin yang tidak dikenal. Dapat meningkatkan Path Trace milik karakter Harmony secara moderat.",
     "come_from": [
       "Calyx \"Robot Settlement\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3431,7 +3530,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110163.png",
-    "desc": "Kotak musik yang dibuat oleh pengrajin yang tidak dikenal, strukturnya sangat rumit. Dapat meningkatkan banyak level Trace milik karakter Harmony.",
+    "desc": "Kotak musik yang dibuat oleh pengrajin yang tidak dikenal, strukturnya sangat rumit. Dapat meningkatkan Path Trace milik karakter Harmony secara drastis.",
     "come_from": [
       "Calyx \"Robot Settlement\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3445,7 +3544,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110171.png",
-    "desc": "Bibit berkat yang disebarkan dewa Abundance. Dapat meningkatkan sedikit level Trace milik karakter Abundance.",
+    "desc": "Bibit berkat yang disebarkan dewa Abundance. Dapat meningkatkan sedikit Path Trace milik karakter Abundance.",
     "come_from": [
       "Calyx \"Backwater Pass\"",
       "Penukaran Ember",
@@ -3459,7 +3558,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110172.png",
-    "desc": "Tunas muda yang muncul dari Seed of Abundance. Dapat meningkatkan level Trace milik karakter Abundance dalam jumlah sedang.",
+    "desc": "Tunas muda yang muncul dari Seed of Abundance. Dapat meningkatkan Path Trace milik karakter Abundance secara moderat.",
     "come_from": [
       "Calyx \"Backwater Pass\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3474,7 +3573,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110173.png",
-    "desc": "Bunga cantik yang mekar dari Sprout of Life. Dapat meningkatkan banyak level Trace milik karakter Abundance.",
+    "desc": "Bunga cantik yang mekar dari Sprout of Life. Dapat meningkatkan Path Trace milik karakter Abundance secara drastis.",
     "come_from": [
       "Calyx \"Backwater Pass\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3488,7 +3587,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110181.png",
-    "desc": "Gigi yang hancur berserakan peninggalan perang Borisin. Dapat meningkatkan sedikit level Trace Path milik karakter Destruction.",
+    "desc": "Gigi yang hancur berserakan peninggalan perang Borisin. Dapat meningkatkan sedikit Path Trace milik karakter Destruction.",
     "come_from": [
       "Calyx \"Scalegorge Waterscape\"",
       "Penukaran Ember",
@@ -3502,7 +3601,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110182.png",
-    "desc": "Gigi tajam pengisap darah peninggalan perang Borisin. Dapat meningkatkan level Trace Path milik karakter Destruction dalam jumlah sedang.",
+    "desc": "Gigi tajam pengisap darah peninggalan perang Borisin. Dapat meningkatkan Path Trace milik karakter Destruction secara moderat.",
     "come_from": [
       "Calyx \"Scalegorge Waterscape\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3517,7 +3616,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110183.png",
-    "desc": "Gigi panjang mengerikan peninggalan perang Borisin. Dapat meningkatkan banyak level Trace Path milik karakter Destruction.",
+    "desc": "Gigi panjang mengerikan peninggalan perang Borisin. Dapat meningkatkan Path Trace milik karakter Destruction secara drastis.",
     "come_from": [
       "Calyx \"Scalegorge Waterscape\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3531,7 +3630,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110191.png",
-    "desc": "Sebuah bola besi yang ditempa untuk berburu monster, lekukan di atasnya sepertinya mencatat jumlah mangsa yang mati karenanya. Digunakan untuk meningkatkan sedikit level Trace Path milik karakter Hunt.",
+    "desc": "Sebuah bola besi yang ditempa untuk berburu monster, lekukan di atasnya sepertinya mencatat jumlah mangsa yang mati karenanya. Dapat meningkatkan sedikit Path Trace milik karakter Hunt.",
     "come_from": [
       "Calyx \"SoulGlad™ Scorchsand Audition Venue\"",
       "Penukaran Ember",
@@ -3545,7 +3644,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110192.png",
-    "desc": "Tertanam di dahi almarhum, menembus celah-celah benda, peluru ini selamanya berada di tempat lubang peluru seharusnya berada. Digunakan untuk menaikkan level Trace Path milik karakter Hunt dalam jumlah sedang.",
+    "desc": "Tertanam di dahi almarhum, menembus celah-celah benda, peluru ini selamanya berada di tempat lubang peluru seharusnya berada. Dapat meningkatkan Path Trace milik karakter Hunt secara moderat.",
     "come_from": [
       "Calyx \"SoulGlad™ Scorchsand Audition Venue\"",
       "\"Omni-Synthesizer\" - Material Synthesis",
@@ -3560,7 +3659,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110193.png",
-    "desc": "Peluru spiral yang selalu bergerak ke arah yang salah dengan panah waktu, seperti anjing pemburu yang selalu mengejar benda abadi yang melawan waktu. Digunakan untuk meningkatkan level Trace Path milik karakter Hunt dalam jumlah besar.",
+    "desc": "Peluru spiral yang selalu bergerak ke arah yang salah dengan panah waktu, seperti anjing pemburu yang selalu mengejar benda abadi yang melawan waktu. Dapat meningkatkan Path Trace milik karakter Hunt secara drastis.",
     "come_from": [
       "Calyx \"SoulGlad™ Scorchsand Audition Venue\"",
       "\"Omni-Synthesizer\" - Material Synthesis",
@@ -3574,7 +3673,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110201.png",
-    "desc": "Sketsa kasar karakter Clockie, dengan beberapa goresan yang membentuk mimpi. Dapat meningkatkan Path Trace milik karakter Erudition dalam jumlah kecil.",
+    "desc": "Sketsa kasar karakter Clockie, dengan beberapa goresan yang membentuk mimpi. Dapat meningkatkan sedikit Path Trace milik karakter Erudition.",
     "come_from": [
       "Calyx: Penacony Grand Theater",
       "Penukaran Ember",
@@ -3588,7 +3687,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110202.png",
-    "desc": "Sketsa garis karakter Clockie. Garis besar mimpi sudah mulai terbentuk di atas kertas. Dapat meningkatkan Path Trace milik karakter Erudition dalam jumlah sedang.",
+    "desc": "Sketsa garis karakter Clockie. Garis besar mimpi sudah mulai terbentuk di atas kertas. Dapat meningkatkan Path Trace milik karakter Erudition secara moderat.",
     "come_from": [
       "Calyx: Penacony Grand Theater",
       "\"Omni-Synthesizer\" - Material Synthesis",
@@ -3603,7 +3702,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110203.png",
-    "desc": "Sketsa berwarna karakter Clockie. Mimpi yang berwarna terasa begitu hidup. Dapat meningkatkan Path Trace milik karakter Erudition dalam jumlah besar.",
+    "desc": "Sketsa berwarna karakter Clockie. Mimpi yang berwarna terasa begitu hidup. Dapat meningkatkan Path Trace milik karakter Erudition secara drastis.",
     "come_from": [
       "Calyx: Penacony Grand Theater",
       "\"Omni-Synthesizer\" - Material Synthesis",
@@ -3617,7 +3716,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110211.png",
-    "desc": "Serpihan pasir yang terjatuh dari tubuh Amber Lord sewaktu mengayunkan palu langit. Dapat meningkatkan sedikit level Trace Path milik karakter Preservation.",
+    "desc": "Serpihan pasir yang terjatuh dari tubuh Amber Lord sewaktu mengayunkan palu langit. Dapat meningkatkan sedikit Path Trace milik karakter Preservation.",
     "come_from": [
       "Calyx \"Clock Studios Theme Park\"",
       "Penukaran Ember",
@@ -3631,7 +3730,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110212.png",
-    "desc": "Kristal yang terlepas dari tubuh Amber Lord sewaktu mengayunkan palu langit. Dapat meningkatkan level Trace Path milik karakter Preservation dalam jumlah sedang.",
+    "desc": "Kristal yang terlepas dari tubuh Amber Lord sewaktu mengayunkan palu langit. Dapat meningkatkan Path Trace milik karakter Preservation secara moderat.",
     "come_from": [
       "Calyx \"Clock Studios Theme Park\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3646,7 +3745,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110213.png",
-    "desc": "Amber yang terjatuh dari tubuh Amber Lord sewaktu mengayunkan palu langit. Dapat meningkatkan banyak level Trace Path milik karakter Preservation.",
+    "desc": "Amber yang terjatuh dari tubuh Amber Lord sewaktu mengayunkan palu langit. Dapat meningkatkan Path Trace milik karakter Preservation secara drastis.",
     "come_from": [
       "Calyx \"Clock Studios Theme Park\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3660,7 +3759,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110221.png",
-    "desc": "Heliobus lemah yang melarikan diri setelah \"Perang Kesengsaraan Api\". Dapat meningkatkan sedikit level Trace Path milik karakter Nihility.",
+    "desc": "Heliobus lemah yang melarikan diri setelah \"Perang Kesengsaraan Api\". Dapat meningkatkan sedikit Path Trace milik karakter Nihility.",
     "come_from": [
       "Calyx \"Alchemy Commission\"",
       "Penukaran Ember",
@@ -3674,7 +3773,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110222.png",
-    "desc": "Heliobus membara yang kabur setelah \"Perang Kesengsaraan Api\". Dapat meningkatkan level Trace Path milik karakter Nihility dalam jumlah sedang.",
+    "desc": "Heliobus membara yang kabur setelah \"Perang Kesengsaraan Api\". Dapat meningkatkan Path Trace milik karakter Nihility secara moderat.",
     "come_from": [
       "Calyx \"Alchemy Commission\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3689,7 +3788,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110223.png",
-    "desc": "Heliobus berwujud hewan yang bergabung jadi satu setelah \"Perang Kesengsaraan Api\". Dapat meningkatkan banyak level Trace Path milik karakter Nihility.",
+    "desc": "Heliobus berwujud hewan yang bergabung jadi satu setelah \"Perang Kesengsaraan Api\". Dapat meningkatkan Path Trace milik karakter Nihility secara drastis.",
     "come_from": [
       "Calyx \"Alchemy Commission\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3703,7 +3802,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110231.png",
-    "desc": "Not musik yang terjatuh dari awan. Dapat meningkatkan sedikit level Trace Path milik karakter Harmony.",
+    "desc": "Not musik yang terjatuh dari awan. Dapat meningkatkan sedikit Path Trace milik karakter Harmony.",
     "come_from": [
       "Calyx \"Reverie Hotel - Dunia Mimpi\"",
       "Penukaran Ember",
@@ -3717,7 +3816,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110232.png",
-    "desc": "Birama musik yang terjatuh dari langit. Dapat meningkatkan level Trace Path milik karakter Harmony dalam jumlah sedang.",
+    "desc": "Birama musik yang terjatuh dari langit. Dapat meningkatkan Path Trace milik karakter Harmony secara moderat.",
     "come_from": [
       "Calyx \"Reverie Hotel - Dunia Mimpi\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3732,7 +3831,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110233.png",
-    "desc": "Simfoni yang terdengar dari alam semesta. Dapat meningkatkan banyak level Trace Path milik karakter Harmony.",
+    "desc": "Simfoni yang terdengar dari alam semesta. Dapat meningkatkan Path Trace milik karakter Harmony secara drastis.",
     "come_from": [
       "Calyx \"Reverie Hotel - Dunia Mimpi\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3746,7 +3845,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110241.png",
-    "desc": "Benih yang mengandung gen dari berbagai spesies ini diambil dari buah pohon jantung yang ada di hutan Vonwacq. Dapat meningkatkan sedikit level Trace Path milik karakter Abundance.",
+    "desc": "Benih yang mengandung gen dari berbagai spesies ini diambil dari buah pohon jantung yang ada di hutan Vonwacq. Dapat meningkatkan sedikit Path Trace milik karakter Abundance.",
     "come_from": [
       "Calyx \"Fyxestroll Garden\"",
       "Penukaran Ember",
@@ -3760,7 +3859,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110242.png",
-    "desc": "Nektar yang mempercepat pertumbuhan makhluk hidup ini terbentuk dari sari bunga pohon jantung yang ada di hutan Vonwacq. Dapat meningkatkan level Trace Path milik karakter Abundance dalam jumlah sedang.",
+    "desc": "Nektar yang mempercepat pertumbuhan makhluk hidup ini terbentuk dari sari bunga pohon jantung yang ada di hutan Vonwacq. Dapat meningkatkan Path Trace milik karakter Abundance secara moderat.",
     "come_from": [
       "Calyx \"Fyxestroll Garden\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3775,7 +3874,7 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110243.png",
-    "desc": "Buah yang mengandung gen semua makhluk hidup ini tumbuh dari ranting pohon jantung yang ada di hutan Vonwacq. Dapat meningkatkan banyak level Trace Path milik karakter Abundance.",
+    "desc": "Buah yang mengandung gen semua makhluk hidup ini tumbuh dari ranting pohon jantung yang ada di hutan Vonwacq. Dapat meningkatkan Path Trace milik karakter Abundance secara drastis.",
     "come_from": [
       "Calyx \"Fyxestroll Garden\"",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3789,7 +3888,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110251.png",
-    "desc": "Kesadaran bertemu dengan materi, dan membentuk embrio memori. Dapat meningkatkan sedikit level Trace Path milik karakter Remembrance.",
+    "desc": "Kesadaran bertemu dengan materi, dan membentuk embrio memori. Dapat meningkatkan sedikit Path Trace milik karakter Remembrance.",
     "come_from": [
       "Calyx \"Reruntuhan Pertikaian\" Castrum Kremnos",
       "Penukaran Ember",
@@ -3803,7 +3902,7 @@
     "sub_type": "TracePath",
     "rarity": 3,
     "icon": "icon/item/110252.png",
-    "desc": "Sel memori mengekstrak pikiran dan tumbuh subur di dalam hati pengukirnya. Dapat meningkatkan level Trace Path milik karakter Remembrance dalam jumlah sedang.",
+    "desc": "Sel memori mengekstrak pikiran dan tumbuh subur di dalam hati pengukirnya. Dapat meningkatkan Path Trace milik karakter Remembrance secara moderat.",
     "come_from": [
       "Calyx \"Reruntuhan Pertikaian\" Castrum Kremnos",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -3818,9 +3917,98 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110253.png",
-    "desc": "Ini adalah bentuk keberadaan lain dari kehidupan, juga materi yang tidak bisa dilupakan oleh alam semesta. Dapat meningkatkan banyak level Trace Path milik karakter Remembrance.",
+    "desc": "Ini adalah bentuk keberadaan lain dari kehidupan, juga materi yang tidak bisa dilupakan oleh alam semesta. Dapat meningkatkan Path Trace milik karakter Remembrance secara drastis.",
     "come_from": [
       "Calyx \"Reruntuhan Pertikaian\" Castrum Kremnos",
+      "\"Omni-Synthesizer\" - Synthesis Material",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
+  "110261": {
+    "id": "110261",
+    "name": "\"The Fluffy\" Hand-drawn Storyboards",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 2,
+    "icon": "icon/item/110261.png",
+    "desc": "\"Bululu Melintasi Biru Angkasa\" yang sedang dalam tahap papan cerita. Dapat meningkatkan sedikit Path Trace milik karakter Elation.",
+    "come_from": [
+      "\"Omni-Synthesizer\" - Pertukaran Setara",
+      "Calyx: {TextID#FloorName_20502001}",
+      "Penukaran Ember",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
+  "110262": {
+    "id": "110262",
+    "name": "\"The Fluffy\" Serialization Memorial Issue",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 3,
+    "icon": "icon/item/110262.png",
+    "desc": "\"Bululu Melintasi Biru Angkasa\" yang sedang diserialisasikan di majalah. Dapat meningkatkan Path Trace milik karakter Elation secara moderat.",
+    "come_from": [
+      "\"Omni-Synthesizer\" - Pertukaran Setara",
+      "Calyx: {TextID#FloorName_20502001}",
+      "\"Omni-Synthesizer\" - Synthesis Material",
+      "Penukaran Ember",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
+  "110263": {
+    "id": "110263",
+    "name": "\"The Fluffy\" Collector's Edition",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 4,
+    "icon": "icon/item/110263.png",
+    "desc": "\"Bululu Melintasi Biru Angkasa\" yang diterbitkan sebagai edisi tunggal. Dapat meningkatkan Path Trace milik karakter Elation secara drastis.",
+    "come_from": [
+      "\"Omni-Synthesizer\" - Pertukaran Setara",
+      "Calyx: {TextID#FloorName_20502001}",
+      "\"Omni-Synthesizer\" - Synthesis Material",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
+  "110271": {
+    "id": "110271",
+    "name": "Grit of Strife",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 2,
+    "icon": "icon/item/110271.png",
+    "desc": "Debu kristal merah darah yang digunakan para pengrajin Castrum Kremnos saat melapisi senjata. Dapat meningkatkan sedikit Path Trace milik karakter Hunt.",
+    "come_from": [
+      "Calyx: {TextID#FloorName_20481001}",
+      "Penukaran Ember",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
+  "110272": {
+    "id": "110272",
+    "name": "Resin of Valor",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 3,
+    "icon": "icon/item/110272.png",
+    "desc": "Amber kristal merah darah yang terbentuk saat pengrajin Castrum Kremnos menempa senjata. Dapat meningkatkan Path Trace milik karakter Hunt secara moderat.",
+    "come_from": [
+      "Calyx: {TextID#FloorName_20481001}",
+      "\"Omni-Synthesizer\" - Synthesis Material",
+      "Penukaran Ember",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
+  "110273": {
+    "id": "110273",
+    "name": "Lance of Retribution",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 4,
+    "icon": "icon/item/110273.png",
+    "desc": "Tombak merah darah yang ditempa dari pengorbanan nyawa dan martabat para pengrajin Castrum Kremnos. Dapat meningkatkan Path Trace milik karakter Hunt secara drastis.",
+    "come_from": [
+      "Calyx: {TextID#FloorName_20481001}",
       "\"Omni-Synthesizer\" - Synthesis Material",
       "\"Omni-Synthesizer\" - Pertukaran Material"
     ]
@@ -4150,6 +4338,19 @@
       "\"Omni-Synthesizer\" - Pertukaran Material"
     ]
   },
+  "110434": {
+    "id": "110434",
+    "name": "Thunder Strum",
+    "type": "Material",
+    "sub_type": "AvatarRank",
+    "rarity": 4,
+    "icon": "icon/item/110434.png",
+    "desc": "Instrumen favorit Rocking Rebel. Material Ascension untuk karakter Tipe Lightning.",
+    "come_from": [
+      "Stagnant Shadow: {TextID#FloorName_20503001}",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
   "110435": {
     "id": "110435",
     "name": "Charred Bud of Twilight",
@@ -4305,7 +4506,7 @@
     "sub_type": "CommonMonsterDrop",
     "rarity": 2,
     "icon": "icon/item/111001.png",
-    "desc": "Jantung monster yang berkeliaran di Fragmentum adalah material sederhana yang digunakan untuk peningkatan.",
+    "desc": "Jantung monster yang berkeliaran di Fragmentum. Material sederhana yang digunakan untuk peningkatan.",
     "come_from": [
       "Dijatuhkan Monster Fragmentum tertentu",
       "Dijatuhkan musuh di \"Divergent Universe\"",
@@ -4323,7 +4524,7 @@
     "sub_type": "CommonMonsterDrop",
     "rarity": 3,
     "icon": "icon/item/111002.png",
-    "desc": "Jantung monster yang berkeliaran di Fragmentum adalah material biasa yang digunakan untuk peningkatan.",
+    "desc": "Jantung monster yang berkeliaran di Fragmentum. Material biasa yang digunakan untuk peningkatan.",
     "come_from": [
       "Dijatuhkan monster Fragmentum tertentu pada Level Equilibrium Lv. 2 atau lebih",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -4339,7 +4540,7 @@
     "sub_type": "CommonMonsterDrop",
     "rarity": 4,
     "icon": "icon/item/111003.png",
-    "desc": "Jantung monster yang berkeliaran di Fragmentum adalah material berkualitas tinggi yang digunakan untuk peningkatan.",
+    "desc": "Jantung monster yang berkeliaran di Fragmentum. Material kualitas tinggi yang digunakan untuk peningkatan.",
     "come_from": [
       "Dijatuhkan monster Fragmentum tertentu pada Level Equilibrium Lv. 4 atau lebih",
       "\"Omni-Synthesizer\" - Synthesis Material",
@@ -4804,6 +5005,56 @@
       "\"Omni-Synthesizer\" - Pertukaran Material"
     ]
   },
+  "116001": {
+    "id": "116001",
+    "name": "Whimsy Wax",
+    "type": "Material",
+    "sub_type": "CommonMonsterDrop",
+    "rarity": 2,
+    "icon": "icon/item/116001.png",
+    "desc": "Serpihan Wishpower dari makhluk imagenen. Material sederhana yang digunakan untuk peningkatan.",
+    "come_from": [
+      "Dijatuhkan makhluk imagenen",
+      "Dijatuhkan musuh di \"Divergent Universe\"",
+      "Dijatuhkan musuh di \"Simulated Universe\"",
+      "Hadiah Tugas",
+      "Penukaran Ember",
+      "\"Omni-Synthesizer\" - Pertukaran Material",
+      "Calyx (Golden)"
+    ]
+  },
+  "116002": {
+    "id": "116002",
+    "name": "Dreamweave Steel",
+    "type": "Material",
+    "sub_type": "CommonMonsterDrop",
+    "rarity": 3,
+    "icon": "icon/item/116002.png",
+    "desc": "Serpihan Wishpower dari makhluk imagenen. Material biasa yang digunakan untuk peningkatan.",
+    "come_from": [
+      "Dijatuhkan makhluk imagenen pada Level Equilibrium Lv. 2 atau lebih",
+      "\"Omni-Synthesizer\" - Synthesis Material",
+      "Dijatuhkan musuh di \"Divergent Universe\"",
+      "Dijatuhkan musuh di \"Simulated Universe\"",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
+  "116003": {
+    "id": "116003",
+    "name": "Lucid Awl",
+    "type": "Material",
+    "sub_type": "CommonMonsterDrop",
+    "rarity": 4,
+    "icon": "icon/item/116003.png",
+    "desc": "Serpihan Wishpower dari makhluk imagenen. Material kualitas tinggi yang digunakan untuk peningkatan.",
+    "come_from": [
+      "Dijatuhkan makhluk imagenen pada Level Equilibrium Lv. 4 atau lebih",
+      "\"Omni-Synthesizer\" - Synthesis Material",
+      "Dijatuhkan musuh di \"Divergent Universe\"",
+      "Dijatuhkan musuh di \"Simulated Universe\"",
+      "\"Omni-Synthesizer\" - Pertukaran Material"
+    ]
+  },
   "120000": {
     "id": "120000",
     "name": "Hertareum",
@@ -4881,6 +5132,20 @@
     "desc": "Cairan yang eksistensinya berada melampaui urutan waktu. Tuangkanlah minuman ini ke dalam Wadah Pasang Surut di Vortex of Genesis.",
     "come_from": [
       "Diperoleh dari penjelajahan \"Amphoreus\"",
+      "Diperoleh dari Misi Trailblaze",
+      "Diperoleh dari Misi Petualangan"
+    ]
+  },
+  "120006": {
+    "id": "120006",
+    "name": "Arcadian Token",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/120006.png",
+    "desc": "Koin peringatan yang beredar di dalam Planarcadia, biasa disebut \"Wishbae\", dapat ditukarkan dengan hadiah di Berita Rakun.",
+    "come_from": [
+      "Diperoleh dari penjelajahan \"Planarcadia\"",
       "Diperoleh dari Misi Trailblaze",
       "Diperoleh dari Misi Petualangan"
     ]
@@ -10214,6 +10479,16 @@
     "desc": "Untuk menyelamatkan dunia, pasti diiringi keputusasaan yang membakar. Hanya dengan menghancurkannya, kita baru bisa terbebas dari obsesi.",
     "come_from": []
   },
+  "140608": {
+    "id": "140608",
+    "name": "Tangan Bulat Peri Perintis (Kanan)",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140608.png",
+    "desc": "Saat itu adalah tahun baru kalender kuno. Tahun itu adalah masa-masa sulit, rubah-rubah tidak mampu mengadakan pesta, katak-katak tidak berani bernyanyi, monyet-monyet tak lagi membahas tentang terbang, bahkan kelinci-kelinci putih sudah lama sekali tidak lewat.\n\nTapi dia datang.\n\nSeekor kelinci hitam.\n\nBerbeda dengan kelinci-kelinci yang tidak peduli pada bulan, dia memimpin teman-temannya dan mengulurkan tangannya kepada hewan-hewan kecil di sini.\n\nAh, seharusnya \"tangannya yang bulat\".",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "Foto dengan March 7th",
@@ -11404,6 +11679,58 @@
     "desc": "Sebuah gulungan ramalan. Jika diamati dengan saksama, permukaan gulungan ini ternyata ditenun dengan benang emas.\n<i>\"Di dalamnya berisi sebuah ramalan yang hanya akan terungkap kepada pembuka gulungan.\"</i>",
     "come_from": []
   },
+  "150093": {
+    "id": "150093",
+    "name": "Sertifikat Analis Kekuatan",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150093.png",
+    "desc": "Sertifikat sertifikasi profesional \"Kekuatan Galaksi\", menunjukkan bahwa orang ini telah diakui memiliki kemampuan sebagai pemain dadu profesional. Setelah diperoleh, dapat mengganti \"Dadu Prismatik\" yang berbeda untuk kartu.",
+    "come_from": [
+      "Diperoleh saat meningkatkan Level Pengalaman di gameplay Kekuatan Galaksi"
+    ]
+  },
+  "150094": {
+    "id": "150094",
+    "name": "Kisah Lemak Melayang",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/190021.png",
+    "desc": "Sepertinya ini karya peninggalan penyair yang tak dikenal di zaman kuno, masa di mana puisi belum punah di Benzaitengoku kuno.",
+    "come_from": []
+  },
+  "150095": {
+    "id": "150095",
+    "name": "Foto Kenang-kenangan \"Kekuatan Galaksi, Lempar Dadu!\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150095.png",
+    "desc": "Setelah menggunakannya di Tas, kamu bisa melihat foto bersama.",
+    "come_from": []
+  },
+  "150096": {
+    "id": "150096",
+    "name": "Foto Kenang-kenangan \"Kekuatan Galaksi, Lempar Dadu!\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150096.png",
+    "desc": "Setelah menggunakannya di Tas, kamu bisa melihat foto bersama.",
+    "come_from": []
+  },
+  "150097": {
+    "id": "150097",
+    "name": "Kontrak \"Hadiah Satu Juta\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/190002.png",
+    "desc": "Surat kontrak yang penuh dengan tulisan. Hanya dengan melihatnya saja sudah membuat mata mengantuk. Terserahlah, lagipula uang sudah di tangan. Seharusnya nanti tidak akan muncul masalah yang aneh-aneh, kan? Seharusnya sih ....",
+    "come_from": []
+  },
   "180001": {
     "id": "180001",
     "name": "Solid Water",
@@ -11699,7 +12026,8 @@
     "desc": "Material Synthesis Lv. 2",
     "come_from": [
       "Dijatuhkan Flamespawn dan musuh lainnya di \"Backwater Pass\"",
-      "Grocery Stand"
+      "Grocery Stand",
+      "Calyx (Golden)"
     ]
   },
   "181010": {
@@ -20953,6 +21281,586 @@
     "desc": "Upacara Penutupan Mimpi",
     "come_from": []
   },
+  "191961": {
+    "id": "191961",
+    "name": "Hal tentang Astral Express yang Tidak Kamu Ketahui",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Hal tentang Astral Express yang Tidak Kamu Ketahui",
+    "come_from": []
+  },
+  "191963": {
+    "id": "191963",
+    "name": "Krisis Besar Perubahan Bulan Imajinasi di Akhir Abad",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Krisis Besar Perubahan Bulan Imajinasi di Akhir Abad",
+    "come_from": []
+  },
+  "191964": {
+    "id": "191964",
+    "name": "Mandat Perlindungan Makhluk Spiritual (Edisi Kelima)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Mandat Perlindungan Makhluk Spiritual (Edisi Kelima)",
+    "come_from": []
+  },
+  "191965": {
+    "id": "191965",
+    "name": "Peraturan Manajemen Juru Imagenen",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Peraturan Manajemen Juru Imagenen",
+    "come_from": []
+  },
+  "191966": {
+    "id": "191966",
+    "name": "Pengetahuan Populer Imagenae yang Hantu Pun Bisa Paham",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Pengetahuan Populer Imagenae yang Hantu Pun Bisa Paham",
+    "come_from": []
+  },
+  "191967": {
+    "id": "191967",
+    "name": "Materi Pendidikan: Hipotesis Evolusi Imagenae Pilihan",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Materi Pendidikan: Hipotesis Evolusi Imagenae Pilihan",
+    "come_from": []
+  },
+  "191968": {
+    "id": "191968",
+    "name": "Proposal Perlindungan Wispae",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Proposal Perlindungan Wispae",
+    "come_from": []
+  },
+  "191969": {
+    "id": "191969",
+    "name": "Peraturan Manajemen Operasi Hantu",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Peraturan Manajemen Operasi Hantu",
+    "come_from": []
+  },
+  "191970": {
+    "id": "191970",
+    "name": "Sebuah Laporan Wawancara",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Sebuah Laporan Wawancara",
+    "come_from": []
+  },
+  "191971": {
+    "id": "191971",
+    "name": "Mama Lontong, Bawa Aku Bersamamu",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Mama Lontong, Bawa Aku Bersamamu",
+    "come_from": []
+  },
+  "191974": {
+    "id": "191974",
+    "name": "Kolaborasi Kopi Nirmimpi × Astral Express Dimulai!",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Kolaborasi Kopi Nirmimpi × Astral Express Dimulai!",
+    "come_from": []
+  },
+  "191976": {
+    "id": "191976",
+    "name": "Menu Minuman \"Ujung Dunia\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Menu Minuman \"Ujung Dunia\"",
+    "come_from": []
+  },
+  "191977": {
+    "id": "191977",
+    "name": "Deklarasi Bar",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Deklarasi Bar",
+    "come_from": []
+  },
+  "191978": {
+    "id": "191978",
+    "name": "Catatan Jaminan Bar",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Catatan Jaminan Bar",
+    "come_from": []
+  },
+  "191979": {
+    "id": "191979",
+    "name": "Pengakuan Dosaku",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Pengakuan Dosaku",
+    "come_from": []
+  },
+  "191980": {
+    "id": "191980",
+    "name": "Pilih Faksimu",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Pilih Faksimu",
+    "come_from": []
+  },
+  "191981": {
+    "id": "191981",
+    "name": "Surat dari Penggemar",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Surat dari Penggemar",
+    "come_from": []
+  },
+  "191982": {
+    "id": "191982",
+    "name": "Surat dari Fotografer",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Surat dari Fotografer",
+    "come_from": []
+  },
+  "191983": {
+    "id": "191983",
+    "name": "Laporan Kebahagiaan Bequea",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Laporan Kebahagiaan Bequea",
+    "come_from": []
+  },
+  "191985": {
+    "id": "191985",
+    "name": "Era Lemak Melayang",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Era Lemak Melayang",
+    "come_from": []
+  },
+  "191986": {
+    "id": "191986",
+    "name": "Kisah Lemak Melayang: Rubah 1",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Kisah Lemak Melayang: Rubah 1",
+    "come_from": []
+  },
+  "191987": {
+    "id": "191987",
+    "name": "Kisah Lemak Melayang: Katak 1",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Kisah Lemak Melayang: Katak 1",
+    "come_from": []
+  },
+  "191988": {
+    "id": "191988",
+    "name": "Kisah Lemak Melayang: Monyet 1",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Kisah Lemak Melayang: Monyet 1",
+    "come_from": []
+  },
+  "191989": {
+    "id": "191989",
+    "name": "Kisah Lemak Melayang: Kelinci 1",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Kisah Lemak Melayang: Kelinci 1",
+    "come_from": []
+  },
+  "191990": {
+    "id": "191990",
+    "name": "Surat dari Ras Moonlull yang Tak Dikenal",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Surat dari Ras Moonlull yang Tak Dikenal",
+    "come_from": []
+  },
+  "191991": {
+    "id": "191991",
+    "name": "Panduan Singkat Sampo untuk Kekuatan Galaksi",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Panduan Singkat Sampo untuk Kekuatan Galaksi",
+    "come_from": []
+  },
+  "191993": {
+    "id": "191993",
+    "name": "Pahlawan Super di Planarcadia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Pahlawan Super di Planarcadia",
+    "come_from": []
+  },
+  "191994": {
+    "id": "191994",
+    "name": "Legenda Urban: Raksasa yang Menghilang",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Legenda Urban: Raksasa yang Menghilang",
+    "come_from": []
+  },
+  "191995": {
+    "id": "191995",
+    "name": "Tokoh Elation Tahun Ini: Fulwish",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Tokoh Elation Tahun Ini: Fulwish",
+    "come_from": []
+  },
+  "191996": {
+    "id": "191996",
+    "name": "Surat Malam Musim Panas",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Surat Malam Musim Panas",
+    "come_from": []
+  },
+  "191997": {
+    "id": "191997",
+    "name": "Legenda Iblis Luar Angkasa",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Legenda Iblis Luar Angkasa",
+    "come_from": []
+  },
+  "191999": {
+    "id": "191999",
+    "name": "Kisah Supranatural Akademi (Edisi Spesial)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Kisah Supranatural Akademi (Edisi Spesial)",
+    "come_from": []
+  },
+  "192000": {
+    "id": "192000",
+    "name": "Peta Harta Karun Non-Peluang",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Peta Harta Karun Non-Peluang",
+    "come_from": []
+  },
+  "192001": {
+    "id": "192001",
+    "name": "Kliping \"Insiden Pengantar Maut\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Kliping \"Insiden Pengantar Maut\"",
+    "come_from": []
+  },
+  "192002": {
+    "id": "192002",
+    "name": "Catatan Kelas Seni (Halaman Rusak)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Catatan Kelas Seni (Halaman Rusak)",
+    "come_from": []
+  },
+  "192003": {
+    "id": "192003",
+    "name": "Selebaran Bergambar Wajah Tersenyum",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Selebaran Bergambar Wajah Tersenyum",
+    "come_from": []
+  },
+  "192004": {
+    "id": "192004",
+    "name": "Jejak Pemenang Permainan Bulan Imajinasi: Variasi Utopia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Jejak Pemenang Permainan Bulan Imajinasi: Variasi Utopia",
+    "come_from": []
+  },
+  "192005": {
+    "id": "192005",
+    "name": "Kumpulan Fabel Aha",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Kumpulan Fabel Aha",
+    "come_from": []
+  },
+  "192006": {
+    "id": "192006",
+    "name": "Surat Pengunduran Diri Bragi",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Surat Pengunduran Diri Bragi",
+    "come_from": []
+  },
+  "192007": {
+    "id": "192007",
+    "name": "Peraturan Akademi Graphia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Peraturan Akademi Graphia",
+    "come_from": []
+  },
+  "192008": {
+    "id": "192008",
+    "name": "Sumpah Gadis Sihir",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Sumpah Gadis Sihir",
+    "come_from": []
+  },
+  "192009": {
+    "id": "192009",
+    "name": "Sejarah Wajib di Sekolah Tinggi: Dunia dalam Lukisan",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Sejarah Wajib di Sekolah Tinggi: Dunia dalam Lukisan",
+    "come_from": []
+  },
+  "192010": {
+    "id": "192010",
+    "name": "Sejarah Wajib di Sekolah Tinggi: Suara Peluit Era Baru",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Sejarah Wajib di Sekolah Tinggi: Suara Peluit Era Baru",
+    "come_from": []
+  },
+  "192011": {
+    "id": "192011",
+    "name": "Jejak Pemenang Permainan Bulan Imajinasi: Alam Semesta dalam Sekejap",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Jejak Pemenang Permainan Bulan Imajinasi: Alam Semesta dalam Sekejap",
+    "come_from": []
+  },
+  "192012": {
+    "id": "192012",
+    "name": "Buku Konsep Kekuatan Galaksi: Edisi 7",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Buku Konsep Kekuatan Galaksi: Edisi 7",
+    "come_from": []
+  },
+  "192013": {
+    "id": "192013",
+    "name": "CV Orch",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "CV Orch",
+    "come_from": []
+  },
+  "192014": {
+    "id": "192014",
+    "name": "CV Ashveil",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "CV Ashveil",
+    "come_from": []
+  },
+  "192015": {
+    "id": "192015",
+    "name": "CV Rakunaga & Rakumacan",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "CV Rakunaga & Rakumacan",
+    "come_from": []
+  },
+  "192016": {
+    "id": "192016",
+    "name": "Ramalan Yao Guang",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Ramalan Yao Guang",
+    "come_from": []
+  },
+  "192017": {
+    "id": "192017",
+    "name": "Jadwal Pelajaran",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Jadwal Pelajaran",
+    "come_from": []
+  },
+  "192018": {
+    "id": "192018",
+    "name": "Kasus dan Rencana Perawatan \"Virus Sparxie\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Kasus dan Rencana Perawatan \"Virus Sparxie\"",
+    "come_from": []
+  },
+  "192019": {
+    "id": "192019",
+    "name": "Panduan Penanganan Peristiwa Tak Terduga Permainan Bulan Imajinasi",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Panduan Penanganan Peristiwa Tak Terduga Permainan Bulan Imajinasi",
+    "come_from": []
+  },
+  "192020": {
+    "id": "192020",
+    "name": "Rekam Medis: Yao Guang",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Rekam Medis: Yao Guang",
+    "come_from": []
+  },
+  "192021": {
+    "id": "192021",
+    "name": "Perjanjian Pertukaran Wishbae dan Credit",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Perjanjian Pertukaran Wishbae dan Credit",
+    "come_from": []
+  },
+  "192022": {
+    "id": "192022",
+    "name": "Arsip Singkat Korban \"Pembunuh Milenium\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Arsip Singkat Korban \"Pembunuh Milenium\"",
+    "come_from": []
+  },
+  "192023": {
+    "id": "192023",
+    "name": "Catatan Bartoli Miranda (Kutipan)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Catatan Bartoli Miranda (Kutipan)",
+    "come_from": []
+  },
+  "192024": {
+    "id": "192024",
+    "name": "Rekam Medis: Fulwish",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Rekam Medis: Fulwish",
+    "come_from": []
+  },
+  "192025": {
+    "id": "192025",
+    "name": "Buku Pengetahuan Umum: Apa Kamu Tahu Asal-Usulmu?",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Buku Pengetahuan Umum: Apa Kamu Tahu Asal-Usulmu?",
+    "come_from": []
+  },
   "210001": {
     "id": "210001",
     "name": "\"Dawn of Disaster\"",
@@ -22733,6 +23641,276 @@
     "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Nightmarish Omen\".",
     "come_from": []
   },
+  "210428": {
+    "id": "210428",
+    "name": "\"Morning, Planarcadia!\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Morning, Planarcadia!\".",
+    "come_from": []
+  },
+  "210429": {
+    "id": "210429",
+    "name": "\"Shopping Channel\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Shopping Channel\".",
+    "come_from": []
+  },
+  "210430": {
+    "id": "210430",
+    "name": "\"Daylight Diner\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Daylight Diner\".",
+    "come_from": []
+  },
+  "210431": {
+    "id": "210431",
+    "name": "\"Reasons to Live Here\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Reasons to Live Here\".",
+    "come_from": []
+  },
+  "210432": {
+    "id": "210432",
+    "name": "\"Where We Part Ways\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Where We Part Ways\".",
+    "come_from": []
+  },
+  "210433": {
+    "id": "210433",
+    "name": "\"Seeds of Artistry\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Seeds of Artistry\".",
+    "come_from": []
+  },
+  "210434": {
+    "id": "210434",
+    "name": "\"Pen-Point Fantasy\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Pen-Point Fantasy\".",
+    "come_from": []
+  },
+  "210435": {
+    "id": "210435",
+    "name": "\"Faded Memories\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Faded Memories\".",
+    "come_from": []
+  },
+  "210436": {
+    "id": "210436",
+    "name": "\"Dust and Secrets\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Dust and Secrets\".",
+    "come_from": []
+  },
+  "210437": {
+    "id": "210437",
+    "name": "\"World's End Tavern\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"World's End Tavern\".",
+    "come_from": []
+  },
+  "210438": {
+    "id": "210438",
+    "name": "\"Paramount Bliss\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Paramount Bliss\".",
+    "come_from": []
+  },
+  "210439": {
+    "id": "210439",
+    "name": "\"Savor the Moment\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Savor the Moment\".",
+    "come_from": []
+  },
+  "210440": {
+    "id": "210440",
+    "name": "\"Rare Treasure\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Rare Treasure\".",
+    "come_from": []
+  },
+  "210441": {
+    "id": "210441",
+    "name": "\"Bone Marrow\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Bone Marrow\".",
+    "come_from": []
+  },
+  "210442": {
+    "id": "210442",
+    "name": "\"Dark Alley\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Dark Alley\".",
+    "come_from": []
+  },
+  "210443": {
+    "id": "210443",
+    "name": "\"The Dark Side of Light\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"The Dark Side of Light\".",
+    "come_from": []
+  },
+  "210444": {
+    "id": "210444",
+    "name": "\"Dance Under the Moonlight\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Dance Under the Moonlight\".",
+    "come_from": []
+  },
+  "210445": {
+    "id": "210445",
+    "name": "\"Game Time!\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Game Time!\".",
+    "come_from": []
+  },
+  "210446": {
+    "id": "210446",
+    "name": "\"Up-Up-Down-Down-Left-Left-Right-Right\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Up-Up-Down-Down-Left-Left-Right-Right\".",
+    "come_from": []
+  },
+  "210447": {
+    "id": "210447",
+    "name": "\"Soaring Beyond the Skyline\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Soaring Beyond the Skyline\".",
+    "come_from": []
+  },
+  "210448": {
+    "id": "210448",
+    "name": "\"Most Wanted\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Most Wanted\".",
+    "come_from": []
+  },
+  "210449": {
+    "id": "210449",
+    "name": "\"Perfect Idol\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Perfect Idol\".",
+    "come_from": []
+  },
+  "210450": {
+    "id": "210450",
+    "name": "\"Comedy Symphony\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Disk yang dapat diputar di fonograf Express. Diperoleh secara tidak sengaja dan merupakan peninggalan orang lain. Saat melodi berputar, semua canda tawa, kenangan, sentuhan, dan emosi dari pertempuran yang mendebarkan langsung membuncah keluar. Mungkin inilah alasan mengapa zaman bergerak maju dengan cepat, tapi masih ada orang yang mengumpulkan disk.\nDisk ini merekam \"Comedy Symphony\".",
+    "come_from": []
+  },
+  "215001": {
+    "id": "215001",
+    "name": "\"Pitter-Patter\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Ada miliaran suara di alam semesta, dan setiap suara memiliki keindahan yang unik. Semoga keindahan ini senantiasa menemani telingamu dan menyejukkan hatimu.\nDisk ini merekam \"Pitter-Patter\".",
+    "come_from": []
+  },
+  "215002": {
+    "id": "215002",
+    "name": "\"Bellow\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Ada miliaran suara di alam semesta, dan setiap suara memiliki keindahan yang unik. Semoga keindahan ini senantiasa menemani telingamu dan menyejukkan hatimu.\nDisk ini merekam \"Bellow\".",
+    "come_from": []
+  },
+  "215003": {
+    "id": "215003",
+    "name": "\"Howl\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Ada miliaran suara di alam semesta, dan setiap suara memiliki keindahan yang unik. Semoga keindahan ini senantiasa menemani telingamu dan menyejukkan hatimu.\nDisk ini merekam \"Howl\".",
+    "come_from": []
+  },
+  "215004": {
+    "id": "215004",
+    "name": "\"Murmur\"",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Ada miliaran suara di alam semesta, dan setiap suara memiliki keindahan yang unik. Semoga keindahan ini senantiasa menemani telingamu dan menyejukkan hatimu.\nDisk ini merekam \"Murmur\".",
+    "come_from": []
+  },
   "220000": {
     "id": "220000",
     "name": "Seni Bahasa",
@@ -23002,6 +24180,18 @@
     "desc": "Wallpaper Ponsel dapat diganti di fitur ponsel setelah diperoleh",
     "come_from": [
       "Wallpaper ponsel yang diperoleh dari penyelesaian event \"Rumah Makan Labirin Chrysos\""
+    ]
+  },
+  "221013": {
+    "id": "221013",
+    "name": "Beratnya Balasan",
+    "type": "Usable",
+    "sub_type": "PhoneTheme",
+    "rarity": 4,
+    "icon": "icon/item/221013.png",
+    "desc": "Wallpaper Ponsel dapat diganti di fitur ponsel setelah diperoleh",
+    "come_from": [
+      "Wallpaper ponsel yang diperoleh dari Hadiah Level Bonus \"Berita Rakun\""
     ]
   },
   "222000": {
@@ -25708,6 +26898,66 @@
     "desc": "Topi berbulu dengan gaya Mem.",
     "come_from": [
       "Gaya Perintis yang diperoleh dari event \"Kenangan Berharga\" sebelumnya"
+    ]
+  },
+  "227005": {
+    "id": "227005",
+    "name": "Ah! Masa Muda!",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227005.png",
+    "desc": "Aksesori kepala yang didesain berdasarkan wispae \"Masa Muda\". Penyesalan manusia atas hal-hal yang belum tuntas di masa muda membentuk menjadi si kecil ini.",
+    "come_from": [
+      "Gaya Perintis yang diperoleh setelah event \"Kekuatan Galaksi, Lempar Dadu!\""
+    ]
+  },
+  "227006": {
+    "id": "227006",
+    "name": "Kelinci Kembang dan Jamur Api",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227006.png",
+    "desc": "Bando lucu bergaya Kelinci Kembang dan Jamur Api.",
+    "come_from": [
+      "Diperoleh dari toko \"Karunia Debu Bintang\""
+    ]
+  },
+  "227007": {
+    "id": "227007",
+    "name": "Sedang Memuat",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227007.png",
+    "desc": "Simbol \"sedang memuat\" yang umum pada sistem, dilengkapi dengan efek pencahayaan dinamis.",
+    "come_from": [
+      "Giftbox \"Aksesori Kepala Trendi\""
+    ]
+  },
+  "227008": {
+    "id": "227008",
+    "name": "Topeng Penghadap Rakun",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227008.png",
+    "desc": "Topeng origami berbentuk rakun, harus dipegang dengan hati-hati.",
+    "come_from": [
+      "Gaya Perintis yang diperoleh dari Hadiah Level Laris \"Berita Rakun\""
+    ]
+  },
+  "229001": {
+    "id": "229001",
+    "name": "Semangat Baja",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": null,
+    "desc": "Secara keseluruhan berwarna dasar hitam dengan sulaman emas, bagian kerah dan punggung dihiasi dengan motif naga, bagian dalamnya memiliki desain kancing simpul.",
+    "come_from": [
+      "Diperoleh dari toko \"Karunia Debu Bintang\""
     ]
   },
   "250001": {
@@ -29908,6 +31158,16 @@
     "desc": "Raksasa itu memikul langit dengan tenang dan menerima pemujaan serta kekaguman dari manusia — tanpa dirinya, semua makhluk hidup pasti akan binasa.",
     "come_from": []
   },
+  "253003": {
+    "id": "253003",
+    "name": "Bulan Imajinasi: Tiup-Tiup",
+    "type": "Usable",
+    "sub_type": "PersonalCard",
+    "rarity": 4,
+    "icon": "icon/item/253003.png",
+    "desc": "Hanya Bulan Imajinasi yang sedang meniup pita.",
+    "come_from": []
+  },
   "254000": {
     "id": "254000",
     "name": "Kehendak Bebas {NICKNAME}",
@@ -30452,6 +31712,827 @@
     "desc": "Aksesori kepala {TEXTJOIN#247}.",
     "come_from": []
   },
+  "264000": {
+    "id": "264000",
+    "name": "Sparxicle",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/264000.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Diperoleh dari kemajuan progres Misi Trailblaze"
+    ]
+  },
+  "264001": {
+    "id": "264001",
+    "name": "Chimera",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264002": {
+    "id": "264002",
+    "name": "Dromas",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264003": {
+    "id": "264003",
+    "name": "Camilan Kucing",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264004": {
+    "id": "264004",
+    "name": "Peri Perintis",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264005": {
+    "id": "264005",
+    "name": "Automaton Beetle",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264006": {
+    "id": "264006",
+    "name": "Grunt: Security Personnel",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264007": {
+    "id": "264007",
+    "name": "Tong Sampah",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264008": {
+    "id": "264008",
+    "name": "Rakun Gosip",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264009": {
+    "id": "264009",
+    "name": "Dreamjolt Troupe's Mr. Domescreen",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264010": {
+    "id": "264010",
+    "name": "Senior Staff: Team Leader",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264011": {
+    "id": "264011",
+    "name": "Skott",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/264011.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Diperoleh dari kemajuan progres Misi Trailblaze"
+    ]
+  },
+  "264012": {
+    "id": "264012",
+    "name": "Castorice",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264013": {
+    "id": "264013",
+    "name": "Acheron",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264014": {
+    "id": "264014",
+    "name": "Firefly",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264015": {
+    "id": "264015",
+    "name": "Robin",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264016": {
+    "id": "264016",
+    "name": "The Herta",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264017": {
+    "id": "264017",
+    "name": "Kafka",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264018": {
+    "id": "264018",
+    "name": "Aventurine",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/264018.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Lanjutkan Misi Trailblaze, selesaikan misi \"Legenda Kekuatan Galaksi\""
+    ]
+  },
+  "264019": {
+    "id": "264019",
+    "name": "March 7th",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264020": {
+    "id": "264020",
+    "name": "Dan Heng • Permansor Terrae",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264021": {
+    "id": "264021",
+    "name": "Sparxie",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/264021.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Dasar\".",
+    "come_from": [
+      "Diperoleh saat meningkatkan Level Pengalaman di gameplay Kekuatan Galaksi"
+    ]
+  },
+  "264022": {
+    "id": "264022",
+    "name": "Yao Guang",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264023": {
+    "id": "264023",
+    "name": "Cyrene",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264024": {
+    "id": "264024",
+    "name": "Phainon",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264025": {
+    "id": "264025",
+    "name": "Hyacine",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kartu yang digunakan dalam pertandingan \"Kekuatan Galaksi\", berasal dari \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264101": {
+    "id": "264101",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264201": {
+    "id": "264201",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264301": {
+    "id": "264301",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264401": {
+    "id": "264401",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264402": {
+    "id": "264402",
+    "name": "\"Evolusi Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264402.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264403": {
+    "id": "264403",
+    "name": "\"6:6 Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264403.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264404": {
+    "id": "264404",
+    "name": "\"Takdir Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264404.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264405": {
+    "id": "264405",
+    "name": "\"Pembalasan Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264405.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264406": {
+    "id": "264406",
+    "name": "\"Nasihat Dokter Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264406.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264407": {
+    "id": "264407",
+    "name": "\"Kata-kata Terakhir Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264407.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264408": {
+    "id": "264408",
+    "name": "\"Pengulangan Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264408.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264409": {
+    "id": "264409",
+    "name": "\"Kaktus Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264409.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264410": {
+    "id": "264410",
+    "name": "\"Keajaiban Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264410.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264411": {
+    "id": "264411",
+    "name": "\"Pinjaman Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264411.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264412": {
+    "id": "264412",
+    "name": "\"Perisai Bintang Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264412.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264413": {
+    "id": "264413",
+    "name": "\"Sumpah Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264413.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264416": {
+    "id": "264416",
+    "name": "\"Bilangan Prima Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264416.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264417": {
+    "id": "264417",
+    "name": "\"Tombol Merah Besar\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264417.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264418": {
+    "id": "264418",
+    "name": "\"Ilusionis Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264418.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264419": {
+    "id": "264419",
+    "name": "\"Detak Jantung Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264419.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264420": {
+    "id": "264420",
+    "name": "\"Maniak Perang Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264420.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264421": {
+    "id": "264421",
+    "name": "\"Pejudi Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264421.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli di toko Kekuatan Galaksi"
+    ]
+  },
+  "264422": {
+    "id": "264422",
+    "name": "\"Peluru Sihir Sejati\"",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264422.png",
+    "desc": "Dadu Prismatik yang dalam nan berkilau, dapat digunakan dalam pertandingan \"Kekuatan Galaksi\".",
+    "come_from": [
+      "Beli dari \"Paket Ekspansi 1\" di toko Kekuatan Galaksi"
+    ]
+  },
+  "264502": {
+    "id": "264502",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264402.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264503": {
+    "id": "264503",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264403.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264504": {
+    "id": "264504",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264404.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264505": {
+    "id": "264505",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264405.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264506": {
+    "id": "264506",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264406.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264507": {
+    "id": "264507",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264407.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264508": {
+    "id": "264508",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264408.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264509": {
+    "id": "264509",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264409.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264510": {
+    "id": "264510",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264410.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264511": {
+    "id": "264511",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264411.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264512": {
+    "id": "264512",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264412.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264513": {
+    "id": "264513",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264413.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264516": {
+    "id": "264516",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264416.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264517": {
+    "id": "264517",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264417.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264518": {
+    "id": "264518",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264418.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264519": {
+    "id": "264519",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264419.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264520": {
+    "id": "264520",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264420.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264521": {
+    "id": "264521",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264421.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264522": {
+    "id": "264522",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264422.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264996": {
+    "id": "264996",
+    "name": "Token Kekuatan",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/264996.png",
+    "desc": "Token penukaran yang digunakan di toko \"Kekuatan Galaksi\", setiap keping menunjukkan kehormatan saat bertanding.",
+    "come_from": [
+      "Diperoleh saat meningkatkan Level Pengalaman di gameplay Kekuatan Galaksi",
+      "Diperoleh setelah berduel dengan pemain lain saat menjelajahi Planarcadia"
+    ]
+  },
+  "264997": {
+    "id": "264997",
+    "name": "Token Kekuatan Penentu",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/264997.png",
+    "desc": "Token penukaran khusus yang digunakan di toko \"Kekuatan Galaksi\", diterbitkan selama event berlangsung untuk ditukarkan dengan isi \"Paket Ekspansi 1\".",
+    "come_from": [
+      "Diperoleh dengan mengikuti event \"Kekuatan Galaksi, Lempar Dadu!\""
+    ]
+  },
+  "264998": {
+    "id": "264998",
+    "name": "Debu Kekuatan",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/264998.png",
+    "desc": "Debu kristal yang beterbangan setelah pertandingan \"Kekuatan Galaksi\", konon merupakan jejak yang tertinggal ketika kehendak para pemain dadu saling bertabrakan. Kumpulkan dalam jumlah tertentu untuk membuat kartu yang dimiliki memancarkan cahaya baru.",
+    "come_from": [
+      "Diperoleh dengan mengikuti event \"Kekuatan Galaksi, Lempar Dadu!\"",
+      "Diperoleh setelah berduel dengan pemain lain saat menjelajahi Planarcadia"
+    ]
+  },
+  "264999": {
+    "id": "264999",
+    "name": "Pengalaman Kolektif",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/264999.png",
+    "desc": "Digunakan untuk meningkatkan \"Level Pengalaman\" di \"Kekuatan Galaksi\", yang mewakili pengalaman seorang pemain dadu dalam bertempur di dunia \"Kekuatan Galaksi\". Semakin tinggi pengalaman, semakin mudah untuk mendapatkan rasa hormat dari orang lain — setidaknya itulah yang terjadi di kalangan pemain dadu.",
+    "come_from": [
+      "Diperoleh dengan mengikuti event \"Kekuatan Galaksi, Lempar Dadu!\"",
+      "Diperoleh setelah berduel dengan pemain lain saat menjelajahi Planarcadia"
+    ]
+  },
   "265001": {
     "id": "265001",
     "name": "",
@@ -30932,6 +33013,16 @@
     "desc": "",
     "come_from": []
   },
+  "267001": {
+    "id": "267001",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "",
+    "come_from": []
+  },
   "270000": {
     "id": "270000",
     "name": "Always Smiling",
@@ -31272,6 +33363,16 @@
     "desc": "Sumber daya yang digunakan untuk refresh toko di \"Perang Mata Uang\". Saat sumber daya ini tersedia, refresh toko tidak akan mengonsumsi Koin Emas.",
     "come_from": []
   },
+  "281036": {
+    "id": "281036",
+    "name": "Koin Piksel",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281036.png",
+    "desc": "Koin emas yang tersebar luas di berbagai tempat di Planarcadia, dapat ditukarkan dengan barang. Perolehan mingguan dibatasi.",
+    "come_from": []
+  },
   "281037": {
     "id": "281037",
     "name": "Tiket Undangan Emas",
@@ -31350,6 +33451,26 @@
     "rarity": 4,
     "icon": "icon/item/300013.png",
     "desc": "Harta karun berharga yang hanyut di antara lautan bintang tak berujung. Kamu bisa memilih satu Light Cone khusus.",
+    "come_from": []
+  },
+  "300014": {
+    "id": "300014",
+    "name": "Pusaka Lautan Bintang",
+    "type": "Usable",
+    "sub_type": "ForceOpitonalGift",
+    "rarity": 4,
+    "icon": "icon/item/300013.png",
+    "desc": "Harta karun berharga yang hanyut di antara lautan bintang tak berujung. Kamu bisa memilih satu Light Cone khusus.",
+    "come_from": []
+  },
+  "300018": {
+    "id": "300018",
+    "name": "Memo-Keeping Light Casket",
+    "type": "Usable",
+    "sub_type": "ForceOpitonalGift",
+    "rarity": 4,
+    "icon": "icon/item/300020.png",
+    "desc": "Wadah yang digunakan oleh Garden of Recollection untuk menyimpan Light Cone. Kamu dapat memilih salah satu dari Light Cone 4★ berikut setelah membukanya:\n\"Quid Pro Quo\", \"Fermata\", \"We Are Wildfire\", \"River Flows in Spring\", \"Past and Future\", \"Woof! Walk Time!\", \"The Seriousness of Breakfast\", \"Victory In a Blink\", \"Mushy Shroomy's Adventures\"",
     "come_from": []
   },
   "300019": {
@@ -31450,6 +33571,16 @@
     "rarity": 3,
     "icon": "icon/item/300041.png",
     "desc": "Ada banyak hal aneh di alam semesta, dan kotak ini berisi produk khas dari berbagai planet. Ayo buka dan lihat. Mungkin ada sesuatu yang kamu butuhkan di dalamnya.",
+    "come_from": []
+  },
+  "300056": {
+    "id": "300056",
+    "name": "\"Amplop\" Serba Ada",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 4,
+    "icon": "icon/item/300056.png",
+    "desc": "Amplop keberuntungan berisi uang milik Yao Guang — Semoga keberuntungan selalu menyertaimu, lain kali datang lagi ya!",
     "come_from": []
   },
   "300057": {
@@ -31642,6 +33773,26 @@
     "desc": "Amplop surat yang sangat indah, berisi 1 lembar tiket yang spesial. Setelah digunakan, dapat memilih salah satu dari karakter 4★ berikut:\n\"Gallagher\", \"Misha\", \"Hanya\", \"Xueyi\"",
     "come_from": []
   },
+  "309010": {
+    "id": "309010",
+    "name": "Fateful Crossings: \"Kekuatan Galaksi, Lempar Dadu!\"",
+    "type": "Usable",
+    "sub_type": "ForceOpitonalGift",
+    "rarity": 4,
+    "icon": "icon/item/309001.png",
+    "desc": "Amplop surat yang sangat indah, berisi 1 lembar tiket yang spesial. Setelah digunakan, dapat memilih salah satu dari 22 karakter 4★.",
+    "come_from": []
+  },
+  "309011": {
+    "id": "309011",
+    "name": "Hadiah Sambutan Utopia",
+    "type": "Usable",
+    "sub_type": "ForceOpitonalGift",
+    "rarity": 5,
+    "icon": "icon/item/309001.png",
+    "desc": "Amplop indah berisi selembar tiket yang dibuat secara khusus.",
+    "come_from": []
+  },
   "310001": {
     "id": "310001",
     "name": "Herta Contract: Trailblaze Aid",
@@ -31752,6 +33903,16 @@
     "desc": "Kesepakatan untuk saling membantu yang dibuat antara Herta dan Express. Herta akan memberikan bantuan apa pun untuk membantu Express, dengan imbalan berupa barang langka yang ditemukan di sepanjang jalan perintisan.",
     "come_from": []
   },
+  "310013": {
+    "id": "310013",
+    "name": "The Herta Contract: Special Pass Refill",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 5,
+    "icon": "icon/item/310013.png",
+    "desc": "Kesepakatan untuk saling membantu yang dibuat antara Herta dan Express. Herta akan memberikan bantuan apa pun untuk membantu Express, dengan imbalan berupa barang langka yang ditemukan di sepanjang jalan perintisan.",
+    "come_from": []
+  },
   "311000": {
     "id": "311000",
     "name": "The Herta Contract: Strategic Support",
@@ -31790,6 +33951,16 @@
     "rarity": 5,
     "icon": "icon/item/311001.png",
     "desc": "Kesepakatan dukungan strategis yang dibuat antara The Herta dan Express. The Herta meningkatkan dukungan yang dia tawarkan terhadap Express untuk memastikan lebih banyak barang-barang langka yang ditemukan di sepanjang jalan perintisan.",
+    "come_from": []
+  },
+  "312001": {
+    "id": "312001",
+    "name": "Giftbox \"Aksesori Kepala Trendi\"",
+    "type": "Usable",
+    "sub_type": "PlatformBoundGift",
+    "rarity": 5,
+    "icon": "icon/item/310012.png",
+    "desc": "Buka untuk memperoleh Gaya Perintis \"Sedang Memuat\"",
     "come_from": []
   },
   "400004": {
@@ -32721,6 +34892,19 @@
       "\"Omni-Synthesizer\""
     ]
   },
+  "402036": {
+    "id": "402036",
+    "name": "Grudge Notebook",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/402036.png",
+    "desc": "Setelah digunakan, saat persentase HP karakter tim mana pun lebih rendah dari 50% untuk pertama kalinya di pertempuran berikutnya, akan memulihkan HP sebesar 50% Max HP.",
+    "come_from": [
+      "\"Omni-Synthesizer\"",
+      "Kios Akademi Graphia"
+    ]
+  },
   "403001": {
     "id": "403001",
     "name": "Disposable Kinetic Arm",
@@ -32905,6 +35089,19 @@
     "desc": "Setelah digunakan, meningkatkan 15% ATK seluruh rekan tim dan 30% DoT yang diakibatkan seluruh rekan tim di pertempuran selanjutnya.",
     "come_from": [
       "\"Omni-Synthesizer\""
+    ]
+  },
+  "403016": {
+    "id": "403016",
+    "name": "Steel Coil",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 4,
+    "icon": "icon/item/403016.png",
+    "desc": "Setelah digunakan, segera membuat seluruh rekan tim mengonsumsi HP sebesar 40% Max HP masing-masing, dan meningkatkan 40% Tingkat Elation mereka di pertempuran selanjutnya.",
+    "come_from": [
+      "\"Omni-Synthesizer\"",
+      "Minimarket ∞-11"
     ]
   },
   "404004": {
@@ -33657,6 +35854,16 @@
     "desc": "Sebaris rumus persamaan sederhana yang dapat dimasukkan ke dalam Synthesizer untuk membuka resep baru.",
     "come_from": []
   },
+  "406036": {
+    "id": "406036",
+    "name": "Resep: Grudge Notebook",
+    "type": "Usable",
+    "sub_type": "Formula",
+    "rarity": 3,
+    "icon": "icon/item/404001.png",
+    "desc": "Sebaris rumus persamaan sederhana yang dapat dimasukkan ke dalam Synthesizer untuk membuka resep baru.",
+    "come_from": []
+  },
   "407001": {
     "id": "407001",
     "name": "Resep: Disposable Kinetic Arm",
@@ -33800,6 +36007,16 @@
   "407015": {
     "id": "407015",
     "name": "Resep: Boneflute of Fish-Calling",
+    "type": "Usable",
+    "sub_type": "Formula",
+    "rarity": 4,
+    "icon": "icon/item/404001.png",
+    "desc": "Sebaris rumus persamaan sederhana yang dapat dimasukkan ke dalam Synthesizer untuk membuka resep baru.",
+    "come_from": []
+  },
+  "407016": {
+    "id": "407016",
+    "name": "Resep: Steel Coil",
     "type": "Usable",
     "sub_type": "Formula",
     "rarity": 4,
@@ -33965,6 +36182,18 @@
     "desc": "Setelah digunakan, akan meningkatkan 100 ATK seluruh rekan tim di pertempuran selanjutnya.",
     "come_from": [
       "Toko Flagship Resmi SoulGlad™ (Cabang Skysplitter)"
+    ]
+  },
+  "408210": {
+    "id": "408210",
+    "name": "Conscience",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 1,
+    "icon": "icon/item/408210.png",
+    "desc": "Setelah digunakan, segera memulihkan HP satu rekan tim yang gugur sebesar 5% Max HP-nya.",
+    "come_from": [
+      "Kios Akademi Graphia"
     ]
   },
   "408401": {
@@ -34467,6 +36696,78 @@
     "desc": "Setelah digunakan, segera memulihkan HP 1 rekan tim yang ditargetkan sebesar 20% Max HP dirinya beserta 240 HP tambahan.",
     "come_from": []
   },
+  "408443": {
+    "id": "408443",
+    "name": "Domesticated Comedic Angel",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/408443.png",
+    "desc": "Setelah digunakan, segera memulihkan 3 Poin Technique untuk rekan tim.",
+    "come_from": [
+      "Minimarket ∞-11"
+    ]
+  },
+  "408444": {
+    "id": "408444",
+    "name": "Anti-Meme Toy Box",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/408444.png",
+    "desc": "Setelah digunakan, seluruh rekan tim mengaktifkan 1 dari efek berikut di pertempuran berikutnya: ATK +35%; ATK -10%.",
+    "come_from": [
+      "Minimarket ∞-11"
+    ]
+  },
+  "408445": {
+    "id": "408445",
+    "name": "Badge Battle Robe",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/408445.png",
+    "desc": "Setelah digunakan, DEF seluruh rekan tim meningkat 25% di pertempuran berikutnya.",
+    "come_from": [
+      "Minimarket ∞-11"
+    ]
+  },
+  "408446": {
+    "id": "408446",
+    "name": "Sparxie Unlimited Edition Collectible Plushie",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/408446.png",
+    "desc": "Setelah digunakan, meningkatkan 24% CRIT DMG seluruh rekan tim di pertempuran berikutnya.",
+    "come_from": [
+      "Minimarket ∞-11"
+    ]
+  },
+  "408447": {
+    "id": "408447",
+    "name": "Cold Joke",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/408447.png",
+    "desc": "Setelah digunakan, meningkatkan 16% Ice DMG yang diakibatkan seluruh rekan tim di pertempuran berikutnya.",
+    "come_from": [
+      "Kios Akademi Graphia"
+    ]
+  },
+  "408448": {
+    "id": "408448",
+    "name": "Super Livestream Matrix",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 2,
+    "icon": "icon/item/408448.png",
+    "desc": "Setelah digunakan, segera memulihkan Energy 1 rekan tim yang ditargetkan sebesar 30% Max Energy dirinya.",
+    "come_from": [
+      "Minimarket ∞-11"
+    ]
+  },
   "408601": {
     "id": "408601",
     "name": "Belobog Sausage",
@@ -34953,6 +37254,30 @@
     "desc": "Meningkatkan 30% DEF seluruh rekan tim di pertempuran selanjutnya setelah digunakan.",
     "come_from": []
   },
+  "408642": {
+    "id": "408642",
+    "name": "Bottled Quantum Ghost",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/408642.png",
+    "desc": "Setelah digunakan, SPD seluruh musuh berkurang 15% di pertempuran berikutnya.",
+    "come_from": [
+      "Minimarket ∞-11"
+    ]
+  },
+  "408643": {
+    "id": "408643",
+    "name": "Sea Monster's Touch",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 3,
+    "icon": "icon/item/408643.png",
+    "desc": "Setelah digunakan, segera mengonsumsi HP seluruh rekan tim sebesar 5% Max HP masing-masing, dan meningkatkan 40% ATK mereka di pertempuran berikutnya.",
+    "come_from": [
+      "Kios Akademi Graphia"
+    ]
+  },
   "408801": {
     "id": "408801",
     "name": "Dreamy Cone (Three Flavors)",
@@ -34987,6 +37312,18 @@
     "desc": "Setelah digunakan, meningkatkan 10% SPD dan 30% Break Effect seluruh karakter tim di pertempuran selanjutnya.",
     "come_from": [
       "Chaletka"
+    ]
+  },
+  "408804": {
+    "id": "408804",
+    "name": "\"The Fluffy\" Multi-Functional Fan Glowstick",
+    "type": "Usable",
+    "sub_type": "Food",
+    "rarity": 4,
+    "icon": "icon/item/408804.png",
+    "desc": "Setelah digunakan, CRIT DMG seluruh rekan tim meningkat 25% di pertempuran berikutnya. Saat Aha Instant beraksi untuk pertama kalinya, CRIT DMG meningkat ekstra 25%.",
+    "come_from": [
+      "Minimarket ∞-11"
     ]
   },
   "408901": {
@@ -35047,6 +37384,18 @@
     "desc": "Alat Pencari Harta Karun yang dapat digunakan tanpa batas. Setelah digunakan, 1 Peti Harta Biasa akan ditampilkan di peta \"Amphoreus\".",
     "come_from": [
       "Diperoleh dari Hadiah Level \"Hadiah Pasang Surut\""
+    ]
+  },
+  "408906": {
+    "id": "408906",
+    "name": "Rakun Marah",
+    "type": "Usable",
+    "sub_type": "FindChest",
+    "rarity": 5,
+    "icon": "icon/item/408906.png",
+    "desc": "Alat pencari harta karun yang dapat digunakan tanpa batas. Setelah digunakan, 1 Peti Harta Biasa akan ditampilkan di peta \"Planarcadia\".",
+    "come_from": [
+      "Diperoleh dari Hadiah Level Laris \"Berita Rakun\""
     ]
   }
 }

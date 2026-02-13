@@ -222,6 +222,12 @@
     "1415": [
       "Cyrene"
     ],
+    "1501": [
+      "Sparxie"
+    ],
+    "1502": [
+      "Yao Guang"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -703,6 +709,24 @@
     ],
     "23052": [
       "This Love, Forever"
+    ],
+    "20023": [
+      "Sneering"
+    ],
+    "20024": [
+      "Lingering Tear"
+    ],
+    "21064": [
+      "Mushy Shroomy's Adventures"
+    ],
+    "21065": [
+      "Today's Good Luck"
+    ],
+    "23053": [
+      "Dazzled by a Flowery World"
+    ],
+    "23054": [
+      "When She Decided to See"
     ]
   },
   "relic_sets": {
@@ -789,6 +813,12 @@
     ],
     "128": [
       "Self-Enshrouded Recluse"
+    ],
+    "129": [
+      "Ever-Glorious Magical Girl"
+    ],
+    "130": [
+      "Diviner of Distant Reach"
     ],
     "301": [
       "Space Sealing Station"

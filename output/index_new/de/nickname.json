@@ -222,6 +222,12 @@
     "1415": [
       "Cyrene"
     ],
+    "1501": [
+      "Sparxie"
+    ],
+    "1502": [
+      "Yao Guang"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -703,6 +709,24 @@
     ],
     "23052": [
       "Liebe, so ewig wie dieser Moment"
+    ],
+    "20023": [
+      "Höhnisches Lachen"
+    ],
+    "20024": [
+      "Verweilende Träne"
+    ],
+    "21064": [
+      "Die Abenteuer des pilzigen Pilzes"
+    ],
+    "21065": [
+      "Glück des Tages"
+    ],
+    "23053": [
+      "Bezaubert von einer blumigen Welt"
+    ],
+    "23054": [
+      "Der Entschluss zu sehen"
     ]
   },
   "relic_sets": {
@@ -789,6 +813,12 @@
     ],
     "128": [
       "Sternenverhüllter Einsiedler"
+    ],
+    "129": [
+      "Magisches Mädchen mit glänzendem Verdienst"
+    ],
+    "130": [
+      "Himmelweitreichender Wahrsager"
     ],
     "301": [
       "Raumstation für Versiegelung"

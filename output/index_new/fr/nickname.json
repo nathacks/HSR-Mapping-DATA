@@ -222,6 +222,12 @@
     "1415": [
       "Cyrène"
     ],
+    "1501": [
+      "Sparxie"
+    ],
+    "1502": [
+      "Yao Guang"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -703,6 +709,24 @@
     ],
     "23052": [
       "Éternel amour"
+    ],
+    "20023": [
+      "Ricanement"
+    ],
+    "20024": [
+      "Larmes persistantes"
+    ],
+    "21064": [
+      "L'Odyssée de Champi"
+    ],
+    "21065": [
+      "Un jour de chance"
+    ],
+    "23053": [
+      "Écran d'artifice"
+    ],
+    "23054": [
+      "Lorsqu'elle décida de voir"
     ]
   },
   "relic_sets": {
@@ -789,6 +813,12 @@
     ],
     "128": [
       "Ermite des étoiles"
+    ],
+    "129": [
+      "Illustre magical girl"
+    ],
+    "130": [
+      "Oracle des horizons lointains"
     ],
     "301": [
       "Station de scellement spatial"

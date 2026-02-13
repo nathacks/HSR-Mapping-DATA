@@ -222,6 +222,12 @@
     "1415": [
       "Cirene"
     ],
+    "1501": [
+      "Chispa"
+    ],
+    "1502": [
+      "Yao Guang"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -703,6 +709,24 @@
     ],
     "23052": [
       "Amor eterno como este momento"
+    ],
+    "20023": [
+      "Risita burlona"
+    ],
+    "20024": [
+      "Las lágrimas que quedan"
+    ],
+    "21064": [
+      "Las aventuras de Champigaga"
+    ],
+    "21065": [
+      "La buena suerte de hoy"
+    ],
+    "23053": [
+      "El cautivador mundochispa"
+    ],
+    "23054": [
+      "Cuando se decidió a ver"
     ]
   },
   "relic_sets": {
@@ -789,6 +813,12 @@
     ],
     "128": [
       "Eremita aislado en las estrellas"
+    ],
+    "129": [
+      "Chica mágica de hazañas gloriosas"
+    ],
+    "130": [
+      "Adivino de alcance remoto"
     ],
     "301": [
       "Estación sellaespacios"

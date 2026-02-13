@@ -275,6 +275,30 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "20023": {
+    "id": "20023",
+    "name": "Höhnisches Lachen",
+    "rarity": 3,
+    "path": "Elation",
+    "desc": "Eine seltene, aus der Zeit destillierte Macht. All die vermeintlich unbedeutenden Momente bilden zusammen den überwältigenden Chor des Schicksals.\n\n<i>„Der Ursprung des Lachens ist ein Zähnefletschen aus Furcht und Einschüchterung.“</i>",
+    "icon": "icon/light_cone/20023.png",
+    "preview": "image/light_cone_preview/20023.png",
+    "portrait": "image/light_cone_portrait/20023.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "20024": {
+    "id": "20024",
+    "name": "Verweilende Träne",
+    "rarity": 3,
+    "path": "Elation",
+    "desc": "Eine seltene, aus der Zeit destillierte Macht. All die vermeintlich unbedeutenden Momente bilden zusammen den überwältigenden Chor des Schicksals.\n\n<i>„Die tiefste Trauer kennt keine Tränen, genauso wie höchste Freude und Schmerz dasselbe sind.“</i>",
+    "icon": "icon/light_cone/20024.png",
+    "preview": "image/light_cone_preview/20024.png",
+    "portrait": "image/light_cone_portrait/20024.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "21000": {
     "id": "21000",
     "name": "Ein Gespräch nach der OP",
@@ -1007,6 +1031,30 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "21064": {
+    "id": "21064",
+    "name": "Die Abenteuer des pilzigen Pilzes",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "<i>„Märzpilzchen, willkommen im geheimnisvollen Blumenreich! ♥“</i>\n<i>„Pilz Heng, zieh doch nicht so ein finsteres Gesicht, lächle mal!“</i>\n<i>„Graupilz, bist du schon dem Charme der großen Königin verfallen? Fantastisch!“</i>\n<i>„Und was Babbelpilz angeht – ich wähle dich, du siehst lecker aus!“</i>\n\nLauf, lauf, die Gier der Menschen ist ein bodenloser Kaninchenbau ...\nKomm schon, komm schon, lächle, werde Teil der blumigen Welt ...\n\n<i>„Willkommen bei deiner exklusiven Show: Jeder kann zu einer süßen Sparxie werden!“</i>",
+    "icon": "icon/light_cone/21064.png",
+    "preview": "image/light_cone_preview/21064.png",
+    "portrait": "image/light_cone_portrait/21064.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "21065": {
+    "id": "21065",
+    "name": "Glück des Tages",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "<i>„Meine liebe jüngere Mitschülerin, bist du dir absolut sicher?“</i>\n<i>„Hmpf, ohne Zweifel!“</i>\n<i>„Diesmal geht es um mehr als eine Dose Handcreme.“</i>\n<i>„Bei einem so simplen Spiel ... wird es doch wohl keine Überraschungen geben?“</i>\nDas rosahaarige Mädchen drehte sich um und wollte offenbar nicht weiter gestört werden.\n\n<i>„So wie die Teeblätter schwimmen, solltest du eigentlich jene Karte ausspielen, Juniorschülerin.“</i>\nDas Mädchen zog ein Los und drehte es um ...\n<i>„Oh, mein Glück hat sich gewendet.“</i>\n<i>„Noch mal, noch mal, das ist absolut unmöglich ...“</i>\n...\n\nDas Mädchen hatte vergessen, wie viele Wahrsagespiele es mit seiner Seniorschülerin gespielt hatte. Es erinnerte sich nur daran, dass sie immer bereit war, wieder und wieder zu spielen.\nSpäter wollte das Mädchen der vorbestimmten Prophezeiung entkommen und reiste trotz aller Hindernisse zur Wahrsagekommission der Luofu.\nAls es gerade erst auf der Luofu angekommen war, fand es plötzlich in den Seiten eines Wahrsagebuchs einen fein gearbeitetes Glückszeichen. Die vertraute Handschrift ließ dem Mädchen in der Fremde die Tränen in die Augen schießen:\n\n<i>„Wer sagt denn, dass das Schicksal keine zweite Möglichkeit hat? Hier, das ist mein Glücksbringer für dich!“</i>",
+    "icon": "icon/light_cone/21065.png",
+    "preview": "image/light_cone_preview/21065.png",
+    "portrait": "image/light_cone_portrait/21065.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "22000": {
     "id": "22000",
     "name": "Bevor das Tutorial beginnt",
@@ -1724,6 +1772,30 @@
     "icon": "icon/light_cone/23052.png",
     "preview": "image/light_cone_preview/23052.png",
     "portrait": "image/light_cone_portrait/23052.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23053": {
+    "id": "23053",
+    "name": "Bezaubert von einer blumigen Welt",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Wenn sie lacht, lachen die Fans.\nWenn sie traurig ist, weinen die Fans.\nWenn sie wütend ist, sind die Fans wütend.\n\n<i>„Niedlich, witzig, beliebt ... Sparxie ist das, was ich sein möchte ...“</i>\n<i>„Lasst euch nicht täuschen. Sparxie ist Gift, eine Lüge ...“</i>\n<i>„Ich werde Sparxielein für immer folgen. Sie hat mir den Mut zur Wiedergeburt gegeben ...“</i>\n<i>„Sparxie sollte aus dieser Welt verschwinden!“</i>\n...\n\nKlicks, Live-Chat, Kommentare ... In den Augen aller lodert „Sparxie“ noch heftiger.\n\n<i>„Ich habe eure freundlichen Nachrichten erhalten! Ich werde mich auf die leidenschaftlichste Art revanchieren! ♥ Zum Beispiel ...“</i>\n\nAm Ende des Livestreams zwinkert das Mädchen, als könnte sie in die Herzen aller vor dem Bildschirm blicken ...\n\n<i>„Ich gebe dir eine Chance: Würdest du dich dafür entscheiden, Sparxie zu werden?“</i>",
+    "icon": "icon/light_cone/23053.png",
+    "preview": "image/light_cone_preview/23053.png",
+    "portrait": "image/light_cone_portrait/23053.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23054": {
+    "id": "23054",
+    "name": "Der Entschluss zu sehen",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Wieder einmal betrachtete sie in der Reflexionsbarriere des Dekalichts das Schicksal, das wie ein schimmerndes Perlennetz funkelte, sich überlagerte und spiegelte, durchzogen von endloser Kausalität.\n\n<i>„Was siehst du?“</i>\nSo hatte ihr Meister sie einst gefragt.\n\nManche Wahrsager sahen ihre eigene Bedeutungslosigkeit und glaubten nicht mehr daran, dass menschliche Kraft das Schicksal ändern könnte.\nAndere sahen die Entwicklung der Zukunft voraus und fanden die optimale Lösung darin, sich ihr zu fügen.\n\nZu jener Zeit starrte das Mädchen zum Dharma und sah grenzenlose Dunkelheit, eine längst vorherbestimmte Zukunft.\nSie sah auch „Sternenlicht“ – jene schwachen Möglichkeiten, die noch nicht vom Blick der Götter verschlungen worden waren.\n\nEin Strahl dieses Sternenlichts war ihr einst durch die Finger geglitten und hatte Fanghu eine ewige Nacht hinterlassen.\nDoch sie hatte auch flüchtige Variablen ergriffen und das Schicksal von Yuque auf den Kopf gestellt.\n\n<i>„Eine hoffnungslose Situation wird nur deshalb hoffnungslos genannt, weil niemand bereit ist, dem Schicksal zu trotzen.“</i>\nSie wollte ihre eigene Antwort finden, selbst wenn sie dafür vorherbestimmtes Unheil betreten musste ...\n\n<i>„Was ich sehe, ist nicht wichtig. Wichtig ist, was ich tun kann.“</i>",
+    "icon": "icon/light_cone/23054.png",
+    "preview": "image/light_cone_preview/23054.png",
+    "portrait": "image/light_cone_portrait/23054.png",
     "max_rank": 5,
     "max_promotion": 6
   },

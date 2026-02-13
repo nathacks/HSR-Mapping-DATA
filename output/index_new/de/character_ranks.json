@@ -11,7 +11,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1001_Rank1.png"
+    "icon": "icon/skill/1001_rank1.png"
   },
   "100102": {
     "id": "100102",
@@ -25,7 +25,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1001_Rank2.png"
+    "icon": "icon/skill/1001_rank2.png"
   },
   "100103": {
     "id": "100103",
@@ -48,7 +48,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1001_Ultra.png"
+    "icon": "icon/skill/1001_ultra.png"
   },
   "100104": {
     "id": "100104",
@@ -62,7 +62,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1001_Rank4.png"
+    "icon": "icon/skill/1001_rank4.png"
   },
   "100105": {
     "id": "100105",
@@ -85,7 +85,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1001_BP.png"
+    "icon": "icon/skill/1001_bp.png"
   },
   "100106": {
     "id": "100106",
@@ -99,7 +99,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1001_Rank6.png"
+    "icon": "icon/skill/1001_rank6.png"
   },
   "100201": {
     "id": "100201",
@@ -113,7 +113,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1002_Rank1.png"
+    "icon": "icon/skill/1002_rank1.png"
   },
   "100202": {
     "id": "100202",
@@ -127,7 +127,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1002_Rank2.png"
+    "icon": "icon/skill/1002_rank2.png"
   },
   "100203": {
     "id": "100203",
@@ -150,7 +150,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1002_BP.png"
+    "icon": "icon/skill/1002_bp.png"
   },
   "100204": {
     "id": "100204",
@@ -164,7 +164,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1002_Rank4.png"
+    "icon": "icon/skill/1002_rank4.png"
   },
   "100205": {
     "id": "100205",
@@ -187,7 +187,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1002_Ultra.png"
+    "icon": "icon/skill/1002_ultra.png"
   },
   "100206": {
     "id": "100206",
@@ -201,7 +201,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1002_Rank6.png"
+    "icon": "icon/skill/1002_rank6.png"
   },
   "100301": {
     "id": "100301",
@@ -215,7 +215,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1003_Rank1.png"
+    "icon": "icon/skill/1003_rank1.png"
   },
   "100302": {
     "id": "100302",
@@ -229,7 +229,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1003_Rank2.png"
+    "icon": "icon/skill/1003_rank2.png"
   },
   "100303": {
     "id": "100303",
@@ -252,7 +252,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1003_BP.png"
+    "icon": "icon/skill/1003_bp.png"
   },
   "100304": {
     "id": "100304",
@@ -266,7 +266,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1003_Rank4.png"
+    "icon": "icon/skill/1003_rank4.png"
   },
   "100305": {
     "id": "100305",
@@ -289,7 +289,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1003_Ultra.png"
+    "icon": "icon/skill/1003_ultra.png"
   },
   "100306": {
     "id": "100306",
@@ -303,7 +303,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1003_Rank6.png"
+    "icon": "icon/skill/1003_rank6.png"
   },
   "100401": {
     "id": "100401",
@@ -317,7 +317,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1004_Rank1.png"
+    "icon": "icon/skill/1004_rank1.png"
   },
   "100402": {
     "id": "100402",
@@ -331,7 +331,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1004_Rank2.png"
+    "icon": "icon/skill/1004_rank2.png"
   },
   "100403": {
     "id": "100403",
@@ -354,7 +354,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1004_BP.png"
+    "icon": "icon/skill/1004_bp.png"
   },
   "100404": {
     "id": "100404",
@@ -368,7 +368,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1004_Rank4.png"
+    "icon": "icon/skill/1004_rank4.png"
   },
   "100405": {
     "id": "100405",
@@ -391,7 +391,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1004_Ultra.png"
+    "icon": "icon/skill/1004_ultra.png"
   },
   "100406": {
     "id": "100406",
@@ -405,7 +405,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1004_Rank6.png"
+    "icon": "icon/skill/1004_rank6.png"
   },
   "100501": {
     "id": "100501",
@@ -419,7 +419,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1005_Rank1.png"
+    "icon": "icon/skill/1005_rank1.png"
   },
   "100502": {
     "id": "100502",
@@ -433,7 +433,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1005_Rank2.png"
+    "icon": "icon/skill/1005_rank2.png"
   },
   "100503": {
     "id": "100503",
@@ -456,7 +456,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1005_BP.png"
+    "icon": "icon/skill/1005_bp.png"
   },
   "100504": {
     "id": "100504",
@@ -470,7 +470,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1005_Rank4.png"
+    "icon": "icon/skill/1005_rank4.png"
   },
   "100505": {
     "id": "100505",
@@ -493,7 +493,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1005_Ultra.png"
+    "icon": "icon/skill/1005_ultra.png"
   },
   "100506": {
     "id": "100506",
@@ -507,7 +507,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1005_Rank6.png"
+    "icon": "icon/skill/1005_rank6.png"
   },
   "100601": {
     "id": "100601",
@@ -521,7 +521,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1006_Rank1.png"
+    "icon": "icon/skill/1006_rank1.png"
   },
   "100602": {
     "id": "100602",
@@ -535,7 +535,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1006_Rank2.png"
+    "icon": "icon/skill/1006_rank2.png"
   },
   "100603": {
     "id": "100603",
@@ -558,7 +558,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1006_BP.png"
+    "icon": "icon/skill/1006_bp.png"
   },
   "100604": {
     "id": "100604",
@@ -572,7 +572,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1006_Rank4.png"
+    "icon": "icon/skill/1006_rank4.png"
   },
   "100605": {
     "id": "100605",
@@ -595,7 +595,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1006_Ultra.png"
+    "icon": "icon/skill/1006_ultra.png"
   },
   "100606": {
     "id": "100606",
@@ -609,7 +609,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1006_Rank6.png"
+    "icon": "icon/skill/1006_rank6.png"
   },
   "100801": {
     "id": "100801",
@@ -623,7 +623,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1008_Rank1.png"
+    "icon": "icon/skill/1008_rank1.png"
   },
   "100802": {
     "id": "100802",
@@ -637,7 +637,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1008_Rank2.png"
+    "icon": "icon/skill/1008_rank2.png"
   },
   "100803": {
     "id": "100803",
@@ -660,7 +660,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1008_BP.png"
+    "icon": "icon/skill/1008_bp.png"
   },
   "100804": {
     "id": "100804",
@@ -674,7 +674,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1008_Rank4.png"
+    "icon": "icon/skill/1008_rank4.png"
   },
   "100805": {
     "id": "100805",
@@ -697,7 +697,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1008_Ultra.png"
+    "icon": "icon/skill/1008_ultra.png"
   },
   "100806": {
     "id": "100806",
@@ -711,7 +711,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1008_Rank6.png"
+    "icon": "icon/skill/1008_rank6.png"
   },
   "100901": {
     "id": "100901",
@@ -725,7 +725,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1009_Rank1.png"
+    "icon": "icon/skill/1009_rank1.png"
   },
   "100902": {
     "id": "100902",
@@ -739,7 +739,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1009_Rank2.png"
+    "icon": "icon/skill/1009_rank2.png"
   },
   "100903": {
     "id": "100903",
@@ -762,7 +762,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1009_BP.png"
+    "icon": "icon/skill/1009_bp.png"
   },
   "100904": {
     "id": "100904",
@@ -776,7 +776,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1009_Rank4.png"
+    "icon": "icon/skill/1009_rank4.png"
   },
   "100905": {
     "id": "100905",
@@ -799,7 +799,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1009_Ultra.png"
+    "icon": "icon/skill/1009_ultra.png"
   },
   "100906": {
     "id": "100906",
@@ -813,7 +813,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1009_Rank6.png"
+    "icon": "icon/skill/1009_rank6.png"
   },
   "101301": {
     "id": "101301",
@@ -827,7 +827,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1013_Rank1.png"
+    "icon": "icon/skill/1013_rank1.png"
   },
   "101302": {
     "id": "101302",
@@ -841,7 +841,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1013_Rank2.png"
+    "icon": "icon/skill/1013_rank2.png"
   },
   "101303": {
     "id": "101303",
@@ -864,7 +864,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1013_BP.png"
+    "icon": "icon/skill/1013_bp.png"
   },
   "101304": {
     "id": "101304",
@@ -878,7 +878,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1013_Rank4.png"
+    "icon": "icon/skill/1013_rank4.png"
   },
   "101305": {
     "id": "101305",
@@ -901,7 +901,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1013_Ultra.png"
+    "icon": "icon/skill/1013_ultra.png"
   },
   "101306": {
     "id": "101306",
@@ -915,7 +915,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1013_Rank6.png"
+    "icon": "icon/skill/1013_rank6.png"
   },
   "101401": {
     "id": "101401",
@@ -929,7 +929,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1014_Rank1.png"
+    "icon": "icon/skill/1014_rank1.png"
   },
   "101402": {
     "id": "101402",
@@ -943,7 +943,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1014_Rank2.png"
+    "icon": "icon/skill/1014_rank2.png"
   },
   "101403": {
     "id": "101403",
@@ -970,7 +970,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1014_Ultra.png"
+    "icon": "icon/skill/1014_ultra.png"
   },
   "101404": {
     "id": "101404",
@@ -984,7 +984,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1014_Rank4.png"
+    "icon": "icon/skill/1014_rank4.png"
   },
   "101405": {
     "id": "101405",
@@ -1007,7 +1007,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1014_BP.png"
+    "icon": "icon/skill/1014_bp.png"
   },
   "101406": {
     "id": "101406",
@@ -1021,7 +1021,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1014_Rank6.png"
+    "icon": "icon/skill/1014_rank6.png"
   },
   "101501": {
     "id": "101501",
@@ -1035,7 +1035,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1015_Rank1.png"
+    "icon": "icon/skill/1015_rank1.png"
   },
   "101502": {
     "id": "101502",
@@ -1049,7 +1049,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1015_Rank2.png"
+    "icon": "icon/skill/1015_rank2.png"
   },
   "101503": {
     "id": "101503",
@@ -1072,7 +1072,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1015_BP.png"
+    "icon": "icon/skill/1015_bp.png"
   },
   "101504": {
     "id": "101504",
@@ -1086,7 +1086,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1015_Rank4.png"
+    "icon": "icon/skill/1015_rank4.png"
   },
   "101505": {
     "id": "101505",
@@ -1109,7 +1109,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1015_Ultra.png"
+    "icon": "icon/skill/1015_ultra.png"
   },
   "101506": {
     "id": "101506",
@@ -1123,7 +1123,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1015_Rank6.png"
+    "icon": "icon/skill/1015_rank6.png"
   },
   "110101": {
     "id": "110101",
@@ -1137,7 +1137,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1101_Rank1.png"
+    "icon": "icon/skill/1101_rank1.png"
   },
   "110102": {
     "id": "110102",
@@ -1151,7 +1151,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1101_Rank2.png"
+    "icon": "icon/skill/1101_rank2.png"
   },
   "110103": {
     "id": "110103",
@@ -1174,7 +1174,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1101_Ultra.png"
+    "icon": "icon/skill/1101_ultra.png"
   },
   "110104": {
     "id": "110104",
@@ -1188,7 +1188,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1101_Rank4.png"
+    "icon": "icon/skill/1101_rank4.png"
   },
   "110105": {
     "id": "110105",
@@ -1211,7 +1211,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1101_BP.png"
+    "icon": "icon/skill/1101_bp.png"
   },
   "110106": {
     "id": "110106",
@@ -1225,7 +1225,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1101_Rank6.png"
+    "icon": "icon/skill/1101_rank6.png"
   },
   "110201": {
     "id": "110201",
@@ -1239,7 +1239,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1102_Rank1.png"
+    "icon": "icon/skill/1102_rank1.png"
   },
   "110202": {
     "id": "110202",
@@ -1253,7 +1253,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1102_Rank2.png"
+    "icon": "icon/skill/1102_rank2.png"
   },
   "110203": {
     "id": "110203",
@@ -1276,7 +1276,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1102_BP.png"
+    "icon": "icon/skill/1102_bp.png"
   },
   "110204": {
     "id": "110204",
@@ -1290,7 +1290,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1102_Rank4.png"
+    "icon": "icon/skill/1102_rank4.png"
   },
   "110205": {
     "id": "110205",
@@ -1313,7 +1313,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1102_Ultra.png"
+    "icon": "icon/skill/1102_ultra.png"
   },
   "110206": {
     "id": "110206",
@@ -1327,7 +1327,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1102_Rank6.png"
+    "icon": "icon/skill/1102_rank6.png"
   },
   "110301": {
     "id": "110301",
@@ -1341,7 +1341,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1103_Rank1.png"
+    "icon": "icon/skill/1103_rank1.png"
   },
   "110302": {
     "id": "110302",
@@ -1355,7 +1355,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1103_Rank2.png"
+    "icon": "icon/skill/1103_rank2.png"
   },
   "110303": {
     "id": "110303",
@@ -1378,7 +1378,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1103_BP.png"
+    "icon": "icon/skill/1103_bp.png"
   },
   "110304": {
     "id": "110304",
@@ -1392,7 +1392,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1103_Rank4.png"
+    "icon": "icon/skill/1103_rank4.png"
   },
   "110305": {
     "id": "110305",
@@ -1415,7 +1415,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1103_Ultra.png"
+    "icon": "icon/skill/1103_ultra.png"
   },
   "110306": {
     "id": "110306",
@@ -1429,7 +1429,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1103_Rank6.png"
+    "icon": "icon/skill/1103_rank6.png"
   },
   "110401": {
     "id": "110401",
@@ -1443,7 +1443,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1104_Rank1.png"
+    "icon": "icon/skill/1104_rank1.png"
   },
   "110402": {
     "id": "110402",
@@ -1457,7 +1457,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1104_Rank2.png"
+    "icon": "icon/skill/1104_rank2.png"
   },
   "110403": {
     "id": "110403",
@@ -1480,7 +1480,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1104_Ultra.png"
+    "icon": "icon/skill/1104_ultra.png"
   },
   "110404": {
     "id": "110404",
@@ -1494,7 +1494,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1104_Rank4.png"
+    "icon": "icon/skill/1104_rank4.png"
   },
   "110405": {
     "id": "110405",
@@ -1517,7 +1517,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1104_BP.png"
+    "icon": "icon/skill/1104_bp.png"
   },
   "110406": {
     "id": "110406",
@@ -1531,7 +1531,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1104_Rank6.png"
+    "icon": "icon/skill/1104_rank6.png"
   },
   "110501": {
     "id": "110501",
@@ -1545,7 +1545,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1105_Rank1.png"
+    "icon": "icon/skill/1105_rank1.png"
   },
   "110502": {
     "id": "110502",
@@ -1559,7 +1559,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1105_Rank2.png"
+    "icon": "icon/skill/1105_rank2.png"
   },
   "110503": {
     "id": "110503",
@@ -1582,7 +1582,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1105_BP.png"
+    "icon": "icon/skill/1105_bp.png"
   },
   "110504": {
     "id": "110504",
@@ -1596,7 +1596,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1105_Rank4.png"
+    "icon": "icon/skill/1105_rank4.png"
   },
   "110505": {
     "id": "110505",
@@ -1619,7 +1619,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1105_Ultra.png"
+    "icon": "icon/skill/1105_ultra.png"
   },
   "110506": {
     "id": "110506",
@@ -1633,7 +1633,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1105_Rank6.png"
+    "icon": "icon/skill/1105_rank6.png"
   },
   "110601": {
     "id": "110601",
@@ -1647,7 +1647,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1106_Rank1.png"
+    "icon": "icon/skill/1106_rank1.png"
   },
   "110602": {
     "id": "110602",
@@ -1661,7 +1661,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1106_Rank2.png"
+    "icon": "icon/skill/1106_rank2.png"
   },
   "110603": {
     "id": "110603",
@@ -1684,7 +1684,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1106_BP.png"
+    "icon": "icon/skill/1106_bp.png"
   },
   "110604": {
     "id": "110604",
@@ -1698,7 +1698,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1106_Rank4.png"
+    "icon": "icon/skill/1106_rank4.png"
   },
   "110605": {
     "id": "110605",
@@ -1721,7 +1721,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1106_Ultra.png"
+    "icon": "icon/skill/1106_ultra.png"
   },
   "110606": {
     "id": "110606",
@@ -1735,7 +1735,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1106_Rank6.png"
+    "icon": "icon/skill/1106_rank6.png"
   },
   "110701": {
     "id": "110701",
@@ -1749,7 +1749,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1107_Rank1.png"
+    "icon": "icon/skill/1107_rank1.png"
   },
   "110702": {
     "id": "110702",
@@ -1763,7 +1763,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1107_Rank2.png"
+    "icon": "icon/skill/1107_rank2.png"
   },
   "110703": {
     "id": "110703",
@@ -1786,7 +1786,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1107_BP.png"
+    "icon": "icon/skill/1107_bp.png"
   },
   "110704": {
     "id": "110704",
@@ -1800,7 +1800,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1107_Rank4.png"
+    "icon": "icon/skill/1107_rank4.png"
   },
   "110705": {
     "id": "110705",
@@ -1823,7 +1823,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1107_Ultra.png"
+    "icon": "icon/skill/1107_ultra.png"
   },
   "110706": {
     "id": "110706",
@@ -1837,7 +1837,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1107_Rank6.png"
+    "icon": "icon/skill/1107_rank6.png"
   },
   "110801": {
     "id": "110801",
@@ -1851,7 +1851,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1108_Rank1.png"
+    "icon": "icon/skill/1108_rank1.png"
   },
   "110802": {
     "id": "110802",
@@ -1865,7 +1865,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1108_Rank2.png"
+    "icon": "icon/skill/1108_rank2.png"
   },
   "110803": {
     "id": "110803",
@@ -1888,7 +1888,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1108_BP.png"
+    "icon": "icon/skill/1108_bp.png"
   },
   "110804": {
     "id": "110804",
@@ -1902,7 +1902,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1108_Rank4.png"
+    "icon": "icon/skill/1108_rank4.png"
   },
   "110805": {
     "id": "110805",
@@ -1925,7 +1925,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1108_Ultra.png"
+    "icon": "icon/skill/1108_ultra.png"
   },
   "110806": {
     "id": "110806",
@@ -1939,7 +1939,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1108_Rank6.png"
+    "icon": "icon/skill/1108_rank6.png"
   },
   "110901": {
     "id": "110901",
@@ -1953,7 +1953,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1109_Rank1.png"
+    "icon": "icon/skill/1109_rank1.png"
   },
   "110902": {
     "id": "110902",
@@ -1967,7 +1967,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1109_Rank2.png"
+    "icon": "icon/skill/1109_rank2.png"
   },
   "110903": {
     "id": "110903",
@@ -1994,7 +1994,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1109_BP.png"
+    "icon": "icon/skill/1109_bp.png"
   },
   "110904": {
     "id": "110904",
@@ -2008,7 +2008,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1109_Rank4.png"
+    "icon": "icon/skill/1109_rank4.png"
   },
   "110905": {
     "id": "110905",
@@ -2031,7 +2031,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1109_Ultra.png"
+    "icon": "icon/skill/1109_ultra.png"
   },
   "110906": {
     "id": "110906",
@@ -2045,7 +2045,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1109_Rank6.png"
+    "icon": "icon/skill/1109_rank6.png"
   },
   "111001": {
     "id": "111001",
@@ -2059,7 +2059,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1110_Rank1.png"
+    "icon": "icon/skill/1110_rank1.png"
   },
   "111002": {
     "id": "111002",
@@ -2073,7 +2073,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1110_Rank2.png"
+    "icon": "icon/skill/1110_rank2.png"
   },
   "111003": {
     "id": "111003",
@@ -2096,7 +2096,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1110_BP.png"
+    "icon": "icon/skill/1110_bp.png"
   },
   "111004": {
     "id": "111004",
@@ -2110,7 +2110,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1110_Rank4.png"
+    "icon": "icon/skill/1110_rank4.png"
   },
   "111005": {
     "id": "111005",
@@ -2133,7 +2133,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1110_Ultra.png"
+    "icon": "icon/skill/1110_ultra.png"
   },
   "111006": {
     "id": "111006",
@@ -2147,7 +2147,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1110_Rank6.png"
+    "icon": "icon/skill/1110_rank6.png"
   },
   "111101": {
     "id": "111101",
@@ -2161,7 +2161,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1111_Rank1.png"
+    "icon": "icon/skill/1111_rank1.png"
   },
   "111102": {
     "id": "111102",
@@ -2175,7 +2175,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1111_Rank2.png"
+    "icon": "icon/skill/1111_rank2.png"
   },
   "111103": {
     "id": "111103",
@@ -2198,7 +2198,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1111_BP.png"
+    "icon": "icon/skill/1111_bp.png"
   },
   "111104": {
     "id": "111104",
@@ -2212,7 +2212,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1111_Rank4.png"
+    "icon": "icon/skill/1111_rank4.png"
   },
   "111105": {
     "id": "111105",
@@ -2239,7 +2239,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1111_Ultra.png"
+    "icon": "icon/skill/1111_ultra.png"
   },
   "111106": {
     "id": "111106",
@@ -2253,7 +2253,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1111_Rank6.png"
+    "icon": "icon/skill/1111_rank6.png"
   },
   "111201": {
     "id": "111201",
@@ -2267,7 +2267,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1112_Rank1.png"
+    "icon": "icon/skill/1112_rank1.png"
   },
   "111202": {
     "id": "111202",
@@ -2281,7 +2281,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1112_Rank2.png"
+    "icon": "icon/skill/1112_rank2.png"
   },
   "111203": {
     "id": "111203",
@@ -2304,7 +2304,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1112_BP.png"
+    "icon": "icon/skill/1112_bp.png"
   },
   "111204": {
     "id": "111204",
@@ -2318,7 +2318,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1112_Rank4.png"
+    "icon": "icon/skill/1112_rank4.png"
   },
   "111205": {
     "id": "111205",
@@ -2341,7 +2341,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1112_Ultra.png"
+    "icon": "icon/skill/1112_ultra.png"
   },
   "111206": {
     "id": "111206",
@@ -2355,7 +2355,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1112_Rank6.png"
+    "icon": "icon/skill/1112_rank6.png"
   },
   "120101": {
     "id": "120101",
@@ -2369,7 +2369,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1201_Rank1.png"
+    "icon": "icon/skill/1201_rank1.png"
   },
   "120102": {
     "id": "120102",
@@ -2383,7 +2383,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1201_Rank2.png"
+    "icon": "icon/skill/1201_rank2.png"
   },
   "120103": {
     "id": "120103",
@@ -2406,7 +2406,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1201_Ultra.png"
+    "icon": "icon/skill/1201_ultra.png"
   },
   "120104": {
     "id": "120104",
@@ -2420,7 +2420,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1201_Rank4.png"
+    "icon": "icon/skill/1201_rank4.png"
   },
   "120105": {
     "id": "120105",
@@ -2447,7 +2447,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1201_BP.png"
+    "icon": "icon/skill/1201_bp.png"
   },
   "120106": {
     "id": "120106",
@@ -2461,7 +2461,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1201_Rank6.png"
+    "icon": "icon/skill/1201_rank6.png"
   },
   "120201": {
     "id": "120201",
@@ -2475,7 +2475,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1202_Rank1.png"
+    "icon": "icon/skill/1202_rank1.png"
   },
   "120202": {
     "id": "120202",
@@ -2489,7 +2489,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1202_Rank2.png"
+    "icon": "icon/skill/1202_rank2.png"
   },
   "120203": {
     "id": "120203",
@@ -2512,7 +2512,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1202_Ultra.png"
+    "icon": "icon/skill/1202_ultra.png"
   },
   "120204": {
     "id": "120204",
@@ -2526,7 +2526,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1202_Rank4.png"
+    "icon": "icon/skill/1202_rank4.png"
   },
   "120205": {
     "id": "120205",
@@ -2549,7 +2549,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1202_BP.png"
+    "icon": "icon/skill/1202_bp.png"
   },
   "120206": {
     "id": "120206",
@@ -2563,7 +2563,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1202_Rank6.png"
+    "icon": "icon/skill/1202_rank6.png"
   },
   "120301": {
     "id": "120301",
@@ -2577,7 +2577,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1203_Rank1.png"
+    "icon": "icon/skill/1203_rank1.png"
   },
   "120302": {
     "id": "120302",
@@ -2591,7 +2591,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1203_Rank2.png"
+    "icon": "icon/skill/1203_rank2.png"
   },
   "120303": {
     "id": "120303",
@@ -2614,7 +2614,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1203_BP.png"
+    "icon": "icon/skill/1203_bp.png"
   },
   "120304": {
     "id": "120304",
@@ -2628,7 +2628,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1203_Rank4.png"
+    "icon": "icon/skill/1203_rank4.png"
   },
   "120305": {
     "id": "120305",
@@ -2651,7 +2651,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1203_Ultra.png"
+    "icon": "icon/skill/1203_ultra.png"
   },
   "120306": {
     "id": "120306",
@@ -2665,7 +2665,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1203_Rank6.png"
+    "icon": "icon/skill/1203_rank6.png"
   },
   "120401": {
     "id": "120401",
@@ -2679,7 +2679,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1204_Rank1.png"
+    "icon": "icon/skill/1204_rank1.png"
   },
   "120402": {
     "id": "120402",
@@ -2693,7 +2693,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1204_Rank2.png"
+    "icon": "icon/skill/1204_rank2.png"
   },
   "120403": {
     "id": "120403",
@@ -2716,7 +2716,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1204_Ultra.png"
+    "icon": "icon/skill/1204_ultra.png"
   },
   "120404": {
     "id": "120404",
@@ -2730,7 +2730,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1204_Rank4.png"
+    "icon": "icon/skill/1204_rank4.png"
   },
   "120405": {
     "id": "120405",
@@ -2753,7 +2753,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1204_BP.png"
+    "icon": "icon/skill/1204_bp.png"
   },
   "120406": {
     "id": "120406",
@@ -2767,7 +2767,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1204_Rank6.png"
+    "icon": "icon/skill/1204_rank6.png"
   },
   "120501": {
     "id": "120501",
@@ -2781,7 +2781,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1205_Rank1.png"
+    "icon": "icon/skill/1205_rank1.png"
   },
   "120502": {
     "id": "120502",
@@ -2795,7 +2795,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1205_Rank2.png"
+    "icon": "icon/skill/1205_rank2.png"
   },
   "120503": {
     "id": "120503",
@@ -2818,7 +2818,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1205_Ultra.png"
+    "icon": "icon/skill/1205_ultra.png"
   },
   "120504": {
     "id": "120504",
@@ -2832,7 +2832,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1205_Rank4.png"
+    "icon": "icon/skill/1205_rank4.png"
   },
   "120505": {
     "id": "120505",
@@ -2859,7 +2859,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1205_BP.png"
+    "icon": "icon/skill/1205_bp.png"
   },
   "120506": {
     "id": "120506",
@@ -2873,7 +2873,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1205_Rank6.png"
+    "icon": "icon/skill/1205_rank6.png"
   },
   "120601": {
     "id": "120601",
@@ -2887,7 +2887,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1206_Rank1.png"
+    "icon": "icon/skill/1206_rank1.png"
   },
   "120602": {
     "id": "120602",
@@ -2901,7 +2901,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1206_Rank2.png"
+    "icon": "icon/skill/1206_rank2.png"
   },
   "120603": {
     "id": "120603",
@@ -2924,7 +2924,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1206_Ultra.png"
+    "icon": "icon/skill/1206_ultra.png"
   },
   "120604": {
     "id": "120604",
@@ -2938,7 +2938,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1206_Rank4.png"
+    "icon": "icon/skill/1206_rank4.png"
   },
   "120605": {
     "id": "120605",
@@ -2961,7 +2961,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1206_BP.png"
+    "icon": "icon/skill/1206_bp.png"
   },
   "120606": {
     "id": "120606",
@@ -2975,7 +2975,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1206_Rank6.png"
+    "icon": "icon/skill/1206_rank6.png"
   },
   "120701": {
     "id": "120701",
@@ -2989,7 +2989,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1207_Rank1.png"
+    "icon": "icon/skill/1207_rank1.png"
   },
   "120702": {
     "id": "120702",
@@ -3003,7 +3003,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1207_Rank2.png"
+    "icon": "icon/skill/1207_rank2.png"
   },
   "120703": {
     "id": "120703",
@@ -3026,7 +3026,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1207_BP.png"
+    "icon": "icon/skill/1207_bp.png"
   },
   "120704": {
     "id": "120704",
@@ -3040,7 +3040,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1207_Rank4.png"
+    "icon": "icon/skill/1207_rank4.png"
   },
   "120705": {
     "id": "120705",
@@ -3063,7 +3063,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1207_Ultra.png"
+    "icon": "icon/skill/1207_ultra.png"
   },
   "120706": {
     "id": "120706",
@@ -3077,7 +3077,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1207_Rank6.png"
+    "icon": "icon/skill/1207_rank6.png"
   },
   "120801": {
     "id": "120801",
@@ -3091,7 +3091,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1208_Rank1.png"
+    "icon": "icon/skill/1208_rank1.png"
   },
   "120802": {
     "id": "120802",
@@ -3105,7 +3105,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1208_Rank2.png"
+    "icon": "icon/skill/1208_rank2.png"
   },
   "120803": {
     "id": "120803",
@@ -3128,7 +3128,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1208_BP.png"
+    "icon": "icon/skill/1208_bp.png"
   },
   "120804": {
     "id": "120804",
@@ -3142,7 +3142,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1208_Rank4.png"
+    "icon": "icon/skill/1208_rank4.png"
   },
   "120805": {
     "id": "120805",
@@ -3165,7 +3165,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1208_Ultra.png"
+    "icon": "icon/skill/1208_ultra.png"
   },
   "120806": {
     "id": "120806",
@@ -3179,7 +3179,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1208_Rank6.png"
+    "icon": "icon/skill/1208_rank6.png"
   },
   "120901": {
     "id": "120901",
@@ -3193,7 +3193,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1209_Rank1.png"
+    "icon": "icon/skill/1209_rank1.png"
   },
   "120902": {
     "id": "120902",
@@ -3207,7 +3207,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1209_Rank2.png"
+    "icon": "icon/skill/1209_rank2.png"
   },
   "120903": {
     "id": "120903",
@@ -3230,7 +3230,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1209_BP.png"
+    "icon": "icon/skill/1209_bp.png"
   },
   "120904": {
     "id": "120904",
@@ -3244,7 +3244,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1209_Rank4.png"
+    "icon": "icon/skill/1209_rank4.png"
   },
   "120905": {
     "id": "120905",
@@ -3267,7 +3267,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1209_Ultra.png"
+    "icon": "icon/skill/1209_ultra.png"
   },
   "120906": {
     "id": "120906",
@@ -3281,7 +3281,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1209_Rank6.png"
+    "icon": "icon/skill/1209_rank6.png"
   },
   "121001": {
     "id": "121001",
@@ -3295,7 +3295,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1210_Rank1.png"
+    "icon": "icon/skill/1210_rank1.png"
   },
   "121002": {
     "id": "121002",
@@ -3309,7 +3309,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1210_Rank2.png"
+    "icon": "icon/skill/1210_rank2.png"
   },
   "121003": {
     "id": "121003",
@@ -3332,7 +3332,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1210_BP.png"
+    "icon": "icon/skill/1210_bp.png"
   },
   "121004": {
     "id": "121004",
@@ -3346,7 +3346,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1210_Rank4.png"
+    "icon": "icon/skill/1210_rank4.png"
   },
   "121005": {
     "id": "121005",
@@ -3369,7 +3369,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1210_Ultra.png"
+    "icon": "icon/skill/1210_ultra.png"
   },
   "121006": {
     "id": "121006",
@@ -3383,7 +3383,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1210_Rank6.png"
+    "icon": "icon/skill/1210_rank6.png"
   },
   "121101": {
     "id": "121101",
@@ -3397,7 +3397,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1211_Rank1.png"
+    "icon": "icon/skill/1211_rank1.png"
   },
   "121102": {
     "id": "121102",
@@ -3411,7 +3411,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1211_Rank2.png"
+    "icon": "icon/skill/1211_rank2.png"
   },
   "121103": {
     "id": "121103",
@@ -3434,7 +3434,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1211_BP.png"
+    "icon": "icon/skill/1211_bp.png"
   },
   "121104": {
     "id": "121104",
@@ -3448,7 +3448,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1211_Rank4.png"
+    "icon": "icon/skill/1211_rank4.png"
   },
   "121105": {
     "id": "121105",
@@ -3471,7 +3471,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1211_Ultra.png"
+    "icon": "icon/skill/1211_ultra.png"
   },
   "121106": {
     "id": "121106",
@@ -3485,7 +3485,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1211_Rank6.png"
+    "icon": "icon/skill/1211_rank6.png"
   },
   "121201": {
     "id": "121201",
@@ -3499,7 +3499,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1212_Rank1.png"
+    "icon": "icon/skill/1212_rank1.png"
   },
   "121202": {
     "id": "121202",
@@ -3513,7 +3513,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1212_Rank2.png"
+    "icon": "icon/skill/1212_rank2.png"
   },
   "121203": {
     "id": "121203",
@@ -3536,7 +3536,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1212_Ultra.png"
+    "icon": "icon/skill/1212_ultra.png"
   },
   "121204": {
     "id": "121204",
@@ -3550,7 +3550,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1212_Rank4.png"
+    "icon": "icon/skill/1212_rank4.png"
   },
   "121205": {
     "id": "121205",
@@ -3577,7 +3577,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1212_BP.png"
+    "icon": "icon/skill/1212_bp.png"
   },
   "121206": {
     "id": "121206",
@@ -3591,7 +3591,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1212_Rank6.png"
+    "icon": "icon/skill/1212_rank6.png"
   },
   "121301": {
     "id": "121301",
@@ -3605,7 +3605,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1213_Rank1.png"
+    "icon": "icon/skill/1213_rank1.png"
   },
   "121302": {
     "id": "121302",
@@ -3619,7 +3619,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1213_Rank2.png"
+    "icon": "icon/skill/1213_rank2.png"
   },
   "121303": {
     "id": "121303",
@@ -3654,7 +3654,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1213_BP.png"
+    "icon": "icon/skill/1213_bp.png"
   },
   "121304": {
     "id": "121304",
@@ -3668,7 +3668,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1213_Rank4.png"
+    "icon": "icon/skill/1213_rank4.png"
   },
   "121305": {
     "id": "121305",
@@ -3691,7 +3691,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1213_Ultra.png"
+    "icon": "icon/skill/1213_ultra.png"
   },
   "121306": {
     "id": "121306",
@@ -3705,7 +3705,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1213_Rank6.png"
+    "icon": "icon/skill/1213_rank6.png"
   },
   "121401": {
     "id": "121401",
@@ -3719,7 +3719,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1214_Rank1.png"
+    "icon": "icon/skill/1214_rank1.png"
   },
   "121402": {
     "id": "121402",
@@ -3733,7 +3733,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1214_Rank2.png"
+    "icon": "icon/skill/1214_rank2.png"
   },
   "121403": {
     "id": "121403",
@@ -3756,7 +3756,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1214_BP.png"
+    "icon": "icon/skill/1214_bp.png"
   },
   "121404": {
     "id": "121404",
@@ -3770,7 +3770,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1214_Rank4.png"
+    "icon": "icon/skill/1214_rank4.png"
   },
   "121405": {
     "id": "121405",
@@ -3793,7 +3793,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1214_Ultra.png"
+    "icon": "icon/skill/1214_ultra.png"
   },
   "121406": {
     "id": "121406",
@@ -3807,7 +3807,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1214_Rank6.png"
+    "icon": "icon/skill/1214_rank6.png"
   },
   "121501": {
     "id": "121501",
@@ -3821,7 +3821,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1215_Rank1.png"
+    "icon": "icon/skill/1215_rank1.png"
   },
   "121502": {
     "id": "121502",
@@ -3835,7 +3835,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1215_Rank2.png"
+    "icon": "icon/skill/1215_rank2.png"
   },
   "121503": {
     "id": "121503",
@@ -3858,7 +3858,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1215_BP.png"
+    "icon": "icon/skill/1215_bp.png"
   },
   "121504": {
     "id": "121504",
@@ -3872,7 +3872,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1215_Rank4.png"
+    "icon": "icon/skill/1215_rank4.png"
   },
   "121505": {
     "id": "121505",
@@ -3895,7 +3895,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1215_Ultra.png"
+    "icon": "icon/skill/1215_ultra.png"
   },
   "121506": {
     "id": "121506",
@@ -3909,7 +3909,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1215_Rank6.png"
+    "icon": "icon/skill/1215_rank6.png"
   },
   "121701": {
     "id": "121701",
@@ -3923,7 +3923,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1217_Rank1.png"
+    "icon": "icon/skill/1217_rank1.png"
   },
   "121702": {
     "id": "121702",
@@ -3937,7 +3937,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1217_Rank2.png"
+    "icon": "icon/skill/1217_rank2.png"
   },
   "121703": {
     "id": "121703",
@@ -3960,7 +3960,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1217_Ultra.png"
+    "icon": "icon/skill/1217_ultra.png"
   },
   "121704": {
     "id": "121704",
@@ -3974,7 +3974,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1217_Rank4.png"
+    "icon": "icon/skill/1217_rank4.png"
   },
   "121705": {
     "id": "121705",
@@ -3997,7 +3997,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1217_BP.png"
+    "icon": "icon/skill/1217_bp.png"
   },
   "121706": {
     "id": "121706",
@@ -4011,7 +4011,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1217_Rank6.png"
+    "icon": "icon/skill/1217_rank6.png"
   },
   "121801": {
     "id": "121801",
@@ -4025,7 +4025,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1218_Rank1.png"
+    "icon": "icon/skill/1218_rank1.png"
   },
   "121802": {
     "id": "121802",
@@ -4039,7 +4039,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1218_Rank2.png"
+    "icon": "icon/skill/1218_rank2.png"
   },
   "121803": {
     "id": "121803",
@@ -4062,7 +4062,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1218_BP.png"
+    "icon": "icon/skill/1218_bp.png"
   },
   "121804": {
     "id": "121804",
@@ -4076,7 +4076,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1218_Rank4.png"
+    "icon": "icon/skill/1218_rank4.png"
   },
   "121805": {
     "id": "121805",
@@ -4099,7 +4099,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1218_Ultra.png"
+    "icon": "icon/skill/1218_ultra.png"
   },
   "121806": {
     "id": "121806",
@@ -4113,7 +4113,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1218_Rank6.png"
+    "icon": "icon/skill/1218_rank6.png"
   },
   "122001": {
     "id": "122001",
@@ -4127,7 +4127,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1220_Rank1.png"
+    "icon": "icon/skill/1220_rank1.png"
   },
   "122002": {
     "id": "122002",
@@ -4141,7 +4141,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1220_Rank2.png"
+    "icon": "icon/skill/1220_rank2.png"
   },
   "122003": {
     "id": "122003",
@@ -4176,7 +4176,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1220_Ultra.png"
+    "icon": "icon/skill/1220_ultra.png"
   },
   "122004": {
     "id": "122004",
@@ -4190,7 +4190,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1220_Rank4.png"
+    "icon": "icon/skill/1220_rank4.png"
   },
   "122005": {
     "id": "122005",
@@ -4213,7 +4213,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1220_BP.png"
+    "icon": "icon/skill/1220_bp.png"
   },
   "122006": {
     "id": "122006",
@@ -4227,7 +4227,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1220_Rank6.png"
+    "icon": "icon/skill/1220_rank6.png"
   },
   "122101": {
     "id": "122101",
@@ -4241,7 +4241,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1221_Rank1.png"
+    "icon": "icon/skill/1221_rank1.png"
   },
   "122102": {
     "id": "122102",
@@ -4255,7 +4255,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1221_Rank2.png"
+    "icon": "icon/skill/1221_rank2.png"
   },
   "122103": {
     "id": "122103",
@@ -4278,7 +4278,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1221_Ultra.png"
+    "icon": "icon/skill/1221_ultra.png"
   },
   "122104": {
     "id": "122104",
@@ -4292,7 +4292,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1221_Rank4.png"
+    "icon": "icon/skill/1221_rank4.png"
   },
   "122105": {
     "id": "122105",
@@ -4315,7 +4315,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1221_BP.png"
+    "icon": "icon/skill/1221_bp.png"
   },
   "122106": {
     "id": "122106",
@@ -4329,7 +4329,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1221_Rank6.png"
+    "icon": "icon/skill/1221_rank6.png"
   },
   "122201": {
     "id": "122201",
@@ -4343,7 +4343,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1222_Rank1.png"
+    "icon": "icon/skill/1222_rank1.png"
   },
   "122202": {
     "id": "122202",
@@ -4357,7 +4357,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1222_Rank2.png"
+    "icon": "icon/skill/1222_rank2.png"
   },
   "122203": {
     "id": "122203",
@@ -4380,7 +4380,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1222_Ultra.png"
+    "icon": "icon/skill/1222_ultra.png"
   },
   "122204": {
     "id": "122204",
@@ -4394,7 +4394,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1222_Rank4.png"
+    "icon": "icon/skill/1222_rank4.png"
   },
   "122205": {
     "id": "122205",
@@ -4417,7 +4417,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1222_BP.png"
+    "icon": "icon/skill/1222_bp.png"
   },
   "122206": {
     "id": "122206",
@@ -4431,7 +4431,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1222_Rank6.png"
+    "icon": "icon/skill/1222_rank6.png"
   },
   "122301": {
     "id": "122301",
@@ -4445,7 +4445,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1223_Rank1.png"
+    "icon": "icon/skill/1223_rank1.png"
   },
   "122302": {
     "id": "122302",
@@ -4459,7 +4459,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1223_Rank2.png"
+    "icon": "icon/skill/1223_rank2.png"
   },
   "122303": {
     "id": "122303",
@@ -4482,7 +4482,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1223_Ultra.png"
+    "icon": "icon/skill/1223_ultra.png"
   },
   "122304": {
     "id": "122304",
@@ -4496,7 +4496,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1223_Rank4.png"
+    "icon": "icon/skill/1223_rank4.png"
   },
   "122305": {
     "id": "122305",
@@ -4519,7 +4519,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1223_BP.png"
+    "icon": "icon/skill/1223_bp.png"
   },
   "122306": {
     "id": "122306",
@@ -4533,7 +4533,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1223_Rank6.png"
+    "icon": "icon/skill/1223_rank6.png"
   },
   "122401": {
     "id": "122401",
@@ -4547,7 +4547,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1224_Rank1.png"
+    "icon": "icon/skill/1224_rank1.png"
   },
   "122402": {
     "id": "122402",
@@ -4561,7 +4561,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1224_Rank2.png"
+    "icon": "icon/skill/1224_rank2.png"
   },
   "122403": {
     "id": "122403",
@@ -4588,7 +4588,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1224_BP.png"
+    "icon": "icon/skill/1224_bp.png"
   },
   "122404": {
     "id": "122404",
@@ -4602,7 +4602,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1224_Rank4.png"
+    "icon": "icon/skill/1224_rank4.png"
   },
   "122405": {
     "id": "122405",
@@ -4625,7 +4625,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1224_Ultra.png"
+    "icon": "icon/skill/1224_ultra.png"
   },
   "122406": {
     "id": "122406",
@@ -4639,7 +4639,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1224_Rank6.png"
+    "icon": "icon/skill/1224_rank6.png"
   },
   "122501": {
     "id": "122501",
@@ -4653,7 +4653,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1225_Rank1.png"
+    "icon": "icon/skill/1225_rank1.png"
   },
   "122502": {
     "id": "122502",
@@ -4667,7 +4667,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1225_Rank2.png"
+    "icon": "icon/skill/1225_rank2.png"
   },
   "122503": {
     "id": "122503",
@@ -4694,7 +4694,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1225_BP.png"
+    "icon": "icon/skill/1225_bp.png"
   },
   "122504": {
     "id": "122504",
@@ -4708,7 +4708,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1225_Rank4.png"
+    "icon": "icon/skill/1225_rank4.png"
   },
   "122505": {
     "id": "122505",
@@ -4731,7 +4731,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1225_Ultra.png"
+    "icon": "icon/skill/1225_ultra.png"
   },
   "122506": {
     "id": "122506",
@@ -4745,7 +4745,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1225_Rank6.png"
+    "icon": "icon/skill/1225_rank6.png"
   },
   "130101": {
     "id": "130101",
@@ -4759,7 +4759,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1301_Rank1.png"
+    "icon": "icon/skill/1301_rank1.png"
   },
   "130102": {
     "id": "130102",
@@ -4773,7 +4773,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1301_Rank2.png"
+    "icon": "icon/skill/1301_rank2.png"
   },
   "130103": {
     "id": "130103",
@@ -4800,7 +4800,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1301_BP.png"
+    "icon": "icon/skill/1301_bp.png"
   },
   "130104": {
     "id": "130104",
@@ -4814,7 +4814,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1301_Rank4.png"
+    "icon": "icon/skill/1301_rank4.png"
   },
   "130105": {
     "id": "130105",
@@ -4837,7 +4837,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1301_Ultra.png"
+    "icon": "icon/skill/1301_ultra.png"
   },
   "130106": {
     "id": "130106",
@@ -4851,7 +4851,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1301_Rank6.png"
+    "icon": "icon/skill/1301_rank6.png"
   },
   "130201": {
     "id": "130201",
@@ -4865,7 +4865,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1302_Rank1.png"
+    "icon": "icon/skill/1302_rank1.png"
   },
   "130202": {
     "id": "130202",
@@ -4879,7 +4879,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1302_Rank2.png"
+    "icon": "icon/skill/1302_rank2.png"
   },
   "130203": {
     "id": "130203",
@@ -4902,7 +4902,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1302_BP.png"
+    "icon": "icon/skill/1302_bp.png"
   },
   "130204": {
     "id": "130204",
@@ -4916,7 +4916,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1302_Rank4.png"
+    "icon": "icon/skill/1302_rank4.png"
   },
   "130205": {
     "id": "130205",
@@ -4943,7 +4943,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1302_Ultra.png"
+    "icon": "icon/skill/1302_ultra.png"
   },
   "130206": {
     "id": "130206",
@@ -4957,7 +4957,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1302_Rank6.png"
+    "icon": "icon/skill/1302_rank6.png"
   },
   "130301": {
     "id": "130301",
@@ -4971,7 +4971,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1303_Rank1.png"
+    "icon": "icon/skill/1303_rank1.png"
   },
   "130302": {
     "id": "130302",
@@ -4985,7 +4985,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1303_Rank2.png"
+    "icon": "icon/skill/1303_rank2.png"
   },
   "130303": {
     "id": "130303",
@@ -5008,7 +5008,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1303_Ultra.png"
+    "icon": "icon/skill/1303_ultra.png"
   },
   "130304": {
     "id": "130304",
@@ -5022,7 +5022,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1303_Rank4.png"
+    "icon": "icon/skill/1303_rank4.png"
   },
   "130305": {
     "id": "130305",
@@ -5045,7 +5045,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1303_BP.png"
+    "icon": "icon/skill/1303_bp.png"
   },
   "130306": {
     "id": "130306",
@@ -5059,7 +5059,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1303_Rank6.png"
+    "icon": "icon/skill/1303_rank6.png"
   },
   "130401": {
     "id": "130401",
@@ -5073,7 +5073,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1304_Rank1.png"
+    "icon": "icon/skill/1304_rank1.png"
   },
   "130402": {
     "id": "130402",
@@ -5087,7 +5087,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1304_Rank2.png"
+    "icon": "icon/skill/1304_rank2.png"
   },
   "130403": {
     "id": "130403",
@@ -5110,7 +5110,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1304_Ultra.png"
+    "icon": "icon/skill/1304_ultra.png"
   },
   "130404": {
     "id": "130404",
@@ -5124,7 +5124,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1304_Rank4.png"
+    "icon": "icon/skill/1304_rank4.png"
   },
   "130405": {
     "id": "130405",
@@ -5147,7 +5147,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1304_BP.png"
+    "icon": "icon/skill/1304_bp.png"
   },
   "130406": {
     "id": "130406",
@@ -5161,7 +5161,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1304_Rank6.png"
+    "icon": "icon/skill/1304_rank6.png"
   },
   "130501": {
     "id": "130501",
@@ -5175,7 +5175,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1305_Rank1.png"
+    "icon": "icon/skill/1305_rank1.png"
   },
   "130502": {
     "id": "130502",
@@ -5189,7 +5189,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1305_Rank2.png"
+    "icon": "icon/skill/1305_rank2.png"
   },
   "130503": {
     "id": "130503",
@@ -5212,7 +5212,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1305_Ultra.png"
+    "icon": "icon/skill/1305_ultra.png"
   },
   "130504": {
     "id": "130504",
@@ -5226,7 +5226,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1305_Rank4.png"
+    "icon": "icon/skill/1305_rank4.png"
   },
   "130505": {
     "id": "130505",
@@ -5249,7 +5249,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1305_BP.png"
+    "icon": "icon/skill/1305_bp.png"
   },
   "130506": {
     "id": "130506",
@@ -5263,13 +5263,13 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1305_Rank6.png"
+    "icon": "icon/skill/1305_rank6.png"
   },
   "130601": {
     "id": "130601",
     "name": "Am Rande des Zweifels",
     "rank": 1,
-    "desc": "Verlängert die Dauer von „Rätselhaft“, das durch den Ultimate verursacht wurde, zusätzlich um 1 Rd. Der ANG der Verbündeten mit Rätselhaft wird um 40%% erhöht.",
+    "desc": "Verlängert die Dauer von „Rätselhaft“, das durch den Ultimate verursacht wurde, zusätzlich um 1 Rd. Erhöht den ANG der Verbündeten mit Rätselhaft um 40%%.",
     "materials": [
       {
         "id": "11306",
@@ -5277,13 +5277,13 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1306_Rank1.png"
+    "icon": "icon/skill/1306_rank1.png"
   },
   "130602": {
     "id": "130602",
     "name": "Sinnleere Fiktion",
     "rank": 2,
-    "desc": "Jede Stapelung des Talents lässt Verbündete 8%% der VTD des Ziels ignorieren.",
+    "desc": "Der Effekt jeder Stapelung des Talents lässt Verbündete beim Verursachen von SCH zusätzlich 8%% der VTD des Ziels ignorieren.",
     "materials": [
       {
         "id": "11306",
@@ -5291,7 +5291,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1306_Rank2.png"
+    "icon": "icon/skill/1306_rank2.png"
   },
   "130603": {
     "id": "130603",
@@ -5314,7 +5314,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1306_BP.png"
+    "icon": "icon/skill/1306_bp.png"
   },
   "130604": {
     "id": "130604",
@@ -5328,7 +5328,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1306_Rank4.png"
+    "icon": "icon/skill/1306_rank4.png"
   },
   "130605": {
     "id": "130605",
@@ -5351,7 +5351,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1306_Ultra.png"
+    "icon": "icon/skill/1306_ultra.png"
   },
   "130606": {
     "id": "130606",
@@ -5365,7 +5365,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1306_Rank6.png"
+    "icon": "icon/skill/1306_rank6.png"
   },
   "130701": {
     "id": "130701",
@@ -5379,7 +5379,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1307_Rank1.png"
+    "icon": "icon/skill/1307_rank1.png"
   },
   "130702": {
     "id": "130702",
@@ -5393,7 +5393,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1307_Rank2.png"
+    "icon": "icon/skill/1307_rank2.png"
   },
   "130703": {
     "id": "130703",
@@ -5416,13 +5416,13 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1307_BP.png"
+    "icon": "icon/skill/1307_bp.png"
   },
   "130704": {
     "id": "130704",
     "name": "Tränen, ein Geschenk",
     "rank": 4,
-    "desc": "Der Effekt-WDS von Gegnern mit dem Status Enthüllung wird um 10%% reduziert. Schwarzer Schwan stellt zu Beginn jeder Runde des betroffenen Ziels oder wenn es besiegt wird 8 Pkt. Energie wieder her. Dieser Effekt der Energiewiederherstellung kann während der Dauer von Enthüllung bis zu 1-mal ausgelöst werden. Die Auslösungsanzahl wird aktualisiert, wenn der Gegner erneut mit Enthüllung belegt wird.",
+    "desc": "Der Effekt-WDS von Gegnern mit dem Status „Enthüllung“ wird um 10%% reduziert. Schwarzer Schwan stellt zu Beginn jeder Runde des Ziels oder beim Besiegen des Ziels 8 Pkt. Energie wieder her. Dieser Effekt der Energiewiederherstellung kann während der Dauer von Enthüllung bis zu 1-mal ausgelöst werden. Die Auslösungsanzahl wird aktualisiert, wenn der Gegner erneut mit Enthüllung belegt wird.",
     "materials": [
       {
         "id": "11307",
@@ -5430,7 +5430,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1307_Rank4.png"
+    "icon": "icon/skill/1307_rank4.png"
   },
   "130705": {
     "id": "130705",
@@ -5453,7 +5453,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1307_Ultra.png"
+    "icon": "icon/skill/1307_ultra.png"
   },
   "130706": {
     "id": "130706",
@@ -5467,7 +5467,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1307_Rank6.png"
+    "icon": "icon/skill/1307_rank6.png"
   },
   "130801": {
     "id": "130801",
@@ -5481,7 +5481,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1308_Rank1.png"
+    "icon": "icon/skill/1308_rank1.png"
   },
   "130802": {
     "id": "130802",
@@ -5495,7 +5495,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1308_Rank2.png"
+    "icon": "icon/skill/1308_rank2.png"
   },
   "130803": {
     "id": "130803",
@@ -5534,7 +5534,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1308_Ultra.png"
+    "icon": "icon/skill/1308_ultra.png"
   },
   "130804": {
     "id": "130804",
@@ -5548,7 +5548,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1308_Rank4.png"
+    "icon": "icon/skill/1308_rank4.png"
   },
   "130805": {
     "id": "130805",
@@ -5571,7 +5571,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1308_BP.png"
+    "icon": "icon/skill/1308_bp.png"
   },
   "130806": {
     "id": "130806",
@@ -5585,7 +5585,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1308_Rank6.png"
+    "icon": "icon/skill/1308_rank6.png"
   },
   "130901": {
     "id": "130901",
@@ -5599,7 +5599,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1309_Rank1.png"
+    "icon": "icon/skill/1309_rank1.png"
   },
   "130902": {
     "id": "130902",
@@ -5613,7 +5613,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1309_Rank2.png"
+    "icon": "icon/skill/1309_rank2.png"
   },
   "130903": {
     "id": "130903",
@@ -5636,7 +5636,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1309_BP.png"
+    "icon": "icon/skill/1309_bp.png"
   },
   "130904": {
     "id": "130904",
@@ -5650,7 +5650,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1309_Rank4.png"
+    "icon": "icon/skill/1309_rank4.png"
   },
   "130905": {
     "id": "130905",
@@ -5673,7 +5673,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1309_Normal.png"
+    "icon": "icon/skill/1309_normal.png"
   },
   "130906": {
     "id": "130906",
@@ -5687,7 +5687,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1309_Rank6.png"
+    "icon": "icon/skill/1309_rank6.png"
   },
   "131001": {
     "id": "131001",
@@ -5701,7 +5701,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1310_Rank1.png"
+    "icon": "icon/skill/1310_rank1.png"
   },
   "131002": {
     "id": "131002",
@@ -5715,7 +5715,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1310_Rank2.png"
+    "icon": "icon/skill/1310_rank2.png"
   },
   "131003": {
     "id": "131003",
@@ -5746,7 +5746,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1310_BP.png"
+    "icon": "icon/skill/1310_bp.png"
   },
   "131004": {
     "id": "131004",
@@ -5760,7 +5760,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1310_Rank4.png"
+    "icon": "icon/skill/1310_rank4.png"
   },
   "131005": {
     "id": "131005",
@@ -5783,7 +5783,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1310_Ultra.png"
+    "icon": "icon/skill/1310_ultra.png"
   },
   "131006": {
     "id": "131006",
@@ -5797,7 +5797,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1310_Rank6.png"
+    "icon": "icon/skill/1310_rank6.png"
   },
   "131201": {
     "id": "131201",
@@ -5811,7 +5811,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1312_Rank1.png"
+    "icon": "icon/skill/1312_rank1.png"
   },
   "131202": {
     "id": "131202",
@@ -5825,7 +5825,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1312_Rank2.png"
+    "icon": "icon/skill/1312_rank2.png"
   },
   "131203": {
     "id": "131203",
@@ -5848,7 +5848,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1312_Ultra.png"
+    "icon": "icon/skill/1312_ultra.png"
   },
   "131204": {
     "id": "131204",
@@ -5862,7 +5862,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1312_Rank4.png"
+    "icon": "icon/skill/1312_rank4.png"
   },
   "131205": {
     "id": "131205",
@@ -5885,7 +5885,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1312_BP.png"
+    "icon": "icon/skill/1312_bp.png"
   },
   "131206": {
     "id": "131206",
@@ -5899,7 +5899,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1312_Rank6.png"
+    "icon": "icon/skill/1312_rank6.png"
   },
   "131301": {
     "id": "131301",
@@ -5913,7 +5913,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1313_Rank1.png"
+    "icon": "icon/skill/1313_rank1.png"
   },
   "131302": {
     "id": "131302",
@@ -5927,7 +5927,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1313_Rank2.png"
+    "icon": "icon/skill/1313_rank2.png"
   },
   "131303": {
     "id": "131303",
@@ -5950,7 +5950,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1313_Ultra.png"
+    "icon": "icon/skill/1313_ultra.png"
   },
   "131304": {
     "id": "131304",
@@ -5964,7 +5964,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1313_Rank4.png"
+    "icon": "icon/skill/1313_rank4.png"
   },
   "131305": {
     "id": "131305",
@@ -5987,7 +5987,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1313_BP.png"
+    "icon": "icon/skill/1313_bp.png"
   },
   "131306": {
     "id": "131306",
@@ -6001,7 +6001,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1313_Rank6.png"
+    "icon": "icon/skill/1313_rank6.png"
   },
   "131401": {
     "id": "131401",
@@ -6015,7 +6015,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1314_Rank1.png"
+    "icon": "icon/skill/1314_rank1.png"
   },
   "131402": {
     "id": "131402",
@@ -6029,7 +6029,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1314_Rank2.png"
+    "icon": "icon/skill/1314_rank2.png"
   },
   "131403": {
     "id": "131403",
@@ -6052,7 +6052,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1314_BP.png"
+    "icon": "icon/skill/1314_bp.png"
   },
   "131404": {
     "id": "131404",
@@ -6066,7 +6066,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1314_Rank4.png"
+    "icon": "icon/skill/1314_rank4.png"
   },
   "131405": {
     "id": "131405",
@@ -6089,7 +6089,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1314_Ultra.png"
+    "icon": "icon/skill/1314_ultra.png"
   },
   "131406": {
     "id": "131406",
@@ -6103,7 +6103,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1314_Rank6.png"
+    "icon": "icon/skill/1314_rank6.png"
   },
   "131501": {
     "id": "131501",
@@ -6117,7 +6117,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1315_Rank1.png"
+    "icon": "icon/skill/1315_rank1.png"
   },
   "131502": {
     "id": "131502",
@@ -6131,7 +6131,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1315_Rank2.png"
+    "icon": "icon/skill/1315_rank2.png"
   },
   "131503": {
     "id": "131503",
@@ -6158,7 +6158,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1315_Ultra.png"
+    "icon": "icon/skill/1315_ultra.png"
   },
   "131504": {
     "id": "131504",
@@ -6172,7 +6172,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1315_Rank4.png"
+    "icon": "icon/skill/1315_rank4.png"
   },
   "131505": {
     "id": "131505",
@@ -6195,7 +6195,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1315_BP.png"
+    "icon": "icon/skill/1315_bp.png"
   },
   "131506": {
     "id": "131506",
@@ -6209,7 +6209,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1315_Rank6.png"
+    "icon": "icon/skill/1315_rank6.png"
   },
   "131701": {
     "id": "131701",
@@ -6223,7 +6223,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1317_Rank1.png"
+    "icon": "icon/skill/1317_rank1.png"
   },
   "131702": {
     "id": "131702",
@@ -6237,7 +6237,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1317_Rank2.png"
+    "icon": "icon/skill/1317_rank2.png"
   },
   "131703": {
     "id": "131703",
@@ -6260,7 +6260,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1317_BP.png"
+    "icon": "icon/skill/1317_bp.png"
   },
   "131704": {
     "id": "131704",
@@ -6274,7 +6274,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1317_Rank4.png"
+    "icon": "icon/skill/1317_rank4.png"
   },
   "131705": {
     "id": "131705",
@@ -6313,7 +6313,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1317_Ultra.png"
+    "icon": "icon/skill/1317_ultra.png"
   },
   "131706": {
     "id": "131706",
@@ -6327,7 +6327,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1317_Rank6.png"
+    "icon": "icon/skill/1317_rank6.png"
   },
   "132101": {
     "id": "132101",
@@ -6341,7 +6341,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1321_Rank1.png"
+    "icon": "icon/skill/1321_rank1.png"
   },
   "132102": {
     "id": "132102",
@@ -6355,7 +6355,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1321_Rank2.png"
+    "icon": "icon/skill/1321_rank2.png"
   },
   "132103": {
     "id": "132103",
@@ -6378,7 +6378,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1321_Ultra.png"
+    "icon": "icon/skill/1321_ultra.png"
   },
   "132104": {
     "id": "132104",
@@ -6392,7 +6392,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1321_Rank4.png"
+    "icon": "icon/skill/1321_rank4.png"
   },
   "132105": {
     "id": "132105",
@@ -6415,7 +6415,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1321_BP.png"
+    "icon": "icon/skill/1321_bp.png"
   },
   "132106": {
     "id": "132106",
@@ -6429,7 +6429,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1321_Rank6.png"
+    "icon": "icon/skill/1321_rank6.png"
   },
   "140101": {
     "id": "140101",
@@ -6443,7 +6443,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1401_Rank1.png"
+    "icon": "icon/skill/1401_rank1.png"
   },
   "140102": {
     "id": "140102",
@@ -6457,7 +6457,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1401_Rank2.png"
+    "icon": "icon/skill/1401_rank2.png"
   },
   "140103": {
     "id": "140103",
@@ -6484,7 +6484,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1401_BP.png"
+    "icon": "icon/skill/1401_bp.png"
   },
   "140104": {
     "id": "140104",
@@ -6498,7 +6498,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1401_Rank4.png"
+    "icon": "icon/skill/1401_rank4.png"
   },
   "140105": {
     "id": "140105",
@@ -6521,7 +6521,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1401_Ultra.png"
+    "icon": "icon/skill/1401_ultra.png"
   },
   "140106": {
     "id": "140106",
@@ -6535,7 +6535,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1401_Rank6.png"
+    "icon": "icon/skill/1401_rank6.png"
   },
   "140201": {
     "id": "140201",
@@ -6549,7 +6549,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1402_Rank1.png"
+    "icon": "icon/skill/1402_rank1.png"
   },
   "140202": {
     "id": "140202",
@@ -6563,7 +6563,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1402_Rank2.png"
+    "icon": "icon/skill/1402_rank2.png"
   },
   "140203": {
     "id": "140203",
@@ -6606,7 +6606,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1402_BP.png"
+    "icon": "icon/skill/1402_bp.png"
   },
   "140204": {
     "id": "140204",
@@ -6620,7 +6620,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1402_Rank4.png"
+    "icon": "icon/skill/1402_rank4.png"
   },
   "140205": {
     "id": "140205",
@@ -6647,7 +6647,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1402_Ultra.png"
+    "icon": "icon/skill/1402_ultra.png"
   },
   "140206": {
     "id": "140206",
@@ -6661,7 +6661,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1402_Rank6.png"
+    "icon": "icon/skill/1402_rank6.png"
   },
   "140301": {
     "id": "140301",
@@ -6675,7 +6675,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1403_Rank1.png"
+    "icon": "icon/skill/1403_rank1.png"
   },
   "140302": {
     "id": "140302",
@@ -6689,7 +6689,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1403_Rank2.png"
+    "icon": "icon/skill/1403_rank2.png"
   },
   "140303": {
     "id": "140303",
@@ -6712,7 +6712,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1403_Ultra.png"
+    "icon": "icon/skill/1403_ultra.png"
   },
   "140304": {
     "id": "140304",
@@ -6726,7 +6726,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1403_Rank4.png"
+    "icon": "icon/skill/1403_rank4.png"
   },
   "140305": {
     "id": "140305",
@@ -6749,7 +6749,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1403_BP.png"
+    "icon": "icon/skill/1403_bp.png"
   },
   "140306": {
     "id": "140306",
@@ -6763,7 +6763,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1403_Rank6.png"
+    "icon": "icon/skill/1403_rank6.png"
   },
   "140401": {
     "id": "140401",
@@ -6777,7 +6777,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1404_Rank1.png"
+    "icon": "icon/skill/1404_rank1.png"
   },
   "140402": {
     "id": "140402",
@@ -6791,7 +6791,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1404_Rank2.png"
+    "icon": "icon/skill/1404_rank2.png"
   },
   "140403": {
     "id": "140403",
@@ -6822,7 +6822,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1404_BP.png"
+    "icon": "icon/skill/1404_bp.png"
   },
   "140404": {
     "id": "140404",
@@ -6836,7 +6836,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1404_Rank4.png"
+    "icon": "icon/skill/1404_rank4.png"
   },
   "140405": {
     "id": "140405",
@@ -6859,7 +6859,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1404_Ultra.png"
+    "icon": "icon/skill/1404_ultra.png"
   },
   "140406": {
     "id": "140406",
@@ -6873,7 +6873,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1404_Rank6.png"
+    "icon": "icon/skill/1404_rank6.png"
   },
   "140501": {
     "id": "140501",
@@ -6887,7 +6887,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1405_Rank1.png"
+    "icon": "icon/skill/1405_rank1.png"
   },
   "140502": {
     "id": "140502",
@@ -6901,7 +6901,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1405_Rank2.png"
+    "icon": "icon/skill/1405_rank2.png"
   },
   "140503": {
     "id": "140503",
@@ -6924,7 +6924,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1405_Ultra.png"
+    "icon": "icon/skill/1405_ultra.png"
   },
   "140504": {
     "id": "140504",
@@ -6938,7 +6938,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1405_Rank4.png"
+    "icon": "icon/skill/1405_rank4.png"
   },
   "140505": {
     "id": "140505",
@@ -6961,7 +6961,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1405_BP.png"
+    "icon": "icon/skill/1405_bp.png"
   },
   "140506": {
     "id": "140506",
@@ -6975,7 +6975,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1405_Rank6.png"
+    "icon": "icon/skill/1405_rank6.png"
   },
   "140601": {
     "id": "140601",
@@ -6989,7 +6989,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1406_Rank1.png"
+    "icon": "icon/skill/1406_rank1.png"
   },
   "140602": {
     "id": "140602",
@@ -7003,7 +7003,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1406_Rank2.png"
+    "icon": "icon/skill/1406_rank2.png"
   },
   "140603": {
     "id": "140603",
@@ -7026,7 +7026,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1406_Ultra.png"
+    "icon": "icon/skill/1406_ultra.png"
   },
   "140604": {
     "id": "140604",
@@ -7040,7 +7040,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1406_Rank4.png"
+    "icon": "icon/skill/1406_rank4.png"
   },
   "140605": {
     "id": "140605",
@@ -7063,7 +7063,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1406_BP.png"
+    "icon": "icon/skill/1406_bp.png"
   },
   "140606": {
     "id": "140606",
@@ -7077,7 +7077,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1406_Rank6.png"
+    "icon": "icon/skill/1406_rank6.png"
   },
   "140701": {
     "id": "140701",
@@ -7091,7 +7091,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1407_Rank1.png"
+    "icon": "icon/skill/1407_rank1.png"
   },
   "140702": {
     "id": "140702",
@@ -7105,7 +7105,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1407_Rank2.png"
+    "icon": "icon/skill/1407_rank2.png"
   },
   "140703": {
     "id": "140703",
@@ -7144,7 +7144,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1407_Ultra.png"
+    "icon": "icon/skill/1407_ultra.png"
   },
   "140704": {
     "id": "140704",
@@ -7158,7 +7158,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1407_Rank4.png"
+    "icon": "icon/skill/1407_rank4.png"
   },
   "140705": {
     "id": "140705",
@@ -7193,7 +7193,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1407_BP.png"
+    "icon": "icon/skill/1407_bp.png"
   },
   "140706": {
     "id": "140706",
@@ -7207,7 +7207,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1407_Rank6.png"
+    "icon": "icon/skill/1407_rank6.png"
   },
   "140801": {
     "id": "140801",
@@ -7221,7 +7221,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1408_Rank1.png"
+    "icon": "icon/skill/1408_rank1.png"
   },
   "140802": {
     "id": "140802",
@@ -7235,7 +7235,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1408_Rank2.png"
+    "icon": "icon/skill/1408_rank2.png"
   },
   "140803": {
     "id": "140803",
@@ -7262,7 +7262,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1408_Ultra.png"
+    "icon": "icon/skill/1408_ultra.png"
   },
   "140804": {
     "id": "140804",
@@ -7276,7 +7276,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1408_Rank4.png"
+    "icon": "icon/skill/1408_rank4.png"
   },
   "140805": {
     "id": "140805",
@@ -7311,7 +7311,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1408_BP.png"
+    "icon": "icon/skill/1408_bp.png"
   },
   "140806": {
     "id": "140806",
@@ -7325,7 +7325,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1408_Rank6.png"
+    "icon": "icon/skill/1408_rank6.png"
   },
   "140901": {
     "id": "140901",
@@ -7339,7 +7339,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1409_Rank1.png"
+    "icon": "icon/skill/1409_rank1.png"
   },
   "140902": {
     "id": "140902",
@@ -7353,7 +7353,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1409_Rank2.png"
+    "icon": "icon/skill/1409_rank2.png"
   },
   "140903": {
     "id": "140903",
@@ -7380,7 +7380,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1409_Ultra.png"
+    "icon": "icon/skill/1409_ultra.png"
   },
   "140904": {
     "id": "140904",
@@ -7394,7 +7394,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1409_Rank4.png"
+    "icon": "icon/skill/1409_rank4.png"
   },
   "140905": {
     "id": "140905",
@@ -7429,7 +7429,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1409_BP.png"
+    "icon": "icon/skill/1409_bp.png"
   },
   "140906": {
     "id": "140906",
@@ -7443,7 +7443,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1409_Rank6.png"
+    "icon": "icon/skill/1409_rank6.png"
   },
   "141001": {
     "id": "141001",
@@ -7457,7 +7457,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1410_Rank1.png"
+    "icon": "icon/skill/1410_rank1.png"
   },
   "141002": {
     "id": "141002",
@@ -7471,7 +7471,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1410_Rank2.png"
+    "icon": "icon/skill/1410_rank2.png"
   },
   "141003": {
     "id": "141003",
@@ -7494,7 +7494,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1410_Ultra.png"
+    "icon": "icon/skill/1410_ultra.png"
   },
   "141004": {
     "id": "141004",
@@ -7508,7 +7508,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1410_Rank4.png"
+    "icon": "icon/skill/1410_rank4.png"
   },
   "141005": {
     "id": "141005",
@@ -7531,7 +7531,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1410_BP.png"
+    "icon": "icon/skill/1410_bp.png"
   },
   "141006": {
     "id": "141006",
@@ -7545,7 +7545,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1410_Rank6.png"
+    "icon": "icon/skill/1410_rank6.png"
   },
   "141201": {
     "id": "141201",
@@ -7559,7 +7559,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1412_Rank1.png"
+    "icon": "icon/skill/1412_rank1.png"
   },
   "141202": {
     "id": "141202",
@@ -7573,7 +7573,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1412_Rank2.png"
+    "icon": "icon/skill/1412_rank2.png"
   },
   "141203": {
     "id": "141203",
@@ -7596,7 +7596,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1412_BP.png"
+    "icon": "icon/skill/1412_bp.png"
   },
   "141204": {
     "id": "141204",
@@ -7610,7 +7610,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1412_Rank4.png"
+    "icon": "icon/skill/1412_rank4.png"
   },
   "141205": {
     "id": "141205",
@@ -7633,7 +7633,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1412_Ultra.png"
+    "icon": "icon/skill/1412_ultra.png"
   },
   "141206": {
     "id": "141206",
@@ -7647,7 +7647,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1412_Rank6.png"
+    "icon": "icon/skill/1412_rank6.png"
   },
   "141301": {
     "id": "141301",
@@ -7661,7 +7661,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1413_Rank1.png"
+    "icon": "icon/skill/1413_rank1.png"
   },
   "141302": {
     "id": "141302",
@@ -7675,7 +7675,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1413_Rank2.png"
+    "icon": "icon/skill/1413_rank2.png"
   },
   "141303": {
     "id": "141303",
@@ -7714,7 +7714,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1413_BP.png"
+    "icon": "icon/skill/1413_bp.png"
   },
   "141304": {
     "id": "141304",
@@ -7728,7 +7728,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1413_Rank4.png"
+    "icon": "icon/skill/1413_rank4.png"
   },
   "141305": {
     "id": "141305",
@@ -7759,7 +7759,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1413_Ultra.png"
+    "icon": "icon/skill/1413_ultra.png"
   },
   "141306": {
     "id": "141306",
@@ -7773,7 +7773,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1413_Rank6.png"
+    "icon": "icon/skill/1413_rank6.png"
   },
   "141401": {
     "id": "141401",
@@ -7787,7 +7787,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1414_Rank1.png"
+    "icon": "icon/skill/1414_rank1.png"
   },
   "141402": {
     "id": "141402",
@@ -7801,7 +7801,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1414_Rank2.png"
+    "icon": "icon/skill/1414_rank2.png"
   },
   "141403": {
     "id": "141403",
@@ -7824,7 +7824,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1414_Ultra.png"
+    "icon": "icon/skill/1414_ultra.png"
   },
   "141404": {
     "id": "141404",
@@ -7838,7 +7838,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1414_Rank4.png"
+    "icon": "icon/skill/1414_rank4.png"
   },
   "141405": {
     "id": "141405",
@@ -7861,7 +7861,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/1414_BP.png"
+    "icon": "icon/skill/1414_bp.png"
   },
   "141406": {
     "id": "141406",
@@ -7875,7 +7875,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1414_Rank6.png"
+    "icon": "icon/skill/1414_rank6.png"
   },
   "141501": {
     "id": "141501",
@@ -7889,7 +7889,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1415_Rank1.png"
+    "icon": "icon/skill/1415_rank1.png"
   },
   "141502": {
     "id": "141502",
@@ -7903,7 +7903,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1415_Rank2.png"
+    "icon": "icon/skill/1415_rank2.png"
   },
   "141503": {
     "id": "141503",
@@ -7994,7 +7994,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1415_Ultra.png"
+    "icon": "icon/skill/1415_ultra.png"
   },
   "141504": {
     "id": "141504",
@@ -8008,7 +8008,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1415_Rank4.png"
+    "icon": "icon/skill/1415_rank4.png"
   },
   "141505": {
     "id": "141505",
@@ -8043,7 +8043,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/1415_BP.png"
+    "icon": "icon/skill/1415_bp.png"
   },
   "141506": {
     "id": "141506",
@@ -8057,7 +8057,235 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/1415_Rank6.png"
+    "icon": "icon/skill/1415_rank6.png"
+  },
+  "150101": {
+    "id": "150101",
+    "name": "#Trending: Wer ist sie?",
+    "rank": 1,
+    "desc": "Erhält nach dem Ende eines Aha-Moments 5 Lachpunkte. Für jeden Lachpunkt wird die WDS-DUR aller Typen aller Verbündeten um #2[f1]% erhöht, bis zu einer max. Erhöhung von 15%%.",
+    "materials": [
+      {
+        "id": "11501",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1501_rank1.png"
+  },
+  "150102": {
+    "id": "150102",
+    "name": "#DasPublikumWeiß",
+    "rank": 2,
+    "desc": "Nach dem Ende eines Aha-Moments erhält Sparxie 1 zusätzliche Runde und 2 „Zündpunkte“. Für jeden verbrauchten Zündpunkt wird der eigene KRIT-SCH um 10%% erhöht. Dieser Effekt hält 2 Rd. an und ist bis zu 4-fach stapelbar.",
+    "materials": [
+      {
+        "id": "11501",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1501_rank2.png"
+  },
+  "150103": {
+    "id": "150103",
+    "name": "#BitteKlicken: Herzschlag-Hyperlink",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11501",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150102",
+        "num": 2
+      },
+      {
+        "id": "150101",
+        "num": 1
+      },
+      {
+        "id": "150120",
+        "num": 1
+      },
+      {
+        "id": "150109",
+        "num": 2
+      },
+      {
+        "id": "150108",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1501_bp.png"
+  },
+  "150104": {
+    "id": "150104",
+    "name": "#HardCC! Super Selbstbeherrschung",
+    "rank": 4,
+    "desc": "Erhält beim Einsatz des Ultimates zusätzlich 5 Lachpunkte und erhöht das eigene Hochgefühl für 3 Rd. um 36%%.",
+    "materials": [
+      {
+        "id": "11501",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1501_rank4.png"
+  },
+  "150105": {
+    "id": "150105",
+    "name": "#DieWeltHeilen #NurGuteVibes",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11501",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150103",
+        "num": 2
+      },
+      {
+        "id": "150104",
+        "num": 2
+      },
+      {
+        "id": "150120",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1501_ultra.png"
+  },
+  "150106": {
+    "id": "150106",
+    "name": "#Tada! Ich in limitierter Auflage",
+    "rank": 6,
+    "desc": "Erhöht die WDS-DUR aller Typen um 20%%. Für jeweils 1 angerechneten Lachpunkt verursacht die Hochgefühl-Fähigkeit noch 1-mal zusätzlichen SCH, bis zu 40-mal.",
+    "materials": [
+      {
+        "id": "11501",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1501_rank6.png"
+  },
+  "150201": {
+    "id": "150201",
+    "name": "Kichernde Glocken am Fall der Jade",
+    "rank": 1,
+    "desc": "Erhöht die feste Anzahl der angerechneten Lachpunkte in Ahas durch den Ultimate ausgelösten zusätzlichen Runden auf 40. Der von allen Verbündeten verursachte Hochgefühl-SCH ignoriert 20%% der VTD des Ziels.",
+    "materials": [
+      {
+        "id": "11502",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1502_rank1.png"
+  },
+  "150202": {
+    "id": "150202",
+    "name": "Blinde Pfeile, von Federn geleitet",
+    "rank": 2,
+    "desc": "Während das Kraftfeld aktiv ist, wird die GES aller Verbündeten um 12%% und das Hochgefühl zusätzlich um 16%% erhöht.",
+    "materials": [
+      {
+        "id": "11502",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1502_rank2.png"
+  },
+  "150203": {
+    "id": "150203",
+    "name": "Auspizien, im Dekalicht gespiegelt",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11502",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150202",
+        "num": 2
+      },
+      {
+        "id": "150201",
+        "num": 1
+      },
+      {
+        "id": "150220",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1502_bp.png"
+  },
+  "150204": {
+    "id": "150204",
+    "name": "Fäden des Schicksals, von Federn gefärbt",
+    "rank": 4,
+    "desc": "In der durch Yao Guangs Ultimate ausgelösten zusätzlichen Runde von Aha beträgt der durch Hochgefühl-Fähigkeiten aller verbündeten Figuren verursachte SCH 1.5% des ursprünglichen SCH.",
+    "materials": [
+      {
+        "id": "11502",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1502_rank4.png"
+  },
+  "150205": {
+    "id": "150205",
+    "name": "In strahlender Anmut geschmückt",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11502",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150203",
+        "num": 2
+      },
+      {
+        "id": "150204",
+        "num": 2
+      },
+      {
+        "id": "150220",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1502_ultra.png"
+  },
+  "150206": {
+    "id": "150206",
+    "name": "Entlang des astralen Bogens geleitet",
+    "rank": 6,
+    "desc": "Der Hochgefühl-SCH aller Verbündeten verstärkt das Lachen um 25%%. Erhöht den SCH-Multiplikator von Yao Guangs Hochgefühl-Fähigkeit um 1% des ursprünglichen Multiplikators.",
+    "materials": [
+      {
+        "id": "11502",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1502_rank6.png"
   },
   "800101": {
     "id": "800101",
@@ -8071,7 +8299,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8001_Rank1.png"
+    "icon": "icon/skill/8001_rank1.png"
   },
   "800102": {
     "id": "800102",
@@ -8085,7 +8313,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8001_Rank2.png"
+    "icon": "icon/skill/8001_rank2.png"
   },
   "800103": {
     "id": "800103",
@@ -8108,7 +8336,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/8001_BP.png"
+    "icon": "icon/skill/8001_bp.png"
   },
   "800104": {
     "id": "800104",
@@ -8122,7 +8350,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8001_Rank4.png"
+    "icon": "icon/skill/8001_rank4.png"
   },
   "800105": {
     "id": "800105",
@@ -8153,7 +8381,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/8001_Ultra.png"
+    "icon": "icon/skill/8001_ultra.png"
   },
   "800106": {
     "id": "800106",
@@ -8167,7 +8395,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8001_Rank6.png"
+    "icon": "icon/skill/8001_rank6.png"
   },
   "800201": {
     "id": "800201",
@@ -8181,7 +8409,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8001_Rank1.png"
+    "icon": "icon/skill/8001_rank1.png"
   },
   "800202": {
     "id": "800202",
@@ -8195,7 +8423,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8001_Rank2.png"
+    "icon": "icon/skill/8001_rank2.png"
   },
   "800203": {
     "id": "800203",
@@ -8218,7 +8446,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/8001_BP.png"
+    "icon": "icon/skill/8001_bp.png"
   },
   "800204": {
     "id": "800204",
@@ -8232,7 +8460,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8001_Rank4.png"
+    "icon": "icon/skill/8001_rank4.png"
   },
   "800205": {
     "id": "800205",
@@ -8263,7 +8491,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/8001_Ultra.png"
+    "icon": "icon/skill/8001_ultra.png"
   },
   "800206": {
     "id": "800206",
@@ -8277,7 +8505,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8001_Rank6.png"
+    "icon": "icon/skill/8001_rank6.png"
   },
   "800301": {
     "id": "800301",
@@ -8291,7 +8519,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8003_Rank1.png"
+    "icon": "icon/skill/8003_rank1.png"
   },
   "800302": {
     "id": "800302",
@@ -8305,7 +8533,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8003_Rank2.png"
+    "icon": "icon/skill/8003_rank2.png"
   },
   "800303": {
     "id": "800303",
@@ -8328,7 +8556,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/8003_BP.png"
+    "icon": "icon/skill/8003_bp.png"
   },
   "800304": {
     "id": "800304",
@@ -8342,7 +8570,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8003_Rank4.png"
+    "icon": "icon/skill/8003_rank4.png"
   },
   "800305": {
     "id": "800305",
@@ -8369,7 +8597,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/8003_Ultra.png"
+    "icon": "icon/skill/8003_ultra.png"
   },
   "800306": {
     "id": "800306",
@@ -8383,7 +8611,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8003_Rank6.png"
+    "icon": "icon/skill/8003_rank6.png"
   },
   "800401": {
     "id": "800401",
@@ -8397,7 +8625,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8003_Rank1.png"
+    "icon": "icon/skill/8003_rank1.png"
   },
   "800402": {
     "id": "800402",
@@ -8411,7 +8639,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8003_Rank2.png"
+    "icon": "icon/skill/8003_rank2.png"
   },
   "800403": {
     "id": "800403",
@@ -8434,7 +8662,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/8003_BP.png"
+    "icon": "icon/skill/8003_bp.png"
   },
   "800404": {
     "id": "800404",
@@ -8448,7 +8676,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8003_Rank4.png"
+    "icon": "icon/skill/8003_rank4.png"
   },
   "800405": {
     "id": "800405",
@@ -8475,7 +8703,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/8003_Ultra.png"
+    "icon": "icon/skill/8003_ultra.png"
   },
   "800406": {
     "id": "800406",
@@ -8489,7 +8717,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8003_Rank6.png"
+    "icon": "icon/skill/8003_rank6.png"
   },
   "800501": {
     "id": "800501",
@@ -8503,7 +8731,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8005_Rank1.png"
+    "icon": "icon/skill/8005_rank1.png"
   },
   "800502": {
     "id": "800502",
@@ -8517,7 +8745,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8005_Rank2.png"
+    "icon": "icon/skill/8005_rank2.png"
   },
   "800503": {
     "id": "800503",
@@ -8540,7 +8768,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/8005_BP.png"
+    "icon": "icon/skill/8005_bp.png"
   },
   "800504": {
     "id": "800504",
@@ -8554,7 +8782,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8005_Rank4.png"
+    "icon": "icon/skill/8005_rank4.png"
   },
   "800505": {
     "id": "800505",
@@ -8577,7 +8805,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/8005_Ultra.png"
+    "icon": "icon/skill/8005_ultra.png"
   },
   "800506": {
     "id": "800506",
@@ -8591,7 +8819,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8005_Rank6.png"
+    "icon": "icon/skill/8005_rank6.png"
   },
   "800601": {
     "id": "800601",
@@ -8605,7 +8833,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8005_Rank1.png"
+    "icon": "icon/skill/8005_rank1.png"
   },
   "800602": {
     "id": "800602",
@@ -8619,7 +8847,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8005_Rank2.png"
+    "icon": "icon/skill/8005_rank2.png"
   },
   "800603": {
     "id": "800603",
@@ -8642,7 +8870,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/8005_BP.png"
+    "icon": "icon/skill/8005_bp.png"
   },
   "800604": {
     "id": "800604",
@@ -8656,7 +8884,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8005_Rank4.png"
+    "icon": "icon/skill/8005_rank4.png"
   },
   "800605": {
     "id": "800605",
@@ -8679,7 +8907,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/8005_Ultra.png"
+    "icon": "icon/skill/8005_ultra.png"
   },
   "800606": {
     "id": "800606",
@@ -8693,7 +8921,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8005_Rank6.png"
+    "icon": "icon/skill/8005_rank6.png"
   },
   "800701": {
     "id": "800701",
@@ -8707,7 +8935,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8007_Rank1.png"
+    "icon": "icon/skill/8007_rank1.png"
   },
   "800702": {
     "id": "800702",
@@ -8721,7 +8949,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8007_Rank2.png"
+    "icon": "icon/skill/8007_rank2.png"
   },
   "800703": {
     "id": "800703",
@@ -8760,7 +8988,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/8007_BP.png"
+    "icon": "icon/skill/8007_bp.png"
   },
   "800704": {
     "id": "800704",
@@ -8774,7 +9002,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8007_Rank4.png"
+    "icon": "icon/skill/8007_rank4.png"
   },
   "800705": {
     "id": "800705",
@@ -8809,7 +9037,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/8007_Ultra.png"
+    "icon": "icon/skill/8007_ultra.png"
   },
   "800706": {
     "id": "800706",
@@ -8823,7 +9051,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8007_Rank6.png"
+    "icon": "icon/skill/8007_rank6.png"
   },
   "800801": {
     "id": "800801",
@@ -8837,7 +9065,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8007_Rank1.png"
+    "icon": "icon/skill/8007_rank1.png"
   },
   "800802": {
     "id": "800802",
@@ -8851,7 +9079,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8007_Rank2.png"
+    "icon": "icon/skill/8007_rank2.png"
   },
   "800803": {
     "id": "800803",
@@ -8890,7 +9118,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/8007_BP.png"
+    "icon": "icon/skill/8007_bp.png"
   },
   "800804": {
     "id": "800804",
@@ -8904,7 +9132,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8007_Rank4.png"
+    "icon": "icon/skill/8007_rank4.png"
   },
   "800805": {
     "id": "800805",
@@ -8939,7 +9167,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/8007_Ultra.png"
+    "icon": "icon/skill/8007_ultra.png"
   },
   "800806": {
     "id": "800806",
@@ -8953,7 +9181,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/8007_Rank6.png"
+    "icon": "icon/skill/8007_rank6.png"
   },
   "1100501": {
     "id": "1100501",
@@ -8967,7 +9195,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11005_Rank1.png"
+    "icon": "icon/skill/11005_rank1.png"
   },
   "1100502": {
     "id": "1100502",
@@ -8981,7 +9209,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11005_Rank2.png"
+    "icon": "icon/skill/11005_rank2.png"
   },
   "1100503": {
     "id": "1100503",
@@ -9004,7 +9232,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/11005_BP.png"
+    "icon": "icon/skill/11005_bp.png"
   },
   "1100504": {
     "id": "1100504",
@@ -9018,7 +9246,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11005_Rank4.png"
+    "icon": "icon/skill/11005_rank4.png"
   },
   "1100505": {
     "id": "1100505",
@@ -9041,7 +9269,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/11005_Ultra.png"
+    "icon": "icon/skill/11005_ultra.png"
   },
   "1100506": {
     "id": "1100506",
@@ -9055,7 +9283,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11005_Rank6.png"
+    "icon": "icon/skill/11005_rank6.png"
   },
   "1100601": {
     "id": "1100601",
@@ -9069,7 +9297,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11006_Rank1.png"
+    "icon": "icon/skill/11006_rank1.png"
   },
   "1100602": {
     "id": "1100602",
@@ -9083,7 +9311,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11006_Rank2.png"
+    "icon": "icon/skill/11006_rank2.png"
   },
   "1100603": {
     "id": "1100603",
@@ -9106,7 +9334,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/11006_BP.png"
+    "icon": "icon/skill/11006_bp.png"
   },
   "1100604": {
     "id": "1100604",
@@ -9120,7 +9348,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11006_Rank4.png"
+    "icon": "icon/skill/11006_rank4.png"
   },
   "1100605": {
     "id": "1100605",
@@ -9143,7 +9371,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/11006_Ultra.png"
+    "icon": "icon/skill/11006_ultra.png"
   },
   "1100606": {
     "id": "1100606",
@@ -9157,7 +9385,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11006_Rank6.png"
+    "icon": "icon/skill/11006_rank6.png"
   },
   "1120501": {
     "id": "1120501",
@@ -9171,7 +9399,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11205_Rank1.png"
+    "icon": "icon/skill/11205_rank1.png"
   },
   "1120502": {
     "id": "1120502",
@@ -9185,7 +9413,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11205_Rank2.png"
+    "icon": "icon/skill/11205_rank2.png"
   },
   "1120503": {
     "id": "1120503",
@@ -9208,7 +9436,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/11205_Ultra.png"
+    "icon": "icon/skill/11205_ultra.png"
   },
   "1120504": {
     "id": "1120504",
@@ -9222,7 +9450,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11205_Rank4.png"
+    "icon": "icon/skill/11205_rank4.png"
   },
   "1120505": {
     "id": "1120505",
@@ -9249,7 +9477,7 @@
         "num": 1
       }
     ],
-    "icon": "icon/skill/11205_BP.png"
+    "icon": "icon/skill/11205_bp.png"
   },
   "1120506": {
     "id": "1120506",
@@ -9263,7 +9491,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11205_Rank6.png"
+    "icon": "icon/skill/11205_rank6.png"
   },
   "1121201": {
     "id": "1121201",
@@ -9277,7 +9505,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11212_Rank1.png"
+    "icon": "icon/skill/11212_rank1.png"
   },
   "1121202": {
     "id": "1121202",
@@ -9291,7 +9519,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11212_Rank2.png"
+    "icon": "icon/skill/11212_rank2.png"
   },
   "1121203": {
     "id": "1121203",
@@ -9314,7 +9542,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/11212_Ultra.png"
+    "icon": "icon/skill/11212_ultra.png"
   },
   "1121204": {
     "id": "1121204",
@@ -9328,7 +9556,7 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11212_Rank4.png"
+    "icon": "icon/skill/11212_rank4.png"
   },
   "1121205": {
     "id": "1121205",
@@ -9355,7 +9583,7 @@
         "num": 2
       }
     ],
-    "icon": "icon/skill/11212_BP.png"
+    "icon": "icon/skill/11212_bp.png"
   },
   "1121206": {
     "id": "1121206",
@@ -9369,6 +9597,210 @@
       }
     ],
     "level_up_skills": [],
-    "icon": "icon/skill/11212_Rank6.png"
+    "icon": "icon/skill/11212_rank6.png"
+  },
+  "1130601": {
+    "id": "1130601",
+    "name": "Am Rande des Zweifels",
+    "rank": 1,
+    "desc": "Erhöht den ANG der Verbündeten mit „Rätselhaft“ um 40%%. Zu Beginn des Kampfes oder beim Einsatz der Fertigkeit wird Sparkles GES für 2 Rd. um 15%% erhöht.",
+    "materials": [
+      {
+        "id": "11306",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11306_rank1.png"
+  },
+  "1130602": {
+    "id": "1130602",
+    "name": "Sinnleere Fiktion",
+    "rank": 2,
+    "desc": "Der Effekt jeder Stapelung des Talents reduziert die VTD des Gegners zusätzlich um 10%%.",
+    "materials": [
+      {
+        "id": "11306",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11306_rank2.png"
+  },
+  "1130603": {
+    "id": "1130603",
+    "name": "Fantasieblase",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11306",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1130602",
+        "num": 2
+      },
+      {
+        "id": "1130601",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11306_bp.png"
+  },
+  "1130604": {
+    "id": "1130604",
+    "name": "Das Leben ist ein Spiel",
+    "rank": 4,
+    "desc": "Der Ultimate stellt zusätzlich 1 Fertigkeitspunkt wieder her. Das Talent erhöht die max. Anzahl an Fertigkeitspunkten zusätzlich um 1.",
+    "materials": [
+      {
+        "id": "11306",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11306_rank4.png"
+  },
+  "1130605": {
+    "id": "1130605",
+    "name": "Zweigesichtige Wahrheit",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11306",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1130603",
+        "num": 2
+      },
+      {
+        "id": "1130604",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11306_ultra.png"
+  },
+  "1130606": {
+    "id": "1130606",
+    "name": "Mehrfachauswahl",
+    "rank": 6,
+    "desc": "Die KRIT-SCH-Erhöhung der Fertigkeit wird zusätzlich um 30%% von Sparkles KRIT-SCH erhöht. Wenn sie ihre Fertigkeit einsetzt, wirkt der Effekt der KRIT-SCH-Erhöhung für Sparkles Teammitglieder mit „Rätselhaft“. Wenn Sparkle ihren Ultimate einsetzt und ein Verbündeter den von der Fertigkeit verursachten Effekt der KRIT-SCH-Erhöhung besitzt, wird dieser Effekt auf alle Teammitglieder mit Rätselhaft ausgedehnt.",
+    "materials": [
+      {
+        "id": "11306",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11306_rank6.png"
+  },
+  "1130701": {
+    "id": "1130701",
+    "name": "Drei Steine, sieben Säulen",
+    "rank": 1,
+    "desc": "Wenn Schwarzer Schwan kampffähig ist, wird jeweils der WDS des Typs Wind, Physisch, Feuer und Blitz von Gegnern mit Windscherung, Bluten, Brennen und Schock um 25%% reduziert.",
+    "materials": [
+      {
+        "id": "11307",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11307_rank1.png"
+  },
+  "1130702": {
+    "id": "1130702",
+    "name": "Lämmchen, weine nicht um mich",
+    "rank": 2,
+    "desc": "Wenn ein Gegner in den Kampf eintritt, besteht eine Grundchance von 1%, 30 Stapelungen Arkana zu erhalten.",
+    "materials": [
+      {
+        "id": "11307",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11307_rank2.png"
+  },
+  "1130703": {
+    "id": "1130703",
+    "name": "Wie im Himmel, so auf Erden",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11307",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1130702",
+        "num": 2
+      },
+      {
+        "id": "1130704",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11307_bp.png"
+  },
+  "1130704": {
+    "id": "1130704",
+    "name": "Tränen, ein Geschenk",
+    "rank": 4,
+    "desc": "Im Status „Enthüllung“ erleiden Gegner zusätzlich 20%% mehr SCH. Schwarzer Schwan stellt zu Beginn jeder Runde des Ziels oder beim Besiegen des Ziels 8 Pkt. Energie wieder her.",
+    "materials": [
+      {
+        "id": "11307",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11307_rank4.png"
+  },
+  "1130705": {
+    "id": "1130705",
+    "name": "Weg des Zugvogels",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11307",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1130703",
+        "num": 2
+      },
+      {
+        "id": "1130701",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11307_ultra.png"
+  },
+  "1130706": {
+    "id": "1130706",
+    "name": "Gnädiges Pantheon, unbekannte Diener",
+    "rank": 6,
+    "desc": "Erhöht die stapelbare Anzahl für Arkana um 30.\nWenn Teammitglieder von Schwarzer Schwan Gegner angreifen, hat Schwarzer Schwan eine Grundchance von 65%%, das Ziel mit 1 Stapelung Arkana zu belegen.\nJedes Mal, wenn Schwarzer Schwan einen Gegner mit 1 Stapelung Arkana belegt, wird die bei diesem Mal zugefügte Stapelzahl zusätzlich um 1 erhöht.",
+    "materials": [
+      {
+        "id": "11307",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11307_rank6.png"
   }
 }

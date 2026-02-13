@@ -222,6 +222,12 @@
     "1415": [
       "Cyrene"
     ],
+    "1501": [
+      "Sparxie"
+    ],
+    "1502": [
+      "Yao Guang"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -703,6 +709,24 @@
     ],
     "23052": [
       "Instante de Eterno Amor"
+    ],
+    "20023": [
+      "Zombaria"
+    ],
+    "20024": [
+      "Lágrima Persistente"
+    ],
+    "21064": [
+      "As Aventuras do Cogumelinho Fofinho"
+    ],
+    "21065": [
+      "Boa Sorte de Hoje"
+    ],
+    "23053": [
+      "Deslumbramento Por Um Mundo Florido"
+    ],
+    "23054": [
+      "Quando Ela Decidiu Ver"
     ]
   },
   "relic_sets": {
@@ -789,6 +813,12 @@
     ],
     "128": [
       "Ermitão Envolto em Si Mesmo"
+    ],
+    "129": [
+      "Menina Mágica Sempre Gloriosa"
+    ],
+    "130": [
+      "Profeta de Alcance Distante"
     ],
     "301": [
       "Estação de Vedação Espacial"

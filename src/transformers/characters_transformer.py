@@ -1,12 +1,16 @@
+import os
 import re
 from typing import Dict
 
+from src.config import DATA_DIR
 from src.loaders.textmap_utils import resolve_text, replace_params
 from src.utils.assets import copy_sprite_to_output
 from src.utils.get_hash import get_hash
 from src.utils.get_val import get_val
 from src.utils.hash_text_xxh64 import hash_text_xxh64
 from src.utils.icon_utils import normalize_icon
+
+DRAWCARD_RESULT_DIR = os.path.join(DATA_DIR, "spriteoutput", "avatardrawcardresult")
 
 
 def transform_avatar(raw_list: list, textmap: Dict[int, str] = None, parent=None):
@@ -190,7 +194,7 @@ def transform_avatar_rank(raw_list: List[dict], textmap: Dict[int, str] = None, 
             .replace("SkillIcon_", "")
         )
 
-        icon = copy_sprite_to_output(icon_path, icon)
+        icon = copy_sprite_to_output(icon_path, icon.lower())
 
         result[rank_id] = {
             "id": rank_id,

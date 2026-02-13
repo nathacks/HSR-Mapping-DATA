@@ -110,3 +110,67 @@ def copy_sprite_to_output(original_path: str, mapped_relative: Optional[str]) ->
             logging.error(f"❌ WEBP conversion error: {e}")
 
     return dst_png_rel
+
+
+def copy_and_resize_to_output(src_path: str, mapped_relative: str, size: tuple = (256, 256)) -> Optional[str]:
+    if not ENABLE_IMAGE:
+        return mapped_relative
+
+    if not src_path or not mapped_relative:
+        return mapped_relative
+
+    if not os.path.isfile(src_path):
+        logging.warning(f"⚠️ Source not found: {src_path}")
+        return mapped_relative
+
+    dst_png_rel = mapped_relative.lstrip("/\\").replace("\\", "/")
+    dst_png_abs = os.path.join(IMAGE_DIR, dst_png_rel)
+
+    dst_webp_rel = _to_webp_rel(mapped_relative)
+    dst_webp_abs = os.path.join(IMAGE_DIR, dst_webp_rel)
+
+    os.makedirs(os.path.dirname(dst_png_abs), exist_ok=True)
+
+    def _open_cropped():
+        im = Image.open(src_path)
+        w, h = im.size
+        left = (w - size[0]) // 2
+        top = (h - size[1]) // 2
+        im = im.crop((left, top, left + size[0], top + size[1]))
+        return im
+
+    if not os.path.exists(dst_png_abs):
+        try:
+            im = _open_cropped()
+            im.save(dst_png_abs, "PNG")
+            im.close()
+            logging.info(f"📁 Cropped PNG saved: {dst_png_rel}")
+        except Exception as e:
+            logging.error(f"❌ Failed to save resized PNG: {e}")
+
+    if not ENABLE_WEBP_CONVERSION:
+        return dst_png_rel
+
+    if not os.path.exists(dst_webp_abs):
+        try:
+            im = _open_cropped()
+            im.info.pop("exif", None)
+            im.info.pop("icc_profile", None)
+
+            has_alpha = "A" in im.getbands()
+            save_kwargs = {
+                "lossless": False,
+                "quality": 70,
+                "method": 4,
+            }
+            if not has_alpha:
+                im = im.convert("RGB")
+                save_kwargs["icc_profile"] = None
+
+            im.save(dst_webp_abs, "WEBP", **save_kwargs)
+            im.close()
+            logging.info(f"✅ Cropped WEBP saved: {dst_webp_rel}")
+        except Exception as e:
+            logging.error(f"❌ WEBP resize error: {e}")
+
+    return dst_png_rel

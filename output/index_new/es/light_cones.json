@@ -275,6 +275,30 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "20023": {
+    "id": "20023",
+    "name": "Risita burlona",
+    "rarity": 3,
+    "path": "Elation",
+    "desc": "Un extraño poder condensado a partir del tiempo. Verdaderamente, son todos los momentos insignificantes los que tejen un destino maravilloso.\n\n<i>\"La sonrisa se originó como una mueca de miedo e intimidación\".</i>",
+    "icon": "icon/light_cone/20023.png",
+    "preview": "image/light_cone_preview/20023.png",
+    "portrait": "image/light_cone_portrait/20023.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "20024": {
+    "id": "20024",
+    "name": "Las lágrimas que quedan",
+    "rarity": 3,
+    "path": "Elation",
+    "desc": "Un extraño poder condensado a partir del tiempo. Verdaderamente, son todos los momentos insignificantes los que tejen un destino maravilloso.\n\n<i>\"La tristeza más profunda no derrama lágrimas, así como la felicidad y el dolor más extremos son indistinguibles\".</i>",
+    "icon": "icon/light_cone/20024.png",
+    "preview": "image/light_cone_preview/20024.png",
+    "portrait": "image/light_cone_portrait/20024.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "21000": {
     "id": "21000",
     "name": "Conversación en el postoperatorio",
@@ -1007,6 +1031,30 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "21064": {
+    "id": "21064",
+    "name": "Las aventuras de Champigaga",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "<i>\"♥ ¡Honguito de Marzo, te doy la bienvenida a mundochispa! ♥\".</i>\n<i>\"¡Honguidan, no pongas esa cara seria, sonríe un poco!\".</i>\n<i>\"Honguigris, ¿ya caíste rendid{F#a}{M#o} ante mi encanto? ¡Excelente!\".</i>\n<i>\"Honguito Cucú... ¡te elijo a ti, te ves delicioso!\".</i>\n\n¡Corre! Los deseos del corazón son como un pozo sin fondo.\n¡Ven! Sonríe y únete al mundochispa.\n\n<i>\"Bienvenidos al programa especial de Chispa, ¡donde todos pueden convertirse en una adorable Chispa!\".</i>",
+    "icon": "icon/light_cone/21064.png",
+    "preview": "image/light_cone_preview/21064.png",
+    "portrait": "image/light_cone_portrait/21064.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "21065": {
+    "id": "21065",
+    "name": "La buena suerte de hoy",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "<i>\"¿Estás completamente segura?\".</i>\n<i>\"Hum, ¡claro que sí!\".</i>\n<i>\"Esta vez la apuesta es más que una simple crema de manos\".</i>\n<i>\"Un juego tan sencillo... ¿qué podría salir mal?\".</i>\nLa joven de pelo rosa se da la vuelta para que no la sigan molestando.\n\n<i>\"A juzgar por cómo flotan las hojas de té, deberías sacar esta carta\".</i>\nLa joven saca un papel de adivinación y lo voltea para mostrarlo.\n<i>\"¡Ah, mi buena suerte ha llegado!\".</i>\n<i>\"¡Otra vez, esto es imposible!\".</i>\n...\n\nLa joven había olvidado cuántos juegos de adivinación había jugado con su compañera, solo recordaba que siempre estaba dispuesta a jugar con ella, una y otra vez.\nMás tarde, cuando la joven quiso escapar de la profecía, ignoró las objeciones y se dirigió a la Comisión de Adivinación del Luofu.\nAl llegar al Luofu, encontró de repente un elegante marcador de adivinación entre las páginas de un libro de predicciones. La familiar caligrafía hizo que a la joven que acababa de llegar a una tierra extraña se le humedecieran los ojos:\n\n<i>\"¿Quién dice que el destino no da segundas oportunidades? Te regalo mi talismán de la suerte\".</i>",
+    "icon": "icon/light_cone/21065.png",
+    "preview": "image/light_cone_preview/21065.png",
+    "portrait": "image/light_cone_portrait/21065.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "22000": {
     "id": "22000",
     "name": "Antes de que comience la misión del tutorial",
@@ -1724,6 +1772,30 @@
     "icon": "icon/light_cone/23052.png",
     "preview": "image/light_cone_preview/23052.png",
     "portrait": "image/light_cone_portrait/23052.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23053": {
+    "id": "23053",
+    "name": "El cautivador mundochispa",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Cuando ella ríe, sus seguidores ríen.\nCuando llora, sus seguidores lloran.\nCuando está enojada, sus seguidores se enojan.\n\n<i>\"Adorable, traviesa, popular. Chispa es todo lo que quiero ser\".</i>\n<i>\"No te dejes engañar. Chispa es un veneno, una mentira...\".</i>\n<i>\"Seguiré a Chispita para siempre. Ella me dio el valor de renacer...\".</i>\n<i>\"¡Chispa debería desaparecer de este mundo!\".</i>\n...\n\nClics, mensajes, comentarios... Chispa brilla cada vez más en los ojos de todos.\n\n<i>\"¡He recibido todo su cariño! ♥ Se lo devolveré de la forma más animada posible ♥. Así...\".</i>\n\nA medida que el directo llega a su fin, la joven guiña el ojo, como si pudiera ver los corazones de todos los que están detrás de sus pantallas...\n\n<i>\"¡Les doy una oportunidad! ¿Les gustaría convertirse en Chispa?\".</i>",
+    "icon": "icon/light_cone/23053.png",
+    "preview": "image/light_cone_preview/23053.png",
+    "portrait": "image/light_cone_portrait/23053.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23054": {
+    "id": "23054",
+    "name": "Cuando se decidió a ver",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "En la Barrera Decarreflectora, observa una vez más cómo el destino brilla como una red de perlas, superponiéndose y reflejándose entre sí en una cadena interminable de causa y efecto.\n\n<i>\"¿Qué ves?\"</i>, le preguntó una vez su maestro.\n\nAlgunos adivinos, al ver su propia insignificancia, dejaron de creer que el poder humano podía cambiar el destino.\nOtros vieron las grandes tendencias del futuro y siguieron la corriente para encontrar las mejores soluciones.\n\nEn ese momento, la joven contempló fijamente la barrera y vio una oscuridad infinita: el futuro que ya estaba predestinado.\nTambién vio la luz estelar, esas pequeñas posibilidades que aún no habían sido engullidas por la mirada de los dioses.\n\nAquella luz estelar en una ocasión se escapó de sus manos, condenando al Fanghu a una noche eterna.\nPero también logró atrapar las efímeras variables del destino, alterando la fortuna y la desgracia del Yuque.\n\n<i>\"Un callejón sin salida se llama así porque nadie está dispuesto a desafiar al destino\".</i>\nElla quería encontrar su propia respuesta, aunque eso significara adentrarse en territorio maldito.\n\n<i>\"Lo que vea no importa, lo que importa es lo que puedo hacer\".</i>",
+    "icon": "icon/light_cone/23054.png",
+    "preview": "image/light_cone_preview/23054.png",
+    "portrait": "image/light_cone_portrait/23054.png",
     "max_rank": 5,
     "max_promotion": 6
   },
