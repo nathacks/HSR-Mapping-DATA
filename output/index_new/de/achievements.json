@@ -167,6 +167,14 @@
     "hide_desc": "Tritt auf den Pfad des Gedenkens.",
     "hide": true
   },
+  "4015201": {
+    "id": "4015201",
+    "series_id": "1",
+    "title": "Somit, Gelächter im Anflug",
+    "desc": "Tritt auf den Pfad des Hochgefühls.",
+    "hide_desc": "",
+    "hide": true
+  },
   "4020201": {
     "id": "4020201",
     "series_id": "2",
@@ -1493,6 +1501,126 @@
     "title": "Sommer, Sparkle und die Leiche von jemandem",
     "desc": "Eine Audienz bei einem Gott verlangt immer ein Opfer.\n※ Werde Zeuge der grausamen Eröffnung der Phantasmond-Spiele.",
     "hide_desc": "Eine Audienz bei einem Gott verlangt immer ein Opfer. ※ Werde Zeuge der grausamen Eröffnung der Phantasmond-Spiele.",
+    "hide": false
+  },
+  "4035101": {
+    "id": "4035101",
+    "series_id": "3",
+    "title": "Die Ehre des Vaters",
+    "desc": "Der Albtraum aller Kinder: Den Eltern den eigenen Job erklären.\n※ Führe Himekos Vater durch den Express.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035102": {
+    "id": "4035102",
+    "series_id": "3",
+    "title": "Fangt mich, wenn ihr könnt",
+    "desc": "Die soziale Identität ist nichts weiter als eine der unendlichen Masken, die der Mensch trägt.\n※ Mach ein Foto mit Fräulein Nihilux.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035103": {
+    "id": "4035103",
+    "series_id": "3",
+    "title": "Ich werde der Kopf sein!",
+    "desc": "Mechatron, aufrecht auf der Erde stehend!\n※ Baue deinen eigenen riesigen Mechatron zusammen und kämpfe gegen den Dämmerungstrupp.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035104": {
+    "id": "4035104",
+    "series_id": "3",
+    "title": "Das Streben nach Glück",
+    "desc": "Jeder strebt nach Glück, doch wer sagt, was Glück ist?\n※ Schließe die Untersuchung gegen die Wohltätigkeitsorganisation „Forschungsgesellschaft für glückliches Lächeln“ ab.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035105": {
+    "id": "4035105",
+    "series_id": "3",
+    "title": "Traumfresser",
+    "desc": "Künstler sind Tiere, die im Wachzustand träumen.\n※ Offenbare die wahre Identität des Autors von „Flauschis himmlische Reise“ im Verlag.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035106": {
+    "id": "4035106",
+    "series_id": "3",
+    "title": "Express zur Hölle",
+    "desc": "???\n※ Erreiche einen unbekannten, stillgelegten Stationsbereich.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035107": {
+    "id": "4035107",
+    "series_id": "3",
+    "title": "Glückschip",
+    "desc": "Danke an den Freund, der den Chip verschenkt hat.\n※ Mit Pearls Hilfe in die Realität zurückgekehrt.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035108": {
+    "id": "4035108",
+    "series_id": "3",
+    "title": "Wahngerede des Phantasmonds",
+    "desc": "Er redet, du hörst zu.\n※ Höre dir Phantasmonds wahnsinnige Ansprache an.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035201": {
+    "id": "4035201",
+    "series_id": "3",
+    "title": "Pendelreise",
+    "desc": "Gibt es denn keine besondere Art der Fortbewegung?\n※ Fahre mit dem Zug, um die Welt zu retten.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035202": {
+    "id": "4035202",
+    "series_id": "3",
+    "title": "Urteil der Schiedsrichterin",
+    "desc": "Symbol der Identität als Schiedsrichterin\n※ Evanescia hat ihr Richtschwert zurückerlangt.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035203": {
+    "id": "4035203",
+    "series_id": "3",
+    "title": "Arcadia-Psycho",
+    "desc": "Niemanden interessiert, was du denkst, bis du beschließt, die Welt zu zerstören.\n※ Betrete den „Riss“ im Herzen von Füllwunsch.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035204": {
+    "id": "4035204",
+    "series_id": "3",
+    "title": "Wir amüsieren uns zu Tode",
+    "desc": "Lache oder stirb.\n※ Werde Zeuge des Ausbruchs der Imagenasis-Plage „Aszendent der Freude“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035205": {
+    "id": "4035205",
+    "series_id": "3",
+    "title": "Galaktischer Top-Spieler",
+    "desc": "Lieber durch die Hand eines Halunken sterben, als von ihm gelobt zu werden.\n※ Eigentlich will auch niemand durch die Hand eines Halunken sterben.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035206": {
+    "id": "4035206",
+    "series_id": "3",
+    "title": "Tod des Herolds des Todes",
+    "desc": "Wer den Tod verkündet, dessen Namen verkündet auch der Tod.\n※ Besiege den neuen „Herold des Todes“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035207": {
+    "id": "4035207",
+    "series_id": "3",
+    "title": "Vorbeiziehende Blütenbrise",
+    "desc": "Sie wehte vorbei wie Blüten in der Brise.\n※ Nimm Evanescias Auftrag an.",
+    "hide_desc": "",
     "hide": false
   },
   "4040101": {
@@ -3763,7 +3891,7 @@
     "id": "4045038",
     "series_id": "4",
     "title": "Pingpong",
-    "desc": "Ändere im Spielmodus „Sprung-Zeit“ an der Perdido-Station „Interplanarer Sprung!“ wiederholt die Schwerkraft, um die Wispae hin- und herspringen zu lassen.",
+    "desc": "Ändere in „Interplanarer Sprung!“ an der Perdido-Station wiederholt die Schwerkraft, um die Wispaes hin- und herspringen zu lassen.",
     "hide_desc": "",
     "hide": true
   },
@@ -3902,6 +4030,254 @@
     "desc": "Lausche vor dem Karaoke-Laden in Duomension City oder Dovebrook heimlich dem schönen Gesang, der nach draußen dringt.",
     "hide_desc": "",
     "hide": true
+  },
+  "4045101": {
+    "id": "4045101",
+    "series_id": "4",
+    "title": "Ein Land namens Arcadia",
+    "desc": "Sammle die sechs noch existierenden Seiten der „Chroniken des schwimmenden Schmieröls“ und finde alle Sammelobjekte in der Welt der „Chroniken des schwimmenden Schmieröls“ in Duomension City.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045102": {
+    "id": "4045102",
+    "series_id": "4",
+    "title": "Inneres Feuer des blauen Lotus",
+    "desc": "Zerschmettere alle Heliobi in „Sprung-Zeit“ in der Wolkenstation „Ausguck“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045103": {
+    "id": "4045103",
+    "series_id": "4",
+    "title": "Und dann ist Arbeitstag",
+    "desc": "Besiege den großen Septimus erneut in „Sprung-Zeit“ in der Wolkenstation „Ausguck“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045104": {
+    "id": "4045104",
+    "series_id": "4",
+    "title": "„Betreten verboten“",
+    "desc": "Schleiche dich in das Mitarbeiterbüro des Pearluxe-Turms.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045105": {
+    "id": "4045105",
+    "series_id": "4",
+    "title": "Skinners Taube",
+    "desc": "Aktiviere „Interplanarer Sprung!“ #1-mal hintereinander den Knopf, der Goldmünzen auswirft.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045106": {
+    "id": "4045106",
+    "series_id": "4",
+    "title": "Zeit zum Kombinieren!",
+    "desc": "Öffne den verborgenen Pfad und gelange zur Brust des MagiMechs.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045107": {
+    "id": "4045107",
+    "series_id": "4",
+    "title": "Pearluxe-Feuerleitarray",
+    "desc": "Besiege den riesigen Igelgeist in „Interplanarer Sprung!“ im Pearluxe-Turm.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045108": {
+    "id": "4045108",
+    "series_id": "4",
+    "title": "Die Goldene Regel der Katze",
+    "desc": "Fange bei der Montage des Mechatrons alle Pixelmünzen auf, die von der Katze fallengelassen werden.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045109": {
+    "id": "4045109",
+    "series_id": "4",
+    "title": "Ultimativ-Jahrhunderts-Formation des Super-Mechatrons",
+    "desc": "Zerstöre alle zerstörbaren Gebäude im Filmstudio, in dem der Mechatron-Kampf stattfand.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045110": {
+    "id": "4045110",
+    "series_id": "4",
+    "title": "Super-Mechatron-Talentscout",
+    "desc": "Finde vier „seltsam aussehende“ Mechatrons.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045111": {
+    "id": "4045111",
+    "series_id": "4",
+    "title": "Heißes Blut erkaltet nicht",
+    "desc": "Schließe die Herausforderung „Flammenlanze, vorwärts!“ beim „Star-Rail-FEST“ ab.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045112": {
+    "id": "4045112",
+    "series_id": "4",
+    "title": "Vom Abgrund bis zum Himmel",
+    "desc": "Stelle die „Teilung des Meeres“ im Xianzhou-Bereich des „Star-Rail-FEST“ nach.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045113": {
+    "id": "4045113",
+    "series_id": "4",
+    "title": "Arcadia-Variation: Blechmann",
+    "desc": "Spiele die seltsame Melodie und finde die mysteriöse Kreatur, die sich im Pearluxe-Turm versteckt.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045114": {
+    "id": "4045114",
+    "series_id": "4",
+    "title": "Arcadia-Variation: Formwandelnder Furbo",
+    "desc": "Spiele die seltsame Melodie und finde die mysteriöse Kreatur, die sich in der Wolkenstation „Ausguck“ versteckt.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045201": {
+    "id": "4045201",
+    "series_id": "4",
+    "title": "Urlaub für den Rest des Lebens",
+    "desc": "Sammle insgesamt #1 Namenlose Wispaes in „Sternhase“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045202": {
+    "id": "4045202",
+    "series_id": "4",
+    "title": "Galileos Eisenkugel",
+    "desc": "Schließe die „Sprung-Zeit“ auf dem Dach des Fernsehsenders ab und springe von der obersten Etage in die Interviewhalle.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045203": {
+    "id": "4045203",
+    "series_id": "4",
+    "title": "Der Turmpianist",
+    "desc": "Sammle alle Noten in der „Sprung-Zeit“ auf dem Dach des Fernsehturms ein.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045204": {
+    "id": "4045204",
+    "series_id": "4",
+    "title": "Kein Assassine, kein Credo",
+    "desc": "Erreiche die Spitze des Fernsehturms von Seafeld.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045205": {
+    "id": "4045205",
+    "series_id": "4",
+    "title": "Seelen, gefesselt von der Schwerkraft",
+    "desc": "Behalte in „Interplanarer Sprung!“ bei, nicht den Boden zu berühren, und berühre #1[i]-mal in Folge die Schwerkraftlinie.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045206": {
+    "id": "4045206",
+    "series_id": "4",
+    "title": "Bowlingmeister",
+    "desc": "Schleudere in „Interplanarer Sprung!“ mit dem Helfer-Bot einen Igelgeist oder Schwebegeist weg.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045207": {
+    "id": "4045207",
+    "series_id": "4",
+    "title": "Ein Hoch auf deine Augen",
+    "desc": "Schließe in „Interplanarer Sprung!“ die Getränkemix-Etappe im Fernsehturm von Seafeld ab.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045208": {
+    "id": "4045208",
+    "series_id": "4",
+    "title": "Jenseits des Meeres sind Nachbarn",
+    "desc": "Erreiche in „Interplanarer Sprung!“ das Wohngebiet auf der anderen Seite des Meeres.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045209": {
+    "id": "4045209",
+    "series_id": "4",
+    "title": "Orpheus’ Saitengesang",
+    "desc": "Spiele eine Melodie in „Interplanarer Sprung!“, um den Nebel auf der geheimnisvollen Insel aufzulösen.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045210": {
+    "id": "4045210",
+    "series_id": "4",
+    "title": "Faulenzen ist Arbeit",
+    "desc": "Gleite in „Interplanarer Sprung!“ auf einem Helfer-Bot über die Wasseroberfläche.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045211": {
+    "id": "4045211",
+    "series_id": "4",
+    "title": "Unerträgliches Gewicht",
+    "desc": "Verliere das Spiel, nachdem du in „Interplanarer Sprung!“ von einem Waldundun oder PiPinTun zerquetscht wurdest.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045212": {
+    "id": "4045212",
+    "series_id": "4",
+    "title": "Jäger der verlorenen Insel",
+    "desc": "Erreiche in „Interplanarer Sprung!“ als Erstes den Gipfel der mysteriösen Insel beim Schattenrennen in Seafeld City.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045213": {
+    "id": "4045213",
+    "series_id": "4",
+    "title": "Bumerang",
+    "desc": "Feuere in „Interplanarer Sprung!“ einen Pfeil ab, der dich selbst trifft.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045214": {
+    "id": "4045214",
+    "series_id": "4",
+    "title": "Ultimative Fahrmaschine",
+    "desc": "Fahre in „Interplanarer Sprung!“ auf einem Helfer-Bot durch die Stachelhindernisse.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045215": {
+    "id": "4045215",
+    "series_id": "4",
+    "title": "Helfer-Bot, Evolution!",
+    "desc": "Schalte in „Interplanarer Sprung!“ die exklusive Fähigkeit des Helfer-Bots frei.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045216": {
+    "id": "4045216",
+    "series_id": "4",
+    "title": "Arcadia-Variation: Kugelprinzessin",
+    "desc": "Spiele die seltsame Melodie und finde die mysteriöse Kreatur, die sich im Fernsehturm von Seafeld versteckt.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045217": {
+    "id": "4045217",
+    "series_id": "4",
+    "title": "Arcadia-Variation: Capybaralied",
+    "desc": "Spiele die seltsame Melodie und finde die mysteriöse Kreatur, die sich in Seafeld City versteckt.",
+    "hide_desc": "",
+    "hide": false
   },
   "4051001": {
     "id": "4051001",
@@ -6891,7 +7267,7 @@
     "id": "4053704",
     "series_id": "5",
     "title": "Plötzlicher Rückblick",
-    "desc": "Sieh dir alle Sammlungen in deinem Zimmer an.",
+    "desc": "Platziere #1 Souvenirs im Bereich „Sammlerstücke“ der Sammlungsvitrine.",
     "hide_desc": "",
     "hide": true
   },
@@ -8842,16 +9218,16 @@
   "4055012": {
     "id": "4055012",
     "series_id": "5",
-    "title": "Das Verbrechen ist „Liebe“",
-    "desc": "Endlich kehren friedliche Tage zur Ruhe zurück.\n※ Sorge dafür, dass Sorren seine gerechte Strafe annimmt.",
+    "title": "Löwenzahns Urteil",
+    "desc": "In der nächsten Ginkgo-Saison wird der Löwenzahn nicht mehr treiben.\n※ Lass Sapone ihren Wunsch erfüllen.",
     "hide_desc": "",
     "hide": true
   },
   "4055013": {
     "id": "4055013",
     "series_id": "5",
-    "title": "Löwenzahns Urteil",
-    "desc": "In der nächsten Ginkgo-Saison wird der Löwenzahn nicht mehr treiben.\n※ Lass Sapone ihren Wunsch erfüllen.",
+    "title": "Das Verbrechen ist „Liebe“",
+    "desc": "Endlich kehren friedliche Tage zur Ruhe zurück.\n※ Sorge dafür, dass Sorren seine gerechte Strafe annimmt.",
     "hide_desc": "",
     "hide": true
   },
@@ -9076,6 +9452,254 @@
     "series_id": "5",
     "title": "Würfelnd durch die Straßen",
     "desc": "Besiege die Vollkommenen Vier in „Lasst die Würfel fallen! Kollektiv!“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055101": {
+    "id": "4055101",
+    "series_id": "5",
+    "title": "Aus Spaß wird Ernst",
+    "desc": "Zolle Silas im Kampftest-Sandkasten mit einem Schlag voller Kraft Respekt.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055102": {
+    "id": "4055102",
+    "series_id": "5",
+    "title": "Aus Ernst wird Spaß",
+    "desc": "Entscheide dich dazu, Silas’ Traum im Kampftest-Sandkasten zu schützen.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055103": {
+    "id": "4055103",
+    "series_id": "5",
+    "title": "Bitte übernimm die Verantwortung für deine Schöpfung.",
+    "desc": "Fang die faule Nihilux im Chaos der Signierstunde ein und bring sie zurück.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055104": {
+    "id": "4055104",
+    "series_id": "5",
+    "title": "Auch das ist Teil der Fiktion",
+    "desc": "Lass Furbulitzer im Chaos der Signierstunde mutig Aufgaben übernehmen, die nicht seine sind.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055105": {
+    "id": "4055105",
+    "series_id": "5",
+    "title": "Kleider machen mehr als Leute",
+    "desc": "Gib dem zögernden Mechatron vor dem Modifikationsraum für Mechatrone einen Rat.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055106": {
+    "id": "4055106",
+    "series_id": "5",
+    "title": "Ein Albtraum für die Bösen",
+    "desc": "Sprich separat mit Caenis SP und Donnerbogen.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055107": {
+    "id": "4055107",
+    "series_id": "5",
+    "title": "Die Liebe in den Zeiten von Arcadia",
+    "desc": "Bezeuge auf der Straße, wie Passanten ihre Gefühle austauschen.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055108": {
+    "id": "4055108",
+    "series_id": "5",
+    "title": "Unvergleichlich",
+    "desc": "Besiege alle Gegner im Club-Showdown.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055109": {
+    "id": "4055109",
+    "series_id": "5",
+    "title": "An alle Einheiten: Auf mein Kommando!",
+    "desc": "Schalte alle Fähigkeiten in „Kampfvorbereitung“ frei.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055110": {
+    "id": "4055110",
+    "series_id": "5",
+    "title": "Feinde aus dem Himmel",
+    "desc": "Schließe den Modus „Herausforderung der Dämonenfürstin“ ab.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055201": {
+    "id": "4055201",
+    "series_id": "5",
+    "title": "Ob nah oder fern, wir werden sie vernichten!",
+    "desc": "Übergib Skotts Mörder der Xianzhou-Allianz.\n※ Hoffentlich gewöhnt sie sich an das Essen im Kerker der Ketten.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055202": {
+    "id": "4055202",
+    "series_id": "5",
+    "title": "Territorialprinzip",
+    "desc": "Übergib Skotts Mörder der Abteilung für strategische Investitionen.\n※ Als wäre nichts geschehen.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055203": {
+    "id": "4055203",
+    "series_id": "5",
+    "title": "Weitlaufende Feindseligkeit",
+    "desc": "Übergib Skotts Mörder der Gerechtigkeit.\n※ „Wenn sie sich nicht würdevoll gibt, dann hilf ihr dabei.“",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055204": {
+    "id": "4055204",
+    "series_id": "5",
+    "title": "Unbekannte Erinnerung",
+    "desc": "Schließe die Ermittlung der Schwimmenden Express-Plattform ab.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055205": {
+    "id": "4055205",
+    "series_id": "5",
+    "title": "Die Antimem-Abteilung existiert nicht.",
+    "desc": "Untersuche den Computer im Lager des Fernsehsenders.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055206": {
+    "id": "4055206",
+    "series_id": "5",
+    "title": "Was ist ein Held?",
+    "desc": "Triff dich mit dem Cinderborne-Krieger im Fernsehsender wieder.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055207": {
+    "id": "4055207",
+    "series_id": "5",
+    "title": "Ein Schauspieler bereitet sich vor",
+    "desc": "Schließe das erste Gespräch mit der Ploo-Familie ab.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055208": {
+    "id": "4055208",
+    "series_id": "5",
+    "title": "Also verschwindet die Liebe, was?",
+    "desc": "Höre dir die Ausrede an, die ein Passant erfunden hat, um einem Treffen mit den Eltern zu entgehen.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055212": {
+    "id": "4055212",
+    "series_id": "5",
+    "title": "Furbo-Fieber",
+    "desc": "Unsere Furbo-Familie wird wirklich immer größer!\n※ Das „Furbobo-Wochenblatt“ hat offiziell #1 festangestellte Furbo-Journalisten.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055213": {
+    "id": "4055213",
+    "series_id": "5",
+    "title": "Ein weiteres Ich in der Welt",
+    "desc": "Triff andere Trailblazer im Koop-Partywagen.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055214": {
+    "id": "4055214",
+    "series_id": "5",
+    "title": "Trailblaze-Express-Club",
+    "desc": "Besuche die Koop-Partywagen von #1 anderen Trailblazern.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055215": {
+    "id": "4055215",
+    "series_id": "5",
+    "title": "Miau-tastischer Trailblaze-Emanator",
+    "desc": "Erhalte das Geschenk von Akivimiau.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055216": {
+    "id": "4055216",
+    "series_id": "5",
+    "title": "Partyjäger",
+    "desc": "Schöpfungen aus jedem Versteck im Partywagen gefangen.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055217": {
+    "id": "4055217",
+    "series_id": "5",
+    "title": "Das letzte Abendmahl",
+    "desc": "Platziere #1 identische Schöpfungen im Platzierungsbereich für Schöpfungen.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055218": {
+    "id": "4055218",
+    "series_id": "5",
+    "title": "Naturforscher",
+    "desc": "Sammle #1 Schöpfungen aus dem „Beobachtungseintrag über Schöpfungen“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055220": {
+    "id": "4055220",
+    "series_id": "5",
+    "title": "Glückswürfel! Gutes Omen!",
+    "desc": "Sammle im Spielmodus „Kosmikon-Kollektiv“ insgesamt #1 Glanzfarbenwürfel aus dem „Erweiterungsset 2“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055221": {
+    "id": "4055221",
+    "series_id": "5",
+    "title": "Dein Würfel möchte zu mir nach Hause",
+    "desc": "Tausche in „Lasst die Würfel erneut fallen! Kollektiv!“ insgesamt #1-mal die Würfel.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055222": {
+    "id": "4055222",
+    "series_id": "5",
+    "title": "Drei auf einen Streich",
+    "desc": "Setze in „Lasst die Würfel erneut fallen! Kollektiv!“ innerhalb einer Runde #1 Taktikkarten in Folge ein.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055223": {
+    "id": "4055223",
+    "series_id": "5",
+    "title": "Extragroßes Glas Schaden",
+    "desc": "Verursache in „Lasst die Würfel erneut fallen! Kollektiv!“ innerhalb einer Runde #1 SCH.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055224": {
+    "id": "4055224",
+    "series_id": "5",
+    "title": "„Furbobo-Wochenblatt“-Sprint",
+    "desc": "Besiege in „Lasst die Würfel erneut fallen! Kollektiv!“ als Vertreter des „Furbobo-Wochenblatts“ die fünf Besten der Rangliste der Einkaufsstraße von Seafeld City: die „Fünf Stars von Seafeld“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055225": {
+    "id": "4055225",
+    "series_id": "5",
+    "title": "Kosmischer Würfel Nr. 1",
+    "desc": "Schließe in „Lasst die Würfel erneut fallen! Kollektiv!“ das finale Duell mit Silberwolf St. 999 ab.",
     "hide_desc": "",
     "hide": false
   },
@@ -11654,6 +12278,150 @@
     "desc": "Aha besiegt #1 Gegner mit „Gelächter im Anflug“.",
     "hide_desc": "",
     "hide": true
+  },
+  "4075015": {
+    "id": "4075015",
+    "series_id": "7",
+    "title": "Herrlich seltsamer Tag",
+    "desc": "Gewinne einen Kampf mit #1 Hochgefühl-Figuren.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075101": {
+    "id": "4075101",
+    "series_id": "7",
+    "title": "Die drei Musketiere",
+    "desc": "Erringe #1[i]-mal einen Kampfsieg mit einem Team, das gleichzeitig Ashveil, Rappa und Boothill enthält.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075102": {
+    "id": "4075102",
+    "series_id": "7",
+    "title": "Die Gerechtigkeit ist spät, nicht gestrichen",
+    "desc": "Die Verbündeten griffen insgesamt #1-mal Ziele mit „Köder“ an, ohne Ashveils Folgeangriff auszulösen.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075103": {
+    "id": "4075103",
+    "series_id": "7",
+    "title": "Zwei auf einen Streich",
+    "desc": "Besiege mit der verbündeten Figur Ashveil #1 Gegner gleichzeitig mit einem einzigen Folgeangriff.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075105": {
+    "id": "4075105",
+    "series_id": "7",
+    "title": "Die Sonne geht sofort auf",
+    "desc": "Lass im Kampf gegen den „Dämmerungstrupp“ diesen eine sofortige Aktion auslösen, indem er im Status „Dämmerungskraftfeld“ von einem Angriff eines bestimmten Typs getroffen wird.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075106": {
+    "id": "4075106",
+    "series_id": "7",
+    "title": "Anfängerglück tötet den Meister",
+    "desc": "Bringe den „SD-Zivilmechatron“ im Kampf dazu, #1 Gegner zu besiegen.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075107": {
+    "id": "4075107",
+    "series_id": "7",
+    "title": "Wassersparmaßnahme",
+    "desc": "Entferne im Kampf gegen „Legierungs-Mechatron: König Pom-Pom“ seinen Status „Dampfreinigung“.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075108": {
+    "id": "4075108",
+    "series_id": "7",
+    "title": "Blasenpionier",
+    "desc": "Löse in einem einzigen Kampf gegen „Legierungs-Mechatron: König Pom-Pom“ mindestens #1-mal den Effekt „Hochglanz“ von „Starke Schaumseife“ aus.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075201": {
+    "id": "4075201",
+    "series_id": "7",
+    "title": "Keine langen Gesichter",
+    "desc": "Setze in einem einzigen Kampf den Ultimate des Trailblazers (Das Hochgefühl) bei #1 verschiedenen Verbündeten jeweils einmal ein.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075202": {
+    "id": "4075202",
+    "series_id": "7",
+    "title": "Danke für die Spende",
+    "desc": "Setze in einem einzigen Kampf den Ultimate des Trailblazers (Das Hochgefühl) insgesamt #1-mal bei Sparxie ein.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075203": {
+    "id": "4075203",
+    "series_id": "7",
+    "title": "Crowdfunding Top 500",
+    "desc": "Die Gesamtzahl an „Verdiente Leistung“, die Evanescia in einem einzigen Kampf durch das Talent „Jugend: Unendliche Pracht“ von anderen Teammitgliedern erhält, übersteigt #1.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075204": {
+    "id": "4075204",
+    "series_id": "7",
+    "title": "Es gibt nie zu viel des Guten",
+    "desc": "Setze den Ultimate der verbündeten Figur Evanescia ein, wenn die Anzahl von „Verdiente Leistung“ #1 erreicht.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075205": {
+    "id": "4075205",
+    "series_id": "7",
+    "title": "Du scheinst gerne Witze zu machen, Frau Kafka!",
+    "desc": "Löse „Firewall‑Wolf 999“ von Silberwolf St. 999 aus und hebe den von Stellaron-Jägerin Kafka verursachten Status „Dominiert“ auf.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075206": {
+    "id": "4075206",
+    "series_id": "7",
+    "title": "Ausrüstungsliste",
+    "desc": "In einer einzigen Runde haben Verbündete #1 verschiedene „Top-Lootbox“ von Silberwolf St. 999 ausgelöst.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075207": {
+    "id": "4075207",
+    "series_id": "7",
+    "title": "Der Wolf der Finanzstraße",
+    "desc": "Setze die Technik „Glaub mir, das ist total Meta“ von Silberwolf St. 999 ein, um #1 Münzen auf einmal einzusammeln.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075208": {
+    "id": "4075208",
+    "series_id": "7",
+    "title": "Resident Marionette",
+    "desc": "Im Kampf gegen „Umgekehrte höchste Wonne: Erzlotos des bösen Willens“ hat eine verbündete Figur, nachdem sie in eine „Glücksmarionette“ verwandelt wurde, ein beliebiges Ziel mit „Passt genau“ besiegt.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075209": {
+    "id": "4075209",
+    "series_id": "7",
+    "title": "Maximaler Verstand",
+    "desc": "Im Kampf gegen „Umgekehrte höchste Wonne: Erzlotos des bösen Willens“ wurde keine Figur durch das Auslösen von „Glück“ in eine „Glücksmarionette“ verwandelt.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075210": {
+    "id": "4075210",
+    "series_id": "7",
+    "title": "Ende des Spaßes",
+    "desc": "Besiege im Kampf gegen „Aszendent der Freude“ mit einem einzigen Angriff gleichzeitig #1 oder mehr „Aszendent der Freude: Finale“.",
+    "hide_desc": "",
+    "hide": false
   },
   "4080101": {
     "id": "4080101",

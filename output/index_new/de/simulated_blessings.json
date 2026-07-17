@@ -2474,7 +2474,7 @@
   "616454": {
     "id": "616454",
     "name": "Mit einem Handgriff",
-    "desc": "Erhöht nach dem Besiegen eines Gegners den ANG aller Verbündeten um 6%. Dieser Effekt ist bis zu 4-fach stapelbar."
+    "desc": "Erhöht nach dem Besiegen eines Gegners den ANG aller Verbündeten um 6%. Dieser Effekt ist bis zu 4-mal stapelbar."
   },
   "616455": {
     "id": "616455",
@@ -2489,7 +2489,7 @@
   "616457": {
     "id": "616457",
     "name": "Grüner Zweig, rote Saite",
-    "desc": "Erhöht nach dem Besiegen eines Gegners die GES aller Verbündeten um 4%. Dieser Effekt ist bis zu 2-fach stapelbar."
+    "desc": "Erhöht nach dem Besiegen eines Gegners die GES aller Verbündeten um 4%. Dieser Effekt ist bis zu 2-mal stapelbar."
   },
   "616510": {
     "id": "616510",
@@ -2518,7 +2518,7 @@
   "616540": {
     "id": "616540",
     "name": "Dichte Flammen",
-    "desc": "Wenn Verbündete angegriffen werden, wird der SCH-Multiplikator von Blazar um 20% des ursprünglichen Multiplikators erhöht. Dieser Effekt ist bis zu 2-fach stapelbar und hält 2 Rd. an."
+    "desc": "Wenn Verbündete angegriffen werden, wird der SCH-Multiplikator von Blazar um 20% des ursprünglichen Multiplikators erhöht. Dieser Effekt ist bis zu 2-mal stapelbar und hält 2 Rd. an."
   },
   "616541": {
     "id": "616541",
@@ -2986,6 +2986,807 @@
     "name": "Neues Leitmotiv",
     "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, stellt er 24% seiner max. LP wieder her."
   },
+  "617000": {
+    "id": "617000",
+    "name": "„Highlights“",
+    "desc": "Erhöht den von Verbündeten verursachten endgültigen SCH um 2% und reduziert ihren erlittenen SCH um 1%. Wenn die Aufladung 100 % erreicht, wird die Aktion des Ziels von „Highlights“ um 100 % vorgezogen und der von ihm sowie seinem Memogeist verursachte endgültige SCH für 2 Rd. um 10% erhöht."
+  },
+  "617001": {
+    "id": "617001",
+    "name": ""
+  },
+  "617110": {
+    "id": "617110",
+    "name": ""
+  },
+  "617120": {
+    "id": "617120",
+    "name": "Gutenachtgeschichte",
+    "desc": "Verbraucht 100 Pkt. Energie, um diese Fähigkeit einzusetzen und mit dem Pfad des Gedenkens eine Schwellenresonanz zu erzeugen. Fügt allen Gegnern Eis-SCH zu und friert sie mit hoher Chance für 1 Rd. ein. Nachdem eingefrorene Gegner von Memogeistern angegriffen wurden, erleiden sie zusätzlich Tatsächlichen SCH in Höhe von 8% ihrer max. LP. Jedes Mal, nachdem ein Gegner eingefroren wurde, kann dieser SCH bis zu 4-mal ausgelöst werden."
+  },
+  "617130": {
+    "id": "617130",
+    "name": "Untrüglicher Instinkt",
+    "desc": "Wenn eine Figur eine Aktion ausführt, erhalten sie und ihr Memogeist 1 Stapelung(en) Besessenheit. Wenn ein Memogeist eine Aktion ausführt, erhalten er und sein Memomeister 1 Stapelung(en) Besessenheit."
+  },
+  "617131": {
+    "id": "617131",
+    "name": "Unvergängliche Erinnerung",
+    "desc": "Nach dem Angriff eines Verbündeten verursacht er zusätzlichen SCH in Höhe von 1% seines ANG für jede Stapelung der gesamten Stapelzahl von Besessenheit aller Verbündeten."
+  },
+  "617132": {
+    "id": "617132",
+    "name": "Immer wieder friedlicher Traum",
+    "desc": "Nach Kampfeintritt von Verbündeten oder nach Beschwörung von Memogeistern wird nach dem Ende der ersten Runde ihre Aktion um 50% vorgezogen und der verursachte SCH um 50% erhöht. Dieser Effekt hält 4 Rd. an."
+  },
+  "617140": {
+    "id": "617140",
+    "name": "Erkenntnis: Gewebte Wolken",
+    "desc": "Erhält 2 Stapelung(en) Besessenheit, wenn Verbündete angegriffen werden."
+  },
+  "617141": {
+    "id": "617141",
+    "name": "Erkenntnis: Genähte Berge",
+    "desc": "Nachdem Verbündete Gegner besiegt haben, erhalten alle Verbündeten 4 Stapelung(en) Besessenheit."
+  },
+  "617142": {
+    "id": "617142",
+    "name": "Erkenntnis: Bindende Welle",
+    "desc": "Erhält nach Kampfeintritt von Verbündeten oder nach Beschwörung von Memogeistern 6 Stapelung(en) Besessenheit."
+  },
+  "617143": {
+    "id": "617143",
+    "name": "Erkenntnis: Beileid des flachen Meeres",
+    "desc": "Jede Stapelung Besessenheit erhöht den verursachten SCH zusätzlich um 0.3%."
+  },
+  "617144": {
+    "id": "617144",
+    "name": "Erkenntnis: Lob des Abgrunds",
+    "desc": "Erhöht die max. Stapelzahl von Besessenheit der Figuren um 4."
+  },
+  "617145": {
+    "id": "617145",
+    "name": "Erkenntnis: Verfeinerte Dämmerung",
+    "desc": "Jedes Mal, wenn ein Gegner von einem anderen Verbündeten angegriffen wird, wird sein erlittener SCH um 4% erhöht. Dieser Effekt ist bis zu 6-fach stapelbar und hält bis zum Ende der Runde an."
+  },
+  "617146": {
+    "id": "617146",
+    "name": "Erkenntnis: Geschmolzener Sonnenuntergang",
+    "desc": "Jedes Mal, wenn ein Gegner von einem anderen Verbündeten angegriffen wird, wird sein verursachter SCH um 2% reduziert. Dieser Effekt ist bis zu 6-fach stapelbar und hält bis zum Ende der Runde an."
+  },
+  "617150": {
+    "id": "617150",
+    "name": "Wahrnehmung: Temperatur der Klinge",
+    "desc": "Erhöht den ANG aller Verbündeten um 18%."
+  },
+  "617151": {
+    "id": "617151",
+    "name": "Wahrnehmung: Form der Tierklauen",
+    "desc": "Erhöht den verursachten SCH aller Verbündeten um 12%."
+  },
+  "617152": {
+    "id": "617152",
+    "name": "Wahrnehmung: Muster der Muschel",
+    "desc": "Erhöht die VTD aller Verbündeten um 16%."
+  },
+  "617153": {
+    "id": "617153",
+    "name": "Wahrnehmung: Geschichte der Monsune",
+    "desc": "Erhöht den verursachten SCH aller Verbündeten um 10% und den der Memogeister zusätzlich um 4%."
+  },
+  "617154": {
+    "id": "617154",
+    "name": "Wahrnehmung: Geschichte des Felsens",
+    "desc": "Erhöht die VTD aller Verbündeten um 14% und die der Memogeister zusätzlich um 6%."
+  },
+  "617155": {
+    "id": "617155",
+    "name": "Wahrnehmung: Geschichte der Gezeiten",
+    "desc": "Erhöht die LP-Wiederherstellung aller Verbündeten um 10% und die der Memogeister zusätzlich um 4%."
+  },
+  "617156": {
+    "id": "617156",
+    "name": "Wahrnehmung: Rote Knochen und Blätter",
+    "desc": "Nach der Aktion eines Memogeists wird die KRIT-Rate aller Verbündeten für 2 Rd. um 14% erhöht."
+  },
+  "617157": {
+    "id": "617157",
+    "name": "Wahrnehmung: Weiße Haare und Perlen",
+    "desc": "Nach der Aktion eines Memogeists wird der KRIT-SCH aller Verbündeten für 2 Rd. um 28% erhöht."
+  },
+  "617210": {
+    "id": "617210",
+    "name": ""
+  },
+  "617220": {
+    "id": "617220",
+    "name": "Niedliches Schwarzes Loch",
+    "desc": "Verbraucht 100 Pkt. Energie, um diese Fähigkeit einzusetzen und mit dem Pfad der Nichtigkeit eine Schwellenresonanz zu erzeugen. Verursacht bei allen Gegnern für 3 Rd. Brennen, Schock, Bluten und 2-fach Windscherung. Wenn sie von einer Figur angegriffen werden, werden die oben genannten DoT-Effekte sofort ausgelöst und SCH in Höhe von 25% des ursprünglichen SCH verursacht."
+  },
+  "617230": {
+    "id": "617230",
+    "name": "Die uneingestehbare Gemeinschaft",
+    "desc": "Wenn ein Gegner DoT erleidet, erhält Flüstern Aufladung in Höhe von 20% der ANG-Gesamtsumme aller Verbündeten."
+  },
+  "617231": {
+    "id": "617231",
+    "name": "Vom Sein zum Seienden",
+    "desc": "Wenn Gegner zum ersten Mal in einer Runde angegriffen werden, verursacht Flüstern SCH in Höhe von 160% des ursprünglichen SCH."
+  },
+  "617232": {
+    "id": "617232",
+    "name": "Eine Stimme von anderswo",
+    "desc": "Zu Beginn der Runde eines Gegners wird DoT zusätzlich 1-mal ausgelöst, wodurch der aktuelle erlittene DoT SCH in Höhe von 90% des ursprünglichen SCH verursacht."
+  },
+  "617240": {
+    "id": "617240",
+    "name": "Erleuchtung und Auslöschung",
+    "desc": "Wenn die Runde eines Gegners endet, erhält Flüstern Aufladung in Höhe von 40% der ANG-Gesamtsumme aller verbündeten Figuren."
+  },
+  "617241": {
+    "id": "617241",
+    "name": "Von Tränen und von Heiligen",
+    "desc": "Jedes Mal, nachdem Gegner Flüstern-SCH erlitten haben, wird der von ihnen verursachte SCH um 0.3% reduziert, bis zu 12%."
+  },
+  "617242": {
+    "id": "617242",
+    "name": "Lob der Schlaflosigkeit",
+    "desc": "Erhöht den Flüstern-SCH um 30% des ursprünglichen SCH-Multiplikators."
+  },
+  "617243": {
+    "id": "617243",
+    "name": "Auf den Gipfeln der Verzweiflung",
+    "desc": "Erhöht die Entfernungsschwelle für Aufladung von Flüstern um 50%."
+  },
+  "617244": {
+    "id": "617244",
+    "name": "Die Schrift des Desasters",
+    "desc": "Erhöht die Aufladeeffizienz um 20%, wenn Flüstern Aufladung erhält."
+  },
+  "617245": {
+    "id": "617245",
+    "name": "Der als letzter spricht",
+    "desc": "Jedes Mal, wenn ein Gegner DoT erleidet, werden bei allen Verbündeten LP in Höhe von 1.0% ihrer jeweiligen max. LP wiederhergestellt."
+  },
+  "617246": {
+    "id": "617246",
+    "name": "Unklare Stellungnahmen",
+    "desc": "Jedes Mal, wenn ein Gegner mit einem DoT-Effekt belegt wird, wird sein erlittener SCH um 3.0% erhöht. Dieser Effekt ist bis zu 6-fach stapelbar."
+  },
+  "617250": {
+    "id": "617250",
+    "name": "Die lebendige Metapher",
+    "desc": "Erhöht den verursachten DoT der Verbündeten um 24%."
+  },
+  "617251": {
+    "id": "617251",
+    "name": "Das Nicht-Existierende",
+    "desc": "Erhöht die Effekt-Trefferrate der Verbündeten um 24%."
+  },
+  "617252": {
+    "id": "617252",
+    "name": "Die Krankheit zum Tode",
+    "desc": "Reduziert den Effekt-WDS der Gegner um 12%."
+  },
+  "617253": {
+    "id": "617253",
+    "name": "Sakrileg",
+    "desc": "Erhöht den von Gegnern erlittenen DoT um 10%."
+  },
+  "617254": {
+    "id": "617254",
+    "name": "Die innere Erfahrung",
+    "desc": "Nachdem ein Verbündeter einen Debuff verursacht hat, wird sein ANG für 2 Rd. um 24% erhöht."
+  },
+  "617255": {
+    "id": "617255",
+    "name": "Heiße Nächte",
+    "desc": "Erhöht den erlittenen SCH von Gegnern mit DoT-Status um 8%."
+  },
+  "617256": {
+    "id": "617256",
+    "name": "Jenseits von Gut und Böse",
+    "desc": "Nachdem ein Verbündeter einen Debuff verursacht hat, wird seine GES für 3 Rd. um 10% erhöht."
+  },
+  "617257": {
+    "id": "617257",
+    "name": "Die Austreibung des Anderen",
+    "desc": "Jedes Mal, wenn ein Gegner DoT erleidet, wird bei einem zufälligen Verbündeten 1.0 Pkt. Energie wiederhergestellt. Dieser Effekt kann bis zu 20-mal pro Runde des Gegners ausgelöst werden."
+  },
+  "617410": {
+    "id": "617410",
+    "name": ""
+  },
+  "617420": {
+    "id": "617420",
+    "name": "Die letzte Kugel",
+    "desc": "Verbraucht 100 Pkt. Energie, um diese Fähigkeit einzusetzen und mit dem Pfad der Jagd eine Schwellenresonanz zu erzeugen. Fügt allen Gegnern Wind-SCH zu und zieht die Aktionen aller Verbündeten um 100% vor. Die max. Energie beträgt 200."
+  },
+  "617430": {
+    "id": "617430",
+    "name": "Gezogene Waffen, unebene Pfade",
+    "desc": "Nachdem ein Verbündeter einen Gegner besiegt hat, wird seine Aktion um 100 % vorgezogen und andere Gegner erhalten 4 Stapelung(en) Umgekehrter Kritischer Boost."
+  },
+  "617431": {
+    "id": "617431",
+    "name": "Fliegende weiße Federn, ein Himmel voller Sterne",
+    "desc": "Nachdem ein Verbündeter einen Angriff ausgeführt hat und die Anzahl der Angriffsziele 1/2/3/4/5 beträgt, wird der verursachte SCH von Umgekehrter Kritischer Boost um 120%/80%/60%/40%/20% des ursprünglichen SCH-Multiplikators erhöht."
+  },
+  "617432": {
+    "id": "617432",
+    "name": "Unerwartete Wendungen, Mutprobe für die Zukunft",
+    "desc": "Nachdem ein Verbündeter einem Gegner Schwächebruch zugefügt hat, wird seine Aktion um 100 % vorgezogen."
+  },
+  "617440": {
+    "id": "617440",
+    "name": "Sterne an der Schwertspitze",
+    "desc": "Wenn ein Verbündeter einem Gegner mit Umgekehrter Kritischer Boost SCH zufügt, wird die KRIT-Rate um 20% erhöht. Für jede Stapelung von Umgekehrter Kritischer Boost wird der KRIT-SCH zusätzlich um 3% erhöht."
+  },
+  "617441": {
+    "id": "617441",
+    "name": "Der krumme Pfad des Pfeils",
+    "desc": "Erhöht die max. Stapelzahl von Umgekehrter Kritischer Boost bei Gegnern um 5."
+  },
+  "617442": {
+    "id": "617442",
+    "name": "Reiter galoppieren durch das Chaos",
+    "desc": "Zu Beginn der Runde eines gegnerischen Ziels wird der erlittene SCH für jede Stapelung von Umgekehrter Boost um 0.8% erhöht. Dieser Effekt hält bis zum Beginn der nächsten Runde an."
+  },
+  "617443": {
+    "id": "617443",
+    "name": "Gebrochen, aber nicht verbogen",
+    "desc": "Nachdem ein Verbündeter einen Folgeangriff ausgeführt hat, erhält ein zufälliges Angriffsziel zusätzlich 2 Stapelung(en) Umgekehrter Kritischer Boost."
+  },
+  "617444": {
+    "id": "617444",
+    "name": "Strahlender Blitz",
+    "desc": "Wenn ein Angriffsziel nach dem Angriff eines Verbündeten mindestens 5 Stapelung(en) Umgekehrter Kritischer Boost besitzt, wird der ANG dieser Einheit für 2 Rd. um 50% erhöht."
+  },
+  "617445": {
+    "id": "617445",
+    "name": "Der alte, treue Bogen",
+    "desc": "Nachdem ein Verbündeter Folgeangriffe ausgeführt hat, besteht eine feste Chance von 40%, dass 1 Fertigkeitspunkt wiederhergestellt wird."
+  },
+  "617446": {
+    "id": "617446",
+    "name": "Pfeile fliegen wie Meteoriten",
+    "desc": "Erhöht die GES der Verbündeten um 5%. Nach je 12 Rd. des ganzen Teams wird die Aktion des aktuellen Verbündeten um 100 % vorgezogen."
+  },
+  "617450": {
+    "id": "617450",
+    "name": "Ausgerichtet für Präzision",
+    "desc": "Erhöht die GES der Verbündeten um 8%."
+  },
+  "617451": {
+    "id": "617451",
+    "name": "Die Kraft, Hunderte zu überwinden",
+    "desc": "Erhöht die KRIT-Rate der Verbündeten um 12%."
+  },
+  "617452": {
+    "id": "617452",
+    "name": "Sonnenklare Absicht",
+    "desc": "Erhöht den KRIT-SCH der Verbündeten um 24%."
+  },
+  "617453": {
+    "id": "617453",
+    "name": "Herbstmond am Himmel",
+    "desc": "Stellt nach dem Besiegen eines Gegners bei allen Verbündeten LP in Höhe von 12% ihrer max. LP wieder her."
+  },
+  "617454": {
+    "id": "617454",
+    "name": "Mit einem Handgriff",
+    "desc": "Erhöht nach dem Besiegen eines Gegners den ANG aller Verbündeten um 10%. Dieser Effekt ist bis zu 4-mal stapelbar."
+  },
+  "617455": {
+    "id": "617455",
+    "name": "Mondzertrümmernder Pfeil",
+    "desc": "Am Ende der Runde eines Verbündeten wird seine Aktion um 6% vorgezogen."
+  },
+  "617456": {
+    "id": "617456",
+    "name": "Donner auf der Mauer",
+    "desc": "Stellt zu Beginn der Runde eines Verbündeten 3 Pkt. Energie wieder her."
+  },
+  "617457": {
+    "id": "617457",
+    "name": "Grüner Zweig, rote Saite",
+    "desc": "Erhöht nach dem Besiegen eines Gegners die GES aller Verbündeten um 4%. Dieser Effekt ist bis zu 3-mal stapelbar."
+  },
+  "617510": {
+    "id": "617510",
+    "name": ""
+  },
+  "617520": {
+    "id": "617520",
+    "name": "Dämonenfürst aus dem Jenseits",
+    "desc": "Verbraucht 100 Pkt. Energie, um diese Fähigkeit einzusetzen und mit dem Pfad der Zerstörung eine Schwellenresonanz zu erzeugen. Fügt allen Gegnern Feuer-SCH zu, verbraucht die LP aller Verbündeten bis auf 60% und erhöht die max. LP aller Verbündeten um 100%. Stellt zu Beginn der Runde für 4 Rd. 100% der verbrauchten LP des jeweiligen Verbündeten wieder her."
+  },
+  "617530": {
+    "id": "617530",
+    "name": "Ein Aufstieg schneller als Licht",
+    "desc": "Erhöht den von Verbündeten verursachten Blazar-SCH um 20% und die Obergrenze von Blazar um 65%."
+  },
+  "617531": {
+    "id": "617531",
+    "name": "Zufällige Schockwellen",
+    "desc": "Nachdem ein Verbündeter jede Runde den ersten Angriff ausgeführt hat, erleidet das Ziel zusätzlichen SCH in Höhe von 100% von Blazar."
+  },
+  "617532": {
+    "id": "617532",
+    "name": "Hyperschnelles Wolkenmedium",
+    "desc": "Wenn ein Verbündeter angegriffen wird, wird der erlittene SCH unter allen Verbündeten aufgeteilt."
+  },
+  "617540": {
+    "id": "617540",
+    "name": "Dichte Flammen",
+    "desc": "Wenn Verbündete angegriffen werden, wird der SCH-Multiplikator von Blazar um 20% des ursprünglichen Multiplikators erhöht. Dieser Effekt ist bis zu 2-mal stapelbar und hält 2 Rd. an."
+  },
+  "617541": {
+    "id": "617541",
+    "name": "Synchrotronstrahlung",
+    "desc": "40% der von Verbündeten erhaltenen Schildmenge werden zusätzlich in Blazar umgewandelt."
+  },
+  "617542": {
+    "id": "617542",
+    "name": "Kontinuierliches Spektrum",
+    "desc": "40% der überschüssigen LP-Wiederherstellung können auch in Blazar umgewandelt werden."
+  },
+  "617543": {
+    "id": "617543",
+    "name": "Verdeckte Schattenbänder",
+    "desc": "Erhöht den Basiswert von Blazar um 50%."
+  },
+  "617544": {
+    "id": "617544",
+    "name": "Variable der Katastrophe",
+    "desc": "Erhöht die KRIT-Rate des von Blazar verursachten SCH um 20% und den KRIT-SCH um 50%."
+  },
+  "617545": {
+    "id": "617545",
+    "name": "Erzwungener Warpsprung",
+    "desc": "Wenn der LP-Prozentsatz eines Verbündeten nach einem erlittenen Angriff oder LP-Verbrauch weniger als 35% beträgt, werden bei ihm LP in Höhe von 12% seiner max. LP wiederhergestellt. Bei jeder Aktion können auf diese Weise bis zu 18% der max. LP wiederhergestellt werden."
+  },
+  "617546": {
+    "id": "617546",
+    "name": "Radioaktiver Zerfall",
+    "desc": "Wenn der LP-Prozentsatz eines Verbündeten weniger als 50 % beträgt, wird der erlittene SCH um 10% reduziert und die LP-Wiederherstellung um 20% erhöht."
+  },
+  "617550": {
+    "id": "617550",
+    "name": "Bipolare Jets",
+    "desc": "Reduziert den erlittenen SCH der Verbündeten um 6%."
+  },
+  "617551": {
+    "id": "617551",
+    "name": "Doppelsegment-Struktur",
+    "desc": "Erhöht den Effekt-WDS der Verbündeten um 12%."
+  },
+  "617552": {
+    "id": "617552",
+    "name": "Doppelsterne im Kontakt",
+    "desc": "Erhöht die max. LP der Verbündeten um 16%."
+  },
+  "617553": {
+    "id": "617553",
+    "name": "Absolute Helligkeit",
+    "desc": "Erhöht die LP-Wiederherstellung der Verbündeten um 12%."
+  },
+  "617554": {
+    "id": "617554",
+    "name": "Standardkerzen",
+    "desc": "Erhöht die erhaltene Schildmenge der Verbündeten um 12%."
+  },
+  "617555": {
+    "id": "617555",
+    "name": "Substellarer Massentransfer",
+    "desc": "Nach der Reduktion der LP oder der Schildmenge eines Verbündeten werden seine max. LP für 2 Rd. um 20% erhöht."
+  },
+  "617556": {
+    "id": "617556",
+    "name": "Binäre Finsternis",
+    "desc": "Nach der Reduktion der LP oder der Schildmenge eines Verbündeten wird sein Effekt-WDS für 2 Rd. um 16% erhöht."
+  },
+  "617557": {
+    "id": "617557",
+    "name": "Ausbruch einer Supernova",
+    "desc": "Wenn eine Figur einen Todesstoß erleidet, wird sie nicht handlungsunfähig, sondern stellt sofort LP in Höhe von 20% ihrer max. LP wieder her. Dieser Effekt kann unter allen Verbündeten nur 1-mal pro Kampf ausgelöst werden."
+  },
+  "617610": {
+    "id": "617610",
+    "name": ""
+  },
+  "617620": {
+    "id": "617620",
+    "name": "Unendliche Unwahrscheinlichkeit",
+    "desc": "Verbraucht 100 Pkt. Energie, um die Fähigkeit einzusetzen und eine Schwellenresonanz mit dem Pfad „Hochgefühl“ zu erzeugen, fügt allen Gegnern 5 bis 10 Mal Hochgefühl-SCH eines zufälligen Typs zu und gewährt Aha sofort 1 zusätzliche Runde, in der eine feste Anzahl von 200 Lachpunkt(en) angerechnet wird. Diese Runde verbraucht keine Lachpunkte."
+  },
+  "617630": {
+    "id": "617630",
+    "name": "„Lakritz-Pizza: Minz-Eis“",
+    "desc": "Für je 50 Aktionswert erhält der Kartengeber dauerhaft 1 Pkt. Aufladung. Für jeden Punkt Aufladung des Kartengebers wird zusätzlich die GES von neutralen Kampfereignissen, allen Verbündeten und deren beschworenen Objekten um 1 erhöht."
+  },
+  "617631": {
+    "id": "617631",
+    "name": "„Ozean-Colonel: Die Welt von gestern“",
+    "desc": "Erhält nach der Aktion des Kartengebers 5 Lachpunkt(e) und erhöht den KRIT-SCH aller Verbündeten für 2 Rd. um 60%."
+  },
+  "617632": {
+    "id": "617632",
+    "name": "„Sonnenaufgang im Sand: Solotanztruppe“",
+    "desc": "Erhöht die WDS-DUR aller Typen von Verbündeten um 10%. Erreichen die Lachpunkte zum ersten Mal 50/100/200/300/500, wird das Hochgefühl aller Verbündeten um 20% erhöht. Dieser Effekt ist stapelbar."
+  },
+  "617640": {
+    "id": "617640",
+    "name": "„Ein stiller Monat im Haus“",
+    "desc": "Erhöht die KRIT-Rate des Kartengebers um 20% und seinen KRIT-SCH um 50%."
+  },
+  "617641": {
+    "id": "617641",
+    "name": "„Besessener Leutnant mit Kaviar“",
+    "desc": "Wenn der Kartengeber SCH verursacht, wird der vom Angriffsziel erlittene SCH um 5% erhöht. Dieser Effekt ist stapelbar und hält bis zur nächsten Aktion des Kartengebers an."
+  },
+  "617642": {
+    "id": "617642",
+    "name": "„Weißt du, wie hübsch dein Schrank ist?“",
+    "desc": "Erhöht die Basis-GES des Kartengebers um 16. Zu Beginn des Kampfes wird seine Aktion um 50% vorgezogen."
+  },
+  "617643": {
+    "id": "617643",
+    "name": "„Samen einer wundersamen Frucht“",
+    "desc": "Nach der Aktion des Kartengebers wird die GES aller Verbündeten für 2 Rd. um 18% erhöht."
+  },
+  "617644": {
+    "id": "617644",
+    "name": "„Miau-Miau in der Galaxie“",
+    "desc": "Wenn der Kartengeber SCH verursacht, wird der vom Angriffsziel verursachte SCH um 4% reduziert. Dieser Effekt ist bis zu 3-fach stapelbar und hält bis zur nächsten Aktion des Kartengebers an."
+  },
+  "617645": {
+    "id": "617645",
+    "name": "„Simon im Meer“",
+    "desc": "Der von Verbündeten verursachte SCH ignoriert 8% der VTD des Gegners. Handelt es sich um Hochgefühl-SCH, ignoriert er zusätzlich 4%."
+  },
+  "617646": {
+    "id": "617646",
+    "name": "„Die lange Reise des Tages“",
+    "desc": "Erhöht die Schwächebruch-Effizienz um 35%, wenn Verbündete Hochgefühl-SCH verursachen."
+  },
+  "617650": {
+    "id": "617650",
+    "name": "„Psychedelischer Parkplatz“",
+    "desc": "Beim Kampfeintritt wird die Aktion aller Verbündeten um 30% vorgezogen und sie erhalten 10 Lachpunkt(e)."
+  },
+  "617651": {
+    "id": "617651",
+    "name": "„Linie der Liebe“",
+    "desc": "Reduziert den erlittenen SCH aller Verbündeten um 4%. Nach Ahas erster Aktion wird er zusätzlich um 3% reduziert."
+  },
+  "617652": {
+    "id": "617652",
+    "name": "„Omega-Stadt“",
+    "desc": "Erhöht die KRIT-Rate aller Verbündeten um 10%. Beim Verursachen von Hochgefühl-SCH wird sie zusätzlich um 4% erhöht."
+  },
+  "617653": {
+    "id": "617653",
+    "name": "„Herr Gewalt“",
+    "desc": "Erhöht den KRIT-SCH aller Verbündeten um 20%. Beim Verursachen von Hochgefühl-SCH wird er zusätzlich um 8% erhöht."
+  },
+  "617654": {
+    "id": "617654",
+    "name": "„Verlassener Zufluchtsort“",
+    "desc": "Stellt bei allen Verbündeten 4 Energie wieder her, wenn Aha eine Aktion ausführt. Dieser Effekt kann bei jedem Verbündeten bis zu 1-mal pro Runde ausgelöst werden."
+  },
+  "617655": {
+    "id": "617655",
+    "name": "„Aschenmünzen und Gold“",
+    "desc": "Nach Ahas Aktion erhalten alle Verbündeten für 2 Rd. einen Schild in Höhe von 20% der max. LP."
+  },
+  "617656": {
+    "id": "617656",
+    "name": "„Der Todesfahrer“",
+    "desc": "Erhöht die VTD aller Verbündeten um 12%. Nach Ahas erster Aktion wird sie zusätzlich um 8% erhöht."
+  },
+  "617657": {
+    "id": "617657",
+    "name": "„Katzenstadt“",
+    "desc": "Erhöht die GES aller Verbündeten um 6%. Nach Ahas erster Aktion wird sie zusätzlich um 4% erhöht."
+  },
+  "617710": {
+    "id": "617710",
+    "name": ""
+  },
+  "617720": {
+    "id": "617720",
+    "name": "Schöpfung der Imagenasis",
+    "desc": "Verbraucht 100 Pkt. Energie, um diese Fähigkeit einzusetzen und mit dem Pfad der Ausbreitung eine Schwellenresonanz zu erzeugen. Lässt einen anvisierten Verbündeten sofort eine Aktion ausführen, stellt 5 Fertigkeitspunkt(e) wieder her und erhält den Effekt Schwebezustand. Stellt bei Schwellengleichung 50 Pkt. Energie wieder her, wenn ein beliebiger Gegner von einer Figur mit Schwebezustand besiegt wird. Die max. Energie beträgt 200."
+  },
+  "617730": {
+    "id": "617730",
+    "name": "Müllersche Mimikry",
+    "desc": "Erhöht den ANG der Verbündeten um 50%. Für jeden erhaltenen oder verbrauchten Fertigkeitspunkt wird Seelenkokon um 6% aufgeladen."
+  },
+  "617731": {
+    "id": "617731",
+    "name": "Abprallsporen",
+    "desc": "Erhöht den Standardangriff- und Fertigkeits-SCH der Verbündeten im Status Schmetterlingsseele um 40%. Schmetterlingsseele verursacht 1-mal zusätzlich Tatsächlichen SCH in Höhe von 15% des ursprünglichen SCH."
+  },
+  "617732": {
+    "id": "617732",
+    "name": "Bullers Tropfen",
+    "desc": "Nachdem Verbündete Fertigkeitspunkte verbraucht haben, wird der KRIT-SCH aller Verbündeten um 2% erhöht. Dieser Effekt ist bis zu 35-fach stapelbar. Nach dem Einsatz eines Ultimates wird beim nächsten Verbrauch der Fertigkeitspunkte 1 zusätzlicher verbrauchter Fertigkeitspunkt berechnet."
+  },
+  "617740": {
+    "id": "617740",
+    "name": "Sporokarp",
+    "desc": "Nach dem Besiegen eines Gegners wird Seelenkokon um 30% aufgeladen."
+  },
+  "617741": {
+    "id": "617741",
+    "name": "Chitin",
+    "desc": "Erhöht den ANG der Verbündeten um 30%. Beim Kampfeintritt wird Seelenkokon zusätzlich um 30% aufgeladen."
+  },
+  "617742": {
+    "id": "617742",
+    "name": "Freier Kokon",
+    "desc": "Wenn Seelenkokon zu Schmetterlingsseele wird, werden 60% LP wiederhergestellt und der verursachte SCH in diesem Status um 20% erhöht."
+  },
+  "617743": {
+    "id": "617743",
+    "name": "Basidiosporen",
+    "desc": "Erhöht im Status Schmetterlingsseele die WDS-DUR aller Typen von Standardangriff-/Fertigkeits-SCH um 14%."
+  },
+  "617744": {
+    "id": "617744",
+    "name": "Strukturfarbe",
+    "desc": "Erhöht im Status Seelenkokon die GES um 16%. Erhöht im Status Schmetterlingsseele den durch Standardangriffe und Fertigkeiten verursachten SCH um 50%."
+  },
+  "617745": {
+    "id": "617745",
+    "name": "Sensorischer Stab",
+    "desc": "Für jeden verbrauchten Fertigkeitspunkt eines Verbündeten wird sein erlittener SCH für 2 Rd. um 6% reduziert. Dieser Effekt ist bis zu 2-fach stapelbar."
+  },
+  "617746": {
+    "id": "617746",
+    "name": "Guss-Zauber",
+    "desc": "Der verursachte Standardangriff- oder Fertigkeits-SCH von Verbündeten fügt angrenzenden Einheiten SCH in Höhe von 10% des ursprünglichen SCH zu."
+  },
+  "617750": {
+    "id": "617750",
+    "name": "Pilzbasis",
+    "desc": "Wenn Verbündete Fertigkeitspunkte verbrauchen, besteht eine feste Chance von 16%, 1 Fertigkeitspunkt(e) wiederherzustellen."
+  },
+  "617751": {
+    "id": "617751",
+    "name": "Hängender Faden",
+    "desc": "Erhöht den verursachten SCH durch Standardangriffe oder Fertigkeiten von Verbündeten um 30%."
+  },
+  "617752": {
+    "id": "617752",
+    "name": "Augenflecken",
+    "desc": "Erhöht den verursachten KRIT-SCH durch Standardangriffe und Fertigkeiten von Verbündeten um 32%."
+  },
+  "617753": {
+    "id": "617753",
+    "name": "Rückenflügel",
+    "desc": "Erhöht die KRIT-Rate der Standardangriffe und Fertigkeiten von Verbündeten um 16%."
+  },
+  "617754": {
+    "id": "617754",
+    "name": "Dicke Mauer",
+    "desc": "Wenn ein Verbündeter Fertigkeitspunkte verbraucht, wird seine VTD für 1 Rd. um 30% erhöht."
+  },
+  "617755": {
+    "id": "617755",
+    "name": "Tarsalsegmente",
+    "desc": "Wenn ein Verbündeter Fertigkeitspunkte verbraucht, wird seine GES für 2 Rd. um 8% erhöht."
+  },
+  "617756": {
+    "id": "617756",
+    "name": "Lippenborsten",
+    "desc": "Wenn ein Verbündeter Fertigkeitspunkte verbraucht, stellt er 2 Pkt. Energie wieder her."
+  },
+  "617757": {
+    "id": "617757",
+    "name": "Sprießen",
+    "desc": "Wenn ein Verbündeter Fertigkeitspunkte verbraucht, stellt er LP in Höhe von 10% seiner max. LP wieder her."
+  },
+  "617810": {
+    "id": "617810",
+    "name": ""
+  },
+  "617820": {
+    "id": "617820",
+    "name": "Referenzen",
+    "desc": "Verbraucht 100 Pkt. Energie, um diese Fähigkeit einzusetzen und mit dem Pfad der Gelehrsamkeit eine Schwellenresonanz zu erzeugen. Fügt allen Gegnern geringen imaginären SCH zu. Verbindet zusätzlich den Gegner mit den höchsten max. LP mit anderen Gegnern, belegt alle Gegner mit „Zentrale Verbindung“ und stellt bei allen Verbündeten Energie in Höhe von 100% der max. Energie wieder her."
+  },
+  "617830": {
+    "id": "617830",
+    "name": "Hippocampus TR-303",
+    "desc": "Nachdem ein Verbündeter einem Gegner Schwächebruch zugefügt hat, wird Gehirn im Tank um 10% aufgeladen. Wenn das Ziel ein Elitegegner ist, wird es zusätzlich um 40% aufgeladen."
+  },
+  "617831": {
+    "id": "617831",
+    "name": "Nucleus accumbens DBS-45",
+    "desc": "Wenn ein Verbündeter einem Gegner tödlichen SCH zufügt, wird Gehirn im Tank um 50% aufgeladen."
+  },
+  "617832": {
+    "id": "617832",
+    "name": "Dunkle Materie ELO-536",
+    "desc": "Erhöht die WDS-DUR aller Typen des von Verbündeten verursachten Ultimate-SCH um 20%. Nach einem Angriff mit dem Ultimate wird für jeden getroffenen Gegner die WDS-DUR aller Typen des Ultimate-SCH zusätzlich um 3% erhöht, bis nach dem nächsten Einsatz eines Ultimates."
+  },
+  "617840": {
+    "id": "617840",
+    "name": "Neustart: Nervus terminalis",
+    "desc": "Wenn ein Verbündeter seinen Ultimate mit Gehirn im Tank einsetzt, wird der KRIT-SCH um 80% erhöht, bis zum Ende dieser Fähigkeit."
+  },
+  "617841": {
+    "id": "617841",
+    "name": "Iteration: Kognitive Karte",
+    "desc": "Nachdem ein Verbündeter seinen Ultimate mit Gehirn im Tank eingesetzt hat, erhält er für 2 Rd. einen Schild in Höhe von 36% seiner max. LP."
+  },
+  "617842": {
+    "id": "617842",
+    "name": "Analyse: Prozedurales Gedächtnis",
+    "desc": "Wenn ein Verbündeter seinen Ultimate mit Gehirn im Tank einsetzt, wird der verursachte SCH aller Verbündeten für 2 Rd. um 36% erhöht."
+  },
+  "617843": {
+    "id": "617843",
+    "name": "Stabilität: Slow-Wave-Schlaf",
+    "desc": "Nachdem ein Verbündeter angegriffen wurde, wird Gehirn im Tank um 6% aufgeladen."
+  },
+  "617844": {
+    "id": "617844",
+    "name": "Ableger: Zellabgrenzung",
+    "desc": "Nachdem ein Verbündeter seinen Ultimate mit Gehirn im Tank eingesetzt hat, wird sein ANG für 2 Rd. um 60% erhöht."
+  },
+  "617845": {
+    "id": "617845",
+    "name": "Ausführung: Verbessertes Lernen",
+    "desc": "Wenn ein Verbündeter mit seinem Ultimate Gegner angreift, die an Schwächebruch leiden, wird die Aktion der Gegner um 16% verzögert. Jedes Mal, wenn der Gegner Schwächebruch erleidet, kann dieser Effekt bis zu 3-mal ausgelöst werden."
+  },
+  "617846": {
+    "id": "617846",
+    "name": "Offen: Direkter Durchgang",
+    "desc": "Wenn ein Verbündeter nur einen einzelnen Gegner mit Flächenangriff angreift, fügt dieser Angriff dem Gegner zusätzlich eine bestimmte Menge an SCH in Höhe von 40% des ursprünglichen SCH zu."
+  },
+  "617850": {
+    "id": "617850",
+    "name": "Schillerndes Banner",
+    "desc": "Erhöht den verursachten Ultimate-SCH der Verbündeten um 20%."
+  },
+  "617851": {
+    "id": "617851",
+    "name": "Fest gelagerte Rüstung",
+    "desc": "Erhöht die KRIT-Rate des Ultimate-SCH der Verbündeten um 18%."
+  },
+  "617852": {
+    "id": "617852",
+    "name": "Sicher redigierte Karte",
+    "desc": "Erhöht den KRIT-SCH des Ultimate-SCH der Verbündeten um 36%."
+  },
+  "617853": {
+    "id": "617853",
+    "name": "Nach Partitionen ausgerichtete Pakete",
+    "desc": "Stellt beim Kampfeintritt Energie in Höhe von 30% der max. Energie wieder her."
+  },
+  "617854": {
+    "id": "617854",
+    "name": "Route der ausgelöschten Makroblöcke",
+    "desc": "Erhöht beim Einsatz des Ultimates den ANG des Verbündeten für 2 Rd. um 24%."
+  },
+  "617855": {
+    "id": "617855",
+    "name": "Leuchtturm der kristallinen Resonanz",
+    "desc": "Erhöht nach dem Einsatz des Ultimates die max. LP des Verbündeten für 2 Rd. um 20%."
+  },
+  "617856": {
+    "id": "617856",
+    "name": "Optische Leitlinse",
+    "desc": "Stellt nach dem Einsatz des Ultimates von Verbündeten LP in Höhe von 20% der max. LP wieder her."
+  },
+  "617857": {
+    "id": "617857",
+    "name": "Sequentiell geschriebene Spur",
+    "desc": "Wenn eine Figur einen Todesstoß erleidet, wird sie nicht handlungsunfähig, sondern verbraucht ihre gesamte Energie und stellt dann LP in Höhe von 50% der verbrauchten Energie wieder her. Dieser Effekt kann unter allen Verbündeten nur 1-mal pro Kampf ausgelöst werden."
+  },
+  "617910": {
+    "id": "617910",
+    "name": ""
+  },
+  "617920": {
+    "id": "617920",
+    "name": "Ball der Glückseligkeit",
+    "desc": "Verbraucht 100 Pkt. Energie, um diese Fähigkeit einzusetzen und mit dem Pfad der Harmonie eine Schwellenresonanz zu erzeugen. Fügt allen Gegnern Quanten-SCH und Schwächebruch mit 1000% des Brucheffekts zu. Beim Erleiden von Schwächebruch werden Schwächebruch-Effekte aller Typen ausgelöst."
+  },
+  "617930": {
+    "id": "617930",
+    "name": "1. Satz: Der Frosch und der Ritter",
+    "desc": "Jedes Mal, wenn ein Gegner 10 Pkt. tatsächliche WDS-Reduzierung erleidet, wird er mit 1 Stapelung(en) Akkord belegt."
+  },
+  "617931": {
+    "id": "617931",
+    "name": "2. Satz: Frühstück des Hirtengottes",
+    "desc": "Nachdem ein Verbündeter einen Gegner mit Schwächebruch angegriffen hat, wird mit einem Prozentsatz von 8% 1-mal zusätzlich Akkord-SCH ausgelöst."
+  },
+  "617932": {
+    "id": "617932",
+    "name": "3. Satz: Rondo",
+    "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, werden bei ihm mit einem Prozentsatz von 50% zusätzlich Schwächebruch-Effekte seiner anderen Schwächetypen ausgelöst."
+  },
+  "617940": {
+    "id": "617940",
+    "name": "Zeitraum der gemeinsamen Praxis",
+    "desc": "Nachdem ein Gegner mit Akkord besiegt wurde, erhält/erhalten zufällig 1 der angrenzenden Einheiten seine Stapelzahl von Akkord."
+  },
+  "617941": {
+    "id": "617941",
+    "name": "Gefäß des Weingottes",
+    "desc": "Nachdem ein Verbündeter einen Gegner mit Schwächebruch angegriffen hat, wird der Gegner mit 1 Stapelung(en) Akkord belegt."
+  },
+  "617942": {
+    "id": "617942",
+    "name": "Puls der Korona",
+    "desc": "Erhöht den erlittenen Bruch-SCH für jede Stapelung Akkord des Gegners um 1.0%."
+  },
+  "617943": {
+    "id": "617943",
+    "name": "Streichquartett",
+    "desc": "Akkord-SCH wird beim Auslösen mit 5 zusätzlichen Stapelungen berechnet. Die max. Stapelzahl von Akkord wird um 5 erhöht."
+  },
+  "617944": {
+    "id": "617944",
+    "name": "Jambischer Fünfheber",
+    "desc": "Erhöht den SCH-Multiplikator von Akkord um 30% des ursprünglichen Multiplikators."
+  },
+  "617945": {
+    "id": "617945",
+    "name": "Basso Continuo",
+    "desc": "Nachdem ein Verbündeter einen Gegner mit Schwächebruch angegriffen hat, wird der WDS-Reduzierungswert dieses Angriffs 1-mal in 50% Super-Bruch-SCH umgewandelt."
+  },
+  "617946": {
+    "id": "617946",
+    "name": "Aufrechter Nome",
+    "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, besteht eine Grundchance von 100%, den Gegner für 1 Rd. einzufrieren."
+  },
+  "617950": {
+    "id": "617950",
+    "name": "Ruhendes Gewebe",
+    "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, wird die Aktion des Gegners um 20% verzögert."
+  },
+  "617951": {
+    "id": "617951",
+    "name": "Primäraussage",
+    "desc": "Erhöht den von Verbündeten verursachten Bruch-SCH um 8%."
+  },
+  "617952": {
+    "id": "617952",
+    "name": "Stille Stürme",
+    "desc": "Erhöht den Brucheffekt der Verbündeten um 30%."
+  },
+  "617953": {
+    "id": "617953",
+    "name": "Lineare Melodie",
+    "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, wird seine GES für 3 Rd. um 12% erhöht."
+  },
+  "617954": {
+    "id": "617954",
+    "name": "Kreuzrhythmus",
+    "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, wird der Brucheffekt aller Verbündeten für 3 Rd. um 40% erhöht."
+  },
+  "617955": {
+    "id": "617955",
+    "name": "Freie Tonalität",
+    "desc": "Erhöht den von Gegnern erlittenen Bruch-SCH um 16%."
+  },
+  "617956": {
+    "id": "617956",
+    "name": "Jazz des Unglücks",
+    "desc": "Reduziert die VTD von Gegnern mit Schwächebruch um 15%."
+  },
+  "617957": {
+    "id": "617957",
+    "name": "Neues Leitmotiv",
+    "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, stellt er 24% seiner max. LP wieder her."
+  },
   "619920": {
     "id": "619920",
     "name": ""
@@ -3426,6 +4227,461 @@
     "id": "634128",
     "name": "Landesausbesserer",
     "desc": "Erhöht den verursachten endgültigen SCH von Verbündeten mit „Quarz“ zusätzlich um 50%."
+  },
+  "661001": {
+    "id": "661001",
+    "name": "7. März",
+    "desc": "Erhöht den von 7. März verursachten SCH in Divergentes Universum.\n\nErhöht die Effekt-Trefferrate um 30%. Wenn 7. März sich auf dem Kampffeld befindet, wird die VTD von eingefrorenen Gegnern um 20% reduziert."
+  },
+  "661002": {
+    "id": "661002",
+    "name": "Dan Heng",
+    "desc": "Erhöht den von Dan Heng verursachten SCH in Divergentes Universum.\n\nErhöht die GES um 10%. Für je 10 Pkt. GES, die 150 überschreiten, wird der verursachte endgültige SCH um 2.0% erhöht, bis zu 30%."
+  },
+  "661003": {
+    "id": "661003",
+    "name": "Himeko",
+    "desc": "Erhöht den von Himeko verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern im Schwächebruch um 35%."
+  },
+  "661004": {
+    "id": "661004",
+    "name": "Welt",
+    "desc": "Erhöht den von Welt verursachten SCH in Divergentes Universum.\n\nNach dem Verursachen von Gefangenschaft wird die Aktion des Gegners zusätzlich um 30% verzögert und der erlittene SCH um 15% erhöht. Dieser Effekt hält 2 Rd. an."
+  },
+  "661005": {
+    "id": "661005",
+    "name": "Kafka",
+    "desc": "Erhöht den von Kafka verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern mit mindestens 3 DoT-Status um 12%. Für jeden weiteren DoT-Status wird der SCH zusätzlich um 1% erhöht."
+  },
+  "661006": {
+    "id": "661006",
+    "name": "Silberwolf",
+    "desc": "Erhöht den von Silberwolf verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern mit 8 oder mehr Debuffs um 10%. Für jeden weiteren Debuff wird der SCH zusätzlich um 1% erhöht."
+  },
+  "661008": {
+    "id": "661008",
+    "name": "Arlan",
+    "desc": "Erhöht den von Arlan verursachten SCH in Divergentes Universum.\n\nLiegt sein LP-Prozentsatz unter 50%, wird der verursachte endgültige SCH um 40% erhöht."
+  },
+  "661009": {
+    "id": "661009",
+    "name": "Asta",
+    "desc": "Erhöht den von Asta verursachten SCH in Divergentes Universum.\n\nWenn Asta sich auf dem Kampffeld befindet, wird die GES aller Verbündeten um 10% von Astas GES erhöht."
+  },
+  "661013": {
+    "id": "661013",
+    "name": "Herta",
+    "desc": "Erhöht den von Herta verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern mit einem LP-Prozentsatz von weniger als 50% um 35%."
+  },
+  "661014": {
+    "id": "661014",
+    "name": "Saber",
+    "desc": "Erhöht den von Saber verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH bei jedem Einsatz des Ultimates um 3%. Dieser Effekt ist bis zu 10-fach stapelbar."
+  },
+  "661015": {
+    "id": "661015",
+    "name": "Archer",
+    "desc": "Erhöht den von Archer verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH um 15%. Stellt zu Beginn der Runde 1 Fertigkeitspunkt(e) wieder her."
+  },
+  "661101": {
+    "id": "661101",
+    "name": "Bronya",
+    "desc": "Erhöht den von Bronya verursachten SCH in Divergentes Universum.\n\nWenn Bronya sich auf dem Kampffeld befindet, wird der verursachte endgültige SCH der ersten Figur in der Teamformation und ihres Memogeistes um 12% erhöht."
+  },
+  "661102": {
+    "id": "661102",
+    "name": "Seele",
+    "desc": "Erhöht den von Seele verursachten SCH in Divergentes Universum.\n\nWenn nach dem Ausführen eines Angriffs der LP-Prozentsatz des Ziels 15% oder weniger beträgt, wird ihm Tatsächlicher SCH in Höhe seiner aktuellen LP zugefügt."
+  },
+  "661103": {
+    "id": "661103",
+    "name": "Serval",
+    "desc": "Erhöht den von Serval verursachten SCH in Divergentes Universum.\n\nFür jeden Gegner, der sich auf dem Kampffeld befindet, wird der verursachte endgültige SCH um 4% erhöht. Nach dem Besiegen eines Gegners wird der endgültige SCH in diesem Kampf zusätzlich um 2% erhöht. Dieser Effekt ist stapelbar."
+  },
+  "661104": {
+    "id": "661104",
+    "name": "Gepard",
+    "desc": "Erhöht den von Gepard verursachten SCH in Divergentes Universum.\n\nErhöht die Effekt-Trefferrate um 30%. Wenn Gepard sich auf dem Kampffeld befindet, wird die VTD von eingefrorenen Gegnern um 20% reduziert."
+  },
+  "661105": {
+    "id": "661105",
+    "name": "Natasha",
+    "desc": "Erhöht den von Natasha verursachten SCH in Divergentes Universum.\n\nErhöht die bewirkte Heilung um 30% und reduziert den vom geheilten Ziel erlittenen SCH für 2 Rd. um 15%."
+  },
+  "661106": {
+    "id": "661106",
+    "name": "Pela",
+    "desc": "Erhöht den von Pela verursachten SCH in Divergentes Universum.\n\nWenn Pela sich auf dem Kampffeld befindet, wird der ANG der Verbündeten um 12% von Pelas ANG erhöht."
+  },
+  "661107": {
+    "id": "661107",
+    "name": "Clara",
+    "desc": "Erhöht den von Clara verursachten SCH in Divergentes Universum.\n\nReduziert den erlittenen SCH um 10% und erhöht den durch Folgeangriffe verursachten endgültigen SCH um 20%."
+  },
+  "661108": {
+    "id": "661108",
+    "name": "Sampo",
+    "desc": "Erhöht den von Sampo verursachten SCH in Divergentes Universum.\n\nNach einem Angriff mit dem Ultimate verursacht jeder aktuell auf dem Ziel wirkende DoT sofort SCH in Höhe von 60% des ursprünglichen SCH."
+  },
+  "661109": {
+    "id": "661109",
+    "name": "Hook",
+    "desc": "Erhöht den von Hook verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern mit einem LP-Prozentsatz von weniger als 50% um 35%."
+  },
+  "661110": {
+    "id": "661110",
+    "name": "Lynx",
+    "desc": "Erhöht den von Lynx verursachten SCH in Divergentes Universum.\n\nErhöht die bewirkte Heilung um 30% und reduziert den vom geheilten Ziel erlittenen SCH für 2 Rd. um 15%."
+  },
+  "661111": {
+    "id": "661111",
+    "name": "Luka",
+    "desc": "Erhöht den von Luka verursachten SCH in Divergentes Universum.\n\nNach einem Angriff mit dem Ultimate verursacht jeder aktuell auf dem Ziel wirkende DoT sofort SCH in Höhe von 120% des ursprünglichen SCH."
+  },
+  "661112": {
+    "id": "661112",
+    "name": "Topaz & Kontie",
+    "desc": "Erhöht den von Topaz & Kontie verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH bei jedem ausgeführten Angriff um 4%. Dieser Effekt ist bis zu 10-fach stapelbar und wird nach LP-Verlust entfernt."
+  },
+  "661201": {
+    "id": "661201",
+    "name": "Qingque",
+    "desc": "Erhöht den von Qingque verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH um 15%. Stellt zu Beginn der Runde 1 Fertigkeitspunkt(e) wieder her."
+  },
+  "661202": {
+    "id": "661202",
+    "name": "Tingyun",
+    "desc": "Erhöht den von Tingyun verursachten SCH in Divergentes Universum.\n\nWenn Tingyun sich auf dem Kampffeld befindet, wird der ANG der Verbündeten um 12% von Tingyuns ANG erhöht."
+  },
+  "661203": {
+    "id": "661203",
+    "name": "Luocha",
+    "desc": "Erhöht den von Luocha verursachten SCH in Divergentes Universum.\n\nWenn Luocha sich auf dem Kampffeld befindet, wird der von Verbündeten verursachte endgültige SCH um 8% erhöht."
+  },
+  "661204": {
+    "id": "661204",
+    "name": "Jing Yuan",
+    "desc": "Erhöht den von Jing Yuan verursachten SCH in Divergentes Universum.\n\nBeim Ausführen von Folgeangriffen wird seine Aktion um 20% vorgezogen."
+  },
+  "661205": {
+    "id": "661205",
+    "name": "Blade",
+    "desc": "Erhöht den von Blade verursachten SCH in Divergentes Universum.\n\nNach LP-Verlust wird für 2 Rd. die LP-Wiederherstellung um 15% und der endgültige SCH um 15% erhöht."
+  },
+  "661206": {
+    "id": "661206",
+    "name": "Sushang",
+    "desc": "Erhöht den von Sushang verursachten SCH in Divergentes Universum.\n\nNachdem einem Gegner Schwächebruch zugefügt wurde, wird die GES um 4% erhöht. Dieser Effekt ist bis zu 10-fach stapelbar."
+  },
+  "661207": {
+    "id": "661207",
+    "name": "Yukong",
+    "desc": "Erhöht den von Yukong verursachten SCH in Divergentes Universum.\n\nWenn Yukong sich auf dem Kampffeld befindet, wird der ANG der Verbündeten um 12% von Yukongs ANG erhöht."
+  },
+  "661208": {
+    "id": "661208",
+    "name": "Fu Xuan",
+    "desc": "Erhöht den von Fu Xuan verursachten SCH in Divergentes Universum.\n\nReduziert den erlittenen SCH um 20% und stellt zu Beginn der Runde LP in Höhe von 15% der max. LP wieder her."
+  },
+  "661209": {
+    "id": "661209",
+    "name": "Yanqing",
+    "desc": "Erhöht den von Yanqing verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH bei jedem ausgeführten Angriff um 4%. Dieser Effekt ist bis zu 10-fach stapelbar und wird nach LP-Verlust entfernt."
+  },
+  "661210": {
+    "id": "661210",
+    "name": "Guinaifen",
+    "desc": "Erhöht den von Guinaifen verursachten SCH in Divergentes Universum.\n\nNach einem Angriff mit dem Ultimate verursacht jeder aktuell auf dem Ziel wirkende DoT sofort SCH in Höhe von 60% des ursprünglichen SCH."
+  },
+  "661211": {
+    "id": "661211",
+    "name": "Bailu",
+    "desc": "Erhöht den von Bailu verursachten SCH in Divergentes Universum.\n\nWenn Bailu sich auf dem Kampffeld befindet, wird der von Verbündeten verursachte endgültige SCH um 8% erhöht."
+  },
+  "661212": {
+    "id": "661212",
+    "name": "Jingliu",
+    "desc": "Erhöht den von Jingliu verursachten SCH in Divergentes Universum.\n\nNach LP-Verlust wird für 2 Rd. die LP-Wiederherstellung um 15% und der endgültige SCH um 15% erhöht."
+  },
+  "661213": {
+    "id": "661213",
+    "name": "Dan Heng – Imbibitor Lunae",
+    "desc": "Erhöht den von Dan Heng – Imbibitor Lunae verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH um 15%. Stellt zu Beginn der Runde 1 Fertigkeitspunkt(e) wieder her."
+  },
+  "661214": {
+    "id": "661214",
+    "name": "Xueyi",
+    "desc": "Erhöht den von Xueyi verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern im Schwächebruch um 35%."
+  },
+  "661215": {
+    "id": "661215",
+    "name": "Hanya",
+    "desc": "Erhöht den von Hanya verursachten SCH in Divergentes Universum.\n\nWenn Hanya sich auf dem Kampffeld befindet, wird die GES aller Verbündeten um 10% von Hanyas GES erhöht."
+  },
+  "661217": {
+    "id": "661217",
+    "name": "Huohuo",
+    "desc": "Erhöht den von Huohuo verursachten SCH in Divergentes Universum.\n\nErhöht die bewirkte Heilung um 30% und reduziert den vom geheilten Ziel erlittenen SCH für 2 Rd. um 15%."
+  },
+  "661218": {
+    "id": "661218",
+    "name": "Jiaoqiu",
+    "desc": "Erhöht den von Jiaoqiu verursachten SCH in Divergentes Universum.\n\nWenn Jiaoqiu sich auf dem Kampffeld befindet, wird der von Verbündeten verursachte endgültige SCH um 8% erhöht."
+  },
+  "661220": {
+    "id": "661220",
+    "name": "Feixiao",
+    "desc": "Erhöht den von Feixiao verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH bei jedem ausgeführten Angriff um 4%. Dieser Effekt ist bis zu 10-fach stapelbar und wird nach LP-Verlust entfernt."
+  },
+  "661221": {
+    "id": "661221",
+    "name": "Yunli",
+    "desc": "Erhöht den von Yunli verursachten SCH in Divergentes Universum.\n\nReduziert den erlittenen SCH um 10% und erhöht den durch Folgeangriffe verursachten endgültigen SCH um 20%."
+  },
+  "661222": {
+    "id": "661222",
+    "name": "Lingsha",
+    "desc": "Erhöht den von Lingsha verursachten SCH in Divergentes Universum.\n\nErhöht die bewirkte Heilung um 30% und reduziert den vom geheilten Ziel erlittenen SCH für 2 Rd. um 15%."
+  },
+  "661223": {
+    "id": "661223",
+    "name": "Moze",
+    "desc": "Erhöht den von Moze verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH bei jedem ausgeführten Angriff um 4%. Dieser Effekt ist bis zu 10-fach stapelbar und wird nach LP-Verlust entfernt."
+  },
+  "661224": {
+    "id": "661224",
+    "name": "7. März",
+    "desc": "Erhöht den von 7. März verursachten SCH in Divergentes Universum.\n\nErhöht die GES um 10%. Für je 10 Pkt. GES, die 150 überschreiten, wird der verursachte endgültige SCH um 2.0% erhöht, bis zu 30%."
+  },
+  "661225": {
+    "id": "661225",
+    "name": "Fugue",
+    "desc": "Erhöht den von Fugue verursachten SCH in Divergentes Universum.\n\nWenn Fugue sich auf dem Kampffeld befindet, wird der von Verbündeten an Gegnern mit Schwächebruch verursachte endgültige SCH um 15% erhöht."
+  },
+  "661301": {
+    "id": "661301",
+    "name": "Gallagher",
+    "desc": "Erhöht den von Gallagher verursachten SCH in Divergentes Universum.\n\nErhöht die bewirkte Heilung um 30% und reduziert den vom geheilten Ziel erlittenen SCH für 2 Rd. um 15%."
+  },
+  "661302": {
+    "id": "661302",
+    "name": "Argenti",
+    "desc": "Erhöht den von Argenti verursachten SCH in Divergentes Universum.\n\nFür jeden Gegner, der sich auf dem Kampffeld befindet, wird der verursachte endgültige SCH um 4% erhöht. Nach dem Besiegen eines Gegners wird der endgültige SCH in diesem Kampf zusätzlich um 2% erhöht. Dieser Effekt ist stapelbar."
+  },
+  "661303": {
+    "id": "661303",
+    "name": "Ruan Mei",
+    "desc": "Erhöht den von Ruan Mei verursachten SCH in Divergentes Universum.\n\nWenn Ruan Mei sich auf dem Kampffeld befindet, wird der von Verbündeten an Gegnern mit Schwächebruch verursachte endgültige SCH um 15% erhöht."
+  },
+  "661304": {
+    "id": "661304",
+    "name": "Aventurin",
+    "desc": "Erhöht den von Aventurin verursachten SCH in Divergentes Universum.\n\nWenn Aventurin sich auf dem Kampffeld befindet, wird der KRIT-SCH von Verbündeten mit Schild um 25% erhöht."
+  },
+  "661305": {
+    "id": "661305",
+    "name": "Dr. Wahrheit",
+    "desc": "Erhöht den von Dr. Wahrheit verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH bei jedem ausgeführten Angriff um 4%. Dieser Effekt ist bis zu 10-fach stapelbar und wird nach LP-Verlust entfernt."
+  },
+  "661306": {
+    "id": "661306",
+    "name": "Sparkle",
+    "desc": "Erhöht den von Sparkle verursachten SCH in Divergentes Universum.\n\nWenn Sparkle sich auf dem Kampffeld befindet, wird der von Verbündeten verursachte endgültige SCH um 8% erhöht."
+  },
+  "661307": {
+    "id": "661307",
+    "name": "Schwarzer Schwan",
+    "desc": "Erhöht den von Schwarzer Schwan verursachten SCH in Divergentes Universum.\n\nErhöht den endgültigen SCH an Gegnern mit mindestens 3 DoT-Status um 12%. Für jeden weiteren DoT-Status wird der SCH zusätzlich um 1% erhöht."
+  },
+  "661308": {
+    "id": "661308",
+    "name": "Acheron",
+    "desc": "Erhöht den von Acheron verursachten SCH in Divergentes Universum.\n\nErhöht den endgültigen SCH an Gegnern mit 8 oder mehr Debuffs um 10%. Für jeden weiteren Debuff wird der SCH zusätzlich um 1% erhöht."
+  },
+  "661309": {
+    "id": "661309",
+    "name": "Robin",
+    "desc": "Erhöht den von Robin verursachten SCH in Divergentes Universum.\n\nWenn Robin sich auf dem Kampffeld befindet, wird die GES aller Verbündeten um 10% von Robins GES erhöht."
+  },
+  "661310": {
+    "id": "661310",
+    "name": "Glühwürmchen",
+    "desc": "Erhöht den von Glühwürmchen verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH für je 10 Pkt. des max. WDS der Gegner um 1.2%, bis zu 30%."
+  },
+  "661312": {
+    "id": "661312",
+    "name": "Misha",
+    "desc": "Erhöht den von Misha verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an eingefrorenen Gegnern um 50%."
+  },
+  "661313": {
+    "id": "661313",
+    "name": "Sonntag",
+    "desc": "Erhöht den von Sonntag verursachten SCH in Divergentes Universum.\n\nWenn Sonntag sich auf dem Kampffeld befindet, wird der verursachte endgültige SCH der ersten Figur in der Teamformation und ihres Memogeistes um 12% erhöht."
+  },
+  "661314": {
+    "id": "661314",
+    "name": "Jade",
+    "desc": "Erhöht den von Jade verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH bei jedem ausgeführten Angriff um 4%. Dieser Effekt ist bis zu 10-fach stapelbar und wird nach LP-Verlust entfernt."
+  },
+  "661315": {
+    "id": "661315",
+    "name": "Boothill",
+    "desc": "Erhöht den von Boothill verursachten SCH in Divergentes Universum.\n\nNachdem einem Gegner Schwächebruch zugefügt wurde, wird die GES um 4% erhöht. Dieser Effekt ist bis zu 10-fach stapelbar."
+  },
+  "661317": {
+    "id": "661317",
+    "name": "Rappa",
+    "desc": "Erhöht den von Rappa verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern im Schwächebruch um 35%."
+  },
+  "661321": {
+    "id": "661321",
+    "name": "Die Dahlie",
+    "desc": "Erhöht den von der Dahlie verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH für je 10 Pkt. des max. WDS der Gegner um 1.2%, bis zu 30%."
+  },
+  "661401": {
+    "id": "661401",
+    "name": "Große Herta",
+    "desc": "Erhöht den von der Großen Herta verursachten SCH in Divergentes Universum.\n\nFür jeden Gegner, der sich auf dem Kampffeld befindet, wird der verursachte endgültige SCH um 4% erhöht. Nach dem Besiegen eines Gegners wird der endgültige SCH in diesem Kampf zusätzlich um 2% erhöht. Dieser Effekt ist stapelbar."
+  },
+  "661402": {
+    "id": "661402",
+    "name": "Aglaea",
+    "desc": "Erhöht den von Aglaea verursachten SCH in Divergentes Universum.\n\nErhöht die GES dieser Einheit und ihres Memogeists um 25%."
+  },
+  "661403": {
+    "id": "661403",
+    "name": "Tribbie",
+    "desc": "Erhöht den von Tribbie verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH bei jedem Einsatz des Ultimates um 3%. Dieser Effekt ist bis zu 10-fach stapelbar."
+  },
+  "661404": {
+    "id": "661404",
+    "name": "Mydei",
+    "desc": "Erhöht den von Mydei verursachten SCH in Divergentes Universum.\n\nNach LP-Verlust wird für 2 Rd. die LP-Wiederherstellung um 15% und der endgültige SCH um 15% erhöht."
+  },
+  "661405": {
+    "id": "661405",
+    "name": "Anaxa",
+    "desc": "Erhöht den von Anaxa verursachten SCH in Divergentes Universum.\n\nNachdem einem Gegner Schwächebruch zugefügt wurde, wird die GES um 4% erhöht. Dieser Effekt ist bis zu 10-fach stapelbar."
+  },
+  "661406": {
+    "id": "661406",
+    "name": "Cipher",
+    "desc": "Erhöht den von Cipher verursachten SCH in Divergentes Universum.\n\nWenn Cipher sich auf dem Kampffeld befindet, wird die GES der Verbündeten um 10% erhöht."
+  },
+  "661407": {
+    "id": "661407",
+    "name": "Castorice",
+    "desc": "Erhöht den von Castorice verursachten SCH in Divergentes Universum.\n\nNachdem Castorice und ihr Memogeist einen Gegner besiegt haben, werden LP in Höhe von 50% der max. LP wiederhergestellt."
+  },
+  "661408": {
+    "id": "661408",
+    "name": "Phainon",
+    "desc": "Erhöht den von Phainon verursachten SCH in Divergentes Universum.\n\nErhöht für je 10 Pkt. Aktionswert den verursachten endgültigen SCH um 0.8%."
+  },
+  "661409": {
+    "id": "661409",
+    "name": "Hyacine",
+    "desc": "Erhöht den von Hyacine verursachten SCH in Divergentes Universum.\n\nErhöht GES um 25%."
+  },
+  "661410": {
+    "id": "661410",
+    "name": "Hysilens",
+    "desc": "Erhöht den von Hysilens verursachten SCH in Divergentes Universum.\n\nErhöht den endgültigen SCH an Gegnern mit mindestens 3 DoT-Status um 12%. Für jeden weiteren DoT-Status wird der SCH zusätzlich um 1% erhöht."
+  },
+  "661412": {
+    "id": "661412",
+    "name": "Cerydra",
+    "desc": "Erhöht den von Cerydra verursachten SCH in Divergentes Universum.\n\nWenn Cerydra sich auf dem Kampffeld befindet, wird der verursachte endgültige SCH der ersten Figur in der Teamformation und ihres Memogeistes um 12% erhöht."
+  },
+  "661413": {
+    "id": "661413",
+    "name": "Evernight",
+    "desc": "Erhöht den von Evernight verursachten SCH in Divergentes Universum.\n\nWenn Evernight sich auf dem Kampffeld befindet, wird der von Verbündeten verursachte endgültige SCH um 8% erhöht."
+  },
+  "661414": {
+    "id": "661414",
+    "name": "Dan Heng – Permansor Terrae",
+    "desc": "Erhöht den von Dan Heng – Permansor Terrae verursachten SCH in Divergentes Universum.\n\nWenn Dan Heng – Permansor Terrae sich auf dem Kampffeld befindet, wird der KRIT-SCH von Verbündeten mit Schild um 25% erhöht."
+  },
+  "661415": {
+    "id": "661415",
+    "name": "Cyrene",
+    "desc": "Erhöht den von Cyrene verursachten SCH in Divergentes Universum.\n\nWenn sich außer Cyrene mindestens 1 Erbe von Chrysos im Team befindet, wird der von allen Verbündeten verursachte endgültige SCH um 10% erhöht."
+  },
+  "661501": {
+    "id": "661501",
+    "name": "Sparxie",
+    "desc": "Erhöht den von Sparxie verursachten SCH in Divergentes Universum.\n\nFür jeweils 10 Lachpunkt(e) des gesamten Teams wird der von dieser Einheit verursachte endgültige SCH um 1% erhöht, bis zu 30%."
+  },
+  "661502": {
+    "id": "661502",
+    "name": "Yao Guang",
+    "desc": "Erhöht den von Yao Guang verursachten SCH in Divergentes Universum.\n\nWenn Yao Guang sich auf dem Kampffeld befindet, wird die GES aller Verbündeten um 10% von Yao Guangs GES erhöht."
+  },
+  "661504": {
+    "id": "661504",
+    "name": "Ashveil",
+    "desc": "Erhöht den von Ashveil verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern mit einem LP-Prozentsatz von weniger als 50% um 30%. Handelt es sich um Folgeangriff-SCH, wird er zusätzlich um 15% erhöht."
+  },
+  "661505": {
+    "id": "661505",
+    "name": "Evanescia",
+    "desc": "Erhöht den von Evanescia verursachten SCH in Divergentes Universum.\n\nWenn sie „Verdiente Leistung“ besitzt, wird ihr verursachter endgültiger SCH um 15% erhöht. Liegt Verdiente Leistung bei 100 Pkt. oder mehr, wird der verursachte endgültige SCH zusätzlich um 15% erhöht."
+  },
+  "661506": {
+    "id": "661506",
+    "name": "Silberwolf St. 999",
+    "desc": "Erhöht den von Silberwolf St. 999 verursachten SCH in Divergentes Universum.\n\nZu Beginn von Ahas Runde wird das Hochgefühl von Silberwolf St. 999 für jeden Lachpunkt um 0.5% erhöht. Dieser Effekt hält bis zum Beginn von Ahas nächster Runde an."
+  },
+  "668001": {
+    "id": "668001",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern mit einem LP-Prozentsatz von mehr als 50% um 35%."
+  },
+  "668002": {
+    "id": "668002",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH an Gegnern mit einem LP-Prozentsatz von mehr als 50% um 35%."
+  },
+  "668003": {
+    "id": "668003",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nWenn {NICKNAME} sich auf dem Kampffeld befindet, wird der KRIT-SCH von Verbündeten mit Schild um 25% erhöht."
+  },
+  "668004": {
+    "id": "668004",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nWenn {NICKNAME} sich auf dem Kampffeld befindet, wird der KRIT-SCH von Verbündeten mit Schild um 25% erhöht."
+  },
+  "668005": {
+    "id": "668005",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nWenn {NICKNAME} sich auf dem Kampffeld befindet, wird der von Verbündeten an Gegnern mit Schwächebruch verursachte endgültige SCH um 15% erhöht."
+  },
+  "668006": {
+    "id": "668006",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nWenn {NICKNAME} sich auf dem Kampffeld befindet, wird der von Verbündeten an Gegnern mit Schwächebruch verursachte endgültige SCH um 15% erhöht."
+  },
+  "668007": {
+    "id": "668007",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH um 15%. Stellt beim Kampfeintritt Energie in Höhe von 50% der max. Energie wieder her."
+  },
+  "668008": {
+    "id": "668008",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nErhöht den verursachten endgültigen SCH um 15%. Stellt beim Kampfeintritt Energie in Höhe von 50% der max. Energie wieder her."
+  },
+  "668009": {
+    "id": "668009",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nWenn {NICKNAME} sich auf dem Kampffeld befindet, wird das Hochgefühl der Verbündeten um 12% erhöht."
+  },
+  "668010": {
+    "id": "668010",
+    "name": "{NICKNAME}",
+    "desc": "Erhöht den von {NICKNAME} verursachten SCH in Divergentes Universum.\n\nWenn {NICKNAME} sich auf dem Kampffeld befindet, wird das Hochgefühl der Verbündeten um 12% erhöht."
   },
   "670010": {
     "id": "670010",
@@ -4441,5 +5697,365 @@
     "id": "675960",
     "name": "Truppe der Dämmerung",
     "desc": "Erhöht den SCH-Multiplikator von Akkord um 50% des ursprünglichen SCH-Multiplikators. Nachdem Verbündete Folgeangriffe ausgelöst haben, werden die Ziele mit 1 Stapelung(en) Akkord belegt."
+  },
+  "676170": {
+    "id": "676170",
+    "name": "Ein wunderschönes Gedicht",
+    "desc": "Nach Eintritt in den Status „Schmetterlingsseele“ verursacht der Memogeist nach dem Angreifen Tatsächlichen SCH von Schmetterlingsseele, ohne die Trefferzahl zu verbrauchen. Der Gegner mit den höchsten max. LP wird in den Status „Kokon“ versetzt, der bis zum Verlassen von Schmetterlingsseele anhält. Während der Dauer dieses Status wird jeglicher durch Schmetterlingsseele erlittene SCH aufgezeichnet. Nach jeweils 5 erlittenen Angriffen / nach Besiegen des Ziels / beim Verlassen von Schmetterlingsseele wird allen Gegnern SCH in Höhe von 200% des aufgezeichneten SCH zugefügt und der aufgezeichnete Wert zurückgesetzt."
+  },
+  "676180": {
+    "id": "676180",
+    "name": "Äpfel! Äpfel!",
+    "desc": "„Plötzliche Erkenntnis“ erscheint in der Aktionsreihenfolge. Fügt bei einer Aktion allen Gegnern Eis-Basis-SCH in Höhe von 2000% zu und aktiviert die Ultimates aller Verbündeten. Für jede Stapelung „Besessenheit“ der ersten Figur im Team und ihres Memogeists wird die Basis-GES von Plötzliche Erkenntnis um 1 erhöht und jedem Gegner wird zusätzlich Eis-Basis-SCH in Höhe von 100% zugefügt."
+  },
+  "676250": {
+    "id": "676250",
+    "name": "Konzeptionelle Opferungszeremonie",
+    "desc": "Nachdem ein Gegner einen Verbündeten angegriffen hat, erhält Flüstern Aufladung in Höhe von 10% der Entfernungsschwelle. Für je 5% der Entfernungsschwelle, die Flüstern auflädt, erleiden Gegner 1-mal Blitz-DoT in Höhe von 120% der Entfernungsschwelle für Aufladung von Flüstern. Für jeden Gegner wird dieser Effekt nur 2-mal ausgelöst und die Auslösungszahl wird nach der Aktion einer beliebigen Einheit zurückgesetzt. Dieser SCH gilt als Flüstern-SCH und kann Gegner nicht besiegen."
+  },
+  "676280": {
+    "id": "676280",
+    "name": "Auferstehungsarzt",
+    "desc": "Nachdem Verbündete 5-mal einen Ultimate eingesetzt haben, fügt Flüstern angrenzenden Einheiten SCH in Höhe von 60% des ursprünglichen SCH-Multiplikators zu. Danach wird jedes Mal, wenn ein Ultimate eingesetzt wird, der SCH von Flüstern zusätzlich um 2% erhöht."
+  },
+  "676410": {
+    "id": "676410",
+    "name": "Straßenoffizier",
+    "desc": "Nachdem die Verbündeten insgesamt 24-mal einen Angriff ausgeführt haben, erhält die erste Figur im aktuellen Team eine zusätzliche Runde, wobei für Folgeangriffe die doppelte Trefferzahl angerechnet wird. Nachdem sie in dieser zusätzlichen Runde einen Angriff ausgeführt hat, fügt sie dem Angriffsziel zusätzlichen SCH in Höhe von 600% der max. LP + 1200% des ANG zu. Für jede Stapelung Besessenheit der Verbündeten wird der SCH-Multiplikator um 1% des ursprünglichen Multiplikators erhöht."
+  },
+  "676470": {
+    "id": "676470",
+    "name": "Exorzist",
+    "desc": "Erhöht den von Verbündeten verursachten SCH im Status „Schmetterlingsseele“ um 200%. Wenn nach einem Angriff die aktuellen LP eines Gegners unter 25% seiner max. LP liegen, wird ihm eine feste Menge Schmetterlingsseele-SCH in Höhe seiner aktuellen LP zugefügt; stellt außerdem 2 Fertigkeitspunkt(e) wieder her."
+  },
+  "676510": {
+    "id": "676510",
+    "name": "Albtraummeister",
+    "desc": "Nachdem ein beliebiger Verbündeter einen Angriff erlitten hat, wird dieser als Angriff auf alle Verbündeten angesehen. Alle Verbündeten erhalten Aufladung für Blazar in Höhe von 15% ihrer jeweiligen max. LP und Schilde."
+  },
+  "676590": {
+    "id": "676590",
+    "name": "Ewiger Supplikant",
+    "desc": "Wenn die gesamten verlorenen LP der Verbündeten 100% ihrer max. LP betragen oder wenn sie sich von der Handlungsunfähigkeit erholen, wird allen Gegnern SCH in Höhe von 75% der Obergrenze von Akkord zugefügt. Zu Beginn der Runde einer Figur werden 5% ihrer max. LP verbraucht, wobei dieser Wert nach jeder Auslösung um 5% erhöht wird. Wenn eine verbündete Figur zum ersten Mal handlungsunfähig wird, werden ihre LP auf 100% ihrer max. LP wiederhergestellt, und sie verbraucht anschließend in ihrer Runde keine LP mehr."
+  },
+  "676640": {
+    "id": "676640",
+    "name": "Sternendiebe",
+    "desc": "Erhöht die Trefferzahl bei der Aktion des Kartengebers um 4 und ändert das Angriffsziel auf den Gegner mit den höchsten aktuellen max. LP. Wenn SCH verursacht wird, wird das Ziel zusätzlich mit 2 Stapelung(en) „Umgekehrter Kritischer Boost“ belegt und die Aktion aller Verbündeten wird nach dem Angriff um 25% vorgezogen. Dieser Effekt kann bei jedem Gegner max. 1-mal pro Runde ausgelöst werden."
+  },
+  "676650": {
+    "id": "676650",
+    "name": "Feuerverweigerer",
+    "desc": "„Wahn“ erscheint in der Aktionsreihenfolge, und jeder Punkt Aufladung des Kartengebers erhöht dessen GES zusätzlich um 7. Wenn Wahn eine Aktion ausführt, wird der verursachte SCH aller Verbündeten um 15% erhöht. Dieser Effekt ist bis zu 10-mal stapelbar. Zudem erhält „Blazar“ Aufladung in Höhe von 150% der Summe aus den jeweiligen max. LP und aktuellen Schilden, wodurch jeder Verbündete nach seinem nächsten Angriff jedem Angriffsziel 7-mal 80% Blazar-SCH eines zufälligen Typs zufügt."
+  },
+  "676720": {
+    "id": "676720",
+    "name": "Schlängelnde Schlange",
+    "desc": "Im Status Schmetterlingsseele wird der von allen Gegnern erlittene SCH für jeden verbrauchten Fertigkeitspunkt der Verbündeten um 10% erhöht. Dieser Effekt ist stapelbar, bis zu 40%. Nach jedem Eintritt in den Status Schmetterlingsseele wird beim ersten Verbrauch von insgesamt 3 Fertigkeitspunkten die Trefferzahl von Schmetterlingsseele um 6 wiederhergestellt. Bis zum Ende dieser Schmetterlingsseele fügen die Verbündeten nach ihren Angriffen den getroffenen Zielen 1-mal Tatsächlichen SCH in Höhe von 60% des ursprünglichen SCH (außer zusätzlichem SCH) zu. Dieser Effekt gilt auch für den erlittenen DoT zu Beginn der Runde der Gegner."
+  },
+  "676760": {
+    "id": "676760",
+    "name": "Galaktische Lotterie",
+    "desc": "Für jeden verbrauchten oder überschüssigen Fertigkeitspunkt von Verbündeten wird 1 Ziehung erhalten, bis zu 25-mal. Beim Eintritt in den Status „Schmetterlingsseele“ wird ein Lotterie-Automat beschworen, der alle Ziehungen verbraucht, um Preise zu gewinnen, mit einer Basis-Ziehungszahl von 5. Es besteht eine geringe Chance, den Sonderpreis zu erhalten: Fügt allen Gegnern 1-mal SCH eines zufälligen Typs in Höhe von 4000% des Basis-SCH zu und gewährt dem Kartengeber 5 Pkt. Aufladung. Trostpreis: Fügt zufälligen Gegnern 1-mal SCH eines zufälligen Typs in Höhe von 500% des Basis-SCH zu."
+  },
+  "676860": {
+    "id": "676860",
+    "name": "Nützlicher Gelehrter",
+    "desc": "Nachdem der Kartengeber 4-mal eine Aktion ausgeführt hat, während der Status „Übertakten“ im Team nicht aktiv ist, wird der KRIT-SCH aller Verbündeten für 5 Rd. um 200% erhöht. Außerdem erhält die erste Figur im aktuellen Team den Status Übertakten: Ihr Ultimate wird aktiviert und „Gehirn im Tank“ auf 200% aufgeladen. Nachdem 3-mal der Ultimate eingesetzt wurde, wird dieser Status entfernt. Beim ersten Mal muss der Kartengeber nur 1-mal eine Aktion ausführen."
+  },
+  "676890": {
+    "id": "676890",
+    "name": "Elektro-Druide",
+    "desc": "„Odem der Riesenschildkröte“ erscheint mit einer GES von 150 in der Aktionsreihenfolge: Erhöht bei der Aktion den erlittenen SCH aller Gegner für 3 Rd. um 50%, verursacht Eis- und Feuer-SCH in Höhe von 6000% des Basis-SCH, verzögert ihre Aktion um 30% und reduziert den WDS aller Gegner unabhängig vom Schwächetyp um 30. Beim Schwächebruch werden die Brucheffekte für Eis- und Feuer-Schwächen ausgelöst. Nachdem ein Verbündeter den Ultimate durch Gehirn im Tank aktiviert hat, wird die GES von Odem der Riesenschildkröte um 5 erhöht. Dieser Effekt ist bis zu 15-mal stapelbar."
+  },
+  "676920": {
+    "id": "676920",
+    "name": "Toter General",
+    "desc": "Wenn sich Gegner im Schwächebruch befinden, erhält „Akkord“ basierend auf den Typen der verbündeten Figuren im Team zusätzliche Effekte. Effekte desselben Typs sind stapelbar. Wind, Blitz, Physisch: Erhält den Effekt „Tumult“. Nach dem Erleiden eines Angriffs verursachen die aktuellen DoT-Status der Gegner sofort SCH in Höhe von 60% des ursprünglichen SCH. Feuer: Erhält den Effekt „Feuerstrom“. Der von Gegnern erlittene Super-Bruch-SCH wird um 60% erhöht. Quanten, Imaginär, Eis: Erhält den Effekt „Abschreckung“. Die Aktion der Gegner wird um 20% verzögert und nach einem erlittenen Angriff wird 1-mal Akkord-SCH mit einem Prozentsatz von 10% ausgelöst."
+  },
+  "676940": {
+    "id": "676940",
+    "name": "Der die Götter ruft",
+    "desc": "Erhöht die GES von Verbündeten um 35%. Nach einem Angriff besteht eine feste Chance von 60%, einem zufälligen Angriffsziel eine zufällige Schwäche zu implantieren. Fügt dem Gegner 3-mal SCH des entsprechenden Typs in Höhe von 180% des Basis-SCH zu. Handelt es sich um einen Folgeangriff, wird der Effekt garantiert ausgelöst. Die implantierte Schwäche wird entfernt, nachdem der Gegner Schwächebruch erlitten hat. Nach dem Implantieren einer Schwäche wird die implantierte Schwäche 1-mal aufgezeichnet. Dieser Effekt kann pro Aktion bis zu 2-mal ausgelöst werden. Nachdem ein beliebiges gegnerisches Ziel Schwächebruch erlitten hat, wird dem Ziel sowie den angrenzenden Einheiten basierend auf den aufgezeichneten Schwächen für jede Aufzeichnung Bruch-SCH des entsprechenden Typs in Höhe von 200% zugefügt."
+  },
+  "677160": {
+    "id": "677160",
+    "name": "Gärtner",
+    "desc": "Nachdem ein Verbündeter einen Angriff ausführt, wird dem Ziel zusätzlicher SCH in Höhe von 100% der max. LP zugefügt. Nach der Aktion des Kartengebers wird der zusätzliche SCH des nächsten Angriffs auf 300% der max. LP erhöht."
+  },
+  "677170": {
+    "id": "677170",
+    "name": "Historischer Agent",
+    "desc": "Für jede Stapelung Besessenheit eines Verbündeten wird der verursachte Standardangriff- und Fertigkeits-SCH um 6% erhöht. Wenn ein Verbündeter das Kampffeld verlässt, handlungsunfähig wird oder ein verbündeter Memogeist verschwindet, erhält die erste Figur in der aktuellen Teamformation 50% der Stapelzahl von Besessenheit dieser Einheit sowie die gleiche max. Stapelzahl von Besessenheit. Diese zusätzliche Obergrenze wird nach 2 Rd. entfernt."
+  },
+  "677190": {
+    "id": "677190",
+    "name": "Schnellzugriffsrad zum Klassenwechsel",
+    "desc": "Erhöht die Obergrenze für Besessenheit der Verbündeten um 4. Jede Stapelung Besessenheit des Teams erhöht die GES zusätzlich um 0.3%. Wenn einem Gegner Schwächebruch zugefügt wird, erhalten alle Verbündeten 3 Stapelung(en) Besessenheit."
+  },
+  "677240": {
+    "id": "677240",
+    "name": "Ewiges Rennen",
+    "desc": "Von Gegnern erlittener DoT kann Kritische Treffer verursachen. Die KRIT-Rate / Der KRIT-SCH entspricht 20% der Gesamtsumme von KRIT-Rate/KRIT-SCH aller Figuren. Der KRIT-SCH kann 120% nicht überschreiten."
+  },
+  "677250": {
+    "id": "677250",
+    "name": "Vom Würfel geschmiedetes Leben",
+    "desc": "Gegner erleiden 35% mehr Flüstern-SCH. Nachdem Gegner außerhalb ihrer eigenen Runde DoT erlitten haben, erhalten alle Verbündeten Aufladung für Blazar in Höhe von 10% ihres jeweiligen ANG. Dieser Effekt kann bei Gegnern bis zu 5-mal pro Runde ausgelöst werden."
+  },
+  "677260": {
+    "id": "677260",
+    "name": "Narrenkönig",
+    "desc": "Erhöht den von Gegnern erlittenen DoT um 30%. Nachdem der Kartengeber SCH verursacht hat, verursachen die DoT-Status auf dem Gegner bei jedem Treffer sofort SCH in Höhe von 15% des ursprünglichen SCH."
+  },
+  "677450": {
+    "id": "677450",
+    "name": "Eisenarmiger Held",
+    "desc": "Erhöht die Obergrenze von Umgekehrter Kritischer Boost um 10 Stapelung(en). Jedes Mal, wenn die gesamten verlorenen LP aller Verbündeten 15% ihrer max. LP entsprechen, erhalten alle Gegner sofort 1 Stapelung Umgekehrter Kritischer Boost."
+  },
+  "677460": {
+    "id": "677460",
+    "name": "Kometenbändiger",
+    "desc": "Für je 1 % überschüssiger KRIT-Rate von Verbündeten und dem Kartengeber wird der KRIT-SCH um 3% erhöht. Nach dem Angriff eines Verbündeten wird die KRIT-Rate dieser Einheit und des Kartengebers um 2% erhöht. Dieser Effekt ist bis zu 50-fach stapelbar. Bei einem Folgeangriff werden zusätzlich 2 Stapelung(en) gewährt."
+  },
+  "677470": {
+    "id": "677470",
+    "name": "Meteoritengroßhändler",
+    "desc": "Für je 1 % Aktionsvorzug, den ein Verbündeter erhält, verursacht er nach einem Angriff in der nächsten Runde zusätzlichen Tatsächlichen SCH in Höhe von 0.5% des ursprünglichen SCH, bis zu 50% Tatsächlichen SCH. Im Status Schmetterlingsseele verursacht er zusätzlichen Tatsächlichen SCH in Höhe von 50% des ursprünglichen SCH."
+  },
+  "677510": {
+    "id": "677510",
+    "name": "Eisriese",
+    "desc": "Wenn ein Verbündeter SCH erleidet oder LP verbraucht und sein LP-Prozentsatz weniger als 40% beträgt, wird 5-fach Besessenheit von dem Verbündeten mit der höchsten Stapelzahl von Besessenheit im Team verbraucht, ihm werden LP in Höhe von 25% seiner max. LP wiederhergestellt und sein verursachter SCH wird für 2 Rd. um 150% erhöht. Dieser Effekt kann bis zu 1-mal pro Runde ausgelöst werden."
+  },
+  "677570": {
+    "id": "677570",
+    "name": "Katastrophenidol",
+    "desc": "Erhöht die Aufladeeffizienz von Blazar um 25%. Im Status Schmetterlingsseele verursachen Standardangriffe und Fertigkeiten 150% Blazar-SCH bei den Angriffszielen."
+  },
+  "677590": {
+    "id": "677590",
+    "name": "Wahlgerät der himmlischen Strafe",
+    "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, erhält Blazar eine Aufladung von 100% von max. LP und Schild. Wenn alle Gegner Schwächebruch erleiden, wird Blazar am Ende der Runde von Verbündeten nicht entfernt."
+  },
+  "677650": {
+    "id": "677650",
+    "name": "Wahres Glücksschach",
+    "desc": "Erhöht die Trefferzahl pro 3 Pkt. Aufladung des Kartengebers um 1. Nachdem insgesamt 10 Verbündete angegriffen wurden, erhält der Kartengeber 1 Pkt. Aufladung."
+  },
+  "677680": {
+    "id": "677680",
+    "name": "Ätherhacker",
+    "desc": "Erhöht den KRIT-SCH von Verbündeten um 100%. Wenn ein Gegner durch einen Ultimate oder eine Hochgefühl-Fähigkeit besiegt wird, wird der überschüssige SCH aufgezeichnet und die nächsten 1 Angriffe fügen einem zufälligen Ziel zusätzlich SCH in Höhe von 300% des aufgezeichneten Werts zu."
+  },
+  "677690": {
+    "id": "677690",
+    "name": "Fabeldichter des Sternenhimmels",
+    "desc": "Wenn der Kartengeber SCH verursacht, reduziert er den WDS des gegnerischen Ziels unabhängig vom Schwächetyp um 30. Diese WDS-Reduzierung kann den WDS des Gegners höchstens auf 1 Pkt. senken. Wenn ein Gegner Schwächebruch erleidet, wird der erlittene SCH für je 10 Pkt. des max. WDS um 3% erhöht. Dieser Effekt hält 2 Rd. an."
+  },
+  "677710": {
+    "id": "677710",
+    "name": "Bitterarmer Entführer",
+    "desc": "Erhöht den Multiplikator des Tatsächlichen SCH von Schmetterlingsseele um 60% des ursprünglichen Multiplikators und die Trefferzahl um 4. Nach dem Angriff eines Memogeists verursacht er den Tatsächlichen SCH von Schmetterlingsseele und verbraucht dessen Trefferzahl."
+  },
+  "677720": {
+    "id": "677720",
+    "name": "Entmutigter Held",
+    "desc": "Jedes Mal, wenn ein Gegner DoT erleidet, wird „Seelenkokon“ um 1% aufgeladen. Wenn der Status Schmetterlingsseele aktiv ist, wird der verursachte SCH aller Verbündeten um 2% erhöht. Dieser Effekt ist bis zu 99-fach stapelbar und hält bis zum Verlassen von Schmetterlingsseele."
+  },
+  "677780": {
+    "id": "677780",
+    "name": "Imperator der Treustachel",
+    "desc": "Nachdem Verbündete in den Status Schmetterlingsseele eingetreten sind, können ihre Ultimates auch Tatsächlichen SCH der Schmetterlingsseele verursachen und ihre Trefferzahl um 4 erhöhen. Dieser Effekt kann für jeden Verbündeten nur 1-mal ausgelöst werden."
+  },
+  "677810": {
+    "id": "677810",
+    "name": "Ruinenmagier",
+    "desc": "Lädt nach dem Angriff eines Memogeists Gehirn im Tank seines Memomeisters um 8% auf. Nachdem der Memomeister seinen Ultimate mit Gehirn im Tank eingesetzt hat, wird der SCH seines Memogeists für 4 Rd. um 240% erhöht."
+  },
+  "677820": {
+    "id": "677820",
+    "name": "IQ-Steuereintreiber",
+    "desc": "Erhöht den ANG von Verbündeten um 150%. Nach dem Verursachen von Ultimate-SCH durch Angriffe wird das Flüstern des Ziels SCH in Höhe von 100% des ursprünglichen SCH verursachen."
+  },
+  "677840": {
+    "id": "677840",
+    "name": "Spitzensportler",
+    "desc": "Wenn ein Verbündeter einem Gegner Schwächebruch zufügt, wird Gehirn im Tank um 20% aufgeladen und Energie in Höhe von 10% der max. Energie wiederhergestellt. Nachdem ein Gegner besiegt wurde, wird Energie in Höhe von 60% der max. Energie wiederhergestellt."
+  },
+  "677920": {
+    "id": "677920",
+    "name": "Lied der Schwerkraft",
+    "desc": "Wenn Gegner Akkord-SCH erleiden, erleiden sie zusätzlich 1-mal Akkord-SCH in Höhe von 75% des ursprünglichen SCH. Für jeden Debuff des Ziels wird dieser SCH zusätzlich um 2% erhöht, bis zu 40%."
+  },
+  "677940": {
+    "id": "677940",
+    "name": "Meister des Schicksals",
+    "desc": "Nachdem Verbündete Gegner mit Schwächebruch angegriffen haben, wird der WDS-Reduzierungswert dieses Angriffs 1-mal in 75% Super-Bruch-SCH umgewandelt. Jede Stapelung Umgekehrter Kritischer Boost eines Gegners verursacht zusätzlich 5% Super-Bruch-SCH."
+  },
+  "677980": {
+    "id": "677980",
+    "name": "Mensch, Schlange, Sternenring",
+    "desc": "Wenn sich ein Gegner zu Beginn seiner Runde im Schwächebruch befindet, erleidet er 1-mal zusätzlich SCH in Höhe von 200% des ursprünglichen Akkord-SCH. Jedes Mal, wenn ein Verbündeter einen Ultimate einsetzt, wird der Akkord-SCH um 1% des ursprünglichen SCH erhöht."
+  },
+  "678150": {
+    "id": "678150",
+    "name": "Relativer Gewinner",
+    "desc": "Nachdem ein Verbündeter LP verbraucht hat, erhält er 5 Stapelung(en) Besessenheit. Dieser Effekt kann bis zu 1-mal ausgelöst werden und kann nach der Aktion einer beliebigen Einheit erneut ausgelöst werden."
+  },
+  "678170": {
+    "id": "678170",
+    "name": "Enge Freunde",
+    "desc": "Stellt nach dem Verschwinden eines Memogeistes 1 Fertigkeitspunkt für Verbündete wieder her. Erhöht den verursachten SCH aller Verbündeten für jeden Fertigkeitspunkt, den das Team erhält, um 3%, bis zu 120%."
+  },
+  "678180": {
+    "id": "678180",
+    "name": "Flachwitz-Feinschmecker",
+    "desc": "Wenn Besessenheit von Verbündeten 70 Stapelung(en) überschreitet, wird der Ultimate-SCH um 75% und der Memogeist-SCH um 75% erhöht."
+  },
+  "678190": {
+    "id": "678190",
+    "name": "Spezialist des Teilens",
+    "desc": "Wenn Verbündete Besessenheit besitzen, wird ihre WDS-DUR aller Typen um 15% erhöht. Jede Stapelung Besessenheit erhöht den Brucheffekt aller Verbündeten um 0.5%."
+  },
+  "678240": {
+    "id": "678240",
+    "name": "Labyrinth des ewigen Gemetzels",
+    "desc": "Erhöht den von Gegnern erlittenen DoT um 20%. Nach einem erlittenen Folgeangriff wird Flüstern aufgeladen, wobei der Aufladewert 2% der Entfernungsschwelle entspricht."
+  },
+  "678250": {
+    "id": "678250",
+    "name": "Ort der Legenden",
+    "desc": "Gegner werden beim Kampfeintritt mit Bluten belegt. Im Status Bluten erleiden sie zu Beginn jeder Runde physischen DoT in Höhe von 10% ihrer max. LP. Dieser SCH kann 200% der LP-Gesamtsumme aller Verbündeten nicht überschreiten."
+  },
+  "678260": {
+    "id": "678260",
+    "name": "Umgekehrter Abenteurer",
+    "desc": "Nachdem der Kartengeber einen Angriff ausgeführt hat, wird das Ziel mit Brennen belegt. Zu Beginn jeder Runde erleidet das Ziel Feuer-DoT in Höhe von 150% des Basis-SCH. Dieser Effekt hält 3 Rd. an."
+  },
+  "678280": {
+    "id": "678280",
+    "name": "Dr. Delirium",
+    "desc": "Stellt beim Besiegen von Gegnern für jeden DoT-Effekt, von dem sie betroffen sind, bei allen Verbündeten 5.0 Pkt. Energie wieder her."
+  },
+  "678410": {
+    "id": "678410",
+    "name": "Ahnenkriegsgott",
+    "desc": "Erhöht die KRIT-Rate der Verbündeten um 25%. Belegt nach einem Angriff des Memogeists ein zufälliges getroffenes Ziel zusätzlich mit 3 Stapelung(en) Umgekehrter Kritischer Boost."
+  },
+  "678420": {
+    "id": "678420",
+    "name": "Glatzkopf-Schöpfer",
+    "desc": "Für je 1 % der Entfernungsschwelle für Aufladung von Flüstern wird der erlittene KRIT-SCH der Gegner um 1.0% erhöht, bis zu 150%."
+  },
+  "678460": {
+    "id": "678460",
+    "name": "Rattenjäger",
+    "desc": "Erhöht den durch Umgekehrter Kritischer Boost verursachten SCH um 60%. Wenn dieser durch den Einsatz einer Hochgefühl-Fähigkeit ausgelöst wird, wird der verursachte SCH zusätzlich um 60% erhöht."
+  },
+  "678480": {
+    "id": "678480",
+    "name": "Verfluchter Lehrer",
+    "desc": "Für jeden besiegten Gegner wird der von Verbündeten verursachte SCH in diesem Kampf um 30% erhöht. Der Ultimate-SCH wird zusätzlich um 15% erhöht. Dieser Effekt ist stapelbar."
+  },
+  "678510": {
+    "id": "678510",
+    "name": "Dämon des Wortbruchs",
+    "desc": "Erhöht die max. LP der Verbündeten um 40%. Beim Kampfeintritt oder Beschwören von Memogeistern wird Blazar um 100% ihrer eigenen max. LP aufgeladen. Anschließend wird am Ende der ersten Runde Blazar nicht entfernt."
+  },
+  "678520": {
+    "id": "678520",
+    "name": "Garagen-Drachentöter",
+    "desc": "Erhöht den Effekt-WDS der Verbündeten um 20% und ihren verursachten Blazar-SCH um 80%. Beim Widerstehen von erlittenen Debuffs wird dem Ziel zusätzlicher SCH in Höhe von 60% von Blazar zugefügt. Dieser SCH kann Gegner nicht besiegen."
+  },
+  "678580": {
+    "id": "678580",
+    "name": "Physisches Magisches Mädchen",
+    "desc": "Wenn der LP-Prozentsatz einer verbündeten Figur zum ersten Mal in einem Kampf unter 25% fällt, wird ihr Ultimate aktiviert und der Ultimate-SCH dieser Einheit sowie ihres Memogeists ignoriert in diesem Kampf 20% der VTD."
+  },
+  "678590": {
+    "id": "678590",
+    "name": "Aha-Radio",
+    "desc": "Erhöht die erhaltene Schildmenge um 30%. Nach dem Verursachen von Schwächebruch bei einem Gegner erhalten alle Verbündeten für 2 Rd. einen Schild in Höhe von 15% ihrer max. LP."
+  },
+  "678640": {
+    "id": "678640",
+    "name": "Schwertkämpfer des Verzichts",
+    "desc": "Erhöht das Hochgefühl von Verbündeten um 25%. Für jeden besiegten Gegner wird es zusätzlich um 15% erhöht."
+  },
+  "678650": {
+    "id": "678650",
+    "name": "Top-Zwillingssterne",
+    "desc": "Nach jeder Aktion des Kartengebers wird die Aufladeeffizienz von Blazar um 6% erhöht. Dieser Effekt ist bis zu 10-mal stapelbar."
+  },
+  "678670": {
+    "id": "678670",
+    "name": "Barkeeper",
+    "desc": "Erhöht den KRIT-SCH von Verbündeten um 60%. Nach jeder Aktion des Kartengebers wird der KRIT-SCH aller Verbündeten beim nächsten Einsatz von Standardangriff/Fertigkeit zusätzlich um 40% erhöht."
+  },
+  "678690": {
+    "id": "678690",
+    "name": "Der Untröstliche",
+    "desc": "Erhöht die Schwächebruch-Effizienz des Hochgefühl-SCH der Verbündeten um 25%. Nachdem eine Einheit einem Gegner Schwächebruch zugefügt hat, wird ihre GES um 25% erhöht."
+  },
+  "678710": {
+    "id": "678710",
+    "name": "Fähigkeiten-Loswettbewerb",
+    "desc": "Nach dem Angriff eines Memogeists wird Seelenkokon um 15% aufgeladen und hat eine Chance von 40%, 1 Fertigkeitspunkt(e) wiederherzustellen."
+  },
+  "678720": {
+    "id": "678720",
+    "name": "Planeten-Autoscooter",
+    "desc": "Erhöht den Tatsächlichen SCH von Schmetterlingsseele um 35% des ursprünglichen Multiplikators. Für jeden Debuff der Gegner wird dieser Wert zusätzlich um 1% des ursprünglichen Multiplikators erhöht."
+  },
+  "678760": {
+    "id": "678760",
+    "name": "Verständnisvolles Törtchen",
+    "desc": "Erhöht den KRIT-SCH von Verbündeten beim Einsatz von Standardangriff/Fertigkeit um 100%. Erhält für jeden verbrauchten Fertigkeitspunkt 1 Lachpunkt(e)."
+  },
+  "678790": {
+    "id": "678790",
+    "name": "Drehende Ameise",
+    "desc": "Der Standardangriff-/Fertigkeits-SCH von Verbündeten ignoriert 25% der VTD der Gegner. Dieser Effekt wird bei Gegnern mit Schwächebruch auf 40% erhöht."
+  },
+  "678840": {
+    "id": "678840",
+    "name": "Schattenjäger Mechagott",
+    "desc": "Verursacht beim Auslösen jeder Stapelung von Umgekehrter Kritischer Boost zusätzlich SCH in Höhe von 15% des ANG und belegt nach einem Angriff mit dem Ultimate alle Angriffsziele zusätzlich mit 2 Stapelung(en) Umgekehrter Kritischer Boost."
+  },
+  "678850": {
+    "id": "678850",
+    "name": "Galaktische Bäckerei",
+    "desc": "Erhöht den von Verbündeten verursachten Blazar-SCH um 75%. Nach dem Einsatz des Ultimates wird Blazar um 35% der max. LP aufgeladen."
+  },
+  "678860": {
+    "id": "678860",
+    "name": "Selbstreflexiver Gelehrter",
+    "desc": "Erhöht den KRIT-SCH des Ultimate-SCH von Verbündeten um 75% und lädt nach der Aktion des Kartengebers für verbündete Figuren Gehirn im Tank um 5% auf."
+  },
+  "678870": {
+    "id": "678870",
+    "name": "Karten-Novize",
+    "desc": "Mit jedem Fertigkeitspunkt, den ein Verbündeter verbraucht, wird sein verursachter Ultimate-SCH um 65% erhöht, bis zu 130%. Dieser Effekt hält bis nach dem Einsatz des Ultimates an."
+  },
+  "678910": {
+    "id": "678910",
+    "name": "Wiederaufbauer der Heimat",
+    "desc": "Jede Stapelung Besessenheit erhöht Brucheffekt um 0.8%. Der Brucheffekt von Memogeistern wird zusätzlich um 0.5% erhöht."
+  },
+  "678920": {
+    "id": "678920",
+    "name": "Begegnung mit dem Wunderarzt",
+    "desc": "Wenn ein Angriff eines Verbündeten einen Gegner mit einem Debuff belegt, wird das Ziel zusätzlich mit 1 Stapelung(en) Akkord belegt. Wenn sich das Ziel im Schwächebruch befindet, wird die Anzahl der hinzugefügten Stapelungen verdoppelt."
+  },
+  "678940": {
+    "id": "678940",
+    "name": "Ritter von Arcadia",
+    "desc": "Erhöht den SCH-Multiplikator von Akkord um 50% des ursprünglichen SCH-Multiplikators. Nachdem Verbündete Folgeangriffe ausgelöst haben, werden die Ziele mit 1 Stapelung(en) Akkord belegt."
+  },
+  "678970": {
+    "id": "678970",
+    "name": "Partikelschwarm der Vernichtung",
+    "desc": "Wenn ein Verbündeter Standardangriff/Fertigkeit einsetzt, wird 20% des WDS aller Typen der Gegner ignoriert. Nach einem Angriff mit Standardangriff/Fertigkeit wird der WDS der Gegner unabhängig vom Schwächetyp um eine feste Menge von 15 Pkt. reduziert."
   }
 }

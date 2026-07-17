@@ -4554,6 +4554,70 @@
       ]
     ]
   },
+  "22007": {
+    "id": "22007",
+    "skill": "Đồng Hành",
+    "desc": "Tăng #1[i]% Sát Thương Bạo Kích của người trang bị. Sau khi người trang bị thi triển Tuyệt Kỹ, khiến Độ Vui Vẻ của toàn bộ phe ta tăng #2[i]%, duy trì #3[i] hiệp.",
+    "params": [
+      [
+        0.12,
+        0.08,
+        1
+      ],
+      [
+        0.15,
+        0.09,
+        1
+      ],
+      [
+        0.18,
+        0.1,
+        1
+      ],
+      [
+        0.21,
+        0.11,
+        1
+      ],
+      [
+        0.24,
+        0.12,
+        1
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.12
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.15
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.24
+        }
+      ]
+    ]
+  },
   "23000": {
     "id": "23000",
     "skill": "Chòm Sao Băng",
@@ -8484,6 +8548,233 @@
       ]
     ]
   },
+  "23056": {
+    "id": "23056",
+    "skill": "Nuốt Chửng",
+    "desc": "Tỷ Lệ Bạo Kích của người trang bị tăng #1[i]%. Khi bắt đầu chiến đấu hoặc mỗi khi người trang bị tích lũy thi triển #2[i] lần Đòn Đánh Theo Sau, sẽ khiến người trang bị nhận \"Nuốt Ảnh\", duy trì #3[i] hiệp. Khi người trang bị sở hữu \"Nuốt Ảnh\", Tấn Công tăng #4[i]%, đồng thời khiến sát thương phải chịu của toàn bộ phe địch tăng #5[i]%, hiệu ứng cùng loại không thể cộng dồn.",
+    "params": [
+      [
+        0.18,
+        4,
+        3,
+        0.4,
+        0.2
+      ],
+      [
+        0.21,
+        4,
+        3,
+        0.5,
+        0.225
+      ],
+      [
+        0.24,
+        4,
+        3,
+        0.6,
+        0.25
+      ],
+      [
+        0.27,
+        4,
+        3,
+        0.7,
+        0.275
+      ],
+      [
+        0.3,
+        4,
+        3,
+        0.8,
+        0.3
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.24
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.27
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.3
+        }
+      ]
+    ]
+  },
+  "23057": {
+    "id": "23057",
+    "skill": "Tất Thắng",
+    "desc": "Khiến Tốc Độ của người trang bị tăng #1[i]%, Sát Thương Vui Vẻ gây ra bỏ qua #2[i]% Phòng Thủ của mục tiêu. Khi người trang bị thi triển Tuyệt Kỹ lên bản thân, nhận #3[i] \"Điểm Hài Hước\". Hiệu ứng này kích hoạt tối đa 1 lần, sau khi thi triển #4[i] lần Tấn Công Thường sẽ đặt lại số lần có thể kích hoạt.",
+    "params": [
+      [
+        0.18,
+        0.2,
+        20,
+        3
+      ],
+      [
+        0.21,
+        0.24,
+        25,
+        3
+      ],
+      [
+        0.24,
+        0.28,
+        30,
+        3
+      ],
+      [
+        0.27,
+        0.32,
+        35,
+        3
+      ],
+      [
+        0.3,
+        0.36,
+        40,
+        3
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.24
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.27
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.3
+        }
+      ]
+    ]
+  },
+  "23058": {
+    "id": "23058",
+    "skill": "Mơ Mộng",
+    "desc": "Tăng #1[i]% Sát Thương Bạo Kích và #4[f1]% Hiệu Suất Hồi Năng Lượng của người trang bị. Khi Giới Hạn Năng Lượng của người trang bị lớn hơn #5[i], mỗi 10 điểm Giới Hạn Năng Lượng vượt mức sẽ tăng thêm #6[f1]% Hiệu Suất Hồi Năng Lượng, tính tối đa #7[i] điểm Giới Hạn Năng Lượng vượt mức. Khi người trang bị thi triển Kỹ Năng Vui Vẻ, khiến sát thương toàn phe địch phải chịu tăng #2[f1]%, duy trì #3[i] hiệp, hiệu ứng cùng loại không thể cộng dồn.",
+    "params": [
+      [
+        0.6,
+        0.15,
+        2,
+        0.1,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        0.75,
+        0.1875,
+        2,
+        0.115,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        0.9,
+        0.225,
+        2,
+        0.13,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        1.05,
+        0.2625,
+        2,
+        0.145,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        1.2,
+        0.3,
+        2,
+        0.16,
+        120,
+        0.0029999998,
+        360
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.6
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.75
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.9
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 1.05
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 1.2
+        }
+      ]
+    ]
+  },
   "24000": {
     "id": "24000",
     "skill": "Dập Lửa",
@@ -8879,6 +9170,70 @@
         {
           "type": "SpeedAddedRatio",
           "value": 0.12
+        }
+      ]
+    ]
+  },
+  "24006": {
+    "id": "24006",
+    "skill": "Mở Đầu",
+    "desc": "Khiến Tấn Công của người trang bị tăng #1[i]%. Sau khi người trang bị thi triển Chiến Kỹ hoặc Tuyệt Kỹ lên 1 nhân vật phe ta, sẽ khiến Độ Vui Vẻ của mục tiêu tăng #2[i]%, duy trì #3[i] hiệp.",
+    "params": [
+      [
+        0.2,
+        0.12,
+        2
+      ],
+      [
+        0.25,
+        0.15,
+        2
+      ],
+      [
+        0.3,
+        0.18,
+        2
+      ],
+      [
+        0.35,
+        0.21,
+        2
+      ],
+      [
+        0.4,
+        0.24,
+        2
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.2
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.25
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.3
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.35
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.4
         }
       ]
     ]

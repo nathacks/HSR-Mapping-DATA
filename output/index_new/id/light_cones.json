@@ -1139,6 +1139,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22007": {
+    "id": "22007",
+    "name": "Tomorrow, Together",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "Sebuah hadiah besar tiba-tiba mendarat di ruang live streaming.\n<i>\"Ini kue anniversary ketiga yang dipesan khusus oleh para penggemar untuk semuanya!\"</i>\n\nSemua kenangan masa lalu kini berubah menjadi motivasi, menuntun semua orang untuk melangkah bersama menuju masa depan.\n<i>\"Semoga di tahun yang baru ini, kita semua bisa terus maju dengan bahagia dan selamat, pom!\"</i>\n<i>\"Tenang aja, Kondektur! Kelinci Maret bakal rekam momen ini~\"</i>\n\nDi tengah suasana yang hangat, semua orang mengangkat gelas bersama, tawa dan canda memenuhi setiap sudut.\n<i>\"Di hari yang patut dirayakan ini, mari kita bersulang.\"</i>\n<i>\"Untuk hari esok yang dipenuhi bintang-bintang ....\"</i>\n<i>\"Bersulang!\"</i>",
+    "icon": "icon/light_cone/22007.png",
+    "preview": "image/light_cone_preview/22007.png",
+    "portrait": "image/light_cone_portrait/22007.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "Night on the Milky Way",
@@ -1799,6 +1811,42 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "23056": {
+    "id": "23056",
+    "name": "The Finale of a Lie",
+    "rarity": 5,
+    "path": "Rogue",
+    "desc": "<i>\"Apa tuh yang tertulis dalam 'Pengantar Deduksi Detektif'? Kecuali jika benar-benar terpaksa ....\"</i>\nTaring merah dan hitam yang terjalin, merayap perlahan ke pundak.\n\nDi tempat malam tenggelam, kabut kecurigaan muncul. Di dalam hutan yang gelap gulita, binatang buas bersembunyi.\n<i>\"Permainan kejar-kejaran ini ... sudah waktunya berakhir.\"</i>\nWarna darah memudar, cahaya bulan di langit masih bersinar terang, dan bintang-bintang tidur dengan lelap.\n\nSekali lagi, dia mencari kebenaran. Tapi bayangan masa lalu menepuk pundaknya, lalu menghilang.\nPergulatan saat ini berlanjut, hingga —\n\n<i>\"Hingga ... hari ketika kejahatan dihukum.\"</i>",
+    "icon": "icon/light_cone/23056.png",
+    "preview": "image/light_cone_preview/23056.png",
+    "portrait": "image/light_cone_portrait/23056.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23057": {
+    "id": "23057",
+    "name": "Welcome to the Cosmic City",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Di atas langit kota, sosok gadis yang mencolok keluar dari portal teleportasi.\nArus kendaraan dan bayangan orang yang berlalu lalang tetap seramai biasanya.\n<i>\"Kelihatannya memang ramai, tapi ....\"</i>\n\nLayar di depannya menyala, emosi orang-orang berubah menjadi titik-titik cahaya dan mengalir ke dalamnya.\n<i>\"Bahkan nilai Fatigue NPC pun udah mau jebol ....\"</i>\n<i>\"Malas ah main raid ini. Bosan banget.\"</i>\n\nMengikuti gerakan jarinya, lampu-lampu kota berkelap-kelip.\nTerdengar seruan terkejut dari sudut yang tidak diketahui, kemudian sorakan bergemuruh bergema di seluruh langit.\n<i>\"Nilai Luck semua pemain berlipat ganda, Talent spesial diacak, hadiah dimaksimalkan ....\"</i>\n<i>\"Berhasil memuat game! Sekarang, mari kita kuasai arena!\"</i>\n\nGadis itu melompat turun, nada notifikasi yang familier terdengar di telinganya.\nWaktu dia untuk bermain game telah dimulai.",
+    "icon": "icon/light_cone/23057.png",
+    "preview": "image/light_cone_preview/23057.png",
+    "portrait": "image/light_cone_portrait/23057.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23058": {
+    "id": "23058",
+    "name": "Until the Flowers Bloom Again",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Angin sepoi-sepoi berhembus melewati tirai jendela yang putih bersih, membangkitkan lamunan sang gadis.\nDia menatap ke luar jendela ke arah kerumunan orang yang sedang bercengkerama sambil tertawa, pena yang ia gunakan untuk menulis dan menggambar tanpa sadar terhenti di satu titik.\n<i>\"Ini ... sudah keberapa kalinya aku duduk di sini?\"</i>\n\nTiba-tiba, kelopak bunga yang berguguran melewati ujung hidungnya, seakan menjawab, seakan mengingatkan.\nSebuah permainan yang meriah, pertemuan yang terjadi sekali seumur hidup, siang dan malam saat bunga mekar dan layu ....\nDia mengingat kembali kisah tentang dirinya dan negeri ini, dari yang awalnya kosong, menjadi penuh warna. Setiap kali tertidur, dia selalu menantikan datangnya hari esok.\n\n<i>\"Ah, komiknya sudah update! Baca ah habis selesai gambar si imut-imut ini ....\"</i>\nSang gadis menerima notifikasi, menggoyangkan telinganya, dan ujung penanya yang terhenti kembali menari.\n\n<i>\"Semoga ... di musim bunga berikutnya, aku sudah kekejar semua karya baru rating tinggi!\"</i>",
+    "icon": "icon/light_cone/23058.png",
+    "preview": "image/light_cone_preview/23058.png",
+    "portrait": "image/light_cone_portrait/23058.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "24000": {
     "id": "24000",
     "name": "On the Fall of an Aeon",
@@ -1868,6 +1916,18 @@
     "icon": "icon/light_cone/24005.png",
     "preview": "image/light_cone_preview/24005.png",
     "portrait": "image/light_cone_portrait/24005.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "24006": {
+    "id": "24006",
+    "name": "Elation Brimming With Blessings",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Di bawah ujung jari para jenius, data beroperasi dengan stabil dan tanpa henti.\nTopeng bersembunyi di celah-celah \"peristiwa\", mengamati setiap potensi perkembangan.\n\nAnalisis, kalkulasi, jawaban, pertanyaan ... bukankah ini juga panggung bagi para jenius?\nSorak-sorai, air mata, raungan, ratapan ... emosi kehidupan bermekaran.\n\nSandiwara menjadi riuh, dipenuhi dengan sukacita dan berkat. Apakah ini adegan yang paling menarik?\nJawabannya tetap sama, yaitu \"tidak dapat diprediksi\".",
+    "icon": "icon/light_cone/24006.png",
+    "preview": "image/light_cone_preview/24006.png",
+    "portrait": "image/light_cone_portrait/24006.png",
     "max_rank": 5,
     "max_promotion": 6
   }

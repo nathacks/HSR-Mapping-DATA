@@ -228,6 +228,15 @@
     "1502": [
       "Yao Guang"
     ],
+    "1504": [
+      "Ashveil"
+    ],
+    "1505": [
+      "Evanescia"
+    ],
+    "1506": [
+      "Louve d'argent Niv. 999"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -250,6 +259,12 @@
       "{NICKNAME}"
     ],
     "8008": [
+      "{NICKNAME}"
+    ],
+    "8009": [
+      "{NICKNAME}"
+    ],
+    "8010": [
       "{NICKNAME}"
     ],
     "1014": [
@@ -727,6 +742,21 @@
     ],
     "23054": [
       "Lorsqu'elle décida de voir"
+    ],
+    "23056": [
+      "Bas les masques"
+    ],
+    "24006": [
+      "Eau bénite de l'Allégresse"
+    ],
+    "23058": [
+      "Printemps des retrouvailles"
+    ],
+    "23057": [
+      "Terrain de jeu universel"
+    ],
+    "22007": [
+      "L'avenir nous verra réunis"
     ]
   },
   "relic_sets": {
@@ -891,6 +921,12 @@
     ],
     "324": [
       "Tengoku@Stream"
+    ],
+    "325": [
+      "Punklorde : niveau zéro"
+    ],
+    "326": [
+      "Épicentre du cosmos"
     ]
   }
 }

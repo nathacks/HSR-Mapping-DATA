@@ -309,7 +309,7 @@
     "id": "100401",
     "name": "Legado de honor",
     "rank": 1,
-    "desc": "Tras usar su habilidad definitiva, Welt obtiene una potenciación: las 2 siguientes veces que ataque usando el ATQ básico o la habilidad básica, inflige daño adicional a los objetivos 1 vez. El daño adicional que inflige el ATQ básico es igual al 50%% del multiplicador del daño de ATQ básico, y el daño adicional que inflige la habilidad básica es igual al 80%% del multiplicador del daño de habilidad básica.",
+    "desc": "Tras usar su habilidad definitiva, Welt obtiene una potenciación: las 2 siguientes veces que ataque usando el ATQ básico o la habilidad básica, inflige daño adicional a los objetivos 1 vez. El daño adicional que inflige el ATQ básico es igual al 50%% del multiplicador de daño del ATQ básico, y el daño adicional que inflige la habilidad básica es igual al 80%% del multiplicador de daño de la habilidad básica.",
     "materials": [
       {
         "id": "11004",
@@ -1319,7 +1319,7 @@
     "id": "110206",
     "name": "Caos destructivo",
     "rank": 6,
-    "desc": "Tras usar la habilidad definitiva de Seele, el objetivo entra en el estado de Mariposa desbocada durante 1 turno. Cuando un enemigo afectado por Mariposa desbocada es atacado, recibe un Daño Cuántico adicional equivalente al 15%% del daño de habilidad definitiva de Seele. Si el enemigo es eliminado por el daño adicional de Mariposa desbocada activado por el ataque de otro aliado, no se activará el talento de Seele.\nCuando Seele sea derrotada, se disipará el estado de Mariposa desbocada infligido a los enemigos.",
+    "desc": "Tras atacar con la habilidad definitiva de Seele, el objetivo entra en el estado de Mariposa desbocada durante 1 turno. Cuando un enemigo afectado por Mariposa desbocada es atacado, recibe un Daño Cuántico adicional equivalente al 15%% del daño de habilidad definitiva de Seele. Si el enemigo es eliminado por el daño adicional de Mariposa desbocada activado por el ataque de otro aliado, no se activará el talento de Seele.\nCuando Seele sea derrotada, se disipará el estado de Mariposa desbocada infligido a los enemigos.",
     "materials": [
       {
         "id": "11102",
@@ -8287,6 +8287,352 @@
     "level_up_skills": [],
     "icon": "icon/skill/1502_rank6.png"
   },
+  "150401": {
+    "id": "150401",
+    "name": "Cuidado: no salgas durante la luna llena",
+    "rank": 1,
+    "desc": "Mientras Ashveil está en el campo de batalla, el daño que reciben todos los enemigos aumenta en un 24%%. Cuando el porcentaje de PV actual de un enemigo sea igual o inferior al 50%%, el incremento de daño recibido aumenta al 36%%.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank1.png"
+  },
+  "150402": {
+    "id": "150402",
+    "name": "Llamada: risa queda tras la puerta",
+    "rank": 2,
+    "desc": "El límite de acumulaciones de Gula aumenta a 18. Cada vez que Ashveil lanza la versión potenciada del ataque adicional del talento, recupera un 35%% de las acumulaciones de Gula eliminadas.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank2.png"
+  },
+  "150403": {
+    "id": "150403",
+    "name": "Silencio: ensimismamiento entre amigos",
+    "rank": 3,
+    "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150403",
+        "num": 2
+      },
+      {
+        "id": "150401",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1504_ultra.png"
+  },
+  "150404": {
+    "id": "150404",
+    "name": "Recuerda: la verdad hay que tragarla entera",
+    "rank": 4,
+    "desc": "Cuando Ashveil lanza la habilidad definitiva, su ATQ aumenta en un 40%% durante 3 turnos.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank4.png"
+  },
+  "150405": {
+    "id": "150405",
+    "name": "Aviso: el detective puede ser el asesino",
+    "rank": 5,
+    "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150402",
+        "num": 2
+      },
+      {
+        "id": "150404",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/1504_bp.png"
+  },
+  "150406": {
+    "id": "150406",
+    "name": "Final: y no quedó ninguno",
+    "rank": 6,
+    "desc": "Cuando hay un Cebo en el campo de batalla, la RES a todos los tipos de todos los enemigos se reduce en un 20%%. El daño que inflige Ashveil aumenta en un 4%% por cada acumulación de Gula obtenida. Este efecto se puede acumular hasta 30 veces.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank6.png"
+  },
+  "150501": {
+    "id": "150501",
+    "name": "Hogar, plegaria danzada",
+    "rank": 1,
+    "desc": "La PEN de la RES a todos los tipos aumenta en un 20%%. Después de que el maestro zorro ataque, se activa una vez adicional la habilidad de Exultación. La habilidad de Exultación otorga a esta unidad 10 pts. adicionales de ¡Bien hecho!",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank1.png"
+  },
+  "150502": {
+    "id": "150502",
+    "name": "Camino, por el florecer eterno",
+    "rank": 2,
+    "desc": "El Daño CRIT aumenta en un 36%%. Al activar el efecto de obtención de ¡Bien hecho! de los Rastros Alborozo vigilado/Florecimiento inmarcesible, se obtiene respectivamente una cantidad adicional de ¡Bien hecho! equivalente al 50%%/1% del ¡Bien hecho! obtenido en esta ocasión.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank2.png"
+  },
+  "150503": {
+    "id": "150503",
+    "name": "Espada, mal hecho festín",
+    "rank": 3,
+    "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150503",
+        "num": 2
+      },
+      {
+        "id": "150501",
+        "num": 1
+      },
+      {
+        "id": "150520",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1505_ultra.png"
+  },
+  "150504": {
+    "id": "150504",
+    "name": "Prado, despojado por el mal",
+    "rank": 4,
+    "desc": "El daño que inflige Evanescia ignora un 15%% de la DEF del enemigo.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank4.png"
+  },
+  "150505": {
+    "id": "150505",
+    "name": "Arcadia, crisol de emociones",
+    "rank": 5,
+    "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150502",
+        "num": 2
+      },
+      {
+        "id": "150504",
+        "num": 2
+      },
+      {
+        "id": "150520",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1505_bp.png"
+  },
+  "150506": {
+    "id": "150506",
+    "name": "Doncella, la vida en el sueño",
+    "rank": 6,
+    "desc": "La duración de ¡Bien hecho! de Evanescia aumenta en 1 turno. El Daño de Exultación que inflige Evanescia aumenta su gracia en un 15%%. Por cada 100 pts. de ¡Bien hecho! que tenga, aumenta su gracia adicionalmente en un #3[f1]%. Se cuentan un máximo de 1000 pts. Al lanzar la habilidad definitiva por primera vez tras entrar en combate, Evanescia recupera 120 pts. de energía fijos. Este efecto se puede activar una vez tras cada 4 lanzamientos de la habilidad definitiva.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank6.png"
+  },
+  "150601": {
+    "id": "150601",
+    "name": "Edición de éter: Eidolon +1",
+    "rank": 1,
+    "desc": "El daño que reciben los enemigos en el campo aumenta en un 20%%.\nAl salir del estado Jugadora imbatible, el MMR oculto no se restablece, sino que se conserva un 20%% del MMR oculto.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank1.png"
+  },
+  "150602": {
+    "id": "150602",
+    "name": "Es una funcionalidad, no un error",
+    "rank": 2,
+    "desc": "Tras entrar en el estado Jugadora imbatible, prolonga todos sus efectos positivos en 1 turno. Mientras se encuentra en este estado de Jugadora imbatible, cada vez que aumenta su MMR oculto en 120 pts. (incluyendo el MMR oculto inicial), Silver Wolf Niv. 999 obtiene 1 turno adicional y recupera 1 uso del ATQ básico potenciado.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank2.png"
+  },
+  "150603": {
+    "id": "150603",
+    "name": "¿Solo 15 niveles? ¿Quién diseñó esto?",
+    "rank": 3,
+    "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150602",
+        "num": 2
+      },
+      {
+        "id": "150601",
+        "num": 1
+      },
+      {
+        "id": "150620",
+        "num": 1
+      },
+      {
+        "id": "150608",
+        "num": 1
+      },
+      {
+        "id": "150610",
+        "num": 1
+      },
+      {
+        "id": "150612",
+        "num": 1
+      },
+      {
+        "id": "150618",
+        "num": 1
+      },
+      {
+        "id": "150621",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1506_bp.png"
+  },
+  "150604": {
+    "id": "150604",
+    "name": "Vine, vi... y lo derribé a la primera",
+    "rank": 4,
+    "desc": "Los puntos de Chiste que cuenta el Daño de Exultación infligido por Demostración de daño Honkai se multiplican por 5.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank4.png"
+  },
+  "150605": {
+    "id": "150605",
+    "name": "El ATQ básico es la nueva definitiva",
+    "rank": 5,
+    "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150603",
+        "num": 2
+      },
+      {
+        "id": "150604",
+        "num": 2
+      },
+      {
+        "id": "150620",
+        "num": 1
+      },
+      {
+        "id": "150621",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1506_ultra.png"
+  },
+  "150606": {
+    "id": "150606",
+    "name": "¡Solo maxxing!",
+    "rank": 6,
+    "desc": "El Daño de Exultación infligido durante el ATQ básico potenciado aumenta su gracia en un 50%%.\nCuando un enemigo entra en combate, se le implanta Debilidad absoluta: tiene Debilidad a todos los tipos y su RES base a todos los tipos se reduce a 0 (si la RES base es 0, la RES al tipo correspondiente se reduce en un 20%%).",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank6.png"
+  },
   "800101": {
     "id": "800101",
     "name": "Estrellas dispersas",
@@ -9183,6 +9529,328 @@
     "level_up_skills": [],
     "icon": "icon/skill/8007_rank6.png"
   },
+  "800901": {
+    "id": "800901",
+    "name": "Cree en la luz",
+    "rank": 1,
+    "desc": "Después de lanzar la habilidad básica, su siguiente habilidad definitiva aumenta en 2 pts. el ¡Bien hecho! que obtiene el aliado. Este efecto se puede acumular hasta 3 veces.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank1.png"
+  },
+  "800902": {
+    "id": "800902",
+    "name": "Haciendo historia...",
+    "rank": 2,
+    "desc": "La habilidad definitiva además aumenta la Exultación del aliado designado en un 12%% durante 2 turnos.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank2.png"
+  },
+  "800903": {
+    "id": "800903",
+    "name": "Bajo los focos",
+    "rank": 3,
+    "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "800902",
+        "num": 2
+      },
+      {
+        "id": "800904",
+        "num": 2
+      },
+      {
+        "id": "800920",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_bp.png"
+  },
+  "800904": {
+    "id": "800904",
+    "name": "Salvando el mundo porque sí",
+    "rank": 4,
+    "desc": "Al lanzar la habilidad de Exultación, el daño que reciben los enemigos aumenta en un 10%% durante 2 turnos.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank4.png"
+  },
+  "800905": {
+    "id": "800905",
+    "name": "El amor y el valor nunca pasan de moda",
+    "rank": 5,
+    "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "800903",
+        "num": 2
+      },
+      {
+        "id": "800901",
+        "num": 1
+      },
+      {
+        "id": "800920",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_ultra.png"
+  },
+  "800906": {
+    "id": "800906",
+    "name": "¡La leyenda cósmica entra en escena!",
+    "rank": 6,
+    "desc": "Al lanzar la habilidad de Exultación, el Daño CRIT de esta unidad aumenta en un 1% durante 3 turnos.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank6.png"
+  },
+  "801001": {
+    "id": "801001",
+    "name": "Cree en la luz",
+    "rank": 1,
+    "desc": "Después de lanzar la habilidad básica, su siguiente habilidad definitiva aumenta en 2 pts. el ¡Bien hecho! que obtiene el aliado. Este efecto se puede acumular hasta 3 veces.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank1.png"
+  },
+  "801002": {
+    "id": "801002",
+    "name": "Haciendo historia...",
+    "rank": 2,
+    "desc": "La habilidad definitiva además aumenta la Exultación del aliado designado en un 12%% durante 2 turnos.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank2.png"
+  },
+  "801003": {
+    "id": "801003",
+    "name": "Bajo los focos",
+    "rank": 3,
+    "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "801002",
+        "num": 2
+      },
+      {
+        "id": "801004",
+        "num": 2
+      },
+      {
+        "id": "801020",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_bp.png"
+  },
+  "801004": {
+    "id": "801004",
+    "name": "Salvando el mundo porque sí",
+    "rank": 4,
+    "desc": "Al lanzar la habilidad de Exultación, el daño que reciben los enemigos aumenta en un 10%% durante 2 turnos.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank4.png"
+  },
+  "801005": {
+    "id": "801005",
+    "name": "El amor y el valor nunca pasan de moda",
+    "rank": 5,
+    "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "801003",
+        "num": 2
+      },
+      {
+        "id": "801001",
+        "num": 1
+      },
+      {
+        "id": "801020",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_ultra.png"
+  },
+  "801006": {
+    "id": "801006",
+    "name": "¡La leyenda cósmica entra en escena!",
+    "rank": 6,
+    "desc": "Al lanzar la habilidad de Exultación, el Daño CRIT de esta unidad aumenta en un 1% durante 3 turnos.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank6.png"
+  },
+  "1100401": {
+    "id": "1100401",
+    "name": "Legado de honor",
+    "rank": 1,
+    "desc": "Tras lanzar la habilidad básica o la habilidad definitiva y golpear a un objetivo en estado de Ingravidez, inflige 1 vez de forma extra un Daño Imaginario adicional equivalente al 40%% del multiplicador de daño de la habilidad definitiva. Este efecto solo se puede activar 1 vez por cada ataque recibido por cada objetivo.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank1.png"
+  },
+  "1100402": {
+    "id": "1100402",
+    "name": "Fusión de estrellas",
+    "rank": 2,
+    "desc": "Cuando su talento se activa, Welt recupera 3 pts. de energía.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank2.png"
+  },
+  "1100403": {
+    "id": "1100403",
+    "name": "Oración por la paz",
+    "rank": 3,
+    "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1100402",
+        "num": 2
+      },
+      {
+        "id": "1100401",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11004_bp.png"
+  },
+  "1100404": {
+    "id": "1100404",
+    "name": "Apelación por la justicia",
+    "rank": 4,
+    "desc": "La RES a todos los tipos de los enemigos en estado de Ingravidez se reduce en un 30%%.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank4.png"
+  },
+  "1100405": {
+    "id": "1100405",
+    "name": "El poder de la bondad",
+    "rank": 5,
+    "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1100403",
+        "num": 2
+      },
+      {
+        "id": "1100404",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11004_ultra.png"
+  },
+  "1100406": {
+    "id": "1100406",
+    "name": "Perspectivas luminosas",
+    "rank": 6,
+    "desc": "Al lanzar la habilidad básica o la habilidad definitiva y golpear a un enemigo afectado por Ralentización, la Prob. CRIT del daño infligido aumenta en un 30%% y el Daño CRIT aumenta en un 60%%.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank6.png"
+  },
   "1100501": {
     "id": "1100501",
     "name": "Da capo",
@@ -9386,6 +10054,108 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/11006_rank6.png"
+  },
+  "1110201": {
+    "id": "1110201",
+    "name": "Corte total",
+    "rank": 1,
+    "desc": "Cuando inflige daño a un enemigo que tiene un porcentaje de PV igual o inferior al 80%%, la Prob. CRIT aumenta en un 15%% e ignora un 20%% de la DEF del objetivo.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank1.png"
+  },
+  "1110202": {
+    "id": "1110202",
+    "name": "Danza de la mariposa",
+    "rank": 2,
+    "desc": "El efecto de aumento de VEL de la habilidad básica se puede acumular hasta 2 veces.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank2.png"
+  },
+  "1110203": {
+    "id": "1110203",
+    "name": "Confusión",
+    "rank": 3,
+    "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1110202",
+        "num": 2
+      },
+      {
+        "id": "1110204",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11102_bp.png"
+  },
+  "1110204": {
+    "id": "1110204",
+    "name": "Espíritu efímero",
+    "rank": 4,
+    "desc": "Cuando Seele elimina a un enemigo, recupera 15 pts. de energía.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank4.png"
+  },
+  "1110205": {
+    "id": "1110205",
+    "name": "Fragmentos punzantes",
+    "rank": 5,
+    "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1110203",
+        "num": 2
+      },
+      {
+        "id": "1110201",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11102_ultra.png"
+  },
+  "1110206": {
+    "id": "1110206",
+    "name": "Caos destructivo",
+    "rank": 6,
+    "desc": "Tras lanzar la habilidad definitiva, afecta al objetivo con el estado de Mariposa desbocada durante 3 turnos. Después de que un enemigo con Mariposa desbocada sea atacado, recibe una vez de forma adicional un 30%% del daño de habilidad definitiva que inflige esta vez Seele como Daño verdadero. Si cualquier unidad elimina a un enemigo afectado con Mariposa desbocada, también se activa el talento de Seele.\nCuando Seele es derrotada, se disipa el estado de Mariposa desbocada infligido a los enemigos.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank6.png"
   },
   "1120501": {
     "id": "1120501",
@@ -9599,6 +10369,108 @@
     "level_up_skills": [],
     "icon": "icon/skill/11212_rank6.png"
   },
+  "1121701": {
+    "id": "1121701",
+    "name": "Poseída por un heliobus",
+    "rank": 1,
+    "desc": "La duración de Vida sacrificada generada por el talento se prolonga en 1 turno. Cuando Huohuo tiene Vida sacrificada, su curación realizada aumenta en un 20%% y la VEL de todos los aliados aumenta en un 12%%.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank1.png"
+  },
+  "1121702": {
+    "id": "1121702",
+    "name": "Talismanes de jueces y espíritu en la cola",
+    "rank": 2,
+    "desc": "Cuando Huohuo tiene Vida sacrificada, si un aliado recibe un golpe letal no cae derrotado, sino que regenera una cantidad de PV equivalente al 50%% de sus PV máx. y la duración de Vida sacrificada se reduce en 1 turno. Este efecto se puede activar 2 veces en cada batalla.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank2.png"
+  },
+  "1121703": {
+    "id": "1121703",
+    "name": "Cuerpo del mal, polillas a la luz",
+    "rank": 3,
+    "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1121703",
+        "num": 2
+      },
+      {
+        "id": "1121704",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11217_ultra.png"
+  },
+  "1121704": {
+    "id": "1121704",
+    "name": "Siempre juntos y en conflicto",
+    "rank": 4,
+    "desc": "Al curar a un aliado mediante su habilidad básica o el efecto de su talento, la curación realizada de Huohuo aumenta proporcionalmente cuantos menos PV tenga el aliado, hasta un aumento máximo del 80%%.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank4.png"
+  },
+  "1121705": {
+    "id": "1121705",
+    "name": "Somete todo mal, por decreto de los Diez Líderes",
+    "rank": 5,
+    "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1121702",
+        "num": 2
+      },
+      {
+        "id": "1121701",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11217_bp.png"
+  },
+  "1121706": {
+    "id": "1121706",
+    "name": "Objetivo compartido, destino simbiótico",
+    "rank": 6,
+    "desc": "Al curar a un aliado, el daño infligido por el aliado aumenta en un 50%% durante 2 turnos.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank6.png"
+  },
   "1130601": {
     "id": "1130601",
     "name": "Suspensión de la incredulidad",
@@ -9802,5 +10674,115 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/11307_rank6.png"
+  },
+  "1131001": {
+    "id": "1131001",
+    "name": "Dormí plácidamente en la crisálida escarlata",
+    "rank": 1,
+    "desc": "La habilidad básica potenciada ignora un 15%% de la DEF de los objetivos y no consume pts. de habilidad básica.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank1.png"
+  },
+  "1131002": {
+    "id": "1131002",
+    "name": "Me precipito desde el cielo fragmentado",
+    "rank": 2,
+    "desc": "Al lanzar el ATQ básico potenciado o la habilidad básica potenciada en el estado de Combustión completa, si elimina a un enemigo o lo afecta con Ruptura de Debilidad, SAM obtiene inmediatamente 1 turno adicional. Este efecto se puede activar 1 vez por turno, y el contador de activaciones se reinicia cuando comienza el turno de SAM.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank2.png"
+  },
+  "1131003": {
+    "id": "1131003",
+    "name": "Me abandono a los sueños en la galaxia silenciosa",
+    "rank": 3,
+    "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1131002",
+        "num": 2
+      },
+      {
+        "id": "1131001",
+        "num": 1
+      },
+      {
+        "id": "1131009",
+        "num": 2
+      },
+      {
+        "id": "1131008",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11310_bp.png"
+  },
+  "1131004": {
+    "id": "1131004",
+    "name": "Veré la luz de las luciérnagas",
+    "rank": 4,
+    "desc": "En el estado de Combustión completa, la RES a efecto de SAM aumenta en un 50%%.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank4.png"
+  },
+  "1131005": {
+    "id": "1131005",
+    "name": "Me elevo brillante de la larga noche sin sueños",
+    "rank": 5,
+    "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1131003",
+        "num": 2
+      },
+      {
+        "id": "1131004",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11310_ultra.png"
+  },
+  "1131006": {
+    "id": "1131006",
+    "name": "Brillo hacia el mañana aun después de florecer",
+    "rank": 6,
+    "desc": "Cuando SAM está en el estado de Combustión completa, su PEN de la RES a Fuego aumenta en un 20%%. Al usar el ATQ básico potenciado o la habilidad básica potenciada, su eficiencia de la Ruptura de Debilidad aumenta en un 50%%.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank6.png"
   }
 }

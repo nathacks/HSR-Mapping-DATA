@@ -1071,7 +1071,7 @@
     "effect": "Bounce",
     "effect_text": "Rebond",
     "simple_desc": "Inflige des DGT imaginaires mineurs à un ennemi unique. Cette attaque peut rebondir 3 fois et a une chance de ralentir les ennemis touchés.",
-    "desc": "Inflige des DGT imaginaires équivalents à #1[i]% de l'ATQ de Welt à un ennemi désigné et inflige des DGT 2 fois supplémentaires, infligeant à chaque fois des DGT imaginaires équivalents à #1[i]% de l'ATQ de Welt à un ennemi aléatoire. Les attaques qui touchent un ennemi ont #2[i]% de chances de base de réduire sa VIT de #3[i]% pendant #4[i] tours.",
+    "desc": "Inflige des DGT imaginaires équivalents à #1[i]% de l'ATQ de Welt à un ennemi désigné et inflige 2 instances de DGT supplémentaires, chacune infligeant des DGT imaginaires équivalents à #1[i]% de l'ATQ de Welt à un ennemi aléatoire. Les frappes ont #2[i]% de chances de base de réduire de #3[i]% la VIT de la cible ennemie touchée pendant #4[i] tours.",
     "params": [
       [
         0.36,
@@ -14108,7 +14108,7 @@
     "effect": "SingleAttack",
     "effect_text": "Cible unique",
     "simple_desc": "Inflige des DGT de vent mineurs à un ennemi unique.",
-    "desc": "Inflige des DGT de vent équivalents à #1[i]% des PV max de Huohuo à une cible ennemie.",
+    "desc": "Inflige des DGT de vent équivalents à #1[i]% des PV max de Huohuo à un ennemi désigné.",
     "params": [
       [
         0.25
@@ -14153,7 +14153,7 @@
     "effect": "Restore",
     "effect_text": "Restauration",
     "simple_desc": "Dissipe 1 malus d'un allié et restaure des PV à cet allié et aux alliés adjacents.",
-    "desc": "Dissipe #5[i] malus d'une cible alliée unique et lui rend immédiatement un montant de PV équivalent à #1[f1]% des PV max de Huohuo + #2[i]. Restaure également aux alliés adjacents à la cible un montant de PV équivalent à #3[f1]% des PV max de Huohuo + #4[i].",
+    "desc": "Dissipe #5[i] malus d'un allié désigné et lui rend immédiatement un montant de PV équivalent à #1[f1]% des PV max de Huohuo + #2[i]. Restaure également aux alliés adjacents à la cible un montant de PV équivalent à #3[f1]% des PV max de Huohuo + #4[i].",
     "params": [
       [
         0.14,
@@ -16887,7 +16887,7 @@
     "type_text": "Compétence",
     "effect": "Support",
     "effect_text": "Soutien",
-    "simple_desc": "Désigne un allié unique comme « Maître ». Chaque fois que March utilise son ATQ normale ou qu'elle inflige des DGT avec son ATQ normale renforcée, elle déclenche un effet qui correspond à la Voie du Maître :\nÉrudition, Destruction, Chasse, Souvenir : Inflige des DGT additionnels en fonction du type du Maître.\nHarmonie, Nihilité, Préservation, Abondance : Augmente la réduction de robustesse.",
+    "simple_desc": "Désigne un allié unique comme « Maître ». Chaque fois que March utilise son ATQ normale ou qu'elle inflige des DGT avec son ATQ normale renforcée, elle déclenche un effet qui correspond à la Voie du Maître :\nÉrudition, Destruction, Chasse, Souvenir, Allégresse : Inflige des DGT additionnels en fonction du type du Maître.\nHarmonie, Nihilité, Préservation, Abondance : Augmente la réduction de robustesse.",
     "desc": "Désigne un allié (à l'exception de ce personnage) comme Maître et augmente sa VIT de #1[f1]%. Seule la dernière cible de la compétence de March 7th est considérée comme son « Maître ».\nChaque fois que March 7th utilise son ATQ normale ou qu'elle inflige des DGT avec 1 frappe de son ATQ normale renforcée, elle déclenche l'effet correspondant en fonction de la Voie du Maître présent sur le champ de bataille :\nL'Érudition, La Destruction, La Chasse, Le Souvenir, L'Allégresse : Inflige des DGT additionnels (du type du Maître) équivalents à #2[i]% de l'ATQ de March 7th.\nL'Harmonie, La Nihilité, La Préservation, L'Abondance : Augmente la réduction de robustesse de cette instance de DGT de #3[i]%.",
     "params": [
       [
@@ -21525,7 +21525,7 @@
     "effect": "SingleAttack",
     "effect_text": "Cible unique",
     "simple_desc": "Consomme une partie des PV du personnage pour régénérer des points d'énergie, inflige des DGT de feu à un ennemi unique et avance la prochaine action du personnage.",
-    "desc": "Consomme un montant de PV équivalent à #2[i]% des PV max du personnage pour régénérer un montant fixe d'énergie équivalent à #3[i]% de son énergie max. Inflige des DGT de feu équivalents à #1[i]% de son ATQ à un ennemi désigné. Si les PV actuels du personnage ne sont pas suffisants, ils sont réduits à 1 après utilisation de la compétence. Avance la prochaine action du personnage de #4[i]%.",
+    "desc": "Consomme un montant de PV équivalent à #2[i]% des PV max du personnage pour régénérer un montant fixe d'énergie équivalent à #3[i]% de son énergie max. Inflige des DGT de feu équivalents à #1[i]% de son ATQ à un ennemi désigné. Si les PV actuels du personnage ne sont pas suffisants, ils sont réduits à 1 lors de l'utilisation de la compétence. Avance la prochaine action du personnage de #4[i]%.",
     "params": [
       [
         1,
@@ -32594,8 +32594,8 @@
     "type_text": "Ultime",
     "effect": "Support",
     "effect_text": "Soutien",
-    "simple_desc": "Accorde du Panache. Aha obtient immédiatement 1 tour supplémentaire avec une montant fixe de Panache comptabilisé, et augmente la PÉN de RÉS à tous les types de tous les alliés.",
-    "desc": "Accorde #1[i] points de Panache. Aha obtient immédiatement 1 tour supplémentaire comptabilisé comme un montant fixe de #4[i] points de Panache. Ce tour ne consomme aucun point de Panache et augmente la PÉN de RÉS à tous les types de tous les alliés de #2[f1]% pendant #3[i] tours.",
+    "simple_desc": "Accorde du Panache. Aha obtient immédiatement 1 tour supplémentaire avec un montant fixe de Panache comptabilisé, et augmente la PÉN de RÉS à tous les types de tous les alliés.",
+    "desc": "Accorde #1[i] points de Panache. Aha obtient immédiatement 1 tour supplémentaire d'un montant fixe de #4[i] points de Panache comptabilisés. Ce tour ne consomme aucun point de Panache et augmente la PÉN de RÉS à tous les types de tous les alliés de #2[f1]% pendant #3[i] tours.",
     "params": [
       [
         5,
@@ -32714,7 +32714,7 @@
     "type_text": "Talent",
     "effect": "Support",
     "effect_text": "Soutien",
-    "simple_desc": "Lorsque Yao Guang bénéficie de Banger absolu, active l'effet Belle aubaine après l'attaque d'une cible alliée, infligeant 1 instance supplémentaire de comidégâts mineurs du type correspondant à 1 cible touchée aléatoire. Si des points de compétence sont consommés lors de cette attaque, déclenche l'effet Belle aubaine 1 fois supplémentaire. Cet effet n'est pas considéré comme une attaque.",
+    "simple_desc": "Lorsque Yao Guang bénéficie de Banger absolu, active l'effet Belle aubaine après l'attaque d'une cible alliée, infligeant également 1 instance de comidégâts mineurs du type correspondant à 1 cible touchée aléatoire. Si des points de compétence sont consommés lors de cette attaque, déclenche l'effet Belle aubaine 1 fois supplémentaire. Cet effet n'est pas considéré comme une attaque.",
     "desc": "Lorsque Yao Guang bénéficie de Banger absolu:\nAprès qu'une cible alliée a utilisé une attaque, active l'effet Belle aubaine, infligeant 1 instance supplémentaire de #1[f1]% de comidégâts du type correspondant à une cible aléatoire touchée. Si des points de compétence sont consommés lors de cette attaque, active Belle aubaine 1 fois supplémentaire.\nLors de l'activation de l'effet Belle aubaine, si l'Allégresse de l'assaillant est inférieure à celle de Yao Guang, cette instance de comidégâts est calculée en fonction de l'Allégresse de Yao Guang.\nL'activation de l'effet Belle aubaine n'est pas considérée comme une attaque.",
     "params": [
       [
@@ -32931,6 +32931,1759 @@
       ]
     ],
     "icon": "icon/skill/1502_Elation.png"
+  },
+  "150401": {
+    "id": "150401",
+    "name": "Griffes sorties, la bienséance est sauve",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT de foudre mineurs à un ennemi désigné.",
+    "desc": "Inflige des DGT de foudre équivalents à #1[i]% de l'ATQ d'Ashveil à un ennemi désigné.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1504_basic_atk.png"
+  },
+  "150402": {
+    "id": "150402",
+    "name": "Fouet du châtiment",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Marque une cible ennemie désignée comme Appât, et lui inflige des DGT de foudre massifs. Si la cible est déjà marquée comme Appât, lui inflige des DGT de foudre mineurs supplémentaires et accorde #5[i] point de compétence. Lorsqu'un Appât est présent sur le champ de bataille, réduit la DÉF de tous les ennemis.",
+    "desc": "Marque une cible ennemie désignée comme Appât, et lui inflige des DGT de foudre équivalents à #1[i]% de l'ATQ d'Ashveil. Si la cible est déjà marquée comme Appât, lui inflige des DGT de foudre supplémentaires équivalents à #3[i]% de l'ATQ d'Ashveil, et accorde #5[i] point de compétence. Lorsqu'un Appât est présent sur le champ de bataille, la DÉF de tous les ennemis est réduite de #4[i]%.\nLorsqu'aucun Appât n'est présent sur le champ de bataille, Ashveil marque immédiatement la cible ennemie ayant le moins de PV actuels sur le champ de bataille comme Appât. L'état Appât s'applique uniquement à la cible la plus récemment marquée.",
+    "params": [
+      [
+        1,
+        1,
+        0.5,
+        0.2,
+        1
+      ],
+      [
+        1.1,
+        1,
+        0.55,
+        0.22,
+        1
+      ],
+      [
+        1.2,
+        1,
+        0.6,
+        0.24,
+        1
+      ],
+      [
+        1.3,
+        1,
+        0.65,
+        0.26,
+        1
+      ],
+      [
+        1.4,
+        1,
+        0.7,
+        0.28,
+        1
+      ],
+      [
+        1.5,
+        1,
+        0.75,
+        0.3,
+        1
+      ],
+      [
+        1.625,
+        1,
+        0.8125,
+        0.325,
+        1
+      ],
+      [
+        1.75,
+        1,
+        0.875,
+        0.35,
+        1
+      ],
+      [
+        1.875,
+        1,
+        0.9375,
+        0.375,
+        1
+      ],
+      [
+        2,
+        1,
+        1,
+        0.4,
+        1
+      ],
+      [
+        2.1,
+        1,
+        1.05,
+        0.42,
+        1
+      ],
+      [
+        2.2,
+        1,
+        1.1,
+        0.44,
+        1
+      ],
+      [
+        2.3,
+        1,
+        1.15,
+        0.46,
+        1
+      ],
+      [
+        2.4,
+        1,
+        1.2,
+        0.48,
+        1
+      ],
+      [
+        2.5,
+        1,
+        1.25,
+        0.5,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1504_skill.png"
+  },
+  "150403": {
+    "id": "150403",
+    "name": "Banquet de l'insatiable appétit",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "Ultra",
+    "type_text": "Ultime",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Marque une cible ennemie désignée comme Appât, et lui inflige des DGT de foudre massifs. Ensuite, lui inflige immédiatement 1 fois l'ATQ de suivi renforcée du talent, et Ashveil obtient de la charge.\nCette ATQ de suivi renforcée du talent ne consomme pas de charge. Lorsqu'Ashveil bénéficie d'au moins #3[i] cumuls de Gourmandise, consomme #3[i] cumuls de Gourmandise pour infliger des DGT de foudre massifs supplémentaires. Si cette instance d'ATQ de suivi inflige un coup fatal à une cible, Ashveil continuera d'infliger des DGT à un nouvel Appât jusqu'à ce que le nombre de cumuls de Gourmandise soit inférieur à #3[i].",
+    "desc": "Marque une cible ennemie désignée comme Appât, et lui inflige des DGT de foudre équivalents à #1[i]% de l'ATQ d'Ashveil. Ensuite, lui inflige immédiatement 1 fois l'ATQ de suivi renforcée du talent, et Ashveil obtient #2[i] points de charge.\nCette ATQ de suivi renforcée du talent ne consomme pas de charge. Lorsqu'Ashveil bénéficie d'au moins #3[i] cumuls de Gourmandise, consomme #3[i] cumuls de Gourmandise pour infliger 1 instance de DGT de foudre équivalents à #4[i]% de l'ATQ d'Ashveil. Si cette instance d'ATQ de suivi inflige un coup fatal à une cible, Ashveil continuera d'infliger des DGT à un nouvel Appât jusqu'à ce que le nombre de cumuls de Gourmandise soit inférieur à #3[i]. Si tous les ennemis actuellement sur le champ de bataille ont subi un coup fatal, l'ATQ de suivi renforcée du talent prend fin immédiatement.",
+    "params": [
+      [
+        2,
+        3,
+        4,
+        1
+      ],
+      [
+        2.2,
+        3,
+        4,
+        1.1
+      ],
+      [
+        2.4,
+        3,
+        4,
+        1.2
+      ],
+      [
+        2.6,
+        3,
+        4,
+        1.3
+      ],
+      [
+        2.8,
+        3,
+        4,
+        1.4
+      ],
+      [
+        3,
+        3,
+        4,
+        1.5
+      ],
+      [
+        3.25,
+        3,
+        4,
+        1.625
+      ],
+      [
+        3.5,
+        3,
+        4,
+        1.75
+      ],
+      [
+        3.75,
+        3,
+        4,
+        1.875
+      ],
+      [
+        4,
+        3,
+        4,
+        2
+      ],
+      [
+        4.2,
+        3,
+        4,
+        2.1
+      ],
+      [
+        4.4,
+        3,
+        4,
+        2.2
+      ],
+      [
+        4.6,
+        3,
+        4,
+        2.3
+      ],
+      [
+        4.8,
+        3,
+        4,
+        2.4
+      ],
+      [
+        5,
+        3,
+        4,
+        2.5
+      ]
+    ],
+    "icon": "icon/skill/1504_ultimate.png"
+  },
+  "150404": {
+    "id": "150404",
+    "name": "Rancœur des représailles",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Après que l'Appât a été attaqué par une autre cible alliée, Ashveil régénère un montant fixe d'énergie, puis consomme une charge pour lancer contre l'Appât une ATQ de suivi qui inflige des DGT de foudre massifs et obtient #5[i] cumuls de Gourmandise.",
+    "desc": "Ashveil commence avec #1[i] points de charge, jusqu'à un maximum de #2[i] points de charge. Lorsque l'Appât est attaqué par une autre cible alliée, Ashveil régénère un montant fixe de #7[i] points d'énergie, puis consomme #3[i] point de charge pour lancer une ATQ de suivi contre l'Appât, ce qui lui inflige des DGT de foudre équivalents à #4[i]% de l'ATQ d'Ashveil, et accorde ensuite #5[i] cumuls de Gourmandise, jusqu'à un maximum de #6[i] cumuls.",
+    "params": [
+      [
+        2,
+        3,
+        1,
+        1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.3,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.4,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.5,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.625,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.75,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.875,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.3,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.4,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.5,
+        2,
+        12,
+        8
+      ]
+    ],
+    "icon": "icon/skill/1504_talent.png"
+  },
+  "150406": {
+    "id": "150406",
+    "name": "Griffes sorties, la bienséance est sauve",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "params": [],
+    "icon": "icon/skill/1504_basic_atk.png"
+  },
+  "150407": {
+    "id": "150407",
+    "name": "Main abjecte, nourris-toi",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technique",
+    "effect": "Impair",
+    "effect_text": "Incapacitation",
+    "simple_desc": "Applique Hébété aux ennemis situés dans une zone définie. Engager le combat en attaquant un ennemi hébété inflige des DGT de foudre mineurs à tous les ennemis, et accorde #3[i] point de charge à Ashveil.",
+    "desc": "Après avoir utilisé la technique, applique Hébété aux ennemis situés dans une zone définie pour une durée de #1[i] secondes. Les ennemis hébétés n'attaquent pas activement les cibles alliées.\nEngager le combat en attaquant un ennemi hébété inflige des DGT de foudre équivalents à #2[i]% de l'ATQ d'Ashveil à tous les ennemis, et accorde #3[i] point de charge à Ashveil.",
+    "params": [
+      [
+        10,
+        1,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1504_technique.png"
+  },
+  "150501": {
+    "id": "150501",
+    "name": "Contrôle : Interro surprise",
+    "max_level": 10,
+    "element": "Physical",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT physiques mineurs à un ennemi désigné.",
+    "desc": "Inflige des DGT physiques équivalents à #1[i]% de l'ATQ d'Evanescia à un ennemi désigné.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1505_basic_atk.png"
+  },
+  "150502": {
+    "id": "150502",
+    "name": "Discipline : Verdict final",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "Blast",
+    "effect_text": "Propagation",
+    "simple_desc": "Inflige des DGT physiques massifs à un ennemi unique et des DGT physiques aux cibles adjacentes. Accorde du Panache supplémentaire.",
+    "desc": "Inflige des DGT physiques équivalents à #2[i]% de l'ATQ d'Evanescia à une cible ennemie désignée et des DGT physiques équivalents à #3[i]% de l'ATQ d'Evanescia aux cibles adjacentes. Accorde également #4[i] points de Panache supplémentaires.",
+    "params": [
+      [
+        1,
+        1.5,
+        0.75,
+        10
+      ],
+      [
+        1,
+        1.65,
+        0.825,
+        10
+      ],
+      [
+        1,
+        1.8,
+        0.9,
+        10
+      ],
+      [
+        1,
+        1.95,
+        0.975,
+        10
+      ],
+      [
+        1,
+        2.1,
+        1.05,
+        10
+      ],
+      [
+        1,
+        2.25,
+        1.125,
+        10
+      ],
+      [
+        1,
+        2.4375,
+        1.21875,
+        10
+      ],
+      [
+        1,
+        2.625,
+        1.3125,
+        10
+      ],
+      [
+        1,
+        2.8125,
+        1.40625,
+        10
+      ],
+      [
+        1,
+        3,
+        1.5,
+        10
+      ],
+      [
+        1,
+        3.15,
+        1.575,
+        10
+      ],
+      [
+        1,
+        3.3,
+        1.65,
+        10
+      ],
+      [
+        1,
+        3.45,
+        1.725,
+        10
+      ],
+      [
+        1,
+        3.6,
+        1.8,
+        10
+      ],
+      [
+        1,
+        3.75,
+        1.875,
+        10
+      ]
+    ],
+    "icon": "icon/skill/1505_skill.png"
+  },
+  "150503": {
+    "id": "150503",
+    "name": "Chante-lame : Absolution refusée",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "Ultra",
+    "type_text": "Ultime",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige des DGT physiques à tous les ennemis, puis inflige des DGT physiques à un ennemi aléatoire. Rebondit un total de 5 fois.",
+    "desc": "Inflige des DGT physiques équivalents à #1[i]% de l'ATQ d'Evanescia à tous les ennemis. Inflige ensuite 5 instances de DGT, chacune infligeant des DGT physiques équivalents à #3[i]% de l'ATQ d'Evanescia à un ennemi aléatoire.",
+    "params": [
+      [
+        0.8,
+        5,
+        0.72,
+        88
+      ],
+      [
+        0.88,
+        5,
+        0.768,
+        88
+      ],
+      [
+        0.96,
+        5,
+        0.816,
+        88
+      ],
+      [
+        1.04,
+        5,
+        0.864,
+        88
+      ],
+      [
+        1.12,
+        5,
+        0.912,
+        88
+      ],
+      [
+        1.2,
+        5,
+        0.96,
+        88
+      ],
+      [
+        1.3,
+        5,
+        1.02,
+        88
+      ],
+      [
+        1.4,
+        5,
+        1.08,
+        88
+      ],
+      [
+        1.5,
+        5,
+        1.14,
+        88
+      ],
+      [
+        1.6,
+        5,
+        1.2,
+        88
+      ],
+      [
+        1.68,
+        5,
+        1.248,
+        88
+      ],
+      [
+        1.76,
+        5,
+        1.296,
+        88
+      ],
+      [
+        1.84,
+        5,
+        1.344,
+        88
+      ],
+      [
+        1.92,
+        5,
+        1.392,
+        88
+      ],
+      [
+        2,
+        5,
+        1.44,
+        88
+      ]
+    ],
+    "icon": "icon/skill/1505_ultimate.png"
+  },
+  "150504": {
+    "id": "150504",
+    "name": "Jouvence : Sérénité éternelle",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Lorsqu'Evanescia régénère des points d'énergie, elle obtient simultanément un montant équivalent de Banger absolu, et lorsqu'Evanescia obtient des points de Banger absolu, elle régénère simultanément un montant équivalent de points d'énergie. Lorsque l'énergie accumulée atteint un certain montant, Maître renard lance une ATQ de suivi pour infliger des DGT physiques à tous les ennemis et régénère des points d'énergie pour Evanescia. Lorsqu'Evanescia bénéficie de Banger absolu, utiliser la compétence, l'ultime ou l'ATQ de suivi de Maître renard inflige des comidégâts physiques mineurs aux ennemis.",
+    "desc": "Evanescia obtient une quantité d'Allégresse équivalente à #5[i]% de ses DGT critiques. Lorsqu'Evanescia régénère des points d'énergie, elle obtient simultanément une quantité équivalente de Banger absolu, et lorsqu'Evanescia obtient des points de Banger absolu, elle régénère simultanément une quantité équivalente de points d'énergie. La quantité de Banger absolu comptabilisée via cette méthode ne peut pas excéder 100 points à la fois.\nLorsque l'énergie accumulée atteint #3[i] points, consomme #3[i] points de la valeur accumulée et Maître renard lance une ATQ de suivi qui inflige des DGT physiques équivalents à #1[i]% de l'ATQ d'Evanescia à tous les ennemis et régénère #4[i] points d'énergie pour Evanescia. Chaque fois qu'Evanescia régénère de l'énergie, elle peut obtenir jusqu'à #3[i] points de la valeur accumulée. Lorsqu'Evanescia bénéficie de Banger absolu :\nL'utilisation de la compétence inflige #7[f1]% de comidégâts physiques à la cible ennemie attaquée.\nL'utilisation de l'ultime inflige #6[i]%  de comidégâts physiques à tous les ennemis et #8[i]% de comidégâts physiques à une cible ennemie aléatoire touchée par l'ultime. Lorsque l'ultime inflige des comidégâts, le Banger absolu comptabilisé est au minimum égal à l'énergie max.\nL'ATQ de suivi de Maître renard inflige #2[i]% de comidégâts physiques à tous les ennemis.",
+    "params": [
+      [
+        0.5,
+        0.125,
+        240,
+        10,
+        0.2,
+        0.12,
+        0.08,
+        0.14
+      ],
+      [
+        0.55,
+        0.1375,
+        240,
+        10,
+        0.2,
+        0.132,
+        0.088,
+        0.154
+      ],
+      [
+        0.6,
+        0.15,
+        240,
+        10,
+        0.2,
+        0.144,
+        0.096,
+        0.168
+      ],
+      [
+        0.65,
+        0.1625,
+        240,
+        10,
+        0.2,
+        0.156,
+        0.104,
+        0.182
+      ],
+      [
+        0.7,
+        0.175,
+        240,
+        10,
+        0.2,
+        0.168,
+        0.112,
+        0.196
+      ],
+      [
+        0.75,
+        0.1875,
+        240,
+        10,
+        0.2,
+        0.18,
+        0.12,
+        0.21
+      ],
+      [
+        0.8125,
+        0.203125,
+        240,
+        10,
+        0.2,
+        0.195,
+        0.13,
+        0.2275
+      ],
+      [
+        0.875,
+        0.21875,
+        240,
+        10,
+        0.2,
+        0.21,
+        0.14,
+        0.245
+      ],
+      [
+        0.9375,
+        0.234375,
+        240,
+        10,
+        0.2,
+        0.225,
+        0.15,
+        0.2625
+      ],
+      [
+        1,
+        0.25,
+        240,
+        10,
+        0.2,
+        0.24,
+        0.16,
+        0.28
+      ],
+      [
+        1.05,
+        0.2625,
+        240,
+        10,
+        0.2,
+        0.252,
+        0.168,
+        0.294
+      ],
+      [
+        1.1,
+        0.275,
+        240,
+        10,
+        0.2,
+        0.264,
+        0.176,
+        0.308
+      ],
+      [
+        1.15,
+        0.2875,
+        240,
+        10,
+        0.2,
+        0.276,
+        0.184,
+        0.322
+      ],
+      [
+        1.2,
+        0.3,
+        240,
+        10,
+        0.2,
+        0.288,
+        0.192,
+        0.336
+      ],
+      [
+        1.25,
+        0.3125,
+        240,
+        10,
+        0.2,
+        0.3,
+        0.2,
+        0.35
+      ]
+    ],
+    "icon": "icon/skill/1505_talent.png"
+  },
+  "150506": {
+    "id": "150506",
+    "name": "Attaque",
+    "max_level": 1,
+    "element": "Physical",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "params": [],
+    "icon": "icon/skill/1505_basic_atk.png"
+  },
+  "150507": {
+    "id": "150507",
+    "name": "Pluie de pétales : Souvenirs floraux",
+    "max_level": 1,
+    "element": "Physical",
+    "type": "Maze",
+    "type_text": "Technique",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Attaque immédiatement tous les ennemis dans une zone définie. Une fois le combat engagé, inflige des DGT physiques mineurs à tous les ennemis et obtient Banger absolu.",
+    "desc": "Attaque immédiatement tous les ennemis dans une zone définie. Après être entré en combat, inflige des DGT physiques équivalents à #1[i]% de l'ATQ d'Evanescia à tous les ennemis et obtient #2[i] points de Banger absolu.",
+    "params": [
+      [
+        1,
+        20
+      ]
+    ],
+    "icon": "icon/skill/1505_technique.png"
+  },
+  "150510": {
+    "id": "150510",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1205_Ultra_on.png"
+  },
+  "150512": {
+    "id": "150512",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "Blast",
+    "effect_text": "Propagation",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1112_Ultra_on.png"
+  },
+  "150518": {
+    "id": "150518",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1212_Ultra_on.png"
+  },
+  "150520": {
+    "id": "150520",
+    "name": "Écarlate : Allégresse ou exécution",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "ElationDamage",
+    "type_text": "Comicompétence",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige des comidégâts physiques massifs à tous les ennemis et accorde également du Banger absolu.",
+    "desc": "Inflige #2[i]% de comidégâts physiques à tous les ennemis et accorde également #1[i] points de Banger absolu.",
+    "params": [
+      [
+        5,
+        0.55
+      ],
+      [
+        5,
+        0.605
+      ],
+      [
+        5,
+        0.66
+      ],
+      [
+        5,
+        0.715
+      ],
+      [
+        5,
+        0.77
+      ],
+      [
+        5,
+        0.825
+      ],
+      [
+        5,
+        0.89375
+      ],
+      [
+        5,
+        0.9625
+      ],
+      [
+        5,
+        1.03125
+      ],
+      [
+        5,
+        1.1
+      ],
+      [
+        5,
+        1.155
+      ],
+      [
+        5,
+        1.21
+      ],
+      [
+        5,
+        1.265
+      ],
+      [
+        5,
+        1.32
+      ],
+      [
+        5,
+        1.375
+      ]
+    ],
+    "icon": "icon/skill/1505_Elation.png"
+  },
+  "150601": {
+    "id": "150601",
+    "name": "Un poing, c'est tout !",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT imaginaires mineurs à un ennemi désigné.",
+    "desc": "Inflige des DGT imaginaires équivalents à #1[i]% de l'ATQ de Louve d'argent Niv. 999 à un ennemi désigné.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1506_basic_atk.png"
+  },
+  "150602": {
+    "id": "150602",
+    "name": "Piou piou piou !",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Accorde du Panache. Inflige des DGT imaginaires à tous les ennemis.",
+    "desc": "Accorde #2[i] points de Panache et inflige des DGT imaginaires équivalents à #1[i]% de l'ATQ de Louve d'argent Niv. 999 à tous les ennemis.",
+    "params": [
+      [
+        0.8,
+        5
+      ],
+      [
+        0.88,
+        5
+      ],
+      [
+        0.96,
+        5
+      ],
+      [
+        1.04,
+        5
+      ],
+      [
+        1.12,
+        5
+      ],
+      [
+        1.2,
+        5
+      ],
+      [
+        1.3,
+        5
+      ],
+      [
+        1.4,
+        5
+      ],
+      [
+        1.5,
+        5
+      ],
+      [
+        1.6,
+        5
+      ],
+      [
+        1.68,
+        5
+      ],
+      [
+        1.76,
+        5
+      ],
+      [
+        1.84,
+        5
+      ],
+      [
+        1.92,
+        5
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "icon": "icon/skill/1506_skill.png"
+  },
+  "150603": {
+    "id": "150603",
+    "name": "Mode MVP activé !",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultime",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Se transforme et avance l'action de 100 %.\nAu cours de la transformation, déploie une zone. Lorsque le personnage bénéficie de Banger absolu, à chaque fois qu'un allié consomme 1 point de compétence, il y a de fortes chances de déclencher 1 Butin légendaire, ce qui inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et déclenche aléatoirement 1 des effets suivants :\nInflige des DGT réels à la cible ayant le plus de PV en fonction du total de DGT infligés.\nAccorde des points de compétence.\nAccorde du Panache.\nLes chances de déclenchement diminuent proportionnellement après chaque déclenchement.",
+    "desc": "Entre dans l'état MVP incontestée et avance l'action de 100 %.\nDans l'état MVP incontestée, déploie une zone. Lorsque Louve d'argent Niv. 999 bénéficie de Banger absolu, chaque fois qu'une cible alliée dans la zone consomme 1 point de compétence, il y a une chance de déclencher Butin légendaire 1 fois, ce qui inflige #3[i]% de comidégâts imaginaires répartis équitablement entre tous les ennemis et déclenche aléatoirement 1 des effets suivants :\nGiga épée qui tue : inflige des DGT réels supplémentaires équivalents à #5[i]% du total des DGT infligés à la cible ennemie ayant le plus de PV.\nBomb'œuf : accorde #7[i] points de compétence aux alliés.\nBiz'haricot : accorde #6[i] points de Panache.\nLes chances fixes initiales de déclencher cet effet sont de 100 %. Après avoir déclenché cet effet avec succès, les chances fixes du déclenchement suivant sont réduites à #4[i]% des chances actuelles. Si la cible est éliminée avant le déclenchement, cet effet se déclenche sur une cible ennemie qui entre en combat.",
+    "params": [
+      [
+        60,
+        0,
+        0.45,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.495,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.54,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.585,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.63,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.675,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.73125,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.7875,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.84375,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.9,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.945,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.99,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.035,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.08,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.125,
+        0.2,
+        0.2,
+        3,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1506_ultimate.png"
+  },
+  "150604": {
+    "id": "150604",
+    "name": "Hard carry",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Atteindre #1[i] points de Score caché permet d'activer l'ultime. Lorsque Louve d'argent Niv. 999 obtient du Panache, elle obtient un montant équivalent de Score caché. Plus le Score caché est élevé, plus les chances de coup critique sont élevées. Une fois les chances de coup critique à 100 %, le Score caché augmente les DGT critiques à la place.\nLors de la transformation, Louve d'argent Niv. 999 bénéficie d'une immunité aux malus de contrôle, et son ATQ normale ainsi que sa comicompétence sont renforcées. Elle quitte l'état de transformation après avoir utilisé son ATQ normale renforcée #5[i] fois.\nLorsque Louve d'argent Niv. 999 bénéficie de Banger absolu, utiliser l'ATQ normale ou la compétence inflige également des comidégâts imaginaires, et les DGT de capacité de l'ATQ normale renforcée sont convertis en comidégâts.",
+    "desc": "Atteindre #1[i] points de Score caché permet d'activer l'ultime. L'excédent possible de Score caché est de #2[i] points.\nLorsqu'elle obtient du Panache, accorde un montant équivalent de Score caché à Louve d'argent Niv. 999. Chaque point de Score caché augmente les chances de coup critique de #4[f2]%. Une fois les chances de coup critique à 100 %, chaque point de Score caché supplémentaire augmente les DGT critiques de #6[f2]% à la place.\nDans l'état MVP incontestée, Louve d'argent Niv. 999 bénéficie d'une immunité aux malus de contrôle, ne peut pas utiliser l'ultime, et dispose d'une ATQ normale renforcée et d'une comicompétence renforcée. Après avoir utilisé l'ATQ normale renforcée #5[i] fois, elle quitte l'état MVP incontestée. En quittant l'état MVP incontestée, le Score caché est réinitialisé.\nLorsqu'elle bénéficie de Banger absolu, l'utilisation de l'ATQ normale ou de la compétence inflige #3[i]% de comidégâts imaginaires à la cible ennemie attaquée. Les DGT de capacité de l'ATQ normale renforcée sont convertis en comidégâts avec le même multiplicateur.",
+    "params": [
+      [
+        60,
+        240,
+        0.2,
+        0.0019999999,
+        3,
+        0.0039999997
+      ],
+      [
+        60,
+        240,
+        0.22,
+        0.0022,
+        3,
+        0.0044
+      ],
+      [
+        60,
+        240,
+        0.24,
+        0.0024,
+        3,
+        0.0048
+      ],
+      [
+        60,
+        240,
+        0.26,
+        0.0026000002,
+        3,
+        0.0051999995
+      ],
+      [
+        60,
+        240,
+        0.28,
+        0.0028000004,
+        3,
+        0.0056
+      ],
+      [
+        60,
+        240,
+        0.3,
+        0.0029999998,
+        3,
+        0.0059999996
+      ],
+      [
+        60,
+        240,
+        0.325,
+        0.0032500003,
+        3,
+        0.0065
+      ],
+      [
+        60,
+        240,
+        0.35,
+        0.0035,
+        3,
+        0.0069999993
+      ],
+      [
+        60,
+        240,
+        0.375,
+        0.0037500006,
+        3,
+        0.0075
+      ],
+      [
+        60,
+        240,
+        0.4,
+        0.0039999997,
+        3,
+        0.007999999
+      ],
+      [
+        60,
+        240,
+        0.42,
+        0.0042,
+        3,
+        0.0084
+      ],
+      [
+        60,
+        240,
+        0.44,
+        0.0044,
+        3,
+        0.0088
+      ],
+      [
+        60,
+        240,
+        0.46,
+        0.0046,
+        3,
+        0.009199999
+      ],
+      [
+        60,
+        240,
+        0.48,
+        0.0048,
+        3,
+        0.0095999995
+      ],
+      [
+        60,
+        240,
+        0.5,
+        0.005,
+        3,
+        0.01
+      ]
+    ],
+    "icon": "icon/skill/1506_talent.png"
+  },
+  "150606": {
+    "id": "150606",
+    "name": "Attaque",
+    "max_level": 1,
+    "element": "Imaginary",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "params": [],
+    "icon": "icon/skill/1506_basic_atk.png"
+  },
+  "150607": {
+    "id": "150607",
+    "name": "Ça, c'est meta !",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technique",
+    "effect": "Summon",
+    "effect_text": "Invocation",
+    "simple_desc": "Invoque le Biz'haricot. Utiliser à nouveau la technique le renvoie. L'utilisation de cette technique ne consomme pas de points de technique.\nLe Biz'haricot attaque automatiquement les ennemis normaux, et consomme 1 point de technique pour les éliminer instantanément sans entrer en combat.\nAprès être entré en combat, déclenche le Butin légendaire correspondant au Biz'haricot au début de chaque vague.",
+    "desc": "Invoque le Biz'haricot. Utiliser cette capacité à nouveau le renvoie. L'utilisation de la technique ne consomme pas de points de technique. Lorsque les points de technique tombent à 0, l'invocation est renvoyée et la technique ne peut plus être utilisée.\nLe Biz'haricot applique Terrifié aux ennemis normaux dans une zone définie. Il attaque automatiquement les ennemis normaux et consomme 1 point de technique pour les éliminer instantanément sans entrer en combat.\nAprès être entré en combat alors que le Biz'haricot est invoqué, 1 Butin légendaire correspondant au Biz'haricot est déclenché au début de chaque vague. Les comidégâts infligés lors de cette instance comptabilisent une quantité fixe de #1[i] points de Banger absolu.",
+    "params": [
+      [
+        99
+      ]
+    ],
+    "icon": "icon/skill/1506_technique.png"
+  },
+  "150608": {
+    "id": "150608",
+    "name": "Niveau bonus : Mode Louve αlpha",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "Bounce",
+    "effect_text": "Rebond",
+    "simple_desc": "Inflige des DGT imaginaires avec un grand nombre de rebonds, au cours desquels Butin légendaire peut se déclencher #5[i] fois. Si un coup fatal est infligé à tous les ennemis, l'effet restant est conservé et continue de s'appliquer aux cibles ennemies qui entrent en combat. Enfin, inflige des DGT imaginaires répartis équitablement entre tous les ennemis.\nChaque fois que le Score caché atteint un certain nombre de points, les DGT de l'ATQ normale renforcée augmentent.",
+    "desc": "Inflige des DGT imaginaires équivalents à #1[i]% de l'ATQ de Louve d'argent Niv. 999, répartis équitablement en #3[i] rebonds frappant des ennemis uniques aléatoires. Après un certain nombre de rebonds, la série s'interrompt et Butin légendaire se déclenche 1 fois, pour un total de #5[i] déclenchements.\nSi tous les ennemis sur le champ de bataille subissent un coup fatal, cette capacité prend fin. Après l'apparition de cibles ennemies à attaquer, accorde 1 tour supplémentaire et utilise à nouveau cette capacité en fonction des rebonds et des déclenchements de Butin légendaire restants. La première fois que cet effet se déclenche par tour, prolonge la durée de tous les bonus de cette unité de 1 tour.\nAprès avoir infligé tous les DGT ci-dessus, déclenche une frappe finale qui inflige des DGT imaginaires équivalents à #4[i]% de l'ATQ de Louve d'argent Niv. 999, répartis équitablement entre tous les ennemis.\nL'ATQ normale renforcée ne permet pas de récupérer de points de compétence. Pour chaque tranche de #6[i] points de Score caché, augmente les DGT infligés lors de l'ATQ normale renforcée d'un montant équivalent à #8[i]% des DGT initiaux. Cet effet est cumulable jusqu'à #7[i] fois.",
+    "params": [
+      [
+        1.2,
+        0,
+        100,
+        0.5,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.44,
+        0,
+        100,
+        0.6,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.68,
+        0,
+        100,
+        0.7,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.92,
+        0,
+        100,
+        0.8,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.16,
+        0,
+        100,
+        0.9,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.4,
+        0,
+        100,
+        1,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.64,
+        0,
+        100,
+        1.1,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.88,
+        0,
+        100,
+        1.2,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        3.12,
+        0,
+        100,
+        1.3,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        3.36,
+        0,
+        100,
+        1.4,
+        3,
+        60,
+        2,
+        0.15
+      ]
+    ],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_00.png"
+  },
+  "150610": {
+    "id": "150610",
+    "name": "Giga épée qui tue",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et inflige des DGT réels à la cible ayant le plus de PV en fonction du total de DGT infligés.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_01.png"
+  },
+  "150612": {
+    "id": "150612",
+    "name": "Bomb'œuf",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et accorde des points de compétence.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_02.png"
+  },
+  "150618": {
+    "id": "150618",
+    "name": "Biz'haricot",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et accorde du Panache.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_03.png"
+  },
+  "150620": {
+    "id": "150620",
+    "name": "Move de PGM",
+    "max_level": 15,
+    "element": "",
+    "type": "ElationDamage",
+    "type_text": "Comicompétence",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Accorde du Score caché.",
+    "desc": "Accorde #1[i] points de Score caché.",
+    "params": [
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ]
+    ],
+    "icon": "icon/skill/1506_Elation.png"
+  },
+  "150621": {
+    "id": "150621",
+    "name": "Honkai Impact",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "ElationDamage",
+    "type_text": "Comicompétence",
+    "effect": "Bounce",
+    "effect_text": "Rebond",
+    "simple_desc": "Inflige des comidégâts imaginaires massifs à un ennemi unique, rebondissant un total de #2[i] fois. Réinitialise les chances de déclenchement du Butin légendaire.",
+    "desc": "Inflige #2[i] instances de DGT, chacune infligeant #1[i]% de comidégâts imaginaires à une cible ennemie aléatoire. Réinitialise les chances fixes de déclencher Butin légendaire à leur valeur initiale.",
+    "params": [
+      [
+        0.45,
+        6
+      ],
+      [
+        0.495,
+        6
+      ],
+      [
+        0.54,
+        6
+      ],
+      [
+        0.585,
+        6
+      ],
+      [
+        0.63,
+        6
+      ],
+      [
+        0.675,
+        6
+      ],
+      [
+        0.73125,
+        6
+      ],
+      [
+        0.7875,
+        6
+      ],
+      [
+        0.84375,
+        6
+      ],
+      [
+        0.9,
+        6
+      ],
+      [
+        0.945,
+        6
+      ],
+      [
+        0.99,
+        6
+      ],
+      [
+        1.035,
+        6
+      ],
+      [
+        1.08,
+        6
+      ],
+      [
+        1.125,
+        6
+      ]
+    ],
+    "icon": "icon/skill/1506_Elation02.png"
   },
   "800101": {
     "id": "800101",
@@ -36046,6 +37799,1374 @@
     "params": [],
     "icon": "icon/skill/8007_skill.png"
   },
+  "800901": {
+    "id": "800901",
+    "name": "Faites du bruit",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT de foudre mineurs à un ennemi unique.",
+    "desc": "Inflige des DGT de foudre équivalents à #1[i]% de l'ATQ {M#du pionnier}{F#de la pionnière} à un ennemi désigné.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/8009_basic_atk.png"
+  },
+  "800902": {
+    "id": "800902",
+    "name": "Ovation tonitruante",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige des DGT de foudre mineurs à tous les ennemis et accorde Banger absolu.",
+    "desc": "Inflige des DGT de foudre équivalents à #1[i]% de l'ATQ {M#du pionnier}{F#de la pionnière} à tous les ennemis et accorde #2[i] points de Banger absolu.",
+    "params": [
+      [
+        0.3,
+        20
+      ],
+      [
+        0.33,
+        20
+      ],
+      [
+        0.36,
+        20
+      ],
+      [
+        0.39,
+        20
+      ],
+      [
+        0.42,
+        20
+      ],
+      [
+        0.45,
+        20
+      ],
+      [
+        0.4875,
+        20
+      ],
+      [
+        0.525,
+        20
+      ],
+      [
+        0.5625,
+        20
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.63,
+        20
+      ],
+      [
+        0.66,
+        20
+      ],
+      [
+        0.69,
+        20
+      ],
+      [
+        0.72,
+        20
+      ],
+      [
+        0.75,
+        20
+      ]
+    ],
+    "icon": "icon/skill/8009_skill.png"
+  },
+  "800903": {
+    "id": "800903",
+    "name": "Les Pionniers à jamais !",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultime",
+    "effect": "Support",
+    "effect_text": "Soutien",
+    "simple_desc": "Accorde du Panache, augmente les DGT critiques d'un allié désigné et dissipe les malus de contrôle de cet allié. Si la cible alliée est dotée d'une comicompétence, elle obtient également Banger absolu et utilise immédiatement sa comicompétence. Sinon, son action est avancée.",
+    "desc": "Accorde #6[i] points de Panache, augmente les DGT critiques d'un allié désigné de #1[i]% pour une durée de #2[i] tours et dissipe ses malus de contrôle.\nSi la cible est dotée d'une comicompétence, elle obtient également #4[i] points de Banger absolu et utilise immédiatement sa comicompétence 1 fois, avec #5[i] points de Panache comptabilisés. Si la cible ennemie est éliminée avant le déclenchement de la comicompétence, utilise la comicompétence sur la nouvelle cible ennemie qui entre en combat.\nSi la cible n'est pas dotée de comicompétence, son action est avancée de #3[i]%.",
+    "params": [
+      [
+        0.3,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.32,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.34,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.36,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.38,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.4,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.425,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.45,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.475,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.5,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.52,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.54,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.56,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.58,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.6,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ]
+    ],
+    "icon": "icon/skill/8009_ultimate.png"
+  },
+  "800904": {
+    "id": "800904",
+    "name": "Sourire caméra",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Support",
+    "effect_text": "Soutien",
+    "simple_desc": "Régénère des points d'énergie et obtient du Panache après avoir utilisé une attaque.\nLorsque {M#le pionnier}{F#la pionnière} bénéficie de Banger absolu, sa compétence inflige des comidégâts de foudre mineurs supplémentaires à tous les ennemis.",
+    "desc": "Après avoir utilisé une attaque, régénère une quantité fixe de #1[i] points d'énergie et accorde #2[i] points de Panache.\nLorsque {M#le pionnier}{F#la pionnière} bénéficie de Banger absolu, sa compétence inflige également #3[i]% de comidégâts de foudre à tous les ennemis. Ces DGT sont calculés en fonction de la valeur de Banger absolu la plus élevée parmi tous les alliés.",
+    "params": [
+      [
+        10,
+        3,
+        0.15
+      ],
+      [
+        10,
+        3,
+        0.165
+      ],
+      [
+        10,
+        3,
+        0.18
+      ],
+      [
+        10,
+        3,
+        0.195
+      ],
+      [
+        10,
+        3,
+        0.21
+      ],
+      [
+        10,
+        3,
+        0.225
+      ],
+      [
+        10,
+        3,
+        0.24375
+      ],
+      [
+        10,
+        3,
+        0.2625
+      ],
+      [
+        10,
+        3,
+        0.28125
+      ],
+      [
+        10,
+        3,
+        0.3
+      ],
+      [
+        10,
+        3,
+        0.315
+      ],
+      [
+        10,
+        3,
+        0.33
+      ],
+      [
+        10,
+        3,
+        0.345
+      ],
+      [
+        10,
+        3,
+        0.36
+      ],
+      [
+        10,
+        3,
+        0.375
+      ]
+    ],
+    "icon": "icon/skill/8009_talent.png"
+  },
+  "800906": {
+    "id": "800906",
+    "name": "Attaque",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "params": [],
+    "icon": "icon/skill/8009_Maze02.png"
+  },
+  "800907": {
+    "id": "800907",
+    "name": "Vous aimez ? C'est pionnier !",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technique",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Après avoir utilisé la technique, augmente l'Allégresse de tous les alliés au début du prochain combat.",
+    "desc": "Après avoir utilisé la technique, accorde aléatoirement l'un des effets suivants :\nFaible chance d'obtenir Rire aux éclats, ce qui augmente l'Allégresse de #1[i]%.\nFortes chances d'obtenir Fous rires, ce qui augmente l'Allégresse de #3[i]%.\nAu début du prochain combat, augmente l'Allégresse de tous les alliés du montant correspondant pendant #5[i] tours.",
+    "params": [
+      [
+        0.3,
+        0.1,
+        0.2,
+        0.1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/8009_technique.png"
+  },
+  "800920": {
+    "id": "800920",
+    "name": "Hé l'Allégresse, t'es bouchée ?",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "ElationDamage",
+    "type_text": "Comicompétence",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige plusieurs instances de DGT, chacune infligeant des comidégâts de foudre mineurs à un ennemi aléatoire. Inflige ensuite des comidégâts de foudre répartis équitablement entre tous les ennemis.",
+    "desc": "Inflige #1[i] instances de DGT, chacune infligeant #2[i]% de comidégâts de foudre à un ennemi aléatoire. Inflige ensuite #3[i]% de comidégâts de foudre répartis équitablement entre tous les ennemis.",
+    "params": [
+      [
+        8,
+        0.1,
+        0.3
+      ],
+      [
+        8,
+        0.11,
+        0.33
+      ],
+      [
+        8,
+        0.12,
+        0.36
+      ],
+      [
+        8,
+        0.13,
+        0.39
+      ],
+      [
+        8,
+        0.14,
+        0.42
+      ],
+      [
+        8,
+        0.15,
+        0.45
+      ],
+      [
+        8,
+        0.1625,
+        0.4875
+      ],
+      [
+        8,
+        0.175,
+        0.525
+      ],
+      [
+        8,
+        0.1875,
+        0.5625
+      ],
+      [
+        8,
+        0.2,
+        0.6
+      ],
+      [
+        8,
+        0.21,
+        0.63
+      ],
+      [
+        8,
+        0.22,
+        0.66
+      ],
+      [
+        8,
+        0.23,
+        0.69
+      ],
+      [
+        8,
+        0.24,
+        0.72
+      ],
+      [
+        8,
+        0.25,
+        0.75
+      ]
+    ],
+    "icon": "icon/skill/8009_Elation.png"
+  },
+  "801001": {
+    "id": "801001",
+    "name": "Faites du bruit",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT de foudre mineurs à un ennemi unique.",
+    "desc": "Inflige des DGT de foudre équivalents à #1[i]% de l'ATQ {M#du pionnier}{F#de la pionnière} à un ennemi désigné.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/8009_basic_atk.png"
+  },
+  "801002": {
+    "id": "801002",
+    "name": "Ovation tonitruante",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige des DGT de foudre mineurs à tous les ennemis et accorde Banger absolu.",
+    "desc": "Inflige des DGT de foudre équivalents à #1[i]% de l'ATQ {M#du pionnier}{F#de la pionnière} à tous les ennemis et accorde #2[i] points de Banger absolu.",
+    "params": [
+      [
+        0.3,
+        20
+      ],
+      [
+        0.33,
+        20
+      ],
+      [
+        0.36,
+        20
+      ],
+      [
+        0.39,
+        20
+      ],
+      [
+        0.42,
+        20
+      ],
+      [
+        0.45,
+        20
+      ],
+      [
+        0.4875,
+        20
+      ],
+      [
+        0.525,
+        20
+      ],
+      [
+        0.5625,
+        20
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.63,
+        20
+      ],
+      [
+        0.66,
+        20
+      ],
+      [
+        0.69,
+        20
+      ],
+      [
+        0.72,
+        20
+      ],
+      [
+        0.75,
+        20
+      ]
+    ],
+    "icon": "icon/skill/8009_skill.png"
+  },
+  "801003": {
+    "id": "801003",
+    "name": "Les Pionniers à jamais !",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultime",
+    "effect": "Support",
+    "effect_text": "Soutien",
+    "simple_desc": "Accorde du Panache, augmente les DGT critiques d'un allié désigné et dissipe les malus de contrôle de cette cible. Si la cible est dotée d'une comicompétence, elle obtient également Banger absolu et utilise immédiatement sa comicompétence. Sinon, son action est avancée.",
+    "desc": "Accorde #6[i] points de Panache, augmente les DGT critiques d'un allié désigné de #1[i]% pour une durée de #2[i] tours et dissipe ses malus de contrôle.\nSi la cible est dotée d'une comicompétence, elle obtient également #4[i] points de Banger absolu et utilise immédiatement sa comicompétence 1 fois, avec #5[i] points de Panache comptabilisés. Si la cible ennemie est éliminée avant le déclenchement de la comicompétence, utilise la comicompétence sur la nouvelle cible ennemie qui entre en combat.\nSi la cible n'est pas dotée de comicompétence, son action est avancée de #3[i]%.",
+    "params": [
+      [
+        0.3,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.32,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.34,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.36,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.38,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.4,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.425,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.45,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.475,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.5,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.52,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.54,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.56,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.58,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.6,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ]
+    ],
+    "icon": "icon/skill/8009_ultimate.png"
+  },
+  "801004": {
+    "id": "801004",
+    "name": "Sourire caméra",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Support",
+    "effect_text": "Soutien",
+    "simple_desc": "Régénère des points d'énergie et obtient du Panache après avoir utilisé une attaque.\nLorsque {M#le pionnier}{F#la pionnière} bénéficie de Banger absolu, sa compétence inflige des comidégâts de foudre mineurs supplémentaires à tous les ennemis.",
+    "desc": "Après avoir utilisé une attaque, régénère une quantité fixe de #1[i] points d'énergie et accorde #2[i] points de Panache.\nLorsque {M#le pionnier}{F#la pionnière} bénéficie de Banger absolu, sa compétence inflige également #3[i]% de comidégâts de foudre à tous les ennemis. Ces DGT sont calculés en fonction de la valeur de Banger absolu la plus élevée parmi tous les alliés.",
+    "params": [
+      [
+        10,
+        3,
+        0.15
+      ],
+      [
+        10,
+        3,
+        0.165
+      ],
+      [
+        10,
+        3,
+        0.18
+      ],
+      [
+        10,
+        3,
+        0.195
+      ],
+      [
+        10,
+        3,
+        0.21
+      ],
+      [
+        10,
+        3,
+        0.225
+      ],
+      [
+        10,
+        3,
+        0.24375
+      ],
+      [
+        10,
+        3,
+        0.2625
+      ],
+      [
+        10,
+        3,
+        0.28125
+      ],
+      [
+        10,
+        3,
+        0.3
+      ],
+      [
+        10,
+        3,
+        0.315
+      ],
+      [
+        10,
+        3,
+        0.33
+      ],
+      [
+        10,
+        3,
+        0.345
+      ],
+      [
+        10,
+        3,
+        0.36
+      ],
+      [
+        10,
+        3,
+        0.375
+      ]
+    ],
+    "icon": "icon/skill/8009_talent.png"
+  },
+  "801006": {
+    "id": "801006",
+    "name": "Attaque",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "params": [],
+    "icon": "icon/skill/8009_Maze02.png"
+  },
+  "801007": {
+    "id": "801007",
+    "name": "Vous aimez ? C'est pionnier !",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technique",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Après avoir utilisé la technique, augmente l'Allégresse de tous les alliés au début du prochain combat.",
+    "desc": "Après avoir utilisé la technique, accorde aléatoirement l'un des effets suivants :\nFaible chance d'obtenir Rire aux éclats, ce qui augmente l'Allégresse de #1[i]%.\nFortes chances d'obtenir Fous rires, ce qui augmente l'Allégresse de #3[i]%.\nAu début du prochain combat, augmente l'Allégresse de tous les alliés du montant correspondant pendant #5[i] tours.",
+    "params": [
+      [
+        0.3,
+        0.1,
+        0.2,
+        0.1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/8009_technique.png"
+  },
+  "801020": {
+    "id": "801020",
+    "name": "Hé l'Allégresse, t'es bouchée ?",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "ElationDamage",
+    "type_text": "Comicompétence",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige plusieurs instances de DGT, chacune infligeant des comidégâts de foudre mineurs à un ennemi aléatoire. Inflige ensuite des comidégâts de foudre répartis équitablement entre tous les ennemis.",
+    "desc": "Inflige #1[i] instances de DGT, chacune infligeant #2[i]% de comidégâts de foudre à un ennemi aléatoire. Inflige ensuite #3[i]% de comidégâts de foudre répartis équitablement entre tous les ennemis.",
+    "params": [
+      [
+        8,
+        0.1,
+        0.3
+      ],
+      [
+        8,
+        0.11,
+        0.33
+      ],
+      [
+        8,
+        0.12,
+        0.36
+      ],
+      [
+        8,
+        0.13,
+        0.39
+      ],
+      [
+        8,
+        0.14,
+        0.42
+      ],
+      [
+        8,
+        0.15,
+        0.45
+      ],
+      [
+        8,
+        0.1625,
+        0.4875
+      ],
+      [
+        8,
+        0.175,
+        0.525
+      ],
+      [
+        8,
+        0.1875,
+        0.5625
+      ],
+      [
+        8,
+        0.2,
+        0.6
+      ],
+      [
+        8,
+        0.21,
+        0.63
+      ],
+      [
+        8,
+        0.22,
+        0.66
+      ],
+      [
+        8,
+        0.23,
+        0.69
+      ],
+      [
+        8,
+        0.24,
+        0.72
+      ],
+      [
+        8,
+        0.25,
+        0.75
+      ]
+    ],
+    "icon": "icon/skill/8009_Elation.png"
+  },
+  "1100401": {
+    "id": "1100401",
+    "name": "Suppression de la gravité",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT imaginaires mineurs à un ennemi unique.",
+    "desc": "Inflige des DGT imaginaires équivalents à #1[i]% de l'ATQ de Welt à un ennemi désigné.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1004_basic_atk.png"
+  },
+  "1100402": {
+    "id": "1100402",
+    "name": "Frontière du vide",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "Bounce",
+    "effect_text": "Rebond",
+    "simple_desc": "Inflige des DGT imaginaires mineurs à un ennemi unique. Cette attaque peut rebondir 5 fois et a une chance de ralentir les ennemis touchés.",
+    "desc": "Inflige des DGT imaginaires équivalents à #1[i]% de l'ATQ de Welt à un ennemi désigné et inflige 4 instances de DGT supplémentaires, chacune infligeant des DGT imaginaires équivalents à #1[i]% de l'ATQ de Welt à un ennemi aléatoire. Les frappes ont #2[i]% de chances de base de réduire de #3[i]% la VIT de la cible ennemie touchée pendant #4[i] tours.",
+    "params": [
+      [
+        0.36,
+        0.65,
+        0.1,
+        2
+      ],
+      [
+        0.396,
+        0.66,
+        0.1,
+        2
+      ],
+      [
+        0.432,
+        0.67,
+        0.1,
+        2
+      ],
+      [
+        0.468,
+        0.68,
+        0.1,
+        2
+      ],
+      [
+        0.504,
+        0.69,
+        0.1,
+        2
+      ],
+      [
+        0.54,
+        0.7,
+        0.1,
+        2
+      ],
+      [
+        0.585,
+        0.7125,
+        0.1,
+        2
+      ],
+      [
+        0.63,
+        0.725,
+        0.1,
+        2
+      ],
+      [
+        0.675,
+        0.7375,
+        0.1,
+        2
+      ],
+      [
+        0.72,
+        0.75,
+        0.1,
+        2
+      ],
+      [
+        0.756,
+        0.76,
+        0.1,
+        2
+      ],
+      [
+        0.792,
+        0.77,
+        0.1,
+        2
+      ],
+      [
+        0.828,
+        0.78,
+        0.1,
+        2
+      ],
+      [
+        0.864,
+        0.79,
+        0.1,
+        2
+      ],
+      [
+        0.9,
+        0.8,
+        0.1,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1004_skill.png"
+  },
+  "1100403": {
+    "id": "1100403",
+    "name": "Trou noir synthétique",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "Ultra",
+    "type_text": "Ultime",
+    "effect": "AoEAttack",
+    "effect_text": "ZdE",
+    "simple_desc": "Inflige des DGT imaginaires à tous les ennemis avec de fortes chances d'appliquer Emprisonnement. Applique Apesanteur à tous les ennemis, ce qui retarde leur action après avoir été attaqués.",
+    "desc": "Inflige des DGT imaginaires équivalents à #1[i]% de l'ATQ de Welt à tous les ennemis, avec #3[i]% de chances de base d'appliquer Emprisonnement aux cibles ennemies touchées pendant 1 tour.\nDans l'état Emprisonnement, les cibles ennemies voient leurs actions retardées de #2[f1]% et leur VIT réduite de #4[i]%. Après avoir utilisé son ultime, Welt applique Apesanteur à tous les ennemis. Lorsqu'une cible dans l'état Apesanteur est attaquée, son action est retardée  de #5[f1]%. Cet effet peut se déclencher jusqu'à #6[i] fois par cible et par tour. Apesanteur dure #7[i] tours.",
+    "params": [
+      [
+        0.9,
+        0.06,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        0.96,
+        0.066,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.02,
+        0.072,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.08,
+        0.078,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.14,
+        0.084,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.2,
+        0.09,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.275,
+        0.0975,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.35,
+        0.105,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.425,
+        0.1125,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.5,
+        0.12,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.56,
+        0.126,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.62,
+        0.132,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.68,
+        0.138,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.74,
+        0.144,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.8,
+        0.15,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1004_ultimate.png"
+  },
+  "1100404": {
+    "id": "1100404",
+    "name": "Distorsion temporelle",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Réduit la DÉF et la VIT des cibles ennemies dans l'état Apesanteur. Après avoir attaqué des cibles ennemies ralenties, leur inflige également des DGT additionnels imaginaires mineurs.",
+    "desc": "Les cibles ennemies dans l'état Apesanteur voient leur DÉF réduite de #2[i]% et leur VIT réduite de #3[i]%. Lorsqu'il frappe un ennemi ralenti, Welt lui inflige 1 instance de DGT imaginaires additionnels équivalents à #1[i]% de son ATQ.",
+    "params": [
+      [
+        0.5,
+        0.4,
+        0.05
+      ],
+      [
+        0.55,
+        0.4,
+        0.05
+      ],
+      [
+        0.6,
+        0.4,
+        0.05
+      ],
+      [
+        0.65,
+        0.4,
+        0.05
+      ],
+      [
+        0.7,
+        0.4,
+        0.05
+      ],
+      [
+        0.75,
+        0.4,
+        0.05
+      ],
+      [
+        0.8125,
+        0.4,
+        0.05
+      ],
+      [
+        0.875,
+        0.4,
+        0.05
+      ],
+      [
+        0.9375,
+        0.4,
+        0.05
+      ],
+      [
+        1,
+        0.4,
+        0.05
+      ],
+      [
+        1.05,
+        0.4,
+        0.05
+      ],
+      [
+        1.1,
+        0.4,
+        0.05
+      ],
+      [
+        1.15,
+        0.4,
+        0.05
+      ],
+      [
+        1.2,
+        0.4,
+        0.05
+      ],
+      [
+        1.25,
+        0.4,
+        0.05
+      ]
+    ],
+    "icon": "icon/skill/1004_talent.png"
+  },
+  "1100406": {
+    "id": "1100406",
+    "name": "Attaque",
+    "max_level": 1,
+    "element": "Imaginary",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "params": [],
+    "icon": "icon/skill/1004_basic_atk.png"
+  },
+  "1100407": {
+    "id": "1100407",
+    "name": "Emprisonnement gravitationnel",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technique",
+    "effect": "Impair",
+    "effect_text": "Incapacitation",
+    "simple_desc": "Crée une dimension spéciale. La vitesse de déplacement des ennemis à l'intérieur de la dimension est réduite. Il y a de fortes chances d'appliquer Emprisonné aux ennemis lorsque le combat est engagé avec des ennemis de la dimension.",
+    "desc": "Après avoir utilisé la technique, Welt crée une dimension spéciale pour une durée de #4[i] secondes. Les ennemis dans cette dimension spéciale voient leur vitesse de déplacement réduite de #5[i]%. Il y a #1[i]% de chances de base d'emprisonner les ennemis pour 1 tour après être entré en combat avec des ennemis dans la dimension spéciale.\nLes ennemis emprisonnés voient leur action retardée de #2[i]% et leur VIT réduite de #3[i]%. Il ne peut exister qu'1 effet de dimension créé par les alliés à la fois.",
+    "params": [
+      [
+        1,
+        0.2,
+        0.1,
+        15,
+        0.5
+      ]
+    ],
+    "icon": "icon/skill/1004_technique.png"
+  },
   "1100501": {
     "id": "1100501",
     "name": "Tumulte de minuit",
@@ -36921,6 +40042,323 @@
       ]
     ],
     "icon": "icon/skill/1006_technique.png"
+  },
+  "1110201": {
+    "id": "1110201",
+    "name": "Représailles",
+    "max_level": 10,
+    "element": "Quantum",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT quantiques mineurs à un ennemi unique.",
+    "desc": "Inflige des DGT quantiques équivalents à #1[i]% de l'ATQ de Seele à un ennemi désigné.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1102_basic_atk.png"
+  },
+  "1110202": {
+    "id": "1110202",
+    "name": "Lame rengainée",
+    "max_level": 15,
+    "element": "Quantum",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT quantiques massifs à un ennemi unique et augmente la VIT. Après l'attaque d'une cible alliée, si les PV actuels de la cible attaquée sont inférieurs ou égaux à #4[i]%, Seele lui inflige automatiquement sa compétence 1 fois.",
+    "desc": "Augmente la VIT de Seele de #2[i]% pour une durée de #3[i] tours et inflige des DGT quantiques équivalents à #1[i]% de l'ATQ de Seele à un ennemi désigné.\nAprès l'attaque d'une cible alliée, si les PV actuels de la cible attaquée sont inférieurs ou égaux à #4[i]%, Seele lui inflige automatiquement sa compétence 1 fois. Cette compétence ne consomme pas de point de compétence et ne régénère pas de points d'énergie. Cet effet ne peut être déclenché qu'1 fois par tour et se réinitialise au début du tour de Seele. Si le champ de bataille ne compte aucune cible correspondante, Seele attaque la cible ennemie dont le pourcentage de PV est le plus bas.",
+    "params": [
+      [
+        1.8,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        1.98,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.16,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.34,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.52,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.7,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.925,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.15,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.375,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.6,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.78,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.96,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.14,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.32,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.5,
+        0.25,
+        3,
+        0.5
+      ]
+    ],
+    "icon": "icon/skill/1102_skill.png"
+  },
+  "1110203": {
+    "id": "1110203",
+    "name": "Volée de papillons",
+    "max_level": 15,
+    "element": "Quantum",
+    "type": "Ultra",
+    "type_text": "Ultime",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Entre dans l'état renforcé et inflige des DGT quantiques massifs à un ennemi unique.",
+    "desc": "Seele entre immédiatement dans l'état renforcé et inflige des DGT quantiques équivalents à #1[i]% de son ATQ à un ennemi désigné.",
+    "params": [
+      [
+        3.6
+      ],
+      [
+        3.96
+      ],
+      [
+        4.32
+      ],
+      [
+        4.68
+      ],
+      [
+        5.04
+      ],
+      [
+        5.4
+      ],
+      [
+        5.85
+      ],
+      [
+        6.3
+      ],
+      [
+        6.75
+      ],
+      [
+        7.2
+      ],
+      [
+        7.56
+      ],
+      [
+        7.92
+      ],
+      [
+        8.28
+      ],
+      [
+        8.64
+      ],
+      [
+        9
+      ]
+    ],
+    "icon": "icon/skill/1102_ultimate.png"
+  },
+  "1110204": {
+    "id": "1110204",
+    "name": "Résurgence",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Éliminer un ennemi avec l'ATQ normale, la compétence ou l'ultime accorde un tour supplémentaire et active l'état renforcé. Dans l'état renforcé, augmente les DGT infligés par cette unité.",
+    "desc": "Lorsqu'elle élimine un ennemi avec son ATQ normale, sa compétence ou son ultime, Seele entre dans l'état renforcé et bénéficie d'un tour supplémentaire. Lorsqu'elle est dans l'état renforcé, les DGT infligés par Seele augmentent de #1[i]% pendant #2[i] tours.\nLes ennemis éliminés lors du tour supplémentaire accordé par Résurgence ne déclenchent pas Résurgence à nouveau.",
+    "params": [
+      [
+        0.4,
+        3
+      ],
+      [
+        0.44,
+        3
+      ],
+      [
+        0.48,
+        3
+      ],
+      [
+        0.52,
+        3
+      ],
+      [
+        0.56,
+        3
+      ],
+      [
+        0.6,
+        3
+      ],
+      [
+        0.65,
+        3
+      ],
+      [
+        0.7,
+        3
+      ],
+      [
+        0.75,
+        3
+      ],
+      [
+        0.8,
+        3
+      ],
+      [
+        0.84,
+        3
+      ],
+      [
+        0.88,
+        3
+      ],
+      [
+        0.92,
+        3
+      ],
+      [
+        0.96,
+        3
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/1102_talent.png"
+  },
+  "1110206": {
+    "id": "1110206",
+    "name": "Attaque",
+    "max_level": 1,
+    "element": "Quantum",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "params": [],
+    "icon": "icon/skill/1102_basic_atk.png"
+  },
+  "1110207": {
+    "id": "1110207",
+    "name": "Illusion fantôme",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technique",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Entre en mode Furtivité. Après avoir engagé le combat en attaquant un ennemi, entre dans l'état renforcé et inflige à une cible aléatoire des DGT quantiques massifs avec un coup critique garanti.",
+    "desc": "Après utilisation de sa technique, Seele devient furtive pendant #1[i] secondes. Lorsque l'état Furtivité est actif, Seele ne peut pas être détectée par les ennemis. Si elle entre en combat en attaquant un ennemi, elle bénéficie immédiatement de l'état renforcé et inflige 1 instance de DGT quantiques équivalents au multiplicateur de DGT de sa compétence à une cible ennemie aléatoire. Ces DGT infligent un coup critique à coup sûr.",
+    "params": [
+      [
+        20
+      ]
+    ],
+    "icon": "icon/skill/1102_technique.png"
   },
   "1120501": {
     "id": "1120501",
@@ -37977,6 +41415,446 @@
     ],
     "icon": "icon/skill/1212_skill.png"
   },
+  "1121701": {
+    "id": "1121701",
+    "name": "Bannière de tempête",
+    "max_level": 10,
+    "element": "Wind",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT de vent mineurs à un ennemi unique.",
+    "desc": "Inflige des DGT de vent équivalents à #1[i]% des PV max de Huohuo à un ennemi désigné.",
+    "params": [
+      [
+        0.25
+      ],
+      [
+        0.3
+      ],
+      [
+        0.35
+      ],
+      [
+        0.4
+      ],
+      [
+        0.45
+      ],
+      [
+        0.5
+      ],
+      [
+        0.55
+      ],
+      [
+        0.6
+      ],
+      [
+        0.65
+      ],
+      [
+        0.7
+      ]
+    ],
+    "icon": "icon/skill/1217_basic_atk.png"
+  },
+  "1121702": {
+    "id": "1121702",
+    "name": "Talisman de protection",
+    "max_level": 15,
+    "element": "",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "Restore",
+    "effect_text": "Restauration",
+    "simple_desc": "Dissipe 1 malus d'un allié et restaure des PV à cet allié et aux alliés adjacents.",
+    "desc": "Dissipe #5[i] malus d'un allié désigné et lui rend immédiatement un montant de PV équivalent à #1[f1]% des PV max de Huohuo + #2[i]. Restaure également aux alliés adjacents à la cible un montant de PV équivalent à #3[f1]% des PV max de Huohuo + #4[i].",
+    "params": [
+      [
+        0.16,
+        160,
+        0.128,
+        128,
+        1
+      ],
+      [
+        0.17,
+        256,
+        0.13599999,
+        204.8,
+        1
+      ],
+      [
+        0.18,
+        328,
+        0.144,
+        262.4,
+        1
+      ],
+      [
+        0.19,
+        400,
+        0.152,
+        320,
+        1
+      ],
+      [
+        0.2,
+        448,
+        0.16,
+        358.4,
+        1
+      ],
+      [
+        0.208,
+        496,
+        0.1664,
+        396.8,
+        1
+      ],
+      [
+        0.216,
+        532,
+        0.1728,
+        425.6,
+        1
+      ],
+      [
+        0.224,
+        568,
+        0.1792,
+        454.4,
+        1
+      ],
+      [
+        0.232,
+        604,
+        0.1856,
+        483.2,
+        1
+      ],
+      [
+        0.24,
+        640,
+        0.192,
+        512,
+        1
+      ],
+      [
+        0.248,
+        676,
+        0.1984,
+        540.8,
+        1
+      ],
+      [
+        0.256,
+        712,
+        0.2048,
+        569.6,
+        1
+      ],
+      [
+        0.264,
+        748,
+        0.2112,
+        598.4,
+        1
+      ],
+      [
+        0.272,
+        784,
+        0.2176,
+        627.2,
+        1
+      ],
+      [
+        0.28,
+        820,
+        0.224,
+        656,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1217_skill.png"
+  },
+  "1121703": {
+    "id": "1121703",
+    "name": "Domination spirituelle de Plumeau",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultime",
+    "effect": "Support",
+    "effect_text": "Soutien",
+    "simple_desc": "Régénère des points d'énergie pour tous les coéquipiers, et augmente leur ATQ.",
+    "desc": "Régénère des points d'énergie pour tous les coéquipiers, à hauteur de #1[f1]% de leur énergie max respective. Aussi, augmente leur ATQ de #2[f1]% pendant #3[i] tours.",
+    "params": [
+      [
+        0.15,
+        0.24,
+        2
+      ],
+      [
+        0.155,
+        0.256,
+        2
+      ],
+      [
+        0.16,
+        0.272,
+        2
+      ],
+      [
+        0.165,
+        0.288,
+        2
+      ],
+      [
+        0.17,
+        0.304,
+        2
+      ],
+      [
+        0.175,
+        0.32,
+        2
+      ],
+      [
+        0.18125,
+        0.34,
+        2
+      ],
+      [
+        0.1875,
+        0.36,
+        2
+      ],
+      [
+        0.19375,
+        0.38,
+        2
+      ],
+      [
+        0.2,
+        0.4,
+        2
+      ],
+      [
+        0.205,
+        0.416,
+        2
+      ],
+      [
+        0.21,
+        0.432,
+        2
+      ],
+      [
+        0.215,
+        0.448,
+        2
+      ],
+      [
+        0.22,
+        0.464,
+        2
+      ],
+      [
+        0.225,
+        0.48,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1217_ultimate.png"
+  },
+  "1121704": {
+    "id": "1121704",
+    "name": "Connexion métaphysique éthérée",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Restore",
+    "effect_text": "Restauration",
+    "simple_desc": "Huohuo obtient Intervention divine après avoir utilisé sa compétence ou son ultime. Lorsque Huohuo bénéficie d'Intervention divine, au début du tour d'un allié ou lorsqu'un allié utilise un ultime, restaure les PV de cet allié et d'un allié dont le pourcentage de PV est le plus bas. Ensuite, soigne une fois tous les alliés dont les PV sont bas. Lorsqu'Intervention divine se déclenche pour soigner un allié, dissipe 1 malus dont souffre cet allié.",
+    "desc": "Après avoir utilisé sa compétence ou son ultime, Huohuo obtient Intervention divine pour une durée de #1[i] tours. Cette durée diminue de 1 au début de chaque tour de Huohuo. Lorsque Huohuo bénéficie d'Intervention divine, au début du tour d'une cible alliée ou lorsqu'une cible alliée utilise son ultime, restaure les PV de cette cible alliée et de l'allié dont le pourcentage de PV est le plus bas d'un montant équivalent à #3[f1]% des PV max de Huohuo + #5[i]. Ensuite, restaure les PV de tous les alliés dont le pourcentage de PV actuel est égal ou inférieur à #6[i]% d'un montant équivalent à #3[f1]% des PV max de Huohuo + #5[i].\nLorsqu'Intervention divine se déclenche pour soigner une cible alliée, dissipe #2[i] malus de cette même cible. Cet effet peut être déclenché #7[i] fois. Obtenir à nouveau Intervention divine réinitialise le compteur de déclenchements de l'effet.",
+    "params": [
+      [
+        3,
+        1,
+        0.03,
+        0,
+        30,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.031875,
+        0,
+        48,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.03375,
+        0,
+        61.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.035625,
+        0,
+        75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0375,
+        0,
+        84,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.039,
+        0,
+        93,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0405,
+        0,
+        99.75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.042,
+        0,
+        106.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0435,
+        0,
+        113.25,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.044999998,
+        0,
+        120,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0465,
+        0,
+        126.75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.048,
+        0,
+        133.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0495,
+        0,
+        140.25,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.051,
+        0,
+        147,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.052500002,
+        0,
+        153.75,
+        0.5,
+        6
+      ]
+    ],
+    "icon": "icon/skill/1217_talent.png"
+  },
+  "1121706": {
+    "id": "1121706",
+    "name": "Attaque",
+    "max_level": 1,
+    "element": "Wind",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "params": [],
+    "icon": "icon/skill/1217_basic_atk.png"
+  },
+  "1121707": {
+    "id": "1121707",
+    "name": "Répression du mal",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technique",
+    "effect": "Impair",
+    "effect_text": "Incapacitation",
+    "simple_desc": "Plonge les ennemis à proximité dans l'état Frappé par l'horreur. Il y a de fortes chances d'appliquer une réduction d'ATQ aux cibles ennemies après être entré en combat avec des ennemis frappés par l'horreur.",
+    "desc": "Huohuo terrorise les ennemis à proximité et leur applique l'état Frappé par l'horreur. Les ennemis frappés par l'horreur fuient Huohuo pendant #4[i] secondes. Il y a #1[i]% de chances de base de réduire l'ATQ de chacun d'entre eux de #2[i]% pendant #3[i] tours après être entré en combat avec des ennemis frappés par l'horreur.",
+    "params": [
+      [
+        1,
+        0.25,
+        2,
+        10
+      ]
+    ],
+    "icon": "icon/skill/1217_technique.png"
+  },
   "1130601": {
     "id": "1130601",
     "name": "Mélodrame",
@@ -38837,6 +42715,620 @@
       ]
     ],
     "icon": "icon/skill/1307_technique.png"
+  },
+  "1131001": {
+    "id": "1131001",
+    "name": "Manœuvre de propulsion éclair",
+    "max_level": 10,
+    "element": "Fire",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Inflige des DGT de feu mineurs à un ennemi.",
+    "desc": "Inflige des DGT de feu équivalents à #1[i]% de l'ATQ de SAM à un ennemi désigné.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1310_basic_atk.png"
+  },
+  "1131002": {
+    "id": "1131002",
+    "name": "Manœuvre de frappe aérienne",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Consomme une partie des PV du personnage pour régénérer des points d'énergie, inflige des DGT de feu à un ennemi unique et avance la prochaine action du personnage.",
+    "desc": "Consomme un montant de PV équivalent à #2[i]% des PV max du personnage pour régénérer un montant fixe d'énergie équivalent à #3[i]% de son énergie max. Inflige des DGT de feu équivalents à #1[i]% de son ATQ à un ennemi désigné. Si les PV actuels du personnage ne sont pas suffisants, ils sont réduits à 1 lors de l'utilisation de la compétence. Avance la prochaine action du personnage de #4[i]%.",
+    "params": [
+      [
+        1,
+        0.4,
+        0.5,
+        0.25
+      ],
+      [
+        1.1,
+        0.4,
+        0.51,
+        0.25
+      ],
+      [
+        1.2,
+        0.4,
+        0.52,
+        0.25
+      ],
+      [
+        1.3,
+        0.4,
+        0.53,
+        0.25
+      ],
+      [
+        1.4,
+        0.4,
+        0.54,
+        0.25
+      ],
+      [
+        1.5,
+        0.4,
+        0.55,
+        0.25
+      ],
+      [
+        1.625,
+        0.4,
+        0.5625,
+        0.25
+      ],
+      [
+        1.75,
+        0.4,
+        0.575,
+        0.25
+      ],
+      [
+        1.875,
+        0.4,
+        0.5875,
+        0.25
+      ],
+      [
+        2,
+        0.4,
+        0.6,
+        0.25
+      ],
+      [
+        2.1,
+        0.4,
+        0.61,
+        0.25
+      ],
+      [
+        2.2,
+        0.4,
+        0.62,
+        0.25
+      ],
+      [
+        2.3,
+        0.4,
+        0.63,
+        0.25
+      ],
+      [
+        2.4,
+        0.4,
+        0.64,
+        0.25
+      ],
+      [
+        2.5,
+        0.4,
+        0.65,
+        0.25
+      ]
+    ],
+    "icon": "icon/skill/1310_skill.png"
+  },
+  "1131003": {
+    "id": "1131003",
+    "name": "Combustion complète de Lampyroptère type IV",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultime",
+    "effect": "Enhance",
+    "effect_text": "Renforcement",
+    "simple_desc": "Entre dans l'état Combustion complète. Avance l'action du personnage de 100 %, son ATQ normale et sa compétence deviennent renforcées, et sa VIT, son efficacité de Rupture de faiblesse et les DGT de rupture qu'il inflige aux cibles ennemies augmentent jusqu'à la fin du compte à rebours.",
+    "desc": "Entre dans l'état Combustion complète. Avance l'action du personnage de 100 % et son ATQ normale et sa compétence deviennent renforcées. Dans l'état Combustion complète, sa VIT augmente de #3[i], et lors de l'utilisation de l'ATQ normale renforcée ou de la compétence renforcée, son efficacité de Rupture de faiblesse augmente de #2[i]% et les DGT de rupture que le personnage inflige aux ennemis augmentent de #1[f1]% jusqu'à la fin de cette attaque.\nUn compte à rebours pour l'effet Combustion complète apparaît dans l'ordre d'action. SAM quitte l'état Combustion complète lorsque le compte à rebours se termine. Le compte à rebours a une VIT fixe de #4[i].\nSAM ne peut pas utiliser son ultime dans l'état Combustion complète.",
+    "params": [
+      [
+        0.1,
+        0.5,
+        30,
+        70
+      ],
+      [
+        0.11,
+        0.5,
+        33,
+        70
+      ],
+      [
+        0.12,
+        0.5,
+        36,
+        70
+      ],
+      [
+        0.13,
+        0.5,
+        39,
+        70
+      ],
+      [
+        0.14,
+        0.5,
+        42,
+        70
+      ],
+      [
+        0.15,
+        0.5,
+        45,
+        70
+      ],
+      [
+        0.1625,
+        0.5,
+        48.75,
+        70
+      ],
+      [
+        0.175,
+        0.5,
+        52.5,
+        70
+      ],
+      [
+        0.1875,
+        0.5,
+        56.25,
+        70
+      ],
+      [
+        0.2,
+        0.5,
+        60,
+        70
+      ],
+      [
+        0.21,
+        0.5,
+        63,
+        70
+      ],
+      [
+        0.22,
+        0.5,
+        66,
+        70
+      ],
+      [
+        0.23,
+        0.5,
+        69,
+        70
+      ],
+      [
+        0.24,
+        0.5,
+        72,
+        70
+      ],
+      [
+        0.25,
+        0.5,
+        75,
+        70
+      ]
+    ],
+    "icon": "icon/skill/1310_ultimate.png"
+  },
+  "1131004": {
+    "id": "1131004",
+    "name": "Cœur en feu de la chrysalide",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Defence",
+    "effect_text": "Défense",
+    "simple_desc": "Plus ses PV sont bas, moins le personnage subit de DGT. Dans l'état Combustion complète, l'effet de réduction de DGT est toujours au maximum et la RÉS aux effets augmente. Si ses points d'énergie sont inférieurs à #2[i]% en début de combat, les régénère jusqu'à #2[i]%. Quand l'énergie est à son maximum, tous les malus appliqués au personnage sont dissipés.",
+    "desc": "Plus ses PV sont bas, moins le personnage subit de DGT. Lorsque ses PV sont inférieurs ou égaux à #3[i]%, l'effet de réduction de DGT est à son maximum, atteignant #1[i]%. Dans l'état Combustion complète, l'effet de réduction de DGT est toujours au maximum et la RÉS aux effets augmente de #4[i]%.\nSi ses points d'énergie sont inférieurs à #2[i]% en début de combat, les régénère jusqu'à #2[i]%. Quand l'énergie est à son maximum, tous les malus appliqués au personnage sont dissipés.",
+    "params": [
+      [
+        0.2,
+        0.5,
+        0.2,
+        0.1
+      ],
+      [
+        0.22,
+        0.5,
+        0.2,
+        0.12
+      ],
+      [
+        0.24,
+        0.5,
+        0.2,
+        0.14
+      ],
+      [
+        0.26,
+        0.5,
+        0.2,
+        0.16
+      ],
+      [
+        0.28,
+        0.5,
+        0.2,
+        0.18
+      ],
+      [
+        0.3,
+        0.5,
+        0.2,
+        0.2
+      ],
+      [
+        0.325,
+        0.5,
+        0.2,
+        0.225
+      ],
+      [
+        0.35,
+        0.5,
+        0.2,
+        0.25
+      ],
+      [
+        0.375,
+        0.5,
+        0.2,
+        0.275
+      ],
+      [
+        0.4,
+        0.5,
+        0.2,
+        0.3
+      ],
+      [
+        0.42,
+        0.5,
+        0.2,
+        0.32
+      ],
+      [
+        0.44,
+        0.5,
+        0.2,
+        0.34
+      ],
+      [
+        0.46,
+        0.5,
+        0.2,
+        0.36
+      ],
+      [
+        0.48,
+        0.5,
+        0.2,
+        0.38
+      ],
+      [
+        0.5,
+        0.5,
+        0.2,
+        0.4
+      ]
+    ],
+    "icon": "icon/skill/1310_talent.png"
+  },
+  "1131006": {
+    "id": "1131006",
+    "name": "Attaque",
+    "max_level": 1,
+    "element": "Fire",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+    "params": [],
+    "icon": "icon/skill/1310_Normal02.png"
+  },
+  "1131007": {
+    "id": "1131007",
+    "name": "Δ Manœuvre d'incinération météoritique",
+    "max_level": 1,
+    "element": "Fire",
+    "type": "Maze",
+    "type_text": "Technique",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "S'envole pour se déplacer librement. Après quelques secondes dans les airs, plonge et attaque les ennemis dans une zone définie. Au début de chaque vague, applique une Faiblesse au feu à tous les ennemis et leur inflige des DGT de feu.",
+    "desc": "S'envole et se déplace librement dans les airs pendant #1[i] secondes. Cet effet peut être annulé prématurément en déclenchant une attaque plongeante. À la fin de la durée, plonge et attaque immédiatement tous les ennemis dans une zone définie. Applique une Faiblesse au feu pour #3[i] tours aux ennemis au début de chaque vague, puis inflige des DGT de feu équivalents à #2[i]% de l'ATQ de SAM à tous les ennemis.",
+    "params": [
+      [
+        5,
+        2,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1310_technique.png"
+  },
+  "1131008": {
+    "id": "1131008",
+    "name": "Décimation pyrogénique de Lampyroptère type IV",
+    "max_level": 10,
+    "element": "Fire",
+    "type": "Normal",
+    "type_text": "ATQ normale",
+    "effect": "SingleAttack",
+    "effect_text": "Cible unique",
+    "simple_desc": "Restaure une partie des PV du personnage et inflige des DGT de feu à un ennemi unique.",
+    "desc": "Restaure des PV à hauteur de #2[i]% des PV max du personnage et inflige des DGT de feu équivalents à #1[i]% de l'ATQ de SAM à un ennemi désigné.",
+    "params": [
+      [
+        1,
+        0.2
+      ],
+      [
+        1.2,
+        0.2
+      ],
+      [
+        1.4,
+        0.2
+      ],
+      [
+        1.6,
+        0.2
+      ],
+      [
+        1.8,
+        0.2
+      ],
+      [
+        2,
+        0.2
+      ],
+      [
+        2.2,
+        0.2
+      ],
+      [
+        2.4,
+        0.2
+      ],
+      [
+        2.6,
+        0.2
+      ],
+      [
+        2.8,
+        0.2
+      ]
+    ],
+    "icon": "icon/skill/1310_Normal02.png"
+  },
+  "1131009": {
+    "id": "1131009",
+    "name": "Surcharge de l'étoile mourante de Lampyroptère type IV",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "BPSkill",
+    "type_text": "Compétence",
+    "effect": "Blast",
+    "effect_text": "Propagation",
+    "simple_desc": "Restaure une partie des PV de cette unité. Applique une Faiblesse au feu à un ennemi unique et aux cibles adjacentes. Inflige des DGT de feu massifs à cette cible et des DGT de feu aux cibles adjacentes.",
+    "desc": "Restaure des PV à hauteur de 25 % des PV max du personnage. Applique une Faiblesse au feu à un ennemi désigné et aux cibles adjacentes pour une durée de 2 tours. Inflige des DGT de feu équivalents à (#5[f1] × effet de Rupture + #1[f1]%) de l'ATQ de SAM à cette cible. D'autre part, inflige des DGT de feu équivalents à (#6[f1] × effet de Rupture + #2[f1]%) de l'ATQ de SAM aux cibles adjacentes. L'effet de Rupture comptabilisé ne peut pas excéder #7[i]%.",
+    "params": [
+      [
+        1,
+        0.5,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.1,
+        0.55,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.2,
+        0.6,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.3,
+        0.65,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.4,
+        0.7,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.5,
+        0.75,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.625,
+        0.8125,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.75,
+        0.875,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.875,
+        0.9375,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2,
+        1,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.1,
+        1.05,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.2,
+        1.1,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.3,
+        1.15,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.4,
+        1.2,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.5,
+        1.25,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ]
+    ],
+    "icon": "icon/skill/1310_skill.png"
   },
   "1140201": {
     "id": "1140201",

@@ -119,7 +119,7 @@
     "id": "100202",
     "name": "Bosheit kontrollieren, Flamme löschen",
     "rank": 2,
-    "desc": "Verringert die Abklingzeit des Talents um 1 Rd.",
+    "desc": "Reduziert die Abklingzeit des Talents um 1 Rd.",
     "materials": [
       {
         "id": "11002",
@@ -309,7 +309,7 @@
     "id": "100401",
     "name": "Nachlass der Ehre",
     "rank": 1,
-    "desc": "Nach dem Einsatz des Ultimates wird Welt verstärkt. Die nächsten 2 Einsätze seines Standardangriffs oder seiner Fertigkeit fügen dem Gegner 1-mal zusätzlichen SCH in Höhe von 50%% des SCH-Multiplikators seines Standardangriffs bzw. 80%% des SCH-Multiplikators seiner Fertigkeit zu.",
+    "desc": "Nach dem Einsatz des Ultimates wird Welt verstärkt. Die nächsten 2 Einsätze seines Standardangriffs oder seiner Fertigkeit fügen den Gegnern noch 1-mal zusätzlichen SCH in Höhe von 50%% des SCH-Multiplikators seines Standardangriffs bzw. 80%% des SCH-Multiplikators seiner Fertigkeit zu.",
     "materials": [
       {
         "id": "11004",
@@ -397,7 +397,7 @@
     "id": "100406",
     "name": "Glänzende Aussichten",
     "rank": 6,
-    "desc": "Fügt einem zufälligen Gegner beim Einsatz der Fertigkeit 1-mal zusätzlichen SCH zu.",
+    "desc": "Fügt einem zufälligen Gegner beim Einsatz der Fertigkeit zusätzlich 1-mal SCH zu.",
     "materials": [
       {
         "id": "11004",
@@ -1282,7 +1282,7 @@
     "id": "110204",
     "name": "Ein kurzer Blick",
     "rank": 4,
-    "desc": "Besiegt Seele einen Gegner, erhält sie 15 Pkt. Energie zurück.",
+    "desc": "Besiegt Seele einen Gegner, stellt sie 15 Energie wieder her.",
     "materials": [
       {
         "id": "11102",
@@ -1319,7 +1319,7 @@
     "id": "110206",
     "name": "Trennung",
     "rank": 6,
-    "desc": "Der Ultimate verursacht beim getroffenen Gegner für 1 Rd. den Status „Schmetterlingssturm“. Gegner im Schmetterlingssturm erleiden bei Treffern 1-mal zusätzlich Quanten-SCH in Höhe von 15%% von Seeles Ultimate-SCH. Wenn ein anderer Verbündeter das Ziel durch den zusätzlichen SCH von Schmetterlingssturm besiegt, wird Seeles Talent nicht ausgelöst.\nIst Seele handlungsunfähig, wird der Status Schmetterlingssturm vom Gegner entfernt.",
+    "desc": "Ein Angriff mit dem Ultimate verursacht beim getroffenen Gegner für 1 Rd. den Status „Schmetterlingssturm“. Gegner im Schmetterlingssturm erleiden bei Treffern 1-mal zusätzlichen Quanten-SCH in Höhe von 15%% von Seeles Ultimate-SCH. Wenn ein anderer Verbündeter das Ziel durch den zusätzlichen SCH von Schmetterlingssturm besiegt, wird Seeles Talent nicht ausgelöst.\nIst Seele handlungsunfähig, wird der Status Schmetterlingssturm vom Gegner entfernt.",
     "materials": [
       {
         "id": "11102",
@@ -3915,7 +3915,7 @@
     "id": "121701",
     "name": "Von Heliobi besessen, vom Bösen ergriffen",
     "rank": 1,
-    "desc": "Die Dauer von „Gesegnete Heilung“, das vom Talent bewirkt wird, wird um 1 Rd. verlängert. Wenn Huohuo Gesegnete Heilung besitzt, wird die GES aller Verbündeten um 12%% erhöht.",
+    "desc": "Die Dauer von „Gesegnete Heilung“ des Talents wird um 1 Rd. verlängert. Wenn Huohuo Gesegnete Heilung besitzt, wird die GES aller Verbündeten um 12%% erhöht.",
     "materials": [
       {
         "id": "11217",
@@ -4003,7 +4003,7 @@
     "id": "121706",
     "name": "Einmal verwoben, auf ewig vereint",
     "rank": 6,
-    "desc": "Erhöht den zugefügten SCH eines Verbündeten für 2 Rd. um 50%%, wenn dieser geheilt wird.",
+    "desc": "Erhöht den verursachten SCH eines Verbündeten für 2 Rd. um 50%%, wenn dieser geheilt wird.",
     "materials": [
       {
         "id": "11217",
@@ -8287,6 +8287,352 @@
     "level_up_skills": [],
     "icon": "icon/skill/1502_rank6.png"
   },
+  "150401": {
+    "id": "150401",
+    "name": "Achtung: Bleibe bei Vollmond zu Haus",
+    "rank": 1,
+    "desc": "Wenn Ashveil sich auf dem Kampffeld befindet, wird der erlittene SCH aller Gegner um 24%% erhöht. Wenn der aktuelle LP-Prozentsatz eines Gegners 50%% oder weniger beträgt, wird sein erlittener SCH auf 36%% erhöht.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank1.png"
+  },
+  "150402": {
+    "id": "150402",
+    "name": "Klopfen: Ein Kichern erschallet",
+    "rank": 2,
+    "desc": "Erhöht die max. Stapelzahl von „Völlerei“ auf 18. Jedes Mal, nachdem Ashveil den verstärkten Folgeangriff des Talents ausgelöst hat, werden 35%% der entfernten Stapelungen von Völlerei wiederhergestellt.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank2.png"
+  },
+  "150403": {
+    "id": "150403",
+    "name": "Schweigen: Sorgen der alten Freunde",
+    "rank": 3,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150403",
+        "num": 2
+      },
+      {
+        "id": "150401",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1504_ultra.png"
+  },
+  "150404": {
+    "id": "150404",
+    "name": "Bedenke: Die Wahrheit braucht kein Grübeln",
+    "rank": 4,
+    "desc": "Erhöht Ashveils ANG beim Einsatz des Ultimates für 3 Rd. um 40%%.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank4.png"
+  },
+  "150405": {
+    "id": "150405",
+    "name": "Erinnerung: Der Detektiv wird zum Mörder",
+    "rank": 5,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150402",
+        "num": 2
+      },
+      {
+        "id": "150404",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/1504_bp.png"
+  },
+  "150406": {
+    "id": "150406",
+    "name": "Finale: Und vielleicht gab’s keines mehr",
+    "rank": 6,
+    "desc": "Wenn sich ein „Köder“ auf dem Kampffeld befindet, wird der WDS aller Typen aller Gegner um 20%% reduziert. Für jede Stapelung von „Völlerei“, die Ashveil jemals erhalten hat, wird der verursachte SCH um 4%% erhöht. Dieser Effekt ist bis zu 30-fach stapelbar.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank6.png"
+  },
+  "150501": {
+    "id": "150501",
+    "name": "Heimat, Tanz für den Segen",
+    "rank": 1,
+    "desc": "Erhöht die WDS-DUR aller Typen um 20%%. Löst nach einem Angriff von „Fuchslehrer“ zusätzlich 1-mal die Hochgefühl-Fähigkeit aus. Die Hochgefühl-Fähigkeit gewährt dieser Einheit zusätzlich 10 Pkt. Verdiente Leistung.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank1.png"
+  },
+  "150502": {
+    "id": "150502",
+    "name": "Reise, Bitte um ewige Blüte",
+    "rank": 2,
+    "desc": "Erhöht den KRIT-SCH um 36%%. Wenn der Effekt zum Erhalt von „Verdiente Leistung“ der Spuren „Gemeinsame Freude“ / „Blütenpracht“ ausgelöst wird, wird zusätzlich Verdiente Leistung in Höhe von 50%%/1% der diesmal erhaltenen Verdiente Leistung erhalten.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank2.png"
+  },
+  "150503": {
+    "id": "150503",
+    "name": "Schwert, Verschlinger des Bösen",
+    "rank": 3,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150503",
+        "num": 2
+      },
+      {
+        "id": "150501",
+        "num": 1
+      },
+      {
+        "id": "150520",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1505_ultra.png"
+  },
+  "150504": {
+    "id": "150504",
+    "name": "Blumenfeld, zerpflückt durch Schurken",
+    "rank": 4,
+    "desc": "Der von Evanescia verursachte SCH ignoriert 15%% der VTD des Gegners.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank4.png"
+  },
+  "150505": {
+    "id": "150505",
+    "name": "Arcadia, Zeuge von Freud und Leid",
+    "rank": 5,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150502",
+        "num": 2
+      },
+      {
+        "id": "150504",
+        "num": 2
+      },
+      {
+        "id": "150520",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1505_bp.png"
+  },
+  "150506": {
+    "id": "150506",
+    "name": "Mädchen, Traumvision im Wandel",
+    "rank": 6,
+    "desc": "Erhöht die Dauer von Evanescias Verdiente Leistung um 1 Rd. Der von Evanescia verursachte Hochgefühl-SCH verstärkt das Lachen um 15%%. Für je 100 Pkt. Verdiente Leistung im Besitz wird das Lachen zusätzlich um #3[f1]% verstärkt, wobei bis zu 1.000 Pkt. Verdiente Leistung gezählt werden. Stellt nach dem ersten Einsatz des Ultimates im Kampf eine feste Menge von 120 Energie für Evanescia wieder her. Nachdem der Ultimate noch 4-mal eingesetzt wurde, kann dieser Effekt jeweils noch 1-mal ausgelöst werden.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank6.png"
+  },
+  "150601": {
+    "id": "150601",
+    "name": "Ätherbearbeitung: Eidolon +1",
+    "rank": 1,
+    "desc": "Erhöht den von Gegnern im Kraftfeld erlittenen SCH um 20%%.\nBeim Verlassen des Status „God-Mode-Spielerin“ wird „Verstecktes MMR“ nicht zurückgesetzt, stattdessen werden 20%% des Versteckten MMR beibehalten.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank1.png"
+  },
+  "150602": {
+    "id": "150602",
+    "name": "Ein Feature, kein Bug",
+    "rank": 2,
+    "desc": "Verlängert nach dem Eintritt in den Status „God-Mode-Spielerin“ alle Buffs dieser Einheit um 1 Rd. Für jede Erhöhung von „Verstecktes MMR“ um 120 Pkt. in diesem Status God-Mode-Spielerin (einschließlich des anfänglichen Versteckten MMR) erhält Silberwolf St. 999 1 zusätzliche Runde und stellt 1 Einsatz des verstärkten Standardangriffs wieder her.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank2.png"
+  },
+  "150603": {
+    "id": "150603",
+    "name": "Nur St. 15? Wer hat das eingetragen?",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150602",
+        "num": 2
+      },
+      {
+        "id": "150601",
+        "num": 1
+      },
+      {
+        "id": "150620",
+        "num": 1
+      },
+      {
+        "id": "150608",
+        "num": 1
+      },
+      {
+        "id": "150610",
+        "num": 1
+      },
+      {
+        "id": "150612",
+        "num": 1
+      },
+      {
+        "id": "150618",
+        "num": 1
+      },
+      {
+        "id": "150621",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1506_bp.png"
+  },
+  "150604": {
+    "id": "150604",
+    "name": "Ich kam, ich sah, ich ... kloppte",
+    "rank": 4,
+    "desc": "Der von „Schadensdemo: Honkai-Niveau“ verursachte Hochgefühl-SCH rechnet zusätzlich das 5-Fache der Lachpunkte an.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank4.png"
+  },
+  "150605": {
+    "id": "150605",
+    "name": "Standardangriff = Ultimate",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150603",
+        "num": 2
+      },
+      {
+        "id": "150604",
+        "num": 2
+      },
+      {
+        "id": "150620",
+        "num": 1
+      },
+      {
+        "id": "150621",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1506_ultra.png"
+  },
+  "150606": {
+    "id": "150606",
+    "name": "Solo-Leveling zum Maximum!",
+    "rank": 6,
+    "desc": "Der während des verstärkten Standardangriffs verursachte Hochgefühl-SCH verstärkt das Lachen um 50%%.\nWenn ein Gegner in den Kampf eintritt, wird er mit „Limitierte Schwäche“ belegt: Er erhält Schwächen aller Typen und der Basis-WDS aller Typen wird auf 0 reduziert (beträgt der Basis-WDS 0, wird stattdessen der WDS des entsprechenden Typs um 20%% reduziert).",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank6.png"
+  },
   "800101": {
     "id": "800101",
     "name": "Verstreute Sterne",
@@ -9183,6 +9529,328 @@
     "level_up_skills": [],
     "icon": "icon/skill/8007_rank6.png"
   },
+  "800901": {
+    "id": "800901",
+    "name": "Zeit, an das Licht zu glauben",
+    "rank": 1,
+    "desc": "Nach dem Einsatz der Fertigkeit erhöht der nächste Ultimate die von Verbündeten erhaltene Verdiente Leistung um 2 Pkt. Dieser Effekt ist bis zu 3-fach stapelbar.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank1.png"
+  },
+  "800902": {
+    "id": "800902",
+    "name": "Epische Szene in Arbeit ...",
+    "rank": 2,
+    "desc": "Der Ultimate erhöht das Hochgefühl eines anvisierten Verbündeten zusätzlich für 2 Rd. um 12%%.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank2.png"
+  },
+  "800903": {
+    "id": "800903",
+    "name": "Los, Kamera auf mich",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "800902",
+        "num": 2
+      },
+      {
+        "id": "800904",
+        "num": 2
+      },
+      {
+        "id": "800920",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_bp.png"
+  },
+  "800904": {
+    "id": "800904",
+    "name": "Zum Weltretten braucht man keinen Grund",
+    "rank": 4,
+    "desc": "Erhöht beim Einsatz der Hochgefühl-Fähigkeit den von Gegnern erlittenen SCH für 2 Rd. um 10%%.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank4.png"
+  },
+  "800905": {
+    "id": "800905",
+    "name": "Liebe und Mut kommen nie aus der Mode",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "800903",
+        "num": 2
+      },
+      {
+        "id": "800901",
+        "num": 1
+      },
+      {
+        "id": "800920",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_ultra.png"
+  },
+  "800906": {
+    "id": "800906",
+    "name": "Die Galaktische Legende betritt die Bühne!",
+    "rank": 6,
+    "desc": "Erhöht beim Einsatz der Hochgefühl-Fähigkeit den KRIT-SCH dieser Einheit für 3 Rd. um 1%.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank6.png"
+  },
+  "801001": {
+    "id": "801001",
+    "name": "Zeit, an das Licht zu glauben",
+    "rank": 1,
+    "desc": "Nach dem Einsatz der Fertigkeit erhöht der nächste Ultimate die von Verbündeten erhaltene Verdiente Leistung um 2 Pkt. Dieser Effekt ist bis zu 3-fach stapelbar.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank1.png"
+  },
+  "801002": {
+    "id": "801002",
+    "name": "Epische Szene in Arbeit ...",
+    "rank": 2,
+    "desc": "Der Ultimate erhöht das Hochgefühl eines anvisierten Verbündeten zusätzlich für 2 Rd. um 12%%.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank2.png"
+  },
+  "801003": {
+    "id": "801003",
+    "name": "Los, Kamera auf mich",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "801002",
+        "num": 2
+      },
+      {
+        "id": "801004",
+        "num": 2
+      },
+      {
+        "id": "801020",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_bp.png"
+  },
+  "801004": {
+    "id": "801004",
+    "name": "Zum Weltretten braucht man keinen Grund",
+    "rank": 4,
+    "desc": "Erhöht beim Einsatz der Hochgefühl-Fähigkeit den von Gegnern erlittenen SCH für 2 Rd. um 10%%.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank4.png"
+  },
+  "801005": {
+    "id": "801005",
+    "name": "Liebe und Mut kommen nie aus der Mode",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "801003",
+        "num": 2
+      },
+      {
+        "id": "801001",
+        "num": 1
+      },
+      {
+        "id": "801020",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_ultra.png"
+  },
+  "801006": {
+    "id": "801006",
+    "name": "Die Galaktische Legende betritt die Bühne!",
+    "rank": 6,
+    "desc": "Erhöht beim Einsatz der Hochgefühl-Fähigkeit den KRIT-SCH dieser Einheit für 3 Rd. um 1%.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank6.png"
+  },
+  "1100401": {
+    "id": "1100401",
+    "name": "Nachlass der Ehre",
+    "rank": 1,
+    "desc": "Wenn beim Einsatz von Fertigkeit oder Ultimate ein Ziel im Status „Schwerelosigkeit“ getroffen wird, wird 1-mal zusätzlicher imaginärer SCH in Höhe von 40%% des Ultimate-SCH-Multiplikators verursacht. Dieser Effekt kann pro Ziel bei jedem Angriff nur 1-mal ausgelöst werden.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank1.png"
+  },
+  "1100402": {
+    "id": "1100402",
+    "name": "Sternenzufluss",
+    "rank": 2,
+    "desc": "Bei Auslösung des Talents erhält Welt 3 Pkt. Energie zurück.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank2.png"
+  },
+  "1100403": {
+    "id": "1100403",
+    "name": "Friedensgebet",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1100402",
+        "num": 2
+      },
+      {
+        "id": "1100401",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11004_bp.png"
+  },
+  "1100404": {
+    "id": "1100404",
+    "name": "Anruf der Gerechtigkeit",
+    "rank": 4,
+    "desc": "Reduziert den WDS aller Typen von Gegnern im Status „Schwerelosigkeit“ um 30%%.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank4.png"
+  },
+  "1100405": {
+    "id": "1100405",
+    "name": "Macht der Güte",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1100403",
+        "num": 2
+      },
+      {
+        "id": "1100404",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11004_ultra.png"
+  },
+  "1100406": {
+    "id": "1100406",
+    "name": "Glänzende Aussichten",
+    "rank": 6,
+    "desc": "Wenn beim Einsatz der Fertigkeit oder des Ultimates verlangsamte Gegner getroffen werden, wird die KRIT-Rate des verursachten SCH um 30%% und der KRIT-SCH um 60%% erhöht.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank6.png"
+  },
   "1100501": {
     "id": "1100501",
     "name": "Da capo",
@@ -9386,6 +10054,108 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/11006_rank6.png"
+  },
+  "1110201": {
+    "id": "1110201",
+    "name": "Abgeschnitten",
+    "rank": 1,
+    "desc": "Wenn Seele einem Gegner mit LP-Prozentsatz 80%% oder niedriger SCH zufügt, wird ihre KRIT-Rate um 15%% erhöht und 20%% der VTD des Ziels ignoriert.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank1.png"
+  },
+  "1110202": {
+    "id": "1110202",
+    "name": "Schmetterlingstanz",
+    "rank": 2,
+    "desc": "Der Effekt der GES-Erhöhung von der Fertigkeit ist bis zu 2-mal stapelbar.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank2.png"
+  },
+  "1110203": {
+    "id": "1110203",
+    "name": "Geblendet",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1110202",
+        "num": 2
+      },
+      {
+        "id": "1110204",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11102_bp.png"
+  },
+  "1110204": {
+    "id": "1110204",
+    "name": "Ein kurzer Blick",
+    "rank": 4,
+    "desc": "Besiegt Seele einen Gegner, stellt sie 15 Energie wieder her.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank4.png"
+  },
+  "1110205": {
+    "id": "1110205",
+    "name": "Scharfe Sinne, scharfer Geist",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1110203",
+        "num": 2
+      },
+      {
+        "id": "1110201",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11102_ultra.png"
+  },
+  "1110206": {
+    "id": "1110206",
+    "name": "Trennung",
+    "rank": 6,
+    "desc": "Ein Angriff mit dem Ultimate verursacht beim Ziel für 3 Rd. den Status „Schmetterlingssturm“. Gegner im Schmetterlingssturm erleiden bei Treffern 1-mal zusätzlich Tatsächlichen SCH in Höhe von 30%% von Seeles in diesem Einsatz verursachtem Ultimate-SCH. Wenn ein Gegner im Status Schmetterlingssturm von einer beliebigen Einheit besiegt wird, wird auch Seeles Talent ausgelöst.\nIst Seele handlungsunfähig, wird der Status Schmetterlingssturm vom Gegner entfernt.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank6.png"
   },
   "1120501": {
     "id": "1120501",
@@ -9599,6 +10369,108 @@
     "level_up_skills": [],
     "icon": "icon/skill/11212_rank6.png"
   },
+  "1121701": {
+    "id": "1121701",
+    "name": "Von Heliobi besessen, vom Bösen ergriffen",
+    "rank": 1,
+    "desc": "Die Dauer von „Gesegnete Heilung“ des Talent wird um 1 Rd. verlängert. Wenn Huohuo Gesegnete Heilung besitzt, wird ihre bewirkte Heilung um 20%% und die GES aller Verbündeten um 12%% erhöht.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank1.png"
+  },
+  "1121702": {
+    "id": "1121702",
+    "name": "Im Schweif versiegelt, Geister besiegt",
+    "rank": 2,
+    "desc": "Wenn Huohuo „Gesegnete Heilung“ besitzt und ein Verbündeter von einem Todesstoß getroffen wird, wird der Verbündete nicht handlungsunfähig, sondern es werden bei ihm sofort LP in Höhe von 50%% seiner max. LP wiederhergestellt. Dies reduziert die Dauer von Gesegnete Heilung um 1 Rd. Dieser Effekt kann 2-mal pro Kampf ausgelöst werden.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank2.png"
+  },
+  "1121703": {
+    "id": "1121703",
+    "name": "Verfluchtes Schicksal, wie Motten im Licht",
+    "rank": 3,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1121703",
+        "num": 2
+      },
+      {
+        "id": "1121704",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11217_ultra.png"
+  },
+  "1121704": {
+    "id": "1121704",
+    "name": "Gefesselt im Leben, gebunden im Streit",
+    "rank": 4,
+    "desc": "Wenn Huohuo mit ihrer Fertigkeit oder durch Auslösen ihres Talents einen Verbündeten heilt, steigt die bewirkte Heilung umso mehr, je niedriger die aktuellen LP des Verbündeten sind, bis zu einer maximalen Erhöhung von 80%%.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank4.png"
+  },
+  "1121705": {
+    "id": "1121705",
+    "name": "Vertreibung des Bösen, im Namen der Zehn Fürsten",
+    "rank": 5,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1121702",
+        "num": 2
+      },
+      {
+        "id": "1121701",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11217_bp.png"
+  },
+  "1121706": {
+    "id": "1121706",
+    "name": "Einmal verwoben, auf ewig vereint",
+    "rank": 6,
+    "desc": "Erhöht den verursachten SCH eines Verbündeten für 2 Rd. um 50%%, wenn dieser geheilt wird.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank6.png"
+  },
   "1130601": {
     "id": "1130601",
     "name": "Am Rande des Zweifels",
@@ -9802,5 +10674,115 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/11307_rank6.png"
+  },
+  "1131001": {
+    "id": "1131001",
+    "name": "Im geröteten Kokon schlief ich einst",
+    "rank": 1,
+    "desc": "Beim Einsatz der verstärkten Fertigkeit werden 15%% der VTD des Ziels ignoriert und keine Fertigkeitspunkte verbraucht.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank1.png"
+  },
+  "1131002": {
+    "id": "1131002",
+    "name": "Fall aus zerbrochenem Himmel",
+    "rank": 2,
+    "desc": "Wenn im Status „Vollständige Verbrennung“ durch den Einsatz des verstärkten Standardangriffs oder der verstärkten Fertigkeit ein Gegner besiegt oder ihm Schwächebruch zugefügt wird, erhält SAM sofort 1 zusätzliche Runde. Dieser Effekt kann pro Runde 1-mal ausgelöst werden. Die Auslösungsanzahl wird zu Beginn von SAMs Runde zurückgesetzt.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank2.png"
+  },
+  "1131003": {
+    "id": "1131003",
+    "name": "Schlummern in der totenstillen Galaxie",
+    "rank": 3,
+    "desc": "Fertigkeitsstufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1131002",
+        "num": 2
+      },
+      {
+        "id": "1131001",
+        "num": 1
+      },
+      {
+        "id": "1131009",
+        "num": 2
+      },
+      {
+        "id": "1131008",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11310_bp.png"
+  },
+  "1131004": {
+    "id": "1131004",
+    "name": "Ich sehe sie bald, die Flamme des Glühwürmchens",
+    "rank": 4,
+    "desc": "Erhöht im Status „Vollständige Verbrennung“ SAMs Effekt-WDS um 50%%.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank4.png"
+  },
+  "1131005": {
+    "id": "1131005",
+    "name": "Entfacht aus traumloser Nacht",
+    "rank": 5,
+    "desc": "Ultimate-Stufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1131003",
+        "num": 2
+      },
+      {
+        "id": "1131004",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11310_ultra.png"
+  },
+  "1131006": {
+    "id": "1131006",
+    "name": "Erblüht aus endgültigem Morgen",
+    "rank": 6,
+    "desc": "Erhöht im Status „Vollständige Verbrennung“ SAMs Feuer-WDS-DUR um 20%%. Beim Einsatz des verstärkten Standardangriffs und der verstärkten Fertigkeit wird die Schwächebruch-Effizienz um 50%% erhöht.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank6.png"
   }
 }

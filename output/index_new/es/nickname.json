@@ -228,6 +228,15 @@
     "1502": [
       "Yao Guang"
     ],
+    "1504": [
+      "Ashveil"
+    ],
+    "1505": [
+      "Evanescia"
+    ],
+    "1506": [
+      "Silver Wolf Niv. 999"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -250,6 +259,12 @@
       "{NICKNAME}"
     ],
     "8008": [
+      "{NICKNAME}"
+    ],
+    "8009": [
+      "{NICKNAME}"
+    ],
+    "8010": [
       "{NICKNAME}"
     ],
     "1014": [
@@ -727,6 +742,21 @@
     ],
     "23054": [
       "Cuando se decidió a ver"
+    ],
+    "23056": [
+      "El final de una mentira"
+    ],
+    "24006": [
+      "Exultación desbordante de bendiciones"
+    ],
+    "23058": [
+      "Encuentro en la próxima primavera"
+    ],
+    "23057": [
+      "Bienvenidos a la ciudad cósmica"
+    ],
+    "22007": [
+      "Juntos hacia el futuro"
     ]
   },
   "relic_sets": {
@@ -891,6 +921,12 @@
     ],
     "324": [
       "Tengoku@sala de chat"
+    ],
+    "325": [
+      "Etapa cero de Punklorde"
+    ],
+    "326": [
+      "Ciudad de las mil estrellas"
     ]
   }
 }

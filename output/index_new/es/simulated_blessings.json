@@ -1068,7 +1068,7 @@
   "612726": {
     "id": "612726",
     "name": "Interacción de Resonancia: Macroespora compuesta",
-    "desc": "Al usar la Resonancia de Vía, un aliado regenera un 50% de sus PV máx. El 200% del exceso de curación realizada se distribuirá equitativamente entre otros personajes."
+    "desc": "Al usar la Resonancia de Vía, un aliado regenera un 50% de sus PV máx. El 200% de la curación excedente se distribuirá equitativamente entre otros personajes."
   },
   "612727": {
     "id": "612727",
@@ -2231,7 +2231,7 @@
   "616142": {
     "id": "616142",
     "name": "Comprensión: Olas encuadernadas",
-    "desc": "Después de que un aliado entre en combate o invoque a un mnemoduende, obtiene 6 acumulaciones de Obsesión."
+    "desc": "Después de que un aliado entre en combate o de que un mnemoduende sea invocado, obtiene 6 acumulaciones de Obsesión."
   },
   "616143": {
     "id": "616143",
@@ -2914,7 +2914,7 @@
   "616940": {
     "id": "616940",
     "name": "Periodo de la práctica común",
-    "desc": "Después de eliminar a un enemigo con Armónico, 1 objetivo adyacente al azar obtiene sus acumulaciones de Armónico."
+    "desc": "Después de que un enemigo con Armónico sea eliminado, 1 objetivo adyacente al azar obtiene sus acumulaciones de Armónico."
   },
   "616941": {
     "id": "616941",
@@ -2978,11 +2978,812 @@
   },
   "616956": {
     "id": "616956",
-    "name": "Jazz del infortunio",
+    "name": "Caballero del infortunio",
     "desc": "La DEF de los enemigos con Ruptura de Debilidad disminuye en un 15%."
   },
   "616957": {
     "id": "616957",
+    "name": "Innovación musical",
+    "desc": "Cuando un aliado rompe la Debilidad de un enemigo, regenera una cantidad de PV equivalente al 24% de sus PV máx."
+  },
+  "617000": {
+    "id": "617000",
+    "name": "Momentos destacados",
+    "desc": "El daño final infligido por los aliados aumenta en un 2% y el daño recibido se reduce en un 1%. Cuando la carga alcanza el 100%, la acción del objetivo de Momentos destacados se adelanta un 100% y el daño final que infligen este y su mnemoduende aumenta en un 10% durante 2 turno(s)."
+  },
+  "617001": {
+    "id": "617001",
+    "name": ""
+  },
+  "617110": {
+    "id": "617110",
+    "name": ""
+  },
+  "617120": {
+    "id": "617120",
+    "name": "Cuento para dormir",
+    "desc": "Puedes consumir 100 pts. de energía para lanzar esta habilidad y generar Resonancia de límite con la Vía de la Reminiscencia. Inflige Daño de Hielo a todos los enemigos y tiene una gran probabilidad de afectarlos con Congelación durante 1 turno(s). Después de que un enemigo congelado reciba un ataque de un mnemoduende, recibe adicionalmente un Daño verdadero equivalente al 8% de sus PV máx. Este daño solo se puede activar 4 vez(es) en cada enemigo congelado."
+  },
+  "617130": {
+    "id": "617130",
+    "name": "Intuición infalible",
+    "desc": "Cuando un personaje actúa, él y su mnemoduende obtienen 1 acumulación de Obsesión. Cuando un mnemoduende actúa, él y su mnemomédium obtienen 1 acumulación de Obsesión."
+  },
+  "617131": {
+    "id": "617131",
+    "name": "Recuerdos imborrables",
+    "desc": "Después de que un aliado ataque, inflige un daño adicional equivalente al 1% de su ATQ a los objetivos atacados por cada acumulación de Obsesión que tengan los aliados en total."
+  },
+  "617132": {
+    "id": "617132",
+    "name": "Sueño de paz eterna",
+    "desc": "Después de que un aliado entre en combate o invoque a un mnemoduende, tras terminar el primer turno adelanta su acción un 50% y el daño que inflige aumenta en un 50% durante 4 turnos."
+  },
+  "617140": {
+    "id": "617140",
+    "name": "Comprensión: Nubes entretejidas",
+    "desc": "Cuando un aliado recibe un ataque, obtiene 2 acumulaciones de Obsesión."
+  },
+  "617141": {
+    "id": "617141",
+    "name": "Comprensión: Sierras cosidas",
+    "desc": "Después de que un aliado elimine a un enemigo, todos los aliados obtienen 4 acumulaciones de Obsesión."
+  },
+  "617142": {
+    "id": "617142",
+    "name": "Comprensión: Olas encuadernadas",
+    "desc": "Después de que un aliado entre en combate o de que un mnemoduende sea invocado, obtiene 6 acumulaciones de Obsesión."
+  },
+  "617143": {
+    "id": "617143",
+    "name": "Comprensión: Elegía a las aguas someras",
+    "desc": "Cada acumulación de Obsesión aumenta el daño infligido en un 0.3% adicional."
+  },
+  "617144": {
+    "id": "617144",
+    "name": "Comprensión: Oda al abismo",
+    "desc": "El límite de Obsesión de los personajes aumenta en 4 acumulaciones."
+  },
+  "617145": {
+    "id": "617145",
+    "name": "Comprensión: Amanecer destilado",
+    "desc": "Cada vez que el enemigo recibe un ataque de un aliado distinto, el daño recibido aumenta en un 4%. Se puede acumular hasta 6 veces y dura hasta que finalice el turno."
+  },
+  "617146": {
+    "id": "617146",
+    "name": "Comprensión: Ocaso disuelto",
+    "desc": "Cada vez que el enemigo recibe un ataque de un aliado distinto, el daño que inflige se reduce en un 2%. Se puede acumular hasta 6 veces y dura hasta que finalice el turno."
+  },
+  "617150": {
+    "id": "617150",
+    "name": "Percepción: Calor de cuchilla",
+    "desc": "El ATQ de todos los aliados aumenta en un 18%."
+  },
+  "617151": {
+    "id": "617151",
+    "name": "Percepción: Forma de garra",
+    "desc": "El daño que infligen todos los aliados aumenta en un 12%."
+  },
+  "617152": {
+    "id": "617152",
+    "name": "Percepción: Patrón de caracola",
+    "desc": "La DEF de todos los aliados aumenta en un 16%."
+  },
+  "617153": {
+    "id": "617153",
+    "name": "Percepción: Historias del monzón",
+    "desc": "El daño que infligen todos los aliados aumenta en un 10%. El daño que infligen los mnemoduendes aumenta en un 4% adicional."
+  },
+  "617154": {
+    "id": "617154",
+    "name": "Percepción: Historias de las rocas",
+    "desc": "La DEF de todos los aliados aumenta en un 14%. La DEF de los mnemoduendes aumenta en un 6% adicional."
+  },
+  "617155": {
+    "id": "617155",
+    "name": "Percepción: Historias de la marea",
+    "desc": "Los PV regenerados por todos los aliados aumentan en un 10%. Los PV regenerados por los mnemoduendes aumentan en un 4% adicional."
+  },
+  "617156": {
+    "id": "617156",
+    "name": "Percepción: Hojas rojas y huesos escarlata",
+    "desc": "Después de que un mnemoduende actúe, la Prob. CRIT de todos los aliados aumenta en un 14% durante 2 turnos."
+  },
+  "617157": {
+    "id": "617157",
+    "name": "Percepción: Perlas y canas",
+    "desc": "Después de que un mnemoduende actúe, el Daño CRIT de todos los aliados aumenta en un 28% durante 2 turnos."
+  },
+  "617210": {
+    "id": "617210",
+    "name": ""
+  },
+  "617220": {
+    "id": "617220",
+    "name": "Agujero negro adorable",
+    "desc": "Puedes consumir 100 pts. de energía para lanzar esta habilidad y generar Resonancia de límite con la Vía de la Nihilidad. Afecta con Quemadura, Electrocución, Sangrado y 2 acumulaciones de Intemperie a todos los enemigos durante 3 turno(s). Después de recibir el ataque de un personaje, los efectos de Daño con el tiempo mencionados infligen inmediatamente un 25% de su daño original."
+  },
+  "617230": {
+    "id": "617230",
+    "name": "La comunidad inconfesable",
+    "desc": "Cuando un enemigo es afectado con Daño con el tiempo, Murmullo obtiene una carga equivalente al 20% de la suma del ATQ de los personajes aliados."
+  },
+  "617231": {
+    "id": "617231",
+    "name": "De la existencia al existente",
+    "desc": "Cada vez que un enemigo recibe un ataque por primera vez en un turno, Murmullo inflige un 160% del daño original."
+  },
+  "617232": {
+    "id": "617232",
+    "name": "Una voz venida de otra parte",
+    "desc": "Cuando comienza el turno del enemigo, el Daño con el tiempo se activa 1 vez adicional, lo que hace que el estado de Daño con el tiempo que tenga en ese momento inflija inmediatamente un daño equivalente al 90% del daño original."
+  },
+  "617240": {
+    "id": "617240",
+    "name": "Ilustración y extinción",
+    "desc": "Cuando termina el turno del enemigo, Murmullo obtiene una carga equivalente al 40% de la suma del ATQ de los personajes aliados."
+  },
+  "617241": {
+    "id": "617241",
+    "name": "De lágrimas y de santos",
+    "desc": "Cada vez que un enemigo recibe daño de Murmullo, el daño que inflige se reduce en un 0.3%. Se puede reducir hasta un máximo de un 12%."
+  },
+  "617242": {
+    "id": "617242",
+    "name": "Elogio al insomnio",
+    "desc": "El daño de Murmullo aumenta en un 30% del multiplicador de daño original."
+  },
+  "617243": {
+    "id": "617243",
+    "name": "En las cumbres de la desesperación",
+    "desc": "El umbral de eliminación de Murmullo aumenta en un 50%."
+  },
+  "617244": {
+    "id": "617244",
+    "name": "La escritura del desastre",
+    "desc": "La eficiencia de carga al obtener carga de Murmullo aumenta en un 20%."
+  },
+  "617245": {
+    "id": "617245",
+    "name": "El último orador",
+    "desc": "Cada vez que el enemigo recibe Daño con el tiempo, todos los aliados regeneran una cantidad de PV equivalente al 1.0% de sus PV máx."
+  },
+  "617246": {
+    "id": "617246",
+    "name": "Opiniones inciertas",
+    "desc": "Cada vez que el enemigo es afectado con un estado de Daño con el tiempo, el daño que recibe aumenta en un 3.0%. Se puede acumular hasta 6 veces."
+  },
+  "617250": {
+    "id": "617250",
+    "name": "La metáfora viva",
+    "desc": "El Daño con el tiempo que infligen los aliados aumenta en un 24%."
+  },
+  "617251": {
+    "id": "617251",
+    "name": "El inexistente",
+    "desc": "El acierto de efecto de los aliados aumenta en un 24%."
+  },
+  "617252": {
+    "id": "617252",
+    "name": "La enfermedad mortal",
+    "desc": "La RES a efecto del objetivo enemigo se reduce en un 12%."
+  },
+  "617253": {
+    "id": "617253",
+    "name": "Sacrílego",
+    "desc": "El Daño con el tiempo que recibe el objetivo enemigo aumenta en un 10%."
+  },
+  "617254": {
+    "id": "617254",
+    "name": "La experiencia interior",
+    "desc": "Después de que un aliado aplique un estado negativo, su ATQ aumenta en un 24% durante 2 turnos."
+  },
+  "617255": {
+    "id": "617255",
+    "name": "Sol negro",
+    "desc": "El daño que reciben los enemigos con estados de Daño con el tiempo aumenta en un 8%."
+  },
+  "617256": {
+    "id": "617256",
+    "name": "Más allá del bien y del mal",
+    "desc": "Después de que un aliado aplique un estado negativo, su VEL aumenta en un 10% durante 3 turnos."
+  },
+  "617257": {
+    "id": "617257",
+    "name": "La expulsión de lo distinto",
+    "desc": "Cada vez que un enemigo recibe Daño con el tiempo, un aliado al azar recupera 1.0 pt. de energía. Los enemigos solo pueden activar este efecto 20 veces como máximo en cada turno."
+  },
+  "617410": {
+    "id": "617410",
+    "name": ""
+  },
+  "617420": {
+    "id": "617420",
+    "name": "Última bala",
+    "desc": "Puedes consumir 100 pts. de energía para lanzar esta habilidad y generar Resonancia de límite con la Vía de la Cacería. Inflige Daño de Viento a todos los enemigos y adelanta la acción de todos los aliados en un 100%. La energía máxima es 200 pts."
+  },
+  "617430": {
+    "id": "617430",
+    "name": "Armas prestas, mundo en guerra",
+    "desc": "Después de que un aliado elimine a un enemigo, su acción se adelanta un 100% y los demás enemigos obtienen 4 acumulaciones de Empujón crítico inverso."
+  },
+  "617431": {
+    "id": "617431",
+    "name": "Plumas al viento, cielo sin estrellas",
+    "desc": "Después de que un aliado ataque, cuando la cantidad de objetivos atacados es 1/2/3/4/5, el daño de Empujón crítico inverso infligido aumenta en una cantidad equivalente al 120%/80%/60%/40%/20% del multiplicador de daño original."
+  },
+  "617432": {
+    "id": "617432",
+    "name": "Sucesión, prueba de valor",
+    "desc": "Después de que un aliado rompa la Debilidad de un enemigo, su acción se adelanta un 100%."
+  },
+  "617440": {
+    "id": "617440",
+    "name": "Estrellas en el filo",
+    "desc": "Cuando un aliado inflige daño a un enemigo con Empujón crítico inverso, la Prob. CRIT aumenta en un 20%. Por cada acumulación de Empujón crítico inverso, el Daño CRIT aumenta también en un 3%."
+  },
+  "617441": {
+    "id": "617441",
+    "name": "Flechas remendadas",
+    "desc": "El límite de acumulaciones de Empujón crítico inverso del enemigo aumenta en 5."
+  },
+  "617442": {
+    "id": "617442",
+    "name": "Barahúnda de jinetes",
+    "desc": "Al comenzar el turno de un enemigo, el daño que recibe aumenta en un 0.8% por cada acumulación de Empujón crítico inverso. Dura hasta el comienzo del siguiente turno."
+  },
+  "617443": {
+    "id": "617443",
+    "name": "Rota, pero no doblada",
+    "desc": "Después de que un aliado lance un ataque adicional, un objetivo atacado al azar obtiene 2 acumulación de Empujón crítico inverso."
+  },
+  "617444": {
+    "id": "617444",
+    "name": "Rayo deslumbrante",
+    "desc": "Después de que un aliado ataque, si algún objetivo atacado tiene 5 o más acumulaciones de Empujón crítico inverso, el ATQ del aliado aumenta en un 50% durante 2 turnos."
+  },
+  "617445": {
+    "id": "617445",
+    "name": "Viejo y leal arco",
+    "desc": "Cuando un objetivo aliado lanza un ataque adicional, hay una probabilidad fija del 40% de recuperar 1 pt. de habilidad básica."
+  },
+  "617446": {
+    "id": "617446",
+    "name": "Flechas como meteoros",
+    "desc": "La VEL de los aliados aumenta en un 5%. Tras 12 turnos de todos los aliados, la acción del aliado actual se adelanta un 100%."
+  },
+  "617450": {
+    "id": "617450",
+    "name": "Arco equilibrado",
+    "desc": "La VEL de los aliados aumenta en un 8%."
+  },
+  "617451": {
+    "id": "617451",
+    "name": "Fuerza para derrotar a cientos",
+    "desc": "La Prob. CRIT de los aliados aumenta en un 12%."
+  },
+  "617452": {
+    "id": "617452",
+    "name": "El objetivo está claro",
+    "desc": "El Daño CRIT de los aliados aumenta en un 24%."
+  },
+  "617453": {
+    "id": "617453",
+    "name": "Luna de otoño surcando el cielo",
+    "desc": "Después de eliminar objetivos enemigos, todos los aliados regeneran un 12% de sus PV máx."
+  },
+  "617454": {
+    "id": "617454",
+    "name": "En la unión está la fuerza",
+    "desc": "Tras eliminar enemigos, el ATQ de todos los aliados aumenta en un 10%. Se puede acumular hasta 4 veces."
+  },
+  "617455": {
+    "id": "617455",
+    "name": "Flecha rompelunas",
+    "desc": "Cuando termina el turno de un aliado, su acción se adelanta un 6%."
+  },
+  "617456": {
+    "id": "617456",
+    "name": "Truenos sobre los muros",
+    "desc": "Cuando comienza el turno de un aliado, recupera 3 pts. de energía."
+  },
+  "617457": {
+    "id": "617457",
+    "name": "Mástil verde y cuerda cinabrio",
+    "desc": "Tras eliminar enemigos, la VEL de todos los aliados aumenta en un 4%. Se puede acumular hasta 3 veces."
+  },
+  "617510": {
+    "id": "617510",
+    "name": ""
+  },
+  "617520": {
+    "id": "617520",
+    "name": "Señor de los Forasteros Diabólicos",
+    "desc": "Puedes consumir 100 pts. de energía para lanzar esta habilidad y generar Resonancia de límite con la Vía de la Destrucción. Inflige Daño de Fuego a todos los enemigos y consume los PV de todos los aliados hasta el 60%. Además, aumenta los PV máx. de todos los aliados en un 100%. Al comenzar el turno, regeneran un 100% de los PV consumidos, durante 4 turno(s)."
+  },
+  "617530": {
+    "id": "617530",
+    "name": "Repunte superlumínico",
+    "desc": "El daño de Blázar que infligen los aliados aumenta en un 20%. El límite de Blázar aumenta en un 65%."
+  },
+  "617531": {
+    "id": "617531",
+    "name": "Ondas de choque aleatorias",
+    "desc": "Cada vez que un aliado ataca por primera vez en un turno, inflige daño adicional equivalente al 100% de Blázar a los objetivos atacados."
+  },
+  "617532": {
+    "id": "617532",
+    "name": "Medio nebuloso ultrarrápido",
+    "desc": "Cuando un aliado recibe un ataque, el daño recibido se reparte entre todos los aliados."
+  },
+  "617540": {
+    "id": "617540",
+    "name": "Llamas compactas",
+    "desc": "Cuando un aliado recibe un ataque, el multiplicador de daño de Blázar aumenta en un 20% del multiplicador original. Se puede acumular hasta 2 veces y dura 2 turnos."
+  },
+  "617541": {
+    "id": "617541",
+    "name": "Radiación sincronizada",
+    "desc": "El 40% del efecto de escudo que obtienen los aliados se transforma adicionalmente en Blázar."
+  },
+  "617542": {
+    "id": "617542",
+    "name": "Espectro continuo",
+    "desc": "El 40% de los PV regenerados en exceso se puede transformar en Blázar."
+  },
+  "617543": {
+    "id": "617543",
+    "name": "Franjas de sombra ocultas",
+    "desc": "El valor base de Blázar aumenta en un 50%."
+  },
+  "617544": {
+    "id": "617544",
+    "name": "Variable catastrófica",
+    "desc": "La Prob. CRIT y el Daño CRIT del daño infligido por Blázar aumentan en un 20% y un 50% respectivamente."
+  },
+  "617545": {
+    "id": "617545",
+    "name": "Salto forzoso",
+    "desc": "Si el porcentaje de PV de un aliado es inferior al 35% después de recibir un ataque o consumir PV, regenera una cantidad de PV equivalente al 12% de sus PV máx. En una única acción, se puede regenerar como máximo un 18% de los PV máx. de esta manera."
+  },
+  "617546": {
+    "id": "617546",
+    "name": "Radiactividad",
+    "desc": "Cuando el porcentaje de PV de un aliado es inferior al 50%, el daño que recibe se reduce en un 10% y los PV regenerados aumentan en un 20%."
+  },
+  "617550": {
+    "id": "617550",
+    "name": "Torrente bipolar",
+    "desc": "El daño que reciben los aliados se reduce en un 6%."
+  },
+  "617551": {
+    "id": "617551",
+    "name": "Estructura segmentada doble",
+    "desc": "La RES a efecto de los aliados aumenta en un 12%."
+  },
+  "617552": {
+    "id": "617552",
+    "name": "Estrellas gemelas en contacto",
+    "desc": "Los PV máx. de los aliados aumentan en un 16%."
+  },
+  "617553": {
+    "id": "617553",
+    "name": "Magnitud absoluta",
+    "desc": "Los PV regenerados por los aliados aumentan en un 12%."
+  },
+  "617554": {
+    "id": "617554",
+    "name": "Candela estándar",
+    "desc": "El efecto de escudo que obtienen los aliados aumenta en un 12%."
+  },
+  "617555": {
+    "id": "617555",
+    "name": "Subestrella con transferencia de masa",
+    "desc": "Después de que los PV o el efecto de escudo de un aliado se reduzcan, sus PV máx. aumentan en un 20% durante 2 turnos."
+  },
+  "617556": {
+    "id": "617556",
+    "name": "Estrella binaria eclipsante",
+    "desc": "Después de que los PV o el efecto de escudo de un aliado se reduzcan, su RES a efecto aumenta en un 16% durante 2 turnos."
+  },
+  "617557": {
+    "id": "617557",
+    "name": "Estallido de nova",
+    "desc": "Al recibir un golpe letal, el personaje no es derrotado y regenera inmediatamente un 20% de sus PV máx. Este efecto solo se puede activar 1 vez en cada batalla (entre todo el equipo)."
+  },
+  "617610": {
+    "id": "617610",
+    "name": ""
+  },
+  "617620": {
+    "id": "617620",
+    "name": "Improbabilidad infinita",
+    "desc": "Puedes consumir 100 pts. de energía para lanzar esta habilidad y generar Resonancia de límite con la Vía de la Exultación. Inflige Daño de Exultación de tipo aleatorio 5 - 10 veces a todos los enemigos, y hace que Aha obtenga inmediatamente un turno adicional que cuenta como 200 puntos fijos de Chiste. Este turno no consume Chiste."
+  },
+  "617630": {
+    "id": "617630",
+    "name": "Pizza de regaliz y granizado de menta",
+    "desc": "Por cada 50 puntos de valor de acción transcurridos, el Repartidor obtiene permanentemente 1 pt. de carga. Por cada pt. de carga que tenga el Repartidor, la VEL de los eventos de combate neutrales, de todos los aliados y de sus invocaciones aumenta en 1."
+  },
+  "617631": {
+    "id": "617631",
+    "name": "Comodoro del océano: Mundo del ayer",
+    "desc": "Después de que el Repartidor actúe, genera 5 puntos de Chiste y el Daño CRIT de todos los aliados aumenta en un 60% durante 2 turnos."
+  },
+  "617632": {
+    "id": "617632",
+    "name": "Arenas del alba: Solo de baile",
+    "desc": "La PEN de la RES a todos los tipos de un aliado aumenta en un 10%. Cuando los puntos de Chiste llegan por primera vez a 50/100/200/300/500, la Exultación de todos los aliados aumenta en un 20%. Se puede acumular."
+  },
+  "617640": {
+    "id": "617640",
+    "name": "Un mes de quietud en casa",
+    "desc": "La Prob. CRIT y el Daño CRIT del Repartidor aumentan en un 20% y un 50% respectivamente."
+  },
+  "617641": {
+    "id": "617641",
+    "name": "El subteniente que amaba el caviar",
+    "desc": "Cuando el Repartidor inflige daño, el daño que reciben los objetivos atacados aumenta en un 5%. Este efecto se puede acumular y dura hasta la siguiente acción del Repartidor."
+  },
+  "617642": {
+    "id": "617642",
+    "name": "Qué bonito es tu armario, ¿lo sabías?",
+    "desc": "La VEL base del Repartidor aumenta en 16 pts. y su acción se adelanta un 50% al comenzar la batalla."
+  },
+  "617643": {
+    "id": "617643",
+    "name": "Semilla de un fruto extraño y divino",
+    "desc": "Después de que el Repartidor actúe, la VEL de todos los aliados aumenta en un 18% durante 2 turnos."
+  },
+  "617644": {
+    "id": "617644",
+    "name": "Maullido del gato cósmico",
+    "desc": "Cuando el Repartidor inflige daño, el daño que infligen los objetivos atacados se reduce en un 4%. Este efecto se puede acumular hasta 3 veces y dura hasta la siguiente acción del Repartidor."
+  },
+  "617645": {
+    "id": "617645",
+    "name": "Simón en el mar",
+    "desc": "El daño que infligen los aliados ignora un 8% de la DEF de los enemigos. Si es Daño de Exultación, ignora un 4% adicional."
+  },
+  "617646": {
+    "id": "617646",
+    "name": "El largo camino hacia la luz del día",
+    "desc": "Cuando un aliado inflige Daño de Exultación, la eficiencia de la Ruptura de Debilidad aumenta en un 35%."
+  },
+  "617650": {
+    "id": "617650",
+    "name": "Aparcamiento psicodélico",
+    "desc": "Al entrar en combate, la acción de todos los aliados se adelanta un 30% y obtienen 10 puntos de Chiste."
+  },
+  "617651": {
+    "id": "617651",
+    "name": "Líneas románticas",
+    "desc": "El daño que reciben todos los aliados se reduce en un 4%. Tras la primera acción de Aha, se reduce en un 3% adicional."
+  },
+  "617652": {
+    "id": "617652",
+    "name": "La ciudad Omega",
+    "desc": "La Prob. CRIT de los aliados aumenta en un 10%. Al infligir Daño de Exultación, aumenta en un 4% adicional."
+  },
+  "617653": {
+    "id": "617653",
+    "name": "Sr. Violento",
+    "desc": "El Daño CRIT de los aliados aumenta en un 20%. Al infligir Daño de Exultación, aumenta en un 8% adicional."
+  },
+  "617654": {
+    "id": "617654",
+    "name": "Refugio olvidado",
+    "desc": "Cuando Aha actúa, recupera 4 pts. de energía para todos los aliados. Este efecto se puede activar hasta 1 vez por turno para cada aliado."
+  },
+  "617655": {
+    "id": "617655",
+    "name": "Oro y monedas grises",
+    "desc": "Tras la acción de Aha, todos los aliados obtienen un escudo equivalente al 20% de sus PV máx. durante 2 turnos."
+  },
+  "617656": {
+    "id": "617656",
+    "name": "La Muerte viene montada",
+    "desc": "La DEF de todos los aliados aumenta en un 12%. Tras la primera acción de Aha, aumenta en un 8% adicional."
+  },
+  "617657": {
+    "id": "617657",
+    "name": "Ciudad felina",
+    "desc": "La VEL de todos los aliados aumenta en un 6%. Tras la primera acción de Aha, aumenta en un 4% adicional."
+  },
+  "617710": {
+    "id": "617710",
+    "name": ""
+  },
+  "617720": {
+    "id": "617720",
+    "name": "Creación fabularia",
+    "desc": "Consume 100 pts. de energía para lanzar esta habilidad y generar Resonancia de límite con la Vía de la Propagación. Un aliado determinado actúa de inmediato, recupera 5 pt(s). de habilidad básica y obtiene el efecto de Levitación. La ecuación de límite recupera 50 pts. de energía cada vez que un personaje con el efecto de Levitación elimine un enemigo. La energía máxima es 200 pts."
+  },
+  "617730": {
+    "id": "617730",
+    "name": "Mimetismo mülleriano",
+    "desc": "El ATQ de los aliados aumenta en un 50%. Cada vez que se obtiene o se consume 1 pt. de habilidad básica, se carga un 6% de Crisálida espiritual."
+  },
+  "617731": {
+    "id": "617731",
+    "name": "Esporas eyectables",
+    "desc": "En el estado de Alma de mariposa, el daño de ATQ básico/habilidad básica que infligen los aliados aumenta en un 40%. Además, Alma de mariposa inflige adicionalmente un 15% del daño original como Daño verdadero."
+  },
+  "617732": {
+    "id": "617732",
+    "name": "Gotas de Buller",
+    "desc": "Después de que un aliado consuma pts. de habilidad básica, el Daño CRIT de todos los aliados aumenta en un 2%. Se puede acumular hasta 35 veces. Después de lanzar la habilidad definitiva, la siguiente vez que se consuman pts. de habilidad básica se considera como si se consumiera 1 punto adicional."
+  },
+  "617740": {
+    "id": "617740",
+    "name": "Esporocarpo",
+    "desc": "Tras eliminar a un enemigo, se carga un 30% de Crisálida espiritual."
+  },
+  "617741": {
+    "id": "617741",
+    "name": "Quitina",
+    "desc": "El ATQ de los aliados aumenta en un 30%. Al entrar en combate, se carga un 30% adicional de Crisálida espiritual."
+  },
+  "617742": {
+    "id": "617742",
+    "name": "Pupa libre",
+    "desc": "Cuando Crisálida espiritual se convierte en Alma de mariposa, regenera un 60% de PV y el daño infligido en ese estado aumenta en un 20%."
+  },
+  "617743": {
+    "id": "617743",
+    "name": "Basidiosporas",
+    "desc": "En el estado Alma de mariposa, la PEN de la RES a todos los tipos del daño de ATQ básico y de habilidad básica aumenta en un 14%."
+  },
+  "617744": {
+    "id": "617744",
+    "name": "Tonos estructurales",
+    "desc": "En el estado de Crisálida espiritual, la VEL aumenta en un 16%. En el estado de Alma de mariposa, el daño que infligen el ATQ básico y la habilidad básica aumentan en un 50%."
+  },
+  "617745": {
+    "id": "617745",
+    "name": "Bastón sensorial apical",
+    "desc": "Cada vez que un aliado consume 1 pt. de habilidad básica, el daño que recibe se reduce en un 6% durante 2 turnos. Este efecto se puede acumular hasta 2 veces."
+  },
+  "617746": {
+    "id": "617746",
+    "name": "Hechizo salpicador",
+    "desc": "El daño de ATQ básico/habilidad básica infligido por los aliados inflige un daño equivalente al 10% del daño original a los objetivos adyacentes."
+  },
+  "617750": {
+    "id": "617750",
+    "name": "Base fúngica",
+    "desc": "Cuando un aliado consume pts. de habilidad básica, hay una probabilidad fija del 16% de recuperar 1 pt. de habilidad básica."
+  },
+  "617751": {
+    "id": "617751",
+    "name": "Hebra colgante",
+    "desc": "El daño que inflige el ATQ básico y la habilidad básica de los aliados aumenta en un 30%."
+  },
+  "617752": {
+    "id": "617752",
+    "name": "Manchas oculares",
+    "desc": "El Daño CRIT que inflige el ATQ básico y la habilidad básica de los aliados aumenta en un 32%."
+  },
+  "617753": {
+    "id": "617753",
+    "name": "Alas dorsales",
+    "desc": "La Prob. CRIT del ATQ básico y la habilidad básica de los aliados aumenta en un 16%."
+  },
+  "617754": {
+    "id": "617754",
+    "name": "Paredes gruesas",
+    "desc": "Cuando un aliado consume pts. de habilidad básica, su DEF aumenta en un 30% durante 1 turno."
+  },
+  "617755": {
+    "id": "617755",
+    "name": "Segmentos tarsianos",
+    "desc": "Cuando un aliado consume pts. de habilidad básica, su VEL aumenta en un 8% durante 2 turnos."
+  },
+  "617756": {
+    "id": "617756",
+    "name": "Barbas labiales",
+    "desc": "Cuando un aliado consume pts. de habilidad básica, recupera 2 pts. de energía."
+  },
+  "617757": {
+    "id": "617757",
+    "name": "Reproducción por brotes",
+    "desc": "Cuando un aliado consume pts. de habilidad básica, regenera un 10% de sus PV máx."
+  },
+  "617810": {
+    "id": "617810",
+    "name": ""
+  },
+  "617820": {
+    "id": "617820",
+    "name": "Referencias",
+    "desc": "Consume 100 pts. de energía para lanzar esta habilidad y generar Resonancia de límite con la Vía de la Erudición. Inflige una pequeña cantidad de Daño Imaginario a todos los enemigos. Además, conecta al enemigo con los PV máx. más altos con otros enemigos y afecta a todos los enemigos con Enlace central. Todos los aliados recuperan una cantidad de energía equivalente al 100% de la energía máxima."
+  },
+  "617830": {
+    "id": "617830",
+    "name": "Hipocampo TR-303",
+    "desc": "Después de que un aliado rompa la Debilidad de un enemigo, carga el Cerebro en una cubeta en un 10%. Si es un enemigo de élite, lo carga un 40%."
+  },
+  "617831": {
+    "id": "617831",
+    "name": "Núcleo accumbens DBS-45",
+    "desc": "Cuando los aliados infligen daño letal a los enemigos, cargan un 50% el Cerebro en una cubeta."
+  },
+  "617832": {
+    "id": "617832",
+    "name": "Materia oscura ELO-536",
+    "desc": "La PEN de la RES a todos los tipos del daño de habilidad definitiva de los objetivos aliados aumenta en un 20%. Por cada enemigo golpeado por la habilidad definitiva tras lanzarla, la PEN de la RES a todos los tipos del daño de habilidad definitiva infligido aumenta en un 3% adicional. Dura hasta después de que se lance la próxima habilidad definitiva."
+  },
+  "617840": {
+    "id": "617840",
+    "name": "Reinicio: Nervio terminal",
+    "desc": "Cuando los aliados usan Cerebro en una cubeta para lanzar la habilidad definitiva, el Daño CRIT aumenta en un 80%. Este aumento de Daño CRIT dura hasta que termine la habilidad."
+  },
+  "617841": {
+    "id": "617841",
+    "name": "Iteración: Mapa cognitivo",
+    "desc": "Cuando los aliados usan Cerebro en una cubeta para lanzar la habilidad definitiva, obtienen un escudo equivalente al 36% de sus PV máx. Dura 2 turnos."
+  },
+  "617842": {
+    "id": "617842",
+    "name": "Análisis: Memoria procedural",
+    "desc": "Cuando los aliados usan Cerebro en una cubeta para lanzar la habilidad definitiva, el daño que infligen todos los aliados aumenta en un 36% durante 2 turnos."
+  },
+  "617843": {
+    "id": "617843",
+    "name": "Estabilización: Sueño de ondas lentas",
+    "desc": "Después de que un aliado reciba un ataque, Cerebro en una cubeta se carga un 6%."
+  },
+  "617844": {
+    "id": "617844",
+    "name": "Derivación: Demarcación celular",
+    "desc": "Después de que un aliado use Cerebro en una cubeta para lanzar la habilidad definitiva, su ATQ aumenta en un 60% durante 2 turnos."
+  },
+  "617845": {
+    "id": "617845",
+    "name": "Ejecución: Aprendizaje potenciado",
+    "desc": "Cuando un aliado lanza su habilidad definitiva para atacar a enemigos con Ruptura de Debilidad, la acción del enemigo se retrasa un 16%. Este efecto se puede activar hasta 3 veces cada vez que el enemigo sufra Ruptura de Debilidad."
+  },
+  "617846": {
+    "id": "617846",
+    "name": "Apertura: Camino directo",
+    "desc": "Si una habilidad de ATQ AdE de un aliado solo ataca a un enemigo, este ataque inflige adicionalmente una cantidad fija de daño equivalente al 40% del daño original al enemigo atacado."
+  },
+  "617850": {
+    "id": "617850",
+    "name": "Estandartes titilantes",
+    "desc": "El daño de habilidad definitiva que infligen los aliados aumenta en un 20%."
+  },
+  "617851": {
+    "id": "617851",
+    "name": "Armadura con almacenamiento de estado sólido",
+    "desc": "La Prob. CRIT del daño de habilidad definitiva que infligen los aliados aumenta en un 18%."
+  },
+  "617852": {
+    "id": "617852",
+    "name": "Mapa con borrado de seguridad",
+    "desc": "El Daño CRIT del daño de habilidad definitiva que infligen los aliados aumenta en un 36%."
+  },
+  "617853": {
+    "id": "617853",
+    "name": "Paquete con alineación de particiones",
+    "desc": "Al entrar en combate, se recupera una cantidad de energía equivalente al 30% de la energía máxima."
+  },
+  "617854": {
+    "id": "617854",
+    "name": "Ruta con eliminación de macrobloques",
+    "desc": "Cuando un aliado lanza la habilidad definitiva, su ATQ aumenta en un 24% durante 2 turnos."
+  },
+  "617855": {
+    "id": "617855",
+    "name": "Faro con resonancia cristalina",
+    "desc": "Después de que un aliado lance la habilidad definitiva, sus PV máx. aumentan en un 20% durante 2 turnos."
+  },
+  "617856": {
+    "id": "617856",
+    "name": "Lente con guía óptica",
+    "desc": "Después de que un aliado lance la habilidad definitiva, regenera una cantidad de PV equivalente al 20% de sus PV máx."
+  },
+  "617857": {
+    "id": "617857",
+    "name": "Pista escrita secuencialmente",
+    "desc": "Cuando un personaje recibe un golpe letal, no es derrotado, sino que consume toda su energía y regenera una cantidad de PV equivalente al 50% de la energía consumida. Este efecto solo se puede activar una vez por batalla entre todos los aliados."
+  },
+  "617910": {
+    "id": "617910",
+    "name": ""
+  },
+  "617920": {
+    "id": "617920",
+    "name": "Baile jubiloso",
+    "desc": "Consume 100 pts. de energía para lanzar esta habilidad y generar Resonancia de límite con la Vía de la Armonía. Inflige Daño Cuántico a todos los enemigos y rompe su Debilidad en un 1000% de su efecto de Ruptura. Al romper la Debilidad, se activa el efecto de Ruptura de Debilidad de todos los tipos."
+  },
+  "617930": {
+    "id": "617930",
+    "name": "Primer movimiento: La rana y el caballero",
+    "desc": "Cada vez que un enemigo recibe 10 puntos de Reducción de Firmeza real, se le aplica 1 acumulación de Armónico."
+  },
+  "617931": {
+    "id": "617931",
+    "name": "Segundo movimiento: El desayuno del fauno",
+    "desc": "Después de que un aliado ataque a un enemigo con Ruptura de Debilidad, se activa 1 vez daño de Armónico con una proporción del 8%."
+  },
+  "617932": {
+    "id": "617932",
+    "name": "Tercer movimiento: Forma de rondó",
+    "desc": "Cuando un aliado rompe la Debilidad de un enemigo, también se activa el efecto de Ruptura de Debilidad de las demás Debilidades que tenga el objetivo en una proporción del 50%."
+  },
+  "617940": {
+    "id": "617940",
+    "name": "Periodo de la práctica común",
+    "desc": "Después de que un enemigo con Armónico sea eliminado, 1 objetivo adyacente al azar obtiene sus acumulaciones de Armónico."
+  },
+  "617941": {
+    "id": "617941",
+    "name": "Cáliz de Dionisio",
+    "desc": "Después de que un aliado ataque a un enemigo con Ruptura de Debilidad, le aplica 1 acumulación de Armónico."
+  },
+  "617942": {
+    "id": "617942",
+    "name": "Pulso coronal",
+    "desc": "El Daño de Ruptura que recibe un enemigo aumenta en un 1.0% por cada acumulación de Armónico que tenga."
+  },
+  "617943": {
+    "id": "617943",
+    "name": "Cuarteto de cuerda",
+    "desc": "Cuando se activa el daño de Armónico, se calculan adicionalmente 5 acumulaciones. El límite de acumulaciones de Armónico aumenta en 5."
+  },
+  "617944": {
+    "id": "617944",
+    "name": "Pentámetro yámbico",
+    "desc": "El multiplicador de daño de Armónico aumenta en un 30% del multiplicador original."
+  },
+  "617945": {
+    "id": "617945",
+    "name": "Bajo continuo",
+    "desc": "Después que un aliado ataque a un enemigo con Ruptura de Debilidad, la Reducción de Firmeza del ataque se convierte 1 vez en un 50% de Daño de Ultrarruptura."
+  },
+  "617946": {
+    "id": "617946",
+    "name": "Nomo sincero",
+    "desc": "Cuando un aliado rompe la Debilidad de un enemigo, hay una probabilidad base del 100% de afectarlo con Congelación durante 1 turno."
+  },
+  "617950": {
+    "id": "617950",
+    "name": "Tejido paralizado",
+    "desc": "Cuando un aliado rompe la Debilidad de un enemigo, retrasa su acción un 20%."
+  },
+  "617951": {
+    "id": "617951",
+    "name": "Declaración original",
+    "desc": "El Daño de Ruptura que infligen los aliados aumenta en un 8%."
+  },
+  "617952": {
+    "id": "617952",
+    "name": "Tormenta tranquila",
+    "desc": "El efecto de Ruptura de los aliados aumenta en un 30%."
+  },
+  "617953": {
+    "id": "617953",
+    "name": "Melodía lineal",
+    "desc": "Cuando un aliado rompe la Debilidad de un enemigo, su VEL aumenta en un 12% durante 3 turnos."
+  },
+  "617954": {
+    "id": "617954",
+    "name": "Ritmo de cruce",
+    "desc": "Cuando un aliado rompe la Debilidad de un enemigo, el efecto de Ruptura de todos los aliados aumenta en un 40% durante 3 turnos."
+  },
+  "617955": {
+    "id": "617955",
+    "name": "Tonalidad libre",
+    "desc": "El Daño de Ruptura que reciben los enemigos aumenta en un 16%."
+  },
+  "617956": {
+    "id": "617956",
+    "name": "Caballero del infortunio",
+    "desc": "La DEF de los enemigos con Ruptura de Debilidad disminuye en un 15%."
+  },
+  "617957": {
+    "id": "617957",
     "name": "Innovación musical",
     "desc": "Cuando un aliado rompe la Debilidad de un enemigo, regenera una cantidad de PV equivalente al 24% de sus PV máx."
   },
@@ -3426,6 +4227,461 @@
     "id": "634128",
     "name": "Reparador terrestre",
     "desc": "El daño final que infligen los aliados con Geocristal aumenta adicionalmente en un 50%."
+  },
+  "661001": {
+    "id": "661001",
+    "name": "Siete de Marzo",
+    "desc": "El daño de Siete de Marzo se amplifica en el Universo Diferenciado.\n\nEl acierto de efecto aumenta en un 30%. Cuando está en el campo de batalla, la DEF de los enemigos afectados con Congelación se reduce en un 20%."
+  },
+  "661002": {
+    "id": "661002",
+    "name": "Dan Heng",
+    "desc": "El daño de Dan Heng se amplifica en el Universo Diferenciado.\n\nLa VEL aumenta en un 10%. Por cada 10 pts. de VEL que superen los 150, el daño final infligido aumenta en un 2.0%, hasta un máximo del 30%."
+  },
+  "661003": {
+    "id": "661003",
+    "name": "Himeko",
+    "desc": "El daño de Himeko se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos con Ruptura de Debilidad aumenta en un 35%."
+  },
+  "661004": {
+    "id": "661004",
+    "name": "Welt",
+    "desc": "El daño de Welt se amplifica en el Universo Diferenciado.\n\nTras aplicar el estado de Prisión, retrasa la acción de los enemigos en un 30% adicional y aumenta el daño que reciben en un 15% durante 2 turno(s)."
+  },
+  "661005": {
+    "id": "661005",
+    "name": "Kafka",
+    "desc": "El daño de Kafka se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos que tengan al menos 3 estados de Daño con el tiempo aumenta en un 12%. Por cada estado de Daño con el tiempo que exceda esta cantidad, este daño aumenta en un 1% adicional."
+  },
+  "661006": {
+    "id": "661006",
+    "name": "Silver Wolf",
+    "desc": "El daño de Silver Wolf se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos con al menos 8 estados negativos aumenta en un 10%. Por cada estado negativo que exceda esa cantidad, este daño aumenta en un 1% adicional."
+  },
+  "661008": {
+    "id": "661008",
+    "name": "Arlan",
+    "desc": "El daño de Arlan se amplifica en el Universo Diferenciado.\n\nCuando su porcentaje de PV es inferior al 50%, el daño final infligido aumenta en un 40%."
+  },
+  "661009": {
+    "id": "661009",
+    "name": "Asta",
+    "desc": "El daño de Asta se amplifica en el Universo Diferenciado.\n\nCuando está en el campo de batalla, la VEL de todos los aliados aumenta en una cantidad equivalente al 10% de la VEL de Asta."
+  },
+  "661013": {
+    "id": "661013",
+    "name": "Herta",
+    "desc": "El daño de Herta se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos con un porcentaje de PV inferior al 50% aumenta en un 35%."
+  },
+  "661014": {
+    "id": "661014",
+    "name": "Saber",
+    "desc": "El daño de Saber se amplifica en el Universo Diferenciado.\n\nCada vez que lanza la habilidad definitiva, el daño final que inflige aumenta en un 3%. Este efecto se puede acumular hasta 10 veces."
+  },
+  "661015": {
+    "id": "661015",
+    "name": "Archer",
+    "desc": "El daño de Archer se amplifica en el Universo Diferenciado.\n\nEl daño final infligido aumenta en un 15%. Al comenzar el turno, recupera 1 pt(s). de habilidad básica."
+  },
+  "661101": {
+    "id": "661101",
+    "name": "Bronya",
+    "desc": "El daño de Bronya se amplifica en el Universo Diferenciado.\n\nCuando está en el campo de batalla, el daño final que inflige el primer personaje de la formación y su mnemoduende aumenta en un 12%."
+  },
+  "661102": {
+    "id": "661102",
+    "name": "Seele",
+    "desc": "El daño de Seele se amplifica en el Universo Diferenciado.\n\nTras atacar, si el porcentaje de PV del objetivo es igual o inferior al 15%, le inflige un Daño verdadero equivalente a sus PV actuales."
+  },
+  "661103": {
+    "id": "661103",
+    "name": "Serval",
+    "desc": "El daño de Serval se amplifica en el Universo Diferenciado.\n\nEl daño final infligido aumenta en un 4% por cada enemigo que haya en el campo de batalla. Tras eliminar a un enemigo, el daño final en esta batalla aumenta adicionalmente en un 2%. Este efecto se puede acumular."
+  },
+  "661104": {
+    "id": "661104",
+    "name": "Gepard",
+    "desc": "El daño de Gepard se amplifica en el Universo Diferenciado.\n\nEl acierto de efecto aumenta en un 30%. Mientras está en el campo de batalla, la DEF de los enemigos afectados con Congelación se reduce en un 20%."
+  },
+  "661105": {
+    "id": "661105",
+    "name": "Natasha",
+    "desc": "El daño de Natasha se amplifica en el Universo Diferenciado.\n\nLa curación realizada aumenta en un 30% y otorga a los objetivos curados una reducción de daño del 15% durante 2 turno(s)."
+  },
+  "661106": {
+    "id": "661106",
+    "name": "Pela",
+    "desc": "El daño de Pela se amplifica en el Universo Diferenciado.\n\nMientras esté en el campo de batalla, el ATQ de los aliados aumenta en una cantidad equivalente al 12% del ATQ de Pela."
+  },
+  "661107": {
+    "id": "661107",
+    "name": "Clara",
+    "desc": "El daño de Clara se amplifica en el Universo Diferenciado.\n\nEl daño recibido se reduce en un 10% y el daño final que infligen los ataques adicionales aumenta en un 20%."
+  },
+  "661108": {
+    "id": "661108",
+    "name": "Sampo",
+    "desc": "El daño de Sampo se amplifica en el Universo Diferenciado.\n\nTras atacar con la habilidad definitiva, todos los estados de Daño con el tiempo que tengan los objetivos en ese momento infligen inmediatamente un 60% del daño original."
+  },
+  "661109": {
+    "id": "661109",
+    "name": "Hook",
+    "desc": "El daño de Hook se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a enemigos con un porcentaje de PV inferior al 50% aumenta en un 35%."
+  },
+  "661110": {
+    "id": "661110",
+    "name": "Lynx",
+    "desc": "El daño de Lynx se amplifica en el Universo Diferenciado.\n\nLa curación realizada aumenta en un 30% y el daño que reciben los objetivos curados se reduce en un 15% durante 2 turno(s)."
+  },
+  "661111": {
+    "id": "661111",
+    "name": "Luka",
+    "desc": "El daño de Luka se amplifica en el Universo Diferenciado.\n\nTras atacar con la habilidad definitiva, todos los estados de Daño con el tiempo que tenga el objetivo en ese momento se activan inmediatamente e infligen un 120% del daño original."
+  },
+  "661112": {
+    "id": "661112",
+    "name": "Topaz y Conti",
+    "desc": "El daño de Topaz y Conti se amplifica en el Universo Diferenciado.\n\nCada vez que ataca, el daño final infligido aumenta en un 4%. Se acumula hasta 10 veces y se disipa cuando se reducen sus PV."
+  },
+  "661201": {
+    "id": "661201",
+    "name": "Qingque",
+    "desc": "El daño de Qingque se amplifica en el Universo Diferenciado.\n\nEl daño final infligido aumenta en un 15%. Al comenzar el turno, recupera 1  pt(s). de habilidad básica."
+  },
+  "661202": {
+    "id": "661202",
+    "name": "Tingyun",
+    "desc": "El daño de Tingyun se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el ATQ de los aliados aumenta en una cantidad equivalente al 12% del ATQ de Tingyun."
+  },
+  "661203": {
+    "id": "661203",
+    "name": "Luocha",
+    "desc": "El daño de Luocha se amplifica en el Universo Diferenciado. \n\nMientras está en el campo de batalla, el daño final que infligen los aliados aumenta en un 8%."
+  },
+  "661204": {
+    "id": "661204",
+    "name": "Jing Yuan",
+    "desc": "El daño de Jing Yuan se amplifica en el Universo Diferenciado.\n\nAl lanzar un ataque adicional, su acción se adelanta un 20%."
+  },
+  "661205": {
+    "id": "661205",
+    "name": "Blade",
+    "desc": "El daño de Blade se amplifica en el Universo Diferenciado.\n\nTras reducirse sus PV, los PV regenerados aumentan en un 15% y el daño final aumenta en un 15% durante 2 turno(s)."
+  },
+  "661206": {
+    "id": "661206",
+    "name": "Sushang",
+    "desc": "El daño de Sushang se amplifica en el Universo Diferenciado.\n\nTras romper la Debilidad de un enemigo, su VEL aumenta en un 4%. Se puede acumular hasta 10 veces."
+  },
+  "661207": {
+    "id": "661207",
+    "name": "Yukong",
+    "desc": "El daño de Yukong se amplifica en el Universo Diferenciado.\n\nCuando está en el campo de batalla, el ATQ de los aliados aumenta en una cantidad equivalente al 12% del ATQ de Yukong."
+  },
+  "661208": {
+    "id": "661208",
+    "name": "Fu Xuan",
+    "desc": "El daño de Fu Xuan se amplifica en el Universo Diferenciado.\n\nEl daño recibido se reduce en un 20% y, al comienzo del turno, regenera un 15% de sus PV máx."
+  },
+  "661209": {
+    "id": "661209",
+    "name": "Yanqing",
+    "desc": "El daño de Yanqing se amplifica en el Universo Diferenciado.\n\nCada vez que ataca, el daño final infligido aumenta en un 4%. Se acumula hasta 10 veces y se disipa cuando se reducen sus PV."
+  },
+  "661210": {
+    "id": "661210",
+    "name": "Guinaifen",
+    "desc": "El daño de Guinaifen se amplifica en el Universo Diferenciado.\n\nTras atacar con la habilidad definitiva, todos los estados de Daño con el tiempo que tenga el objetivo en ese momento se activan inmediatamente e infligen un 60% del daño original."
+  },
+  "661211": {
+    "id": "661211",
+    "name": "Bailu",
+    "desc": "El daño de Bailu se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el daño final que infligen los aliados aumenta en un 8%."
+  },
+  "661212": {
+    "id": "661212",
+    "name": "Jingliu",
+    "desc": "El daño de Jingliu se amplifica en el Universo Diferenciado.\n\nTras reducirse sus PV, los PV regenerados aumentan en un 15% y el daño final aumenta en un 15% durante 2 turno(s)."
+  },
+  "661213": {
+    "id": "661213",
+    "name": "Dan Heng - Imbibitor Lunae",
+    "desc": "El daño de Dan Heng - Imbibitor Lunae se amplifica en el Universo Diferenciado.\n\nEl daño final infligido aumenta en un 15%. Al comenzar el turno, recupera 1 pt(s). de habilidad básica."
+  },
+  "661214": {
+    "id": "661214",
+    "name": "Xueyi",
+    "desc": "El daño de Xueyi se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos con Ruptura de Debilidad aumenta en un 35%."
+  },
+  "661215": {
+    "id": "661215",
+    "name": "Hanya",
+    "desc": "El daño de Hanya se amplifica en el Universo Diferenciado.\n\nCuando está en el campo de batalla, la VEL de todos los aliados aumenta en una cantidad equivalente al 10% de la VEL de Hanya."
+  },
+  "661217": {
+    "id": "661217",
+    "name": "Huohuo",
+    "desc": "El daño de Huohuo se amplifica en el Universo Diferenciado.\n\nLa curación realizada aumenta en un 30% y el daño que reciben los objetivos curados se reduce en un 15% durante 2 turno(s)."
+  },
+  "661218": {
+    "id": "661218",
+    "name": "Jiaoqiu",
+    "desc": "El daño de Jiaoqiu se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el daño final que infligen los aliados aumenta en un 8%."
+  },
+  "661220": {
+    "id": "661220",
+    "name": "Feixiao",
+    "desc": "El daño de Feixiao se amplifica en el Universo Diferenciado.\n\nCada vez que ataca, el daño final infligido aumenta en un 4%. Se acumula hasta 10 veces y se disipa cuando se reducen sus PV."
+  },
+  "661221": {
+    "id": "661221",
+    "name": "Yunli",
+    "desc": "El daño de Yunli se amplifica en el Universo Diferenciado.\n\nEl daño recibido se reduce en un 10% y el daño final que infligen los ataques adicionales aumenta en un 20%."
+  },
+  "661222": {
+    "id": "661222",
+    "name": "Lingsha",
+    "desc": "El daño de Lingsha se amplifica en el Universo Diferenciado.\n\nLa curación realizada aumenta en un 30% y el daño que reciben los objetivos curados se reduce en un 15% durante 2 turno(s)."
+  },
+  "661223": {
+    "id": "661223",
+    "name": "Moze",
+    "desc": "El daño de Moze se amplifica en el Universo Diferenciado.\n\nCada vez que ataca, el daño final infligido aumenta en un 4%. Se acumula hasta 10 veces y se disipa cuando se reducen sus PV."
+  },
+  "661224": {
+    "id": "661224",
+    "name": "Siete de Marzo",
+    "desc": "El daño de Siete de Marzo se amplifica en el Universo Diferenciado.\n\nLa VEL aumenta en un 10%. Por cada 10 pts. de VEL que superen los 150, el daño final infligido aumenta en un 2.0%, hasta un máximo del 30%."
+  },
+  "661225": {
+    "id": "661225",
+    "name": "Fugue",
+    "desc": "El daño de Fugue se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el daño final que infligen los aliados a los enemigos con Ruptura de Debilidad aumenta en un 15%."
+  },
+  "661301": {
+    "id": "661301",
+    "name": "Gallagher",
+    "desc": "El daño de Gallagher se amplifica en el Universo Diferenciado.\n\nLa curación realizada aumenta en un 30% y el daño que reciben los objetivos curados se reduce en un 15% durante 2 turno(s)."
+  },
+  "661302": {
+    "id": "661302",
+    "name": "Argenti",
+    "desc": "El daño de Argenti se amplifica en el Universo Diferenciado.\n\nEl daño final infligido aumenta en un 4% por cada enemigo que haya en el campo de batalla. Tras eliminar a un enemigo, el daño final en esta batalla aumenta adicionalmente en un 2%. Este efecto se puede acumular."
+  },
+  "661303": {
+    "id": "661303",
+    "name": "Ruan Mei",
+    "desc": "El daño de Ruan Mei se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el daño final que infligen los aliados a los enemigos con Ruptura de Debilidad aumenta en un 15%."
+  },
+  "661304": {
+    "id": "661304",
+    "name": "Aventurino",
+    "desc": "El daño de Aventurino se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el Daño CRIT de los aliados con escudo aumenta en un 25%."
+  },
+  "661305": {
+    "id": "661305",
+    "name": "Dr. Ratio",
+    "desc": "El daño del Dr. Ratio se amplifica en el Universo Diferenciado.\n\nCada vez que ataca, el daño final infligido aumenta en un 4%. Se acumula hasta 10 veces y se disipa cuando se reducen sus PV."
+  },
+  "661306": {
+    "id": "661306",
+    "name": "Sparkle",
+    "desc": "El daño de Sparkle se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el daño final que infligen los aliados aumenta en un 8%."
+  },
+  "661307": {
+    "id": "661307",
+    "name": "Cisne Negro",
+    "desc": "El daño de Cisne Negro se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos que tengan al menos 3 estados de Daño con el tiempo aumenta en un 12%. Por cada estado de Daño con el tiempo que exceda esta cantidad, este daño aumenta en un 1% adicional."
+  },
+  "661308": {
+    "id": "661308",
+    "name": "Acheron",
+    "desc": "El daño de Acheron se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos con al menos 8 estados negativos aumenta en un 10%. Por cada estado negativo que exceda esa cantidad, este daño aumenta en un 1% adicional."
+  },
+  "661309": {
+    "id": "661309",
+    "name": "Robin",
+    "desc": "El daño de Robin se amplifica en el Universo Diferenciado.\n\nCuando está en el campo de batalla, la VEL de todos los aliados aumenta en una cantidad equivalente al 10% de la VEL de Robin."
+  },
+  "661310": {
+    "id": "661310",
+    "name": "Luciérnaga",
+    "desc": "El daño de Luciérnaga se amplifica en el Universo Diferenciado.\n\nPor cada 10 pts. de Firmeza máxima que tenga el enemigo, el daño final que le inflige aumenta en un 1.2%, hasta un aumento máximo del 30%."
+  },
+  "661312": {
+    "id": "661312",
+    "name": "Misha",
+    "desc": "El daño de Misha se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a enemigos afectados con Congelación aumenta en un 50%."
+  },
+  "661313": {
+    "id": "661313",
+    "name": "Sunday",
+    "desc": "El daño de Sunday se amplifica en el Universo Diferenciado.\n\nCuando está en el campo de batalla, el daño final que inflige el primer personaje de la formación y su mnemoduende aumenta en un 12%."
+  },
+  "661314": {
+    "id": "661314",
+    "name": "Jade",
+    "desc": "El daño de Jade se amplifica en el Universo Diferenciado.\n\nCada vez que ataca, el daño final infligido aumenta en un 4%. Se acumula hasta 10 veces y se disipa cuando se reducen sus PV."
+  },
+  "661315": {
+    "id": "661315",
+    "name": "Boothill",
+    "desc": "El daño de Boothill se amplifica en el Universo Diferenciado.\n\nTras romper la Debilidad de un enemigo, su VEL aumenta en un 4%. Se puede acumular hasta 10 veces."
+  },
+  "661317": {
+    "id": "661317",
+    "name": "Rappa",
+    "desc": "El daño de Rappa se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos con Ruptura de Debilidad aumenta en un 35%."
+  },
+  "661321": {
+    "id": "661321",
+    "name": "La Dalia",
+    "desc": "El daño de la Dalia se amplifica en el Universo Diferenciado.\n\nPor cada 10 pts. de Firmeza máxima que tenga el enemigo, el daño final que le inflige aumenta en un 1.2%, hasta un aumento máximo del 30%."
+  },
+  "661401": {
+    "id": "661401",
+    "name": "Sra. Herta",
+    "desc": "El daño de la Sra. Herta se amplifica en el Universo Diferenciado.\n\nEl daño final infligido aumenta en un 4% por cada enemigo que haya en el campo de batalla. Tras eliminar a un enemigo, el daño final en esta batalla aumenta adicionalmente en un 2%. Este efecto se puede acumular."
+  },
+  "661402": {
+    "id": "661402",
+    "name": "Aglaea",
+    "desc": "El daño de Aglaea se amplifica en el Universo Diferenciado.\n\nSu VEL y la de su mnemoduende aumentan en un 25%."
+  },
+  "661403": {
+    "id": "661403",
+    "name": "Tribbie",
+    "desc": "El daño de Tribbie se amplifica en el Universo Diferenciado.\n\nCada vez que lanza la habilidad definitiva, el daño final que inflige aumenta en un 3%. Este efecto se puede acumular hasta 10 veces."
+  },
+  "661404": {
+    "id": "661404",
+    "name": "Midei",
+    "desc": "El daño de Midei se amplifica en el Universo Diferenciado.\n\nTras reducirse sus PV, los PV regenerados aumentan en un 15% y el daño final aumenta en un 15% durante 2 turno(s)."
+  },
+  "661405": {
+    "id": "661405",
+    "name": "Anaxa",
+    "desc": "El daño de Anaxa se amplifica en el Universo Diferenciado.\n\nTras romper la Debilidad de un enemigo, su VEL aumenta en un 4%. Se puede acumular hasta 10 veces."
+  },
+  "661406": {
+    "id": "661406",
+    "name": "Cífer",
+    "desc": "El daño de Cífer se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, la VEL de los aliados aumenta en un 10%."
+  },
+  "661407": {
+    "id": "661407",
+    "name": "Castorice",
+    "desc": "El daño de Castorice se amplifica en el Universo Diferenciado.\n\nCuando Castorice o su mnemoduende eliminan a algún enemigo, regenera un 50% de sus PV máx."
+  },
+  "661408": {
+    "id": "661408",
+    "name": "Fainón",
+    "desc": "El daño de Fainón se amplifica en el Universo Diferenciado.\n\nPor cada 10 puntos de valor de acción transcurridos, el daño final que inflige aumenta en un 0.8%."
+  },
+  "661409": {
+    "id": "661409",
+    "name": "Hyacine",
+    "desc": "El daño de Hyacine se amplifica en el Universo Diferenciado.\n\nLa VEL aumenta en un 25%."
+  },
+  "661410": {
+    "id": "661410",
+    "name": "Hysilens",
+    "desc": "El daño de Hysilens se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos que tengan al menos 3 estados de Daño con el tiempo aumenta en un 12%. Por cada estado de Daño con el tiempo que exceda esta cantidad, este daño aumenta en un 1% adicional."
+  },
+  "661412": {
+    "id": "661412",
+    "name": "Céridra",
+    "desc": "El daño de Céridra se amplifica en el Universo Diferenciado.\n\nCuando está en el campo de batalla, el daño final que inflige el primer personaje de la formación y su mnemoduende aumenta en un 12%."
+  },
+  "661413": {
+    "id": "661413",
+    "name": "Larganoche",
+    "desc": "El daño de Larganoche se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el daño final que infligen los aliados aumenta en un 8%."
+  },
+  "661414": {
+    "id": "661414",
+    "name": "Dan Heng - Permansor Terrae",
+    "desc": "El daño de Dan Heng - Permansor Terrae se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el Daño CRIT de los aliados con escudo aumenta en un 25%."
+  },
+  "661415": {
+    "id": "661415",
+    "name": "Cirene",
+    "desc": "El daño de Cirene se amplifica en el Universo Diferenciado.\n\nSi en el equipo hay 1 o más Herederos de Crisos además de Cirene, el daño final que infligen todos los aliados aumenta en un 10%."
+  },
+  "661501": {
+    "id": "661501",
+    "name": "Chispa",
+    "desc": "El daño de Chispa se amplifica en el Universo Diferenciado.\n\nPor cada 10 pts. de Chiste que obtenga el equipo en total, el daño final que inflige esta unidad aumenta en un 1%, hasta un máximo del 30%."
+  },
+  "661502": {
+    "id": "661502",
+    "name": "Yao Guang",
+    "desc": "El daño de Yao Guang se amplifica en el Universo Diferenciado.\n\nCuando está en el campo de batalla, la VEL de todos los aliados aumenta en una cantidad equivalente al 10% de la VEL de Yao Guang."
+  },
+  "661504": {
+    "id": "661504",
+    "name": "Ashveil",
+    "desc": "El daño de Ashveil se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos con un porcentaje de PV inferior al 50% aumenta en un 30%. Si es daño de ataque adicional, aumenta en un 15% extra."
+  },
+  "661505": {
+    "id": "661505",
+    "name": "Evanescia",
+    "desc": "El daño de Evanescia se amplifica en el Universo Diferenciado.\n\nMientras tiene ¡Bien hecho!, el daño final que inflige aumenta en un 15%. Si tiene 100 pts. de ¡Bien hecho! o más, el daño final que inflige aumenta en un 15% adicional."
+  },
+  "661506": {
+    "id": "661506",
+    "name": "Silver Wolf Niv. 999",
+    "desc": "El daño de Silver Wolf Niv. 999 recibe una Amplificación en el Universo Diferenciado.\n\nAl comenzar el turno de Aha, por cada punto de Chiste, la Exultación de Silver Wolf Niv. 999 aumenta en un 0.5% hasta el comienzo del siguiente turno de Aha."
+  },
+  "668001": {
+    "id": "668001",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos con un porcentaje de PV superior al 50% aumenta en un 35%."
+  },
+  "668002": {
+    "id": "668002",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nEl daño final infligido a los enemigos con un porcentaje de PV superior al 50% aumenta en un 35%."
+  },
+  "668003": {
+    "id": "668003",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el Daño CRIT de los aliados con escudo aumenta en un 25%."
+  },
+  "668004": {
+    "id": "668004",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el Daño CRIT de los aliados con escudo aumenta en un 25%."
+  },
+  "668005": {
+    "id": "668005",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el daño final que infligen los aliados a los enemigos con Ruptura de Debilidad aumenta en un 15%."
+  },
+  "668006": {
+    "id": "668006",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, el daño final que infligen los aliados a los enemigos con Ruptura de Debilidad aumenta en un 15%."
+  },
+  "668007": {
+    "id": "668007",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nEl daño final infligido aumenta en un 15%. Al entrar en combate, recupera un 50% de su energía máxima."
+  },
+  "668008": {
+    "id": "668008",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nEl daño final infligido aumenta en un 15%. Al entrar en combate, recupera un 50% de su energía máxima."
+  },
+  "668009": {
+    "id": "668009",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, la Exultación de los aliados aumenta en un 12%."
+  },
+  "668010": {
+    "id": "668010",
+    "name": "{NICKNAME}",
+    "desc": "El daño de {NICKNAME} se amplifica en el Universo Diferenciado.\n\nMientras está en el campo de batalla, la Exultación de los aliados aumenta en un 12%."
   },
   "670010": {
     "id": "670010",
@@ -3950,7 +5206,7 @@
   "673280": {
     "id": "673280",
     "name": "Bosque susurrante",
-    "desc": "Después de que un aliado haya lanzado 5 veces la habilidad definitiva, Murmullo inflige a los objetivos adyacentes un daño equivalente al 60% del multiplicador de daño. Después, el daño que inflige Murmullo aumenta de forma adicional en un 2% cada vez que se lanza la habilidad definitiva."
+    "desc": "Después de que un aliado haya lanzado 5 veces la habilidad definitiva, Murmullo inflige a los objetivos adyacentes un daño equivalente al 60% del multiplicador de daño original. Después, el daño que inflige Murmullo aumenta de forma adicional en un 2% cada vez que se lanza la habilidad definitiva."
   },
   "673420": {
     "id": "673420",
@@ -3990,7 +5246,7 @@
   "673670": {
     "id": "673670",
     "name": "Ladrón risueño",
-    "desc": "Por cada pt. de habilidad básica que consuma o cause que exceda un aliado, obtienes 1 intento de sorteo, hasta un máximo de 25. Al entrar en el estado de Alma de mariposa, invoca Bombo y consume todos los intentos de sorteo para participar en el sorteo. El número básico de intentos es 5. Hay una pequeña probabilidad de obtener el premio especial, que inflige 1 vez un 4000% del daño base como daño de un tipo aleatorio a todos los enemigos, y aumenta el multiplicador del daño de Regusto que infligen todos los aliados en un 35% del multiplicador original. Se puede acumular y dura hasta salir del estado de Alma de mariposa. El premio de consolación inflige 1 vez un 500% del daño base como daño de un tipo aleatorio a un enemigo al azar."
+    "desc": "Cada vez que un aliado consume o genera un excedente de 1 pt. de habilidad básica, obtienes 1 intento de sorteo, hasta un máximo de 25. Al entrar en el estado de Alma de mariposa, invoca Bombo y consume todos los intentos de sorteo para participar en el sorteo. El número básico de intentos es 5. Hay una pequeña probabilidad de obtener el premio especial, que inflige 1 vez un 4000% del daño base como daño de un tipo aleatorio a todos los enemigos, y aumenta el multiplicador del daño de Regusto que infligen todos los aliados en un 35% del multiplicador original. Se puede acumular y dura hasta salir del estado de Alma de mariposa. El premio de consolación inflige 1 vez un 500% del daño base como daño de un tipo aleatorio a un enemigo al azar."
   },
   "673690": {
     "id": "673690",
@@ -4125,7 +5381,7 @@
   "674570": {
     "id": "674570",
     "name": "Fénix coronado",
-    "desc": "La eficiencia de carga de Blázar aumenta en un 50%. Al usar el ATQ básico o la habilidad básica para atacar en el estado de Alma de mariposa, se inflige a los objetivos atacados un 100% del daño de Blázar."
+    "desc": "La eficiencia de carga de Blázar aumenta en un 50%. Al usar el ATQ básico o la habilidad básica para atacar en el estado de Alma de mariposa, se inflige a los objetivos atacados un 100% de daño de Blázar."
   },
   "674590": {
     "id": "674590",
@@ -4440,6 +5696,366 @@
   "675960": {
     "id": "675960",
     "name": "Compañía de teatro del amanecer",
-    "desc": "El multiplicador de daño de Armónico aumenta en un 50% del multiplicador original. Después de que un aliado lance un ataque adicional, se aplica 1 acumulación de Armónico."
+    "desc": "El multiplicador de daño de Armónico aumenta en un 50% del multiplicador original. Después de que un aliado lance un ataque adicional, se aplica 1 acumulación de Armónico a los objetivos."
+  },
+  "676170": {
+    "id": "676170",
+    "name": "Poema hermoso",
+    "desc": "Tras entrar en el estado Alma de mariposa, los mnemoduendes infligen Daño verdadero de Alma de mariposa después de atacar sin consumir su cantidad de ataques. Afecta con el estado de Hilado de capullo al enemigo con los PV máx. más altos hasta salir de Alma de mariposa. Mientras dura dicho estado, se registra todo el daño de Alma de mariposa que recibe el objetivo. Tras recibir 5 ataques, eliminar al objetivo o salir de Alma de mariposa, inflige a todos los enemigos un daño equivalente al 200% del daño registrado y borra el valor registrado."
+  },
+  "676180": {
+    "id": "676180",
+    "name": "¡Manzanas! ¡Manzanas!",
+    "desc": "En el orden de acción aparece Comprensión. Al actuar, inflige un 2000% de daño base de Hielo a todos los enemigos y activa la habilidad definitiva de todos los aliados. Por cada acumulación de Obsesión que tengan el primer personaje del equipo y su mnemoduende, la VEL base de Comprensión aumenta en 1 pt(s). e inflige un 100% adicional de daño base de Hielo a cada enemigo."
+  },
+  "676250": {
+    "id": "676250",
+    "name": "Ritual de ofrenda conceptual",
+    "desc": "Después de que un enemigo ataque a un aliado, Murmullo obtiene una carga equivalente al 10% del umbral de eliminación. Por cada 5% de umbral de eliminación de Murmullo cargado, el enemigo recibe inmediatamente 1 vez un Daño de Rayo con el tiempo equivalente al 120% del umbral de eliminación de Murmullo. Cada enemigo puede activar este efecto hasta 2 vez(es), y el límite de activaciones se reinicia después de que cualquier unidad actúe. Este daño es daño de Murmullo y no eliminará al enemigo."
+  },
+  "676280": {
+    "id": "676280",
+    "name": "Médico reanimador",
+    "desc": "Después de que un aliado haya lanzado 5 veces la habilidad definitiva, Murmullo inflige a los objetivos adyacentes un daño equivalente al 60% del multiplicador de daño original. Después, el daño que inflige Murmullo aumenta de forma adicional en un 2% cada vez que se lanza la habilidad definitiva."
+  },
+  "676410": {
+    "id": "676410",
+    "name": "Patrulla en bicicleta",
+    "desc": "Después de que todos los aliados hayan lanzado un total de 24 ataques, el primer personaje del equipo actual obtiene un turno adicional. Los ataques adicionales cuentan el doble para la cantidad de ataques. Tras atacar en este turno adicional, inflige un daño adicional equivalente al 600% de los PV máx. + 1200% del ATQ a los objetivos atacados. Por cada acumulación de Obsesión que tengan los aliados, el multiplicador de este daño aumenta en un 1% del multiplicador original."
+  },
+  "676470": {
+    "id": "676470",
+    "name": "Exorcista",
+    "desc": "El daño que infligen los aliados en el estado de Alma de mariposa aumenta en un 200%. Tras atacar, si los PV actuales del enemigo son inferiores al 25% de sus PV máx., le inflige un daño fijo de Alma de mariposa equivalente a sus PV actuales y recupera 2 pt(s). de habilidad básica."
+  },
+  "676510": {
+    "id": "676510",
+    "name": "Señor de las pesadillas",
+    "desc": "Después de que cualquier aliado reciba un ataque, se considera que todos los aliados reciben un ataque y se carga Blázar para todos los aliados en una cantidad equivalente al 15% de la suma de sus respectivos PV máx. y valor de escudo."
+  },
+  "676590": {
+    "id": "676590",
+    "name": "Reverente eterno",
+    "desc": "Cuando un aliado ha perdido un 100% de sus PV máx. en total o se recupera del estado de derrota, inflige a todos los enemigos un daño equivalente al 75% del límite de Armónico. Al inicio del turno, el personaje consume un 5% de sus PV máx. Cada vez que se activa este efecto, esta cantidad aumenta en un 5%. Cuando un personaje aliado es derrotado por primera vez, sus PV se regeneran hasta el 100% de sus PV máx. y deja de consumir PV al inicio del turno."
+  },
+  "676640": {
+    "id": "676640",
+    "name": "Ladrón de estrellas",
+    "desc": "La cantidad de ataques que realiza el Repartidor al actuar aumenta en 4, y cambia el objetivo del ataque al enemigo con los PV máx. actuales más altos. Al infligir daño, aplica adicionalmente al objetivo 2 acumulación(es) de Empujón crítico inverso y, tras el ataque, la acción de todos los aliados se adelanta un 25%. Este efecto se puede activar hasta 1 vez(es) por turno por cada enemigo."
+  },
+  "676650": {
+    "id": "676650",
+    "name": "Rechazafuego",
+    "desc": "En el orden de acción aparece Frenesí, y el Repartidor aumenta su VEL en 7 adicionales por cada punto de carga. Cuando Frenesí actúa, el daño infligido por todos los aliados aumenta en un 15%, pudiéndose acumular hasta 10 veces. Además, carga Blázar en una cantidad equivalente al 150% de la suma de los respectivos PV máx. y valor de escudo actuales de los aliados. La siguiente vez que ataque cada aliado, inflige a cada objetivo atacado 7 vez(es) un 80% de daño de Blázar de tipo aleatorio."
+  },
+  "676720": {
+    "id": "676720",
+    "name": "Serpiente reptante",
+    "desc": "En el estado de Alma de mariposa, el daño que reciben todos los enemigos aumenta en un 10% por cada pt. de habilidad básica que consuman todos los aliados. Este efecto se puede acumular hasta un máximo del 40%. Cada vez que se entra en el estado de Alma de mariposa, se recuperan 6 ataques de Alma de mariposa tras consumir por primera vez un total de 3 pts. de habilidad básica. Además, antes de salir de este estado de Alma de mariposa, los aliados infligen a los objetivos atacados un Daño verdadero equivalente al 60% del daño original (sin contar el daño adicional) tras atacar. Este efecto también se aplica al Daño con el tiempo que recibe el enemigo al comienzo de su turno."
+  },
+  "676760": {
+    "id": "676760",
+    "name": "Gran Lotería Galáctica",
+    "desc": "Cada vez que un aliado consume o genera un excedente de 1 pt. de habilidad básica, obtienes 1 intento de sorteo, hasta un máximo de 25. Al entrar en el estado de Alma de mariposa, invoca Bombo y consume todos los intentos de sorteo para participar en el sorteo. El número básico de intentos es 5. Hay una pequeña probabilidad de obtener el premio especial, que inflige 1 vez un 4000% del daño base como daño de un tipo aleatorio a todos los enemigos y otorga 5 pt(s). de carga al Repartidor. El premio de consolación inflige 1 vez un 500% del daño base como daño de un tipo aleatorio a un enemigo al azar."
+  },
+  "676860": {
+    "id": "676860",
+    "name": "Erudito útil",
+    "desc": "Después de que el Repartidor actúe 4 veces sin que el equipo esté en el estado de Premura, el Daño CRIT de todos los aliados aumenta en un 200% durante 5 turno(s), y el primer personaje del equipo actual obtiene el estado de Premura: activa su habilidad definitiva y carga el Cerebro en una cubeta al 200%. Este estado se disipa tras lanzar 3 vez(es) la habilidad definitiva. La primera vez que se lance, el Repartidor solo necesita actuar 1 vez(es)."
+  },
+  "676890": {
+    "id": "676890",
+    "name": "Druida eléctrico",
+    "desc": "Aliento de megatortuga aparece en el orden de acción con 150 pts. de VEL. Al actuar, hace que todos los enemigos reciban un 50% más de daño durante 3 turno(s); les inflige un 6000% del daño base como Daño de Hielo y Fuego; retrasa la acción de todos los enemigos un 30%, y reduce su Firmeza en 30 puntos ignorando el tipo de Debilidad. Al romper la Debilidad del enemigo, se activan los efectos de Ruptura de las Debilidades de Hielo y Fuego. Después de que un aliado active su habilidad definitiva mediante Cerebro en una cubeta, la VEL de Aliento de megatortuga aumenta en 5 pt(s). Este efecto se puede acumular hasta 15 veces."
+  },
+  "676920": {
+    "id": "676920",
+    "name": "General de los difuntos",
+    "desc": "Cuando un enemigo está afectado con Ruptura de Debilidad, Armónico obtiene efectos adicionales según el tipo de los personajes aliados del equipo. Los efectos del mismo tipo se pueden acumular. Viento, Rayo, Físico: obtiene el efecto de Agitación. Tras recibir un ataque, los estados de Daño con el tiempo que tenga el enemigo infligen inmediatamente un daño equivalente al 60% del daño original. Fuego: obtiene el efecto Fuego fluyente. El Daño de Ultrarruptura que recibe el enemigo aumenta en un 60%. Cuántico, Imaginario, Hielo: obtiene el efecto de Intimidación. La acción del enemigo se retrasa un 20% y, tras recibir un ataque, se activa 1 vez(es) el daño de Armónico con una proporción del 10%."
+  },
+  "676940": {
+    "id": "676940",
+    "name": "Invocador divino",
+    "desc": "La VEL de los aliados aumenta en un 35%. Después de atacar, hay una probabilidad fija del 60% de implantar una Debilidad de un tipo aleatorio a un objetivo atacado al azar e infligirle 3 vez(es) un daño del tipo correspondiente equivalente al 180% del daño base. Este efecto está garantizado en caso de atacar con un ataque adicional. La Debilidad implantada se disipa después de romper la Debilidad del enemigo. Tras implantar una Debilidad a un enemigo, se registra una vez la Debilidad implantada. Este efecto se puede activar hasta 2 vez(es) por acción. Tras romper la Debilidad de cualquier enemigo, le inflige un 200% de Daño de Ruptura del tipo correspondiente tanto a ese enemigo como a los objetivos adyacentes por cada Debilidad registrada."
+  },
+  "677160": {
+    "id": "677160",
+    "name": "Jardinero",
+    "desc": "Después de que un aliado ataque, inflige adicionalmente a los objetivos atacados un daño adicional equivalente al 100% de sus PV máx. Después de que el Repartidor actúe, el daño adicional del siguiente ataque aumenta al 300% de los PV máx."
+  },
+  "677170": {
+    "id": "677170",
+    "name": "Agente histórico",
+    "desc": "Por cada acumulación de Obsesión que tenga un aliado, el daño de ATQ básico y de habilidad básica que inflige aumenta en un 6%. Cuando un personaje aliado se ausenta o es derrotado o cuando un mnemoduende aliado desaparece, el primer personaje del equipo actual obtiene un 50% de las acumulaciones de Obsesión de ese aliado, y la misma cantidad de acumulaciones como límite máximo de Obsesión. Este límite de acumulaciones extra desaparece tras 2 turno(s)."
+  },
+  "677190": {
+    "id": "677190",
+    "name": "Ruleta de reasignación profesional",
+    "desc": "El límite de Obsesión de los aliados aumenta en 4 acumulaciones. Por cada acumulación de Obsesión, la VEL de todos los aliados aumenta en un 0.3%. Al romper la Debilidad de un enemigo, todos los aliados obtienen 3 acumulaciones de Obsesión."
+  },
+  "677240": {
+    "id": "677240",
+    "name": "Marcha eterna",
+    "desc": "El Daño con el tiempo que recibe el enemigo puede causar Golpe CRIT. La Prob. CRIT/el Daño CRIT son equivalentes al 20% de la suma de la Prob. CRIT/el Daño CRIT de todos los personajes aliados. El Daño CRIT no puede superar el 120% como máximo."
+  },
+  "677250": {
+    "id": "677250",
+    "name": "Vida forjada por los dados",
+    "desc": "El daño de Murmullo que recibe el enemigo aumenta en un 35%. Después de que el enemigo reciba Daño con el tiempo fuera de su turno, todos los aliados obtienen una carga de Blázar equivalente al 10% de su ATQ. El enemigo puede activar este efecto hasta 5 vez(es) por turno."
+  },
+  "677260": {
+    "id": "677260",
+    "name": "Rey necio",
+    "desc": "El Daño con el tiempo que reciben los enemigos aumenta en un 30%. Cada vez que el Repartidor inflige daño, los estados de Daño con el tiempo que tiene el enemigo infligen inmediatamente un daño equivalente al 15% del daño original."
+  },
+  "677450": {
+    "id": "677450",
+    "name": "Brazohierro",
+    "desc": "El límite de Empujón crítico inverso aumenta en 10 acumulación(es). Cada vez que el equipo pierde un 15% de la suma de PV de todos los aliados, todos los enemigos obtienen inmediatamente 1 acumulación de Empujón crítico inverso."
+  },
+  "677460": {
+    "id": "677460",
+    "name": "Adiestradores de cometas",
+    "desc": "Por cada 1% de exceso de Prob. CRIT sobre el 100% que tenga el aliado o el Repartidor, el Daño CRIT aumenta en un 3%. Después de que un aliado ataque, su Prob. CRIT y la del Repartidor aumentan en un 2%, pudiéndose acumular hasta 50 vez(es). Si es un ataque adicional, puede acumularse 2 vez(es) más."
+  },
+  "677470": {
+    "id": "677470",
+    "name": "Mayorista de meteoros",
+    "desc": "Por cada 1% de Acción adelantada que obtenga un aliado, inflige adicionalmente tras atacar en el siguiente turno un Daño verdadero equivalente al 0.5% del daño original, hasta un máximo del 50% de Daño verdadero. En el estado Alma de mariposa, inflige además un Daño verdadero equivalente al 50% del daño original."
+  },
+  "677510": {
+    "id": "677510",
+    "name": "Coloso de escarcha",
+    "desc": "Si el porcentaje de PV actual de un aliado es inferior al 40% al recibir daño o consumir PV, consume 5 acumulaciones de Obsesión del aliado con más acumulaciones de Obsesión en el equipo, regenera un 25% de sus PV máx., y el daño que inflige aumenta en un 150% durante 2 turnos. Este efecto se puede activar hasta 1 vez por turno."
+  },
+  "677570": {
+    "id": "677570",
+    "name": "Ídolo aberrante",
+    "desc": "La eficiencia de carga de Blázar aumenta en un 25%. Al usar el ATQ básico o la habilidad básica para atacar en el estado de Alma de mariposa, se inflige a los objetivos atacados un 150% de daño de Blázar."
+  },
+  "677590": {
+    "id": "677590",
+    "name": "Dispositivo de votación de castigo divino",
+    "desc": "Cuando un aliado rompe la Debilidad de un enemigo, carga una cantidad de Blázar equivalente al 100% de la suma de sus PV máx. y su valor de escudo. Si todos los enemigos están afectados por Ruptura de Debilidad, Blázar no se eliminará al final del turno de los aliados."
+  },
+  "677650": {
+    "id": "677650",
+    "name": "Ajedrez de la suerte real",
+    "desc": "Por cada 3 pt(s). de carga que tenga el Repartidor, los golpes por acción aumentan en 1. Después de que 10 aliados en total hayan sido atacados, el Repartidor obtiene 1 pt. de carga."
+  },
+  "677680": {
+    "id": "677680",
+    "name": "Hacker de éter",
+    "desc": "El Daño CRIT de los aliados aumenta en un 100%. Cada vez que se elimina a un enemigo con la habilidad definitiva o la habilidad de Exultación, se registra el daño excedente, y el/los siguiente(s) 1 ataque(s) inflige(n) daño adicional equivalente al 300% del valor registrado a un objetivo atacado aleatorio."
+  },
+  "677690": {
+    "id": "677690",
+    "name": "Fabulista de las estrellas",
+    "desc": "Cuando el Repartidor inflige daño, reduce 30 pt(s). de la Firmeza del enemigo ignorando sus tipos de Debilidad, hasta un mínimo de 1 pt. Al romper la Debilidad de un enemigo, el daño que recibe aumenta en un 3% por cada 10 pt(s). de Firmeza máxima; este efecto dura 2 turno(s)."
+  },
+  "677710": {
+    "id": "677710",
+    "name": "Secuestrador cometierra",
+    "desc": "El multiplicador del Daño verdadero de Alma de mariposa aumenta en un 60% del multiplicador original. La cantidad de ataques aumenta en 4. Después de que un mnemoduende ataque, inflige Daño verdadero de Alma de mariposa y agota su cantidad de ataques."
+  },
+  "677720": {
+    "id": "677720",
+    "name": "Héroe del desaliento",
+    "desc": "Cada vez que un enemigo recibe Daño con el tiempo, carga Crisálida espiritual en un 1%. Si se encuentra en el estado de Alma de mariposa, el daño que infligen todos los aliados aumenta en un 2%. Este efecto se puede acumular hasta 99 veces y dura hasta salir del estado de Alma de mariposa."
+  },
+  "677780": {
+    "id": "677780",
+    "name": "Emperador Aguijoneador",
+    "desc": "Después de que un aliado entre en Alma de mariposa, la habilidad definitiva que lance también inflige Daño verdadero de Alma de mariposa y la cantidad de ataques de Alma de mariposa aumenta en 4. Cada aliado solo puede activar este efecto 1 vez."
+  },
+  "677810": {
+    "id": "677810",
+    "name": "Mago de las ruinas",
+    "desc": "Después de que un mnemoduende ataque, carga un 8% del Cerebro en una cubeta de su mnemomédium. Después de que un mnemomédium use el Cerebro en una cubeta para lanzar la habilidad definitiva, el daño de su mnemoduende aumenta en 240% durante 4 turnos."
+  },
+  "677820": {
+    "id": "677820",
+    "name": "Recaudador de impuesto intelectual",
+    "desc": "El ATQ de los aliados aumenta en un 150%. Después de que inflijan daño de habilidad definitiva al atacar, el Murmullo de los objetivos atacados genera un 100% del daño original."
+  },
+  "677840": {
+    "id": "677840",
+    "name": "Superatleta estudiantil",
+    "desc": "Cuando un aliado rompe la Debilidad de un enemigo, carga un 20% de Cerebro en una cubeta y recupera un 10% de su energía máxima. Tras eliminar a un enemigo, recupera un 60% de su energía máxima."
+  },
+  "677920": {
+    "id": "677920",
+    "name": "Canción de la gravedad",
+    "desc": "Cuando un enemigo recibe daño de Armónico, recibe 1 vez de forma adicional un daño de Armónico equivalente al 75% del daño original. Por cada estado negativo que tenga, este daño aumenta adicionalmente en un 2%, hasta un máximo del 40%."
+  },
+  "677940": {
+    "id": "677940",
+    "name": "Señor del destino",
+    "desc": "Después de que un aliado ataque a un enemigo con Ruptura de Debilidad, la Reducción de Firmeza de este ataque se convierte 1 vez en un 75% de Daño de Ultrarruptura. Por cada acumulación de Empujón crítico inverso que tenga el enemigo, inflige adicionalmente un 5% de Daño de Ultrarruptura."
+  },
+  "677980": {
+    "id": "677980",
+    "name": "Gente, pitón y anillo estelar",
+    "desc": "Si un enemigo tiene Ruptura de Debilidad cuando inicia su turno, recibe además 1 vez un daño equivalente al 200% del daño original de Armónico. Cada vez que un aliado lanza su habilidad definitiva, el daño de Armónico aumenta en un 1% del daño original."
+  },
+  "678150": {
+    "id": "678150",
+    "name": "Ganador relativo",
+    "desc": "Después de que un aliado pierda PV, obtiene 5 acumulación(es) de Obsesión. Este efecto se puede activar hasta 1 vez(es) y puede volver a activarse después de que cualquier unidad actúe."
+  },
+  "678170": {
+    "id": "678170",
+    "name": "Amigo íntimo",
+    "desc": "Cuando un mnemoduende desaparece, los aliados recuperan 1 pt. de habilidad básica. Cada vez que el equipo obtiene 1 pt. de habilidad básica, el daño que infligen todos los aliados aumenta en un 3%, hasta un máximo del 120%."
+  },
+  "678180": {
+    "id": "678180",
+    "name": "Gourmet de memes podridos",
+    "desc": "Cuando las acumulaciones de Obsesión de los aliados superan 70, el daño de habilidad definitiva y el daño de mnemoduende aumentan respectivamente en un 75% y un 75%."
+  },
+  "678190": {
+    "id": "678190",
+    "name": "Especialista en compartir",
+    "desc": "Cuando un aliado tiene Obsesión, su PEN de la RES a todos los tipos aumenta en un 15%. Cada acumulación de Obsesión aumenta el efecto de Ruptura de todos los aliados en un 0.5%."
+  },
+  "678240": {
+    "id": "678240",
+    "name": "Laberinto de la matanza eterna",
+    "desc": "El Daño con el tiempo que recibe el enemigo aumenta en un 20%. Tras recibir un ataque adicional, Murmullo se carga por un valor equivalente al 2% del umbral de eliminación."
+  },
+  "678250": {
+    "id": "678250",
+    "name": "Tierra de habladurías",
+    "desc": "El enemigo es afectado con Sangrado al entrar en combate. En el estado de Sangrado, el enemigo recibe un 10% de sus PV máx. como Daño Físico con el tiempo al principio de cada turno. Este daño no puede exceder un 200% de la suma de los PV de todos los aliados."
+  },
+  "678260": {
+    "id": "678260",
+    "name": "Aventurero inverso",
+    "desc": "Después de que el Repartidor ataque, los objetivos atacados son afectados con Quemadura. Al comienzo del turno, reciben un Daño de Fuego con el tiempo equivalente al 150% del daño base durante 3 turno(s)."
+  },
+  "678280": {
+    "id": "678280",
+    "name": "Doctor del delirio",
+    "desc": "Al eliminar a un enemigo, todos los aliados recuperan 5.0 pts. de energía por cada tipo de estado de Daño con el tiempo que tuviera el enemigo eliminado."
+  },
+  "678410": {
+    "id": "678410",
+    "name": "Dios de la guerra ancestral",
+    "desc": "La Prob. CRIT de los aliados aumenta en un 25%. Después de que un mnemoduende ataque, implanta además 3 acumulación(es) de Empujón crítico inverso a un objetivo atacado al azar."
+  },
+  "678420": {
+    "id": "678420",
+    "name": "Creador de calvos",
+    "desc": "Cada 1% del umbral de eliminación de carga de Murmullo aumenta el Daño CRIT que reciben los enemigos en un 1.0%, hasta un máximo de 150%."
+  },
+  "678460": {
+    "id": "678460",
+    "name": "Cazador de ratas",
+    "desc": "El daño que inflige Empujón crítico inverso aumenta en un 60%. Aumenta adicionalmente en un 60% cuando se activa al atacar con una habilidad de Exultación."
+  },
+  "678480": {
+    "id": "678480",
+    "name": "Profesor maldito",
+    "desc": "Por cada enemigo eliminado, el daño que infligen los aliados en esta batalla aumenta en un 30%, y el daño de habilidad definitiva aumenta adicionalmente en un 15%. Este efecto se puede acumular."
+  },
+  "678510": {
+    "id": "678510",
+    "name": "Demonio Intercambiador",
+    "desc": "Los PV máx. de los aliados aumentan en un 40%. Cuando los aliados entran en combate o los mnemoduendes son invocados, cargan Blázar en una cantidad equivalente al 100% de sus PV máx. Tras ello, Blázar no se elimina al finalizar el primer turno."
+  },
+  "678520": {
+    "id": "678520",
+    "name": "Matadragones garajero",
+    "desc": "La RES a efecto de los aliados y el daño de Blázar que infligen aumentan en un 20% y un 80% respectivamente. Al resistir un estado negativo, infligen un daño adicional equivalente al 60% de Blázar al objetivo. Este daño no eliminará al enemigo."
+  },
+  "678580": {
+    "id": "678580",
+    "name": "Chica mágica física",
+    "desc": "Cuando el porcentaje de PV de un personaje aliado sea inferior a 25% por primera vez en un combate, se activa la habilidad definitiva. El daño de habilidad definitiva que infligen tanto esta unidad como el mnemoduende durante este combate ignora un 20% de la DEF."
+  },
+  "678590": {
+    "id": "678590",
+    "name": "Radio Aha",
+    "desc": "El efecto de escudo obtenido aumenta en un 30%. Tras romper la Debilidad de un enemigo, todos los aliados obtienen un escudo equivalente al 15% de sus PV máx. durante 2 turnos."
+  },
+  "678640": {
+    "id": "678640",
+    "name": "Espadachín del desapego",
+    "desc": "La Exultación de los aliados aumenta en un 25%. Por cada enemigo eliminado, aumenta en un 15% adicional."
+  },
+  "678650": {
+    "id": "678650",
+    "name": "Estrellas gemelas promocionadas",
+    "desc": "La recuperación de energía de Blázar aumenta en un 6% tras cada acción del Repartidor. Se puede acumular hasta 10 veces."
+  },
+  "678670": {
+    "id": "678670",
+    "name": "Barman",
+    "desc": "El Daño CRIT de los aliados aumenta en un 60%. Tras cada acción del Repartidor, el Daño CRIT del siguiente ATQ básico o habilidad básica que lance cualquier aliado aumenta adicionalmente en un 40%."
+  },
+  "678690": {
+    "id": "678690",
+    "name": "Doliente",
+    "desc": "La eficiencia de la Ruptura de Debilidad del Daño de Exultación del aliado aumenta en un 25%. Tras romper la Debilidad de un enemigo, la VEL de esta unidad aumenta en un 25%."
+  },
+  "678710": {
+    "id": "678710",
+    "name": "Sorteo de habilidades",
+    "desc": "Después de que un mnemoduende ataque, Crisálida espiritual se carga un 15% y hay una probabilidad del 40% de recuperar 1 pt. de habilidad básica."
+  },
+  "678720": {
+    "id": "678720",
+    "name": "Autos de choque planetarios",
+    "desc": "El Daño verdadero de Alma de mariposa aumenta en un 35% del multiplicador original. Por cada estado negativo que tenga el objetivo enemigo, el multiplicador aumenta adicionalmente en un 1% del multiplicador original."
+  },
+  "678760": {
+    "id": "678760",
+    "name": "Pastel empático",
+    "desc": "El Daño CRIT que infligen los aliados al lanzar un ATQ básico o una habilidad básica aumenta en un 100%. Se obtiene(n) 1 punto(s) de Chiste por cada pt. de habilidad básica consumido."
+  },
+  "678790": {
+    "id": "678790",
+    "name": "Hormiga cambiachaquetas",
+    "desc": "El daño de ATQ básico/habilidad básica que infligen los aliados ignora un 25% de la DEF de los enemigos. Este efecto aumenta al 40% contra enemigos con Ruptura de Debilidad."
+  },
+  "678840": {
+    "id": "678840",
+    "name": "Mecadios cazasombras",
+    "desc": "Cada acumulación de Empujón crítico inverso inflige adicionalmente un daño equivalente al 15% del ATQ al activarse. Tras atacar con la habilidad definitiva, implanta además 2 acumulación(es) de Empujón crítico inverso a todos los objetivos atacados."
+  },
+  "678850": {
+    "id": "678850",
+    "name": "Panadería cósmica",
+    "desc": "El daño de Blázar que infligen los aliados aumenta en un 75%. Tras lanzar la habilidad definitiva, Blázar se carga en una cantidad equivalente al 35% de los PV máx."
+  },
+  "678860": {
+    "id": "678860",
+    "name": "Erudito autocontemplativo",
+    "desc": "El Daño CRIT del daño de habilidad definitiva de los aliados aumenta en un 75%. Tras la acción del Repartidor, el Cerebro en una cubeta de los personajes aliados se carga en un 5%."
+  },
+  "678870": {
+    "id": "678870",
+    "name": "Estrella emergente de las cartas",
+    "desc": "Por cada pt. de habilidad básica que consume un aliado, el daño de habilidad definitiva que inflige aumenta en un 65%, hasta un máximo del 130%. Dura hasta después de lanzar la habilidad definitiva."
+  },
+  "678910": {
+    "id": "678910",
+    "name": "Reconstructor de la patria",
+    "desc": "Cada acumulación de Obsesión aumenta el efecto de Ruptura en un 0.8%. El efecto de Ruptura de los mnemoduendes aumenta en un 0.5% adicional."
+  },
+  "678920": {
+    "id": "678920",
+    "name": "Médico de encuentros",
+    "desc": "Cuando un aliado ataca y afecta con un estado negativo a un enemigo, le aplica 1 acumulación de Armónico. Si el objetivo está afectado con Ruptura de Debilidad, se aplica el doble de acumulaciones."
+  },
+  "678940": {
+    "id": "678940",
+    "name": "Caballero de la arcadia",
+    "desc": "El multiplicador de daño de Armónico aumenta en un 50% del multiplicador original. Después de que un aliado lance un ataque adicional, se aplica 1 acumulación de Armónico a los objetivos."
+  },
+  "678970": {
+    "id": "678970",
+    "name": "Nube aniquiladora de partículas",
+    "desc": "Cuando un aliado lanza el ATQ básico o la habilidad básica, ignora un 20% de la RES a todos los tipos del enemigo. Tras atacar usando el ATQ básico o la habilidad básica, reduce la Firmeza del enemigo en 15 pt(s). fijos ignorando sus tipos de Debilidad."
   }
 }

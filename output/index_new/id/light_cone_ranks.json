@@ -4554,6 +4554,70 @@
       ]
     ]
   },
+  "22007": {
+    "id": "22007",
+    "skill": "Companion",
+    "desc": "Meningkatkan #1[i]% CRIT DMG pengguna. Setelah pengguna melancarkan Ultimate, meningkatkan #2[i]% Tingkat Elation seluruh rekan tim selama #3[i] giliran.",
+    "params": [
+      [
+        0.12,
+        0.08,
+        1
+      ],
+      [
+        0.15,
+        0.09,
+        1
+      ],
+      [
+        0.18,
+        0.1,
+        1
+      ],
+      [
+        0.21,
+        0.11,
+        1
+      ],
+      [
+        0.24,
+        0.12,
+        1
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.12
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.15
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.24
+        }
+      ]
+    ]
+  },
   "23000": {
     "id": "23000",
     "skill": "Meteor Swarm",
@@ -8484,6 +8548,233 @@
       ]
     ]
   },
+  "23056": {
+    "id": "23056",
+    "skill": "Subsume",
+    "desc": "Meningkatkan #1[i]% CRIT Rate pengguna. Saat pertempuran dimulai atau setiap pengguna melancarkan total #2[i] kali Serangan Lanjutan, pengguna akan memperoleh \"Umbra Devourer\" yang berlangsung selama #3[i] giliran. Saat pengguna memiliki \"Umbra Devourer\", ATK pengguna meningkat #4[i]% dan DMG yang diterima seluruh musuh meningkat #5[i]%. Efek jenis serupa tidak dapat ditumpuk.",
+    "params": [
+      [
+        0.18,
+        4,
+        3,
+        0.4,
+        0.2
+      ],
+      [
+        0.21,
+        4,
+        3,
+        0.5,
+        0.225
+      ],
+      [
+        0.24,
+        4,
+        3,
+        0.6,
+        0.25
+      ],
+      [
+        0.27,
+        4,
+        3,
+        0.7,
+        0.275
+      ],
+      [
+        0.3,
+        4,
+        3,
+        0.8,
+        0.3
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.24
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.27
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.3
+        }
+      ]
+    ]
+  },
+  "23057": {
+    "id": "23057",
+    "skill": "Guaranteed Victory",
+    "desc": "Meningkatkan #1[i]% SPD pengguna, dan Elation DMG yang diakibatkan mengabaikan #2[i]% DEF target. Saat pengguna melancarkan Ultimate pada dirinya sendiri, memperoleh #3[i] poin \"Punchline\". Efek ini dapat dipicu hingga 1 kali, jumlah pemicuan akan di-reset setelah melancarkan #4[i] kali Basic Attack.",
+    "params": [
+      [
+        0.18,
+        0.2,
+        20,
+        3
+      ],
+      [
+        0.21,
+        0.24,
+        25,
+        3
+      ],
+      [
+        0.24,
+        0.28,
+        30,
+        3
+      ],
+      [
+        0.27,
+        0.32,
+        35,
+        3
+      ],
+      [
+        0.3,
+        0.36,
+        40,
+        3
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.24
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.27
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.3
+        }
+      ]
+    ]
+  },
+  "23058": {
+    "id": "23058",
+    "skill": "Daydream",
+    "desc": "Meningkatkan #1[i]% CRIT DMG dan #4[f1]% Energy Regeneration Rate pengguna. Saat Max Energy pengguna lebih dari #5[i], setiap 10 poin Max Energy yang berlebih akan meningkatkan ekstra #6[f1]% Energy Regeneration Rate, maksimal menghitung #7[i] poin Max Energy yang berlebih. Saat pengguna melancarkan Elation Skill, meningkatkan #2[f1]% DMG yang diterima seluruh musuh selama #3[i] giliran, efek sejenis tidak dapat ditumpuk.",
+    "params": [
+      [
+        0.6,
+        0.15,
+        2,
+        0.1,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        0.75,
+        0.1875,
+        2,
+        0.115,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        0.9,
+        0.225,
+        2,
+        0.13,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        1.05,
+        0.2625,
+        2,
+        0.145,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        1.2,
+        0.3,
+        2,
+        0.16,
+        120,
+        0.0029999998,
+        360
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.6
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.75
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.9
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 1.05
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 1.2
+        }
+      ]
+    ]
+  },
   "24000": {
     "id": "24000",
     "skill": "Moth To Flames",
@@ -8879,6 +9170,70 @@
         {
           "type": "SpeedAddedRatio",
           "value": 0.12
+        }
+      ]
+    ]
+  },
+  "24006": {
+    "id": "24006",
+    "skill": "Opening",
+    "desc": "Meningkatkan #1[i]% ATK pengguna. Setelah pengguna melancarkan Skill atau Ultimate pada 1 karakter tim, meningkatkan #2[i]% Tingkat Elation target tersebut selama #3[i] giliran.",
+    "params": [
+      [
+        0.2,
+        0.12,
+        2
+      ],
+      [
+        0.25,
+        0.15,
+        2
+      ],
+      [
+        0.3,
+        0.18,
+        2
+      ],
+      [
+        0.35,
+        0.21,
+        2
+      ],
+      [
+        0.4,
+        0.24,
+        2
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.2
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.25
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.3
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.35
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.4
         }
       ]
     ]

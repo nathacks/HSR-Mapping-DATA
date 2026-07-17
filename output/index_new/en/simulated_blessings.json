@@ -2547,7 +2547,7 @@
   },
   "616546": {
     "id": "616546",
-    "name": "Radiative Decay",
+    "name": "Radioactive Decay",
     "desc": "When ally targets' HP percentage is lower than 50%, decreases their DMG taken by 10% and increases the HP restored by 20%."
   },
   "616550": {
@@ -2983,6 +2983,807 @@
   },
   "616957": {
     "id": "616957",
+    "name": "Novel Motif",
+    "desc": "When ally targets Break any enemy target's Weakness, the attacker restores HP by 24% of their Max HP."
+  },
+  "617000": {
+    "id": "617000",
+    "name": "\"Highlight\"",
+    "desc": "Increases the final DMG dealt by ally targets by 2% and reduces DMG taken by 1%. When Charge reaches 100%, the \"Highlight\" target's action advances by 100%, and increases final DMG dealt by them and their memosprite by 10%, lasting for 2 turn(s)."
+  },
+  "617001": {
+    "id": "617001",
+    "name": ""
+  },
+  "617110": {
+    "id": "617110",
+    "name": ""
+  },
+  "617120": {
+    "id": "617120",
+    "name": "Bedtime Story",
+    "desc": "Spend 100 points of Energy to use the ability and achieve Boundary Resonance with the Path of Remembrance, dealing Ice DMG to all enemy targets with a high chance of Freezing them for 1 turn(s). After being attacked by memosprite while under this Freeze effect, additionally take True DMG equal to 8% of Max HP. Every time the enemy target is afflicted with this Freeze state, this DMG can be triggered a maximum of 4 time(s)."
+  },
+  "617130": {
+    "id": "617130",
+    "name": "Infallible Instinct",
+    "desc": "When characters take action, both them and their memosprite gain 1 stack(s) of \"Obsession.\" When memosprites take action, both them and their memomaster gain 1 stack(s) of \"Obsession.\""
+  },
+  "617131": {
+    "id": "617131",
+    "name": "Unaging Memory",
+    "desc": "After an ally target uses an attack, deals Additional DMG equal to 1% of ATK to attack target(s) for every stack of allies' total \"Obsession\" stacks."
+  },
+  "617132": {
+    "id": "617132",
+    "name": "Ever-Peaceful Dream",
+    "desc": "After ally targets enter combat or after a memosprite is summoned, advances their action by 50% and increases their DMG dealt by 50% for 4 turn(s) after their first turn ends."
+  },
+  "617140": {
+    "id": "617140",
+    "name": "Enlightenment: Cloudweave",
+    "desc": "When an ally target is attacked, gains 2 stack(s) of \"Obsession.\""
+  },
+  "617141": {
+    "id": "617141",
+    "name": "Enlightenment: Ridgesew",
+    "desc": "After an ally target defeats any enemy target, all allies gain 4 stack(s) of \"Obsession.\""
+  },
+  "617142": {
+    "id": "617142",
+    "name": "Enlightenment: Wavebind",
+    "desc": "After ally targets enter combat or after memosprites are summoned, they gain 6 stack(s) of \"Obsession.\""
+  },
+  "617143": {
+    "id": "617143",
+    "name": "Enlightenment: Eulogy of the Coast",
+    "desc": "Each stack of \"Obsession\" additionally increases DMG dealt by 0.3%."
+  },
+  "617144": {
+    "id": "617144",
+    "name": "Enlightenment: Praise of the Abyss",
+    "desc": "Characters' maximum \"Obsession\" increases by 4 stack(s)."
+  },
+  "617145": {
+    "id": "617145",
+    "name": "Enlightenment: Dawn Distilled",
+    "desc": "Every time an enemy target is attacked by different ally targets, increases their DMG taken by 4% for up to 6 stacks, lasting till the end of the turn."
+  },
+  "617146": {
+    "id": "617146",
+    "name": "Enlightenment: Sunset Melted",
+    "desc": "Every time an enemy target is hit by different ally targets, decreases their DMG dealt by 2% for up to 6 stacks, lasting till the end of the turn."
+  },
+  "617150": {
+    "id": "617150",
+    "name": "Acuity: Warmth of Blades",
+    "desc": "Increases all ally targets' ATK by 18%."
+  },
+  "617151": {
+    "id": "617151",
+    "name": "Acuity: Shape of Claws",
+    "desc": "Increases all ally targets' DMG dealt by 12%."
+  },
+  "617152": {
+    "id": "617152",
+    "name": "Acuity: Patterns of Conches",
+    "desc": "Increases all ally targets' DEF by 16%."
+  },
+  "617153": {
+    "id": "617153",
+    "name": "Acuity: Stories of Monsoons",
+    "desc": "Increases all ally targets' DMG dealt by 10% and additionally increases memosprites' DMG dealt by 4%."
+  },
+  "617154": {
+    "id": "617154",
+    "name": "Acuity: Stories of Boulders",
+    "desc": "Increases all ally targets' DEF by 14% and additionally increases memosprites' DEF by 6%."
+  },
+  "617155": {
+    "id": "617155",
+    "name": "Acuity: Stories of Tides",
+    "desc": "Increases all ally targets' HP restored by 10% and additionally increases memosprites' HP restored by 4%."
+  },
+  "617156": {
+    "id": "617156",
+    "name": "Acuity: Scarlet Bones and Crimson Leaves",
+    "desc": "After a memosprite takes action, increases all ally targets' CRIT Rate by 14% for 2 turn(s)."
+  },
+  "617157": {
+    "id": "617157",
+    "name": "Acuity: White Hair and Pearls",
+    "desc": "After a memosprite takes action, increases all ally targets' CRIT DMG by 28% for 2 turn(s)."
+  },
+  "617210": {
+    "id": "617210",
+    "name": ""
+  },
+  "617220": {
+    "id": "617220",
+    "name": "Adorable Black Hole",
+    "desc": "Spend 100 points of Energy to use the ability and achieve Boundary Resonance with the Path of Nihility. Inflicts Burn, Shock, Bleed, and 2 stacks of Wind Shear to all enemy targets, lasting for 3 turn(s). After being attacked by a character, the aforementioned DoTs immediately deal DMG equal to 25% of the original DMG."
+  },
+  "617230": {
+    "id": "617230",
+    "name": "La Communauté Inavouable",
+    "desc": "When enemy target is afflicted with DoT, \"Murmur\" gains Charge equal to 20% of the sum of ally characters' ATK."
+  },
+  "617231": {
+    "id": "617231",
+    "name": "De L'existence a L'existant",
+    "desc": "After enemy targets are attacked for the first time in this turn, causes \"Murmur\" DMG equal to 160% of original DMG."
+  },
+  "617232": {
+    "id": "617232",
+    "name": "Une Voix Venue D'ailleurs",
+    "desc": "At the beginning of an enemy target's turn, additionally trigger 1 instance of DoT calculation, and each DoT state currently on the target will immediately produce DMG equal to 90% of the original DMG."
+  },
+  "617240": {
+    "id": "617240",
+    "name": "Enlightenment and Extinction",
+    "desc": "When enemy target's turn ends, \"Murmur\" gains Charge equal to 40% of the sum of ally characters' ATK."
+  },
+  "617241": {
+    "id": "617241",
+    "name": "Lacrimi și Sfinți",
+    "desc": "Every time an enemy target takes \"Murmur\" DMG, decreases their DMG dealt by 0.3% to a max reduction of 12%."
+  },
+  "617242": {
+    "id": "617242",
+    "name": "Insomnia's Praise",
+    "desc": "\"Murmur\" DMG increases by 30% of the original DMG multiplier."
+  },
+  "617243": {
+    "id": "617243",
+    "name": "Pe Culmile Disperării",
+    "desc": "Increases \"Murmur\" clear threshold by 50%."
+  },
+  "617244": {
+    "id": "617244",
+    "name": "L'Écriture du Désastre",
+    "desc": "\"Murmur's\" Charging Efficiency when gaining Charge increases by 20%."
+  },
+  "617245": {
+    "id": "617245",
+    "name": "The Final Speaker",
+    "desc": "Every time an enemy target takes 1 instance of DoT, all allies restore HP equal to 1.0% of their respective Max HP."
+  },
+  "617246": {
+    "id": "617246",
+    "name": "Unclear Opinions",
+    "desc": "For every 1 DoT state an enemy target are afflicted with, increases the DMG taken by them by 3.0%. This effect can stack up to 6 times."
+  },
+  "617250": {
+    "id": "617250",
+    "name": "La Métaphore Vive",
+    "desc": "Increases ally targets' DoT dealt by 24%."
+  },
+  "617251": {
+    "id": "617251",
+    "name": "The Non-Existent",
+    "desc": "Increases ally targets' Effect Hit Rate by 24%."
+  },
+  "617252": {
+    "id": "617252",
+    "name": "Sygdommen til Døden",
+    "desc": "Decreases enemy targets' Effect RES by 12%."
+  },
+  "617253": {
+    "id": "617253",
+    "name": "Sacrilegious",
+    "desc": "Increases enemy targets' DoT taken by 10%."
+  },
+  "617254": {
+    "id": "617254",
+    "name": "L'Expérience Intérieure",
+    "desc": "After any ally target applies a debuff, increases their ATK by 24% for 2 turn(s)."
+  },
+  "617255": {
+    "id": "617255",
+    "name": "Soleil Noir",
+    "desc": "Increases DMG taken by enemy targets with any DoT state by 8%."
+  },
+  "617256": {
+    "id": "617256",
+    "name": "Beyond Good & Evil",
+    "desc": "After any ally target applies a debuff, increases their SPD by 10% for 3 turn(s)."
+  },
+  "617257": {
+    "id": "617257",
+    "name": "Die Austreibung des Anderen",
+    "desc": "Every time an enemy target takes 1 instance of DoT, regenerates 1.0 Energy for a random ally target. Enemy targets can trigger this effect for a max of 20 time(s) in one turn."
+  },
+  "617410": {
+    "id": "617410",
+    "name": ""
+  },
+  "617420": {
+    "id": "617420",
+    "name": "Last Bullet",
+    "desc": "Spends 100 points of Energy to use the ability and achieve Boundary Resonance with the Path of The Hunt, dealing Wind DMG to all enemy targets and advances all allies' actions by 100%, with the Max Energy being 200."
+  },
+  "617430": {
+    "id": "617430",
+    "name": "Weapons Drawn, Paths Restless",
+    "desc": "After an ally target defeats an enemy target, advances their action by 100% and inflicts 4 stack(s) of \"Reverse Critical Boost\" on other enemy targets."
+  },
+  "617431": {
+    "id": "617431",
+    "name": "White Feathers Fly, A Sky of Stars Vanish",
+    "desc": "After an ally target uses an attack, when the number of attack targets is 1/2/3/4/5, the \"Reverse Critical Boost\" DMG dealt increases by 120%/80%/60%/40%/20% of the original DMG multiplier."
+  },
+  "617432": {
+    "id": "617432",
+    "name": "A Myriad Chariots, A Trial of Courage",
+    "desc": "After any ally target inflicts Weakness Breaks on an enemy target, the ally target's next action advances by 100%."
+  },
+  "617440": {
+    "id": "617440",
+    "name": "Stars Converge at Sword's Edge",
+    "desc": "When an ally target deals DMG to an enemy target with \"Reverse Critical Boost\", increases CRIT Rate by 20%. For every stack of \"Reverse Critical Boost\", additionally increases CRIT DMG by 3%."
+  },
+  "617441": {
+    "id": "617441",
+    "name": "The Crooked Path of Arrows",
+    "desc": "Increases the max stack limit of \"Reverse Critical Boost\" on enemy targets by 5."
+  },
+  "617442": {
+    "id": "617442",
+    "name": "Riders Surge in Chaos",
+    "desc": "At the start of an enemy target's turn, for each stack of \"Reverse Critical Boost\" they have, increases the DMG taken by them by 0.8%. This effect lasts until the start of their next turn."
+  },
+  "617443": {
+    "id": "617443",
+    "name": "Broken but Not Bent",
+    "desc": "After an ally target launches a Follow-Up ATK, additionally inflicts 2 stack(s) of \"Reverse Critical Boost\" on a random attack target."
+  },
+  "617444": {
+    "id": "617444",
+    "name": "Radiance of Lightning's Edge",
+    "desc": "After an ally target uses an attack, if any of the attack targets has 5 or more stacks of \"Reverse Critical Boost\", increases this unit's ATK by 50% for 2 turn(s)."
+  },
+  "617445": {
+    "id": "617445",
+    "name": "The Archer's Trusted Bow",
+    "desc": "After an ally target launches a Follow-Up ATK, there is a 40% fixed chance to recover 1 Skill Point."
+  },
+  "617446": {
+    "id": "617446",
+    "name": "Arrows Leap Like Meteors",
+    "desc": "Increases ally targets' SPD by 5%. After every 12 turn(s) spent by the entire team, the currently acting ally target's action advances by 100%."
+  },
+  "617450": {
+    "id": "617450",
+    "name": "Aligned for Precision",
+    "desc": "Increases ally targets' SPD by 8%."
+  },
+  "617451": {
+    "id": "617451",
+    "name": "Strength to Overcome Hundreds",
+    "desc": "Increases ally targets' CRIT Rate by 12%."
+  },
+  "617452": {
+    "id": "617452",
+    "name": "Purpose Shines Clear",
+    "desc": "Increases ally targets' CRIT DMG by 24%."
+  },
+  "617453": {
+    "id": "617453",
+    "name": "Autumn Moon in the Sky",
+    "desc": "After defeating any enemy target, restores all ally targets' HP equal to 12% of their respective Max HP."
+  },
+  "617454": {
+    "id": "617454",
+    "name": "A Flick of the Hand",
+    "desc": "After defeating any enemy targets, increases all allies' ATK by 10%. This effect can stack up to 4 time(s)."
+  },
+  "617455": {
+    "id": "617455",
+    "name": "Arrow Shatters the Moon",
+    "desc": "At the end of an ally target's turn, advances their action by 6%."
+  },
+  "617456": {
+    "id": "617456",
+    "name": "Thunder Upon the Wall",
+    "desc": "At the beginning of an ally target's turn, they regenerate 3 Energy."
+  },
+  "617457": {
+    "id": "617457",
+    "name": "Verdant Branch, Vermillion String",
+    "desc": "After defeating any enemy targets, increases all allies' SPD by 4%. This effect can stack up to 3 time(s)."
+  },
+  "617510": {
+    "id": "617510",
+    "name": ""
+  },
+  "617520": {
+    "id": "617520",
+    "name": "Demon Lord From Beyond",
+    "desc": "Spends 100 points of Energy to use the ability and achieve Boundary Resonance with the Path of Destruction, dealing Fire DMG to all enemy targets, consumes all allies' HP until 60%, and increases all ally targets' Max HP by 100%. At the start of the turn, restore 100% of the acting unit's consumed HP. This effect lasts for 4 turn(s)."
+  },
+  "617530": {
+    "id": "617530",
+    "name": "Faster-than-Light Surge",
+    "desc": "Increases ally targets' \"Blazar\" DMG by 20%, and increases the max limit of \"Blazar\" by 65%."
+  },
+  "617531": {
+    "id": "617531",
+    "name": "Random Freepath Shockwave",
+    "desc": "After any ally target first launches an ATK during each turn, deals Additional DMG equal to 100% of \"Blazar\" to the attack targets."
+  },
+  "617532": {
+    "id": "617532",
+    "name": "Hypersonic Cloud Medium",
+    "desc": "When any ally target is attacked, the DMG taken is Distributed among all allies."
+  },
+  "617540": {
+    "id": "617540",
+    "name": "Compact Blaze",
+    "desc": "When an ally target is attacked, \"Blazar\" DMG multiplier increases by 20% of the original multiplier, stacking up to 2 time(s) and lasting for 2 turn(s)."
+  },
+  "617541": {
+    "id": "617541",
+    "name": "Synchronous Radiation",
+    "desc": "40% of Shield Effect obtained by ally targets will additionally be converted to \"Blazar.\""
+  },
+  "617542": {
+    "id": "617542",
+    "name": "Continuous Spectrum",
+    "desc": "40% of Overflow HP restoration can be converted to \"Blazar.\""
+  },
+  "617543": {
+    "id": "617543",
+    "name": "Concealed Shadow Bands",
+    "desc": "Increases \"Blazar\" Base Value by 50%."
+  },
+  "617544": {
+    "id": "617544",
+    "name": "Cataclysmic Variable",
+    "desc": "Increases CRIT Rate of DMG dealt by \"Blazar\" by 20% and CRIT DMG by 50%."
+  },
+  "617545": {
+    "id": "617545",
+    "name": "Forced Jump",
+    "desc": "If an ally target's current HP percentage is lower than 35% after being attacked or consuming HP, restores their HP by 12% of their Max HP. This can restore HP equal to a maximum of 18% Max HP during a single action."
+  },
+  "617546": {
+    "id": "617546",
+    "name": "Radioactive Decay",
+    "desc": "When ally targets' HP percentage is lower than 50%, decreases their DMG taken by 10% and increases the HP restored by 20%."
+  },
+  "617550": {
+    "id": "617550",
+    "name": "Bipolar Jets",
+    "desc": "Decreases ally targets' DMG taken by 6%."
+  },
+  "617551": {
+    "id": "617551",
+    "name": "Double-Segment Structure",
+    "desc": "Increases ally targets' Effect RES by 12%."
+  },
+  "617552": {
+    "id": "617552",
+    "name": "Contact Binary Stars",
+    "desc": "Increases ally targets' Max HP by 16%."
+  },
+  "617553": {
+    "id": "617553",
+    "name": "Absolute Magnitude",
+    "desc": "Increases ally targets' HP restored by 12%."
+  },
+  "617554": {
+    "id": "617554",
+    "name": "Standard Candle",
+    "desc": "Increases Shield Effect received by ally targets by 12%."
+  },
+  "617555": {
+    "id": "617555",
+    "name": "Mass Transfer Substar",
+    "desc": "After an ally target's HP or Shield Effect is reduced, increases their Max HP by 20% for 2 turn(s)."
+  },
+  "617556": {
+    "id": "617556",
+    "name": "Eclipsing Binary",
+    "desc": "After an ally target's HP or Shield Effect is reduced, increases their Effect RES by 16% for 2 turn(s)."
+  },
+  "617557": {
+    "id": "617557",
+    "name": "Nova Burst",
+    "desc": "When struck with a killing blow, instead of becoming downed, characters immediately restore HP by 20% of their Max HP. The team can only trigger this effect 1 time(s) per battle."
+  },
+  "617610": {
+    "id": "617610",
+    "name": ""
+  },
+  "617620": {
+    "id": "617620",
+    "name": "Infinite Improbability",
+    "desc": "Consumes 100 Energy to use an ability and trigger Boundary Resonance with the Path of Elation, dealing 5–10 instances of Elation DMG of random Type(s) to all enemy targets, as well as immediately granting Aha 1 extra turn where a fixed amount of 200 Punchline points are taken into account. This turn does not consume Punchlines."
+  },
+  "617630": {
+    "id": "617630",
+    "name": "<i>Licorice Pizza: Mint Shaved Ice</i>",
+    "desc": "For every 50 action value that passed, the \"Dealer\" permanently gains 1 Charge. For each point of Charge the \"Dealer\" has, the SPD of Neutral Combat Events, all allies, and their summons increases by 1."
+  },
+  "617631": {
+    "id": "617631",
+    "name": "<i>Ocean Colonel: World of Yesterday</i>",
+    "desc": "After \"Dealer\" takes action, gains 5 Punchline(s) and increases all allies' CRIT DMG by 60% for 2 turn(s)."
+  },
+  "617632": {
+    "id": "617632",
+    "name": "<i>Sands of Sunrise: Solo Dance</i>",
+    "desc": "Increases ally targets' All-Type RES PEN by 10%. When Punchline reaches 50/100/200/300/500 for the first time, increases all ally targets' Elation by 20%. This effect can stack."
+  },
+  "617640": {
+    "id": "617640",
+    "name": "<i>A Silent Month in a House</i>",
+    "desc": "Increases \"Dealer's\" CRIT Rate by 20% and CRIT DMG by 50%."
+  },
+  "617641": {
+    "id": "617641",
+    "name": "<i>Lieutenant Besotted with Caviar</i>",
+    "desc": "When \"Dealer\" deals DMG, increases DMG taken by the attack target by 5%. This effect is stackable and lasts until \"Dealer's\" next action."
+  },
+  "617642": {
+    "id": "617642",
+    "name": "<i>Your Cabinet is Beautiful, You Know</i>",
+    "desc": "Increases \"Dealer's\" base SPD by 16 and advances their action by 50% when the battle starts."
+  },
+  "617643": {
+    "id": "617643",
+    "name": "<i>Seed of a Fruit Strange and Divine</i>",
+    "desc": "After \"Dealer\" takes action, increases all ally targets' SPD by 18% for 2 turn(s)."
+  },
+  "617644": {
+    "id": "617644",
+    "name": "<i>Cry of the Cosmic Cat</i>",
+    "desc": "When \"Dealer\" deals DMG, reduces the attack target's DMG dealt by 4%. This effect can stack up to 3 time(s) and lasts until \"Dealer's\" next action."
+  },
+  "617645": {
+    "id": "617645",
+    "name": "<i>Simon in the Sea</i>",
+    "desc": "DMG dealt by ally targets ignores 8% of the enemy target's DEF. If the DMG is Elation DMG, ignores an extra 4%."
+  },
+  "617646": {
+    "id": "617646",
+    "name": "<i>Long Day's Journey into Day</i>",
+    "desc": "When ally targets deal Elation DMG, increases Weakness Break Efficiency by 35%."
+  },
+  "617650": {
+    "id": "617650",
+    "name": "<i>Psychedelic Parking Lot</i>",
+    "desc": "When entering combat, advances all allies' actions by 30%, and the team gains 10 Punchline(s)."
+  },
+  "617651": {
+    "id": "617651",
+    "name": "<i>Love Line</i>",
+    "desc": "Decreases DMG taken by all allies by 4%. After Aha takes THEIR first action, additionally decreases DMG taken by 3%."
+  },
+  "617652": {
+    "id": "617652",
+    "name": "<i>Omega City</i>",
+    "desc": "Increases ally target's CRIT Rate by 10%. When dealing Elation DMG, additionally increases by 4%."
+  },
+  "617653": {
+    "id": "617653",
+    "name": "<i>Mr. Violence</i>",
+    "desc": "Increases ally targets' CRIT DMG by 20%. When dealing Elation DMG, additionally increases it by 8%."
+  },
+  "617654": {
+    "id": "617654",
+    "name": "<i>Forsaken Sanctuary</i>",
+    "desc": "When Aha takes action, restores 4 Energy to all allies. This effect can be triggered a maximum of 1 time(s) per ally per turn."
+  },
+  "617655": {
+    "id": "617655",
+    "name": "<i>Ashen Coins and Gold</i>",
+    "desc": "After Aha takes action, grants all allies a Shield equal to 20% of their respective Max HP, lasting for 2 turn(s)."
+  },
+  "617656": {
+    "id": "617656",
+    "name": "<i>Reaper Comes Riding</i>",
+    "desc": "Increases all allies' DEF by 12%. After Aha takes THEIR first action, additionally increases DEF by 8%."
+  },
+  "617657": {
+    "id": "617657",
+    "name": "<i>Cat Town</i>",
+    "desc": "Increases all allies' SPD by 6%. After Aha takes action for the first time, additionally increases SPD by 4%."
+  },
+  "617710": {
+    "id": "617710",
+    "name": ""
+  },
+  "617720": {
+    "id": "617720",
+    "name": "Imagenated Creation",
+    "desc": "Spend 100 points of Energy to use this ability and trigger Boundary Resonance with the Path of Propagation. Causes one designated ally to immediately take action and recovers 5 Skill Point(s). Gains the \"Levitation\" effect. When any enemy unit is defeated by a character with \"Levitation,\" Boundary Equation regenerates 50 Energy, with the Max Energy set at 200."
+  },
+  "617730": {
+    "id": "617730",
+    "name": "Müllerian Mimicry",
+    "desc": "Increases ally targets' ATK by 50%. Every Skill Point gained or consumed Charges \"Soul Chrysalis\" by 6%."
+  },
+  "617731": {
+    "id": "617731",
+    "name": "Ejecting Spores",
+    "desc": "While in the \"Butterfly Soul\" state, ally targets' Basic ATK/Skill DMG dealt increases by 40% and \"Butterfly Soul\" additionally deals 1 instance of True DMG equal to 15% of the original DMG."
+  },
+  "617732": {
+    "id": "617732",
+    "name": "Broodwater Droplets",
+    "desc": "After any ally target consumes any Skill Point, increases all allies' CRIT DMG by 2%, stacking up to 35 time(s). After using Ultimate, the next time Skill Point is consumed, it will be considered as consuming 1 additional Skill Point."
+  },
+  "617740": {
+    "id": "617740",
+    "name": "Sporocarp",
+    "desc": "After defeating an enemy target, Charges \"Soul Chrysalis\" by 30%."
+  },
+  "617741": {
+    "id": "617741",
+    "name": "Chitin Armor",
+    "desc": "Increases ally targets' ATK by 30%. When entering combat, additionally Charges \"Soul Chrysalis\" by 30%."
+  },
+  "617742": {
+    "id": "617742",
+    "name": "Free Cocoon",
+    "desc": "When \"Soul Chrysalis\" changes to \"Butterfly Soul,\" restores 60% HP and increases DMG dealt while in this state by 20%."
+  },
+  "617743": {
+    "id": "617743",
+    "name": "Basidiospores",
+    "desc": "While in the \"Butterfly Soul\" state, increases the All-Type RES PEN of Basic ATK/Skill DMG by 14%."
+  },
+  "617744": {
+    "id": "617744",
+    "name": "Structural Hues",
+    "desc": "While in \"Soul Chrysalis,\" increases SPD by 16%. While in \"Butterfly Soul,\" increases DMG dealt by Basic ATK/Skill by 50%."
+  },
+  "617745": {
+    "id": "617745",
+    "name": "Sensory Rods",
+    "desc": "For each Skill Point consumed by an ally target, their DMG taken decreases by 6% for 2 turn(s). This effect can be stacked up to 2 time(s)."
+  },
+  "617746": {
+    "id": "617746",
+    "name": "Splash Hex",
+    "desc": "Basic ATK DMG/Skill DMG dealt by ally targets will deal DMG equal to 10% of the original DMG to adjacent targets."
+  },
+  "617750": {
+    "id": "617750",
+    "name": "Mushroom Base",
+    "desc": "When ally targets consume Skill Points, there is a 16% fixed chance of regenerating 1 Skill Point(s)."
+  },
+  "617751": {
+    "id": "617751",
+    "name": "Hanging Thread",
+    "desc": "DMG dealt increases when any ally target uses Basic ATK or Skill by 30%."
+  },
+  "617752": {
+    "id": "617752",
+    "name": "Eye Spots",
+    "desc": "Increases CRIT DMG dealt when any ally target uses Basic ATK or Skill by 32%."
+  },
+  "617753": {
+    "id": "617753",
+    "name": "Dorsal Wings",
+    "desc": "Increases CRIT Rate when any ally target uses Basic ATK or Skill by 16%."
+  },
+  "617754": {
+    "id": "617754",
+    "name": "Thickened Walls",
+    "desc": "After any ally target consumes Skill Points, increases their DEF by 30% for 1 turn(s)."
+  },
+  "617755": {
+    "id": "617755",
+    "name": "Tarsal Segments",
+    "desc": "After any ally target consumes Skill Points, increases their SPD by 8% for 2 turn(s)."
+  },
+  "617756": {
+    "id": "617756",
+    "name": "Lip Bristles",
+    "desc": "When an ally target consumes any Skill Point, regenerates 2 Energy."
+  },
+  "617757": {
+    "id": "617757",
+    "name": "Budding Propagation",
+    "desc": "When an ally target consumes any Skill Point, restore HP equal to 10% of their Max HP."
+  },
+  "617810": {
+    "id": "617810",
+    "name": ""
+  },
+  "617820": {
+    "id": "617820",
+    "name": "References",
+    "desc": "Spend 100 points of Energy to use the ability and achieve Boundary Resonance with the Path of Erudition. Deals minor Imaginary DMG to all enemy targets. Additionally, links the enemy with the highest Max HP with other enemies, inflicting \"Central Link\" on all enemies, and regenerating Energy equal to 100% of Max Energy to all allies."
+  },
+  "617830": {
+    "id": "617830",
+    "name": "Hippocampus TR-303",
+    "desc": "After an ally target Breaks an enemy target's Weakness, Charges \"Brain in a Vat\" by 10%. If it is an Elite Enemy, then additionally Charges 40%."
+  },
+  "617831": {
+    "id": "617831",
+    "name": "Accumbens Nucleus DBS-45",
+    "desc": "When an ally target deals fatal damage to any enemy target, Charges \"Brain in a Vat\" by 50%."
+  },
+  "617832": {
+    "id": "617832",
+    "name": "Dark Matter ELO-536",
+    "desc": "The All-Type RES PEN for Ultimate DMG dealt by the ally target increases by 20%. After an Ultimate ATK is used, for every enemy target that is hit by this Ultimate, the All-Type RES PEN for the Ultimate DMG dealt will additionally increase by 3%. This effect lasts until after the next usage of an Ultimate."
+  },
+  "617840": {
+    "id": "617840",
+    "name": "Restart: Terminal Nerve",
+    "desc": "When ally targets use their Ultimate via \"Brain in a Vat,\" increases their CRIT DMG by 80%, lasting until this ability ends."
+  },
+  "617841": {
+    "id": "617841",
+    "name": "Iterate: Cognitive Map",
+    "desc": "After an ally target uses their Ultimate via \"Brain in a Vat,\" they gain a Shield equal in strength to 36% of their Max HP, lasting for 2 turn(s)."
+  },
+  "617842": {
+    "id": "617842",
+    "name": "Analyze: Procedural Memory",
+    "desc": "When an ally target uses \"Brain in a Vat\" to use their Ultimate, increases all allies' DMG dealt by 36% for 2 turn(s)."
+  },
+  "617843": {
+    "id": "617843",
+    "name": "Stabilize: Slow-Wave Sleep",
+    "desc": "After ally targets are attacked, Charges \"Brain in a Vat\" by 6%."
+  },
+  "617844": {
+    "id": "617844",
+    "name": "Derive: Cell Demarcation",
+    "desc": "After an ally target uses \"Brain in a Vat\" to use their Ultimate, their ATK increases by 60% for 2 turn(s)."
+  },
+  "617845": {
+    "id": "617845",
+    "name": "Execute: Enhanced Learning",
+    "desc": "After ally targets use their Ultimate to attack Weakness Broken enemies, delay the enemy's action by 16%. Every time the enemy target becomes Weakness Broken, this effect can be triggered up to 3 time(s)."
+  },
+  "617846": {
+    "id": "617846",
+    "name": "Open: Direct Pathway",
+    "desc": "If an ally target's AoE ATK ability only attacks 1 enemy target, then this attack deals an additional set amount of DMG equal to 40% of the original DMG to the attacked enemy target."
+  },
+  "617850": {
+    "id": "617850",
+    "name": "Holo-Shimmer Flag",
+    "desc": "Increases ally targets' Ultimate DMG dealt by 20%."
+  },
+  "617851": {
+    "id": "617851",
+    "name": "Solid-State Stored Armor",
+    "desc": "Increases ally targets' Ultimate DMG CRIT Rate by 18%."
+  },
+  "617852": {
+    "id": "617852",
+    "name": "Safely Redacted Border",
+    "desc": "Increases ally targets' Ultimate DMG CRIT DMG by 36%."
+  },
+  "617853": {
+    "id": "617853",
+    "name": "Packages Aligned by Partitions",
+    "desc": "When entering combat, regenerates Energy equal to 30% of Max Energy."
+  },
+  "617854": {
+    "id": "617854",
+    "name": "Route of Erased Macroblocks",
+    "desc": "When an ally target uses their Ultimate, their ATK increases by 24% for 2 turn(s)."
+  },
+  "617855": {
+    "id": "617855",
+    "name": "Lighthouse of Crystalline Resonance",
+    "desc": "After an ally target uses their Ultimate, increases their Max HP by 20% for 2 turn(s)."
+  },
+  "617856": {
+    "id": "617856",
+    "name": "Optical Guiding Lens",
+    "desc": "After ally targets use their Ultimate, they restore HP equal to 20% of their Max HP."
+  },
+  "617857": {
+    "id": "617857",
+    "name": "Sequentially Written Track",
+    "desc": "When struck with a killing blow, characters will not be knocked down and will instead consume all their Energy, then restore HP equal to 50% of the consumed Energy. This effect can only be triggered once per battle for the whole team."
+  },
+  "617910": {
+    "id": "617910",
+    "name": ""
+  },
+  "617920": {
+    "id": "617920",
+    "name": "Blissmost Gala",
+    "desc": "Spends 100 points of Energy to use the ability and achieve Boundary Resonance with the Path of Harmony, dealing Quantum DMG to all enemy targets and Break their Weaknesses at 1000% Break Effect. When Weakness is Broken, triggers all Weakness Break effects from all Types."
+  },
+  "617930": {
+    "id": "617930",
+    "name": "First Movement: The Frog and the Knight",
+    "desc": "Every time an enemy target takes 10 actual Toughness reduction, they become afflicted with 1 stack(s) of \"Harmonize.\""
+  },
+  "617931": {
+    "id": "617931",
+    "name": "Second Movement: The Faun's Breakfast",
+    "desc": "After any ally target attacks any Weakness Broken enemy targets, triggers 1 instance of \"Harmonize\" DMG in a 8% ratio."
+  },
+  "617932": {
+    "id": "617932",
+    "name": "Third Movement: Rondo Form",
+    "desc": "When any ally target Breaks any enemy target's Weakness, the Weakness Break effects of other Type Weaknesses the enemy possesses are additionally triggered at a 50% ratio."
+  },
+  "617940": {
+    "id": "617940",
+    "name": "Common Practice Period",
+    "desc": "After an enemy target with \"Harmonize\" is defeated, causes 1 random adjacent targets to gain that enemy target's \"Harmonize\" stacks."
+  },
+  "617941": {
+    "id": "617941",
+    "name": "Goblet of Dionysus",
+    "desc": "After any ally target attacks any Weakness Broken enemy targets, inflicts 1 stack(s) of \"Harmonize.\""
+  },
+  "617942": {
+    "id": "617942",
+    "name": "Coronal Pulse",
+    "desc": "For each stack of \"Harmonize\" an enemy target has, increases their Break DMG taken by 1.0%."
+  },
+  "617943": {
+    "id": "617943",
+    "name": "String Quartet",
+    "desc": "When \"Harmonize\" DMG is triggered, additionally take into account 5 stack(s). Increases maximum \"Harmonize\" stacks by 5."
+  },
+  "617944": {
+    "id": "617944",
+    "name": "Iambic Pentameter",
+    "desc": "Increases the DMG multiplier of \"Harmonize\" by 30% of the original multiplier."
+  },
+  "617945": {
+    "id": "617945",
+    "name": "Basso Continuo",
+    "desc": "After an ally target attacks a Weakness Broken enemy target, converts the Toughness Reduction of this attack into 1 instance of 50% Super Break DMG."
+  },
+  "617946": {
+    "id": "617946",
+    "name": "Righteous Nome",
+    "desc": "When an ally target Breaks an enemy target's Weakness, there is a 100% base chance to inflict Freeze on the target, lasting for 1 turn(s)."
+  },
+  "617950": {
+    "id": "617950",
+    "name": "Stagnant Weave",
+    "desc": "When any ally target Breaks an enemy target's Weakness, delays the enemy target's action by 20%."
+  },
+  "617951": {
+    "id": "617951",
+    "name": "Original Declaration",
+    "desc": "Increases ally targets' Break DMG dealt by 8%."
+  },
+  "617952": {
+    "id": "617952",
+    "name": "Serene Storm",
+    "desc": "Increases ally targets' Break Effect by 30%."
+  },
+  "617953": {
+    "id": "617953",
+    "name": "Linear Melody",
+    "desc": "When any ally target Breaks an enemy target's Weakness, increases the attacker's SPD by 12% for 3 turn(s)."
+  },
+  "617954": {
+    "id": "617954",
+    "name": "Cross Rhythm",
+    "desc": "When any ally target Breaks an enemy target's Weakness, increases all ally targets' Break Effect by 40% for 3 turn(s)."
+  },
+  "617955": {
+    "id": "617955",
+    "name": "Free Tonality",
+    "desc": "Increases Break DMG taken by enemy targets by 16%."
+  },
+  "617956": {
+    "id": "617956",
+    "name": "Duke of Omens",
+    "desc": "Decreases DEF of Weakness Broken enemy targets by 15%."
+  },
+  "617957": {
+    "id": "617957",
     "name": "Novel Motif",
     "desc": "When ally targets Break any enemy target's Weakness, the attacker restores HP by 24% of their Max HP."
   },
@@ -3426,6 +4227,461 @@
     "id": "634128",
     "name": "Land Mender",
     "desc": "Additionally increase the final DMG dealt by ally targets with \"Quartz\" by 50%."
+  },
+  "661001": {
+    "id": "661001",
+    "name": "March 7th",
+    "desc": "March 7th's DMG is amplified in the Divergent Universe.\n\nEffect Hit Rate increases by 30%. When on the field, enemy targets in the Frozen state have their DEF reduced by 20%."
+  },
+  "661002": {
+    "id": "661002",
+    "name": "Dan Heng",
+    "desc": "Dan Heng's DMG is amplified in the Divergent Universe.\n\nIncreases SPD by 10%. For every 10 points of SPD that exceeds 150, the final DMG dealt increases by 2.0%, up to a max increase of 30%."
+  },
+  "661003": {
+    "id": "661003",
+    "name": "Himeko",
+    "desc": "Himeko's DMG is amplified in the Divergent Universe.\n\nDeals 35% increased final DMG to enemy targets in the Weakness Broken state."
+  },
+  "661004": {
+    "id": "661004",
+    "name": "Welt",
+    "desc": "Welt's DMG is amplified in the Divergent Universe.\n\nAfter inflicting Imprisonment, additionally delays the enemy target's action by 30% and increases the DMG they take by 15%, lasting for 2 turn(s)."
+  },
+  "661005": {
+    "id": "661005",
+    "name": "Kafka",
+    "desc": "Kafka's DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt to enemy targets afflicted with 3 or more DoT states by 12%. For each additional DoT state beyond that, increases final DMG by another 1%."
+  },
+  "661006": {
+    "id": "661006",
+    "name": "Silver Wolf",
+    "desc": "Silver Wolf's DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt to enemy targets afflicted with 8 or more debuffs by 10%. For every debuff beyond that, the DMG boost additionally increases by 1%."
+  },
+  "661008": {
+    "id": "661008",
+    "name": "Arlan",
+    "desc": "Arlan's DMG is amplified in the Divergent Universe.\n\nWhen his current HP percentage is below 50%, increases final DMG dealt by 40%."
+  },
+  "661009": {
+    "id": "661009",
+    "name": "Asta",
+    "desc": "Asta's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases all allies' SPD by 10% of Asta's SPD."
+  },
+  "661013": {
+    "id": "661013",
+    "name": "Herta",
+    "desc": "Herta's DMG is amplified in the Divergent Universe.\n\nDeals 35% more final DMG to enemy targets whose HP percentage is below 50%."
+  },
+  "661014": {
+    "id": "661014",
+    "name": "Saber",
+    "desc": "Saber's DMG is amplified in the Divergent Universe.\n\nEach time she uses Ultimate, increases her own final DMG dealt by 3%. Stacks up to 10 times."
+  },
+  "661015": {
+    "id": "661015",
+    "name": "Archer",
+    "desc": "Archer's DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt by 15%. Recovers 1 Skill Point(s) at the start of every turn."
+  },
+  "661101": {
+    "id": "661101",
+    "name": "Bronya",
+    "desc": "Bronya's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the final DMG dealt by the first character in the team lineup and their memosprite by 12%."
+  },
+  "661102": {
+    "id": "661102",
+    "name": "Seele",
+    "desc": "Seele's DMG is amplified in the Divergent Universe.\n\nAfter using an attack, if the target's HP percentage is less than or equal to 15%, deals True DMG equal to the target's current HP."
+  },
+  "661103": {
+    "id": "661103",
+    "name": "Serval",
+    "desc": "Serval's DMG is amplified in the Divergent Universe.\n\nFor every enemy target present on the field, final DMG dealt increases by 4%. After eliminating an enemy target, final DMG additionally increases by 2% for this battle. This effect is stackable."
+  },
+  "661104": {
+    "id": "661104",
+    "name": "Gepard",
+    "desc": "Gepard's DMG is amplified in the Divergent Universe.\n\nEffect Hit Rate increases by 30%. While on the field, enemy targets in the Frozen state have their DEF reduced by 20%."
+  },
+  "661105": {
+    "id": "661105",
+    "name": "Natasha",
+    "desc": "Natasha's DMG is amplified in the Divergent Universe.\n\nIncreases Outgoing Healing by 30% and reduces DMG taken by healed targets by 15%, lasting for 2 turn(s)."
+  },
+  "661106": {
+    "id": "661106",
+    "name": "Pela",
+    "desc": "Pela's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases ally targets' ATK by an amount equal to 12% of Pela's ATK."
+  },
+  "661107": {
+    "id": "661107",
+    "name": "Clara",
+    "desc": "Clara's DMG is amplified in the Divergent Universe.\n\nDecreases DMG taken by 10%. Final DMG dealt by Follow-Up ATKs increases by 20%."
+  },
+  "661108": {
+    "id": "661108",
+    "name": "Sampo",
+    "desc": "Sampo's DMG is amplified in the Divergent Universe.\n\nAfter using his Ultimate to attack, all DoT currently inflicted on the attack target immediately produces DMG equal to 60% of the original DMG."
+  },
+  "661109": {
+    "id": "661109",
+    "name": "Hook",
+    "desc": "Hook's DMG is amplified in the Divergent Universe.\n\nDeals 35% more final DMG to enemy targets with HP percentage below 50%."
+  },
+  "661110": {
+    "id": "661110",
+    "name": "Lynx",
+    "desc": "Lynx's DMG is amplified in the Divergent Universe.\n\nIncreases Outgoing Healing by 30%. Reduces DMG taken by the healed target by 15%, lasting for 2 turn(s)."
+  },
+  "661111": {
+    "id": "661111",
+    "name": "Luka",
+    "desc": "Luka's DMG is amplified in the Divergent Universe.\n\nAfter using his Ultimate to attack, all DoT currently inflicted on the attack target immediately produces DMG equal to 120% of the original DMG."
+  },
+  "661112": {
+    "id": "661112",
+    "name": "Topaz & Numby",
+    "desc": "Topaz & Numby's DMG is amplified in the Divergent Universe.\n\nEach time an attack is used, final DMG dealt increases by 4%. This effect can stack up to 10 time(s) and is removed when HP is reduced."
+  },
+  "661201": {
+    "id": "661201",
+    "name": "Qingque",
+    "desc": "Qingque's DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt by 15%. Recovers 1 Skill Point(s) at the start of each turn."
+  },
+  "661202": {
+    "id": "661202",
+    "name": "Tingyun",
+    "desc": "Tingyun's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the ATK of ally targets by an amount equal to 12% of Tingyun's ATK."
+  },
+  "661203": {
+    "id": "661203",
+    "name": "Luocha",
+    "desc": "Luocha's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the final DMG dealt by ally targets by 8%."
+  },
+  "661204": {
+    "id": "661204",
+    "name": "Jing Yuan",
+    "desc": "Jing Yuan's DMG is amplified in the Divergent Universe.\n\nWhen launching a Follow-Up ATK, his action advances by 20%."
+  },
+  "661205": {
+    "id": "661205",
+    "name": "Blade",
+    "desc": "Blade's DMG is amplified in the Divergent Universe.\n\nAfter losing HP, increases HP restored by 15% and increases final DMG dealt by 15%. Lasts for 2 turn(s)."
+  },
+  "661206": {
+    "id": "661206",
+    "name": "Sushang",
+    "desc": "Sushang's DMG is amplified in the Divergent Universe.\n\nAfter Breaking an enemy target's Weakness, increases SPD by 4%. Stacks up to 10 times."
+  },
+  "661207": {
+    "id": "661207",
+    "name": "Yukong",
+    "desc": "Yukong's DMG is increased in the Divergent Universe.\n\nWhen on the field, increases all ally targets' ATK by an amount equal to 12% of Yukong's ATK."
+  },
+  "661208": {
+    "id": "661208",
+    "name": "Fu Xuan",
+    "desc": "Fu Xuan's DMG is amplified in the Divergent Universe.\n\nDecreases DMG taken by 20%. At the start of each turn, restores HP equal to 15% of Max HP."
+  },
+  "661209": {
+    "id": "661209",
+    "name": "Yanqing",
+    "desc": "Yanqing's DMG is amplified in the Divergent Universe.\n\nEach time an attack is used, final DMG dealt increases by 4%. This effect can stack up to 10 time(s) and is removed when HP is reduced."
+  },
+  "661210": {
+    "id": "661210",
+    "name": "Guinaifen",
+    "desc": "Guinaifen's DMG is amplified in the Divergent Universe.\n\nAfter using her Ultimate to attack, all DoT currently inflicted on the attack target immediately produces DMG equal to 60% of the original DMG."
+  },
+  "661211": {
+    "id": "661211",
+    "name": "Bailu",
+    "desc": "Bailu's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the final DMG dealt by ally targets by 8%."
+  },
+  "661212": {
+    "id": "661212",
+    "name": "Jingliu",
+    "desc": "Jingliu's DMG is amplified in the Divergent Universe.\n\nAfter losing HP, increases HP restored by 15% and increases final DMG dealt by 15%. Lasts for 2 turn(s)."
+  },
+  "661213": {
+    "id": "661213",
+    "name": "Dan Heng • Imbibitor Lunae",
+    "desc": "Dan Heng • Imbibitor Lunae's DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt by 15%. Recovers 1 Skill Point(s) at the start of every turn."
+  },
+  "661214": {
+    "id": "661214",
+    "name": "Xueyi",
+    "desc": "Xueyi's DMG is amplified in the Divergent Universe.\n\nDeals 35% increased final DMG to enemy targets in the Weakness Broken state."
+  },
+  "661215": {
+    "id": "661215",
+    "name": "Hanya",
+    "desc": "Hanya's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases all allies' SPD by 10% of Hanya's SPD."
+  },
+  "661217": {
+    "id": "661217",
+    "name": "Huohuo",
+    "desc": "Huohuo's DMG is amplified in the Divergent Universe.\n\nIncreases Outgoing Healing by 30%. Reduces DMG taken by the healed target by 15%, lasting for 2 turn(s)."
+  },
+  "661218": {
+    "id": "661218",
+    "name": "Jiaoqiu",
+    "desc": "Jiaoqiu's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the final DMG dealt by ally targets by 8%."
+  },
+  "661220": {
+    "id": "661220",
+    "name": "Feixiao",
+    "desc": "Feixiao's DMG is amplified in the Divergent Universe.\n\nEach time an attack is used, final DMG dealt increases by 4%. This effect can stack up to 10 time(s) and is removed when HP is reduced."
+  },
+  "661221": {
+    "id": "661221",
+    "name": "Yunli",
+    "desc": "Yunli's DMG is amplified in the Divergent Universe.\n\nDecreases DMG taken by 10%. Final DMG dealt by Follow-Up ATKs increases by 20%."
+  },
+  "661222": {
+    "id": "661222",
+    "name": "Lingsha",
+    "desc": "Lingsha's DMG is amplified in the Divergent Universe.\n\nIncreases Outgoing Healing by 30%. Reduces DMG taken by the healed target by 15%, lasting for 2 turn(s)."
+  },
+  "661223": {
+    "id": "661223",
+    "name": "Moze",
+    "desc": "Moze's DMG is amplified in the Divergent Universe.\n\nEach time an attack is used, final DMG dealt increases by 4%. This effect can stack up to 10 time(s) and is removed when HP is reduced."
+  },
+  "661224": {
+    "id": "661224",
+    "name": "March 7th",
+    "desc": "March 7th's DMG is amplified in the Divergent Universe.\n\nIncreases SPD by 10%. For every 10 points of SPD that exceeds 150, increases final DMG dealt by 2.0%, up to a max increase of 30%."
+  },
+  "661225": {
+    "id": "661225",
+    "name": "Fugue",
+    "desc": "Fugue's DMG is amplified in the Divergent Universe.\n\nWhen on the field, increases the final DMG dealt by ally targets to Broken enemies by 15%."
+  },
+  "661301": {
+    "id": "661301",
+    "name": "Gallagher",
+    "desc": "Gallagher's DMG is amplified in the Divergent Universe.\n\nIncreases Outgoing Healing by 30%. Reduces DMG taken by the healed target by 15%, lasting for 2 turn(s)."
+  },
+  "661302": {
+    "id": "661302",
+    "name": "Argenti",
+    "desc": "Argenti's DMG is amplified in the Divergent Universe.\n\nFor every enemy target present on the field, final DMG dealt increases by 4%. After eliminating an enemy target, final DMG additionally increases by 2% for this battle. This effect is stackable."
+  },
+  "661303": {
+    "id": "661303",
+    "name": "Ruan Mei",
+    "desc": "Ruan Mei's DMG is amplified in the Divergent Universe.\n\nWhen on the field, increases the final DMG dealt by ally targets to Broken enemies by 15%."
+  },
+  "661304": {
+    "id": "661304",
+    "name": "Aventurine",
+    "desc": "Aventurine's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the CRIT DMG for ally targets with Shields by 25%."
+  },
+  "661305": {
+    "id": "661305",
+    "name": "Dr. Ratio",
+    "desc": "Dr. Ratio's DMG is amplified in the Divergent Universe.\n\nEach time an attack is used, final DMG dealt increases by 4%. This effect can stack up to 10 time(s) and is removed when HP is reduced."
+  },
+  "661306": {
+    "id": "661306",
+    "name": "Sparkle",
+    "desc": "Sparkle's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the final DMG dealt by ally targets by 8%."
+  },
+  "661307": {
+    "id": "661307",
+    "name": "Black Swan",
+    "desc": "Black Swan's DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt to enemy targets afflicted with 3 or more DoT state by 12%. For every DoT state beyond that, the DMG boost additionally increases by 1%."
+  },
+  "661308": {
+    "id": "661308",
+    "name": "Acheron",
+    "desc": "Acheron's DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt to enemy targets afflicted with 8 or more debuffs by 10%. For every debuff beyond that, the DMG boost additionally increases by 1%."
+  },
+  "661309": {
+    "id": "661309",
+    "name": "Robin",
+    "desc": "Robin's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases all allies' SPD by 10% of Robin's SPD."
+  },
+  "661310": {
+    "id": "661310",
+    "name": "Firefly",
+    "desc": "Firefly's DMG is amplified in the Divergent Universe.\n\nFor every 10 points of an enemy target's Max Toughness, increases final DMG dealt to them by 1.2%, up to a max increase of 30%."
+  },
+  "661312": {
+    "id": "661312",
+    "name": "Misha",
+    "desc": "Misha's DMG is amplified in the Divergent Universe.\n\nDeals 50% increased final DMG to Frozen enemy targets."
+  },
+  "661313": {
+    "id": "661313",
+    "name": "Sunday",
+    "desc": "Sunday's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the final DMG dealt by the first character in the team lineup and their memosprite by 12%."
+  },
+  "661314": {
+    "id": "661314",
+    "name": "Jade",
+    "desc": "Jade's DMG is amplified in the Divergent Universe.\n\nEach time an attack is used, final DMG dealt increases by 4%. This effect can stack up to 10 time(s) and is removed when HP is reduced."
+  },
+  "661315": {
+    "id": "661315",
+    "name": "Boothill",
+    "desc": "Boothill's DMG is amplified in the Divergent Universe.\n\nAfter Breaking an enemy target's Weakness, increases SPD by 4%. Stacks up to 10 times."
+  },
+  "661317": {
+    "id": "661317",
+    "name": "Rappa",
+    "desc": "Rappa's DMG is amplified in the Divergent Universe.\n\nDeals 35% increased final DMG to enemy targets in the Weakness Broken state."
+  },
+  "661321": {
+    "id": "661321",
+    "name": "The Dahlia",
+    "desc": "The Dahlia's DMG is amplified in the Divergent Universe.\n\nFor every 10 points of an enemy target's Max Toughness, increases final DMG dealt to them by 1.2%, up to a max increase of 30%."
+  },
+  "661401": {
+    "id": "661401",
+    "name": "The Herta",
+    "desc": "The Herta's DMG is amplified in the Divergent Universe.\n\nFor every enemy target present on the field, final DMG dealt increases by 4%. After eliminating an enemy target, final DMG additionally increases by 2% for this battle. This effect is stackable."
+  },
+  "661402": {
+    "id": "661402",
+    "name": "Aglaea",
+    "desc": "Aglaea's DMG is amplified in the Divergent Universe.\n\nIncreases this unit's and her memosprite's SPD by 25%."
+  },
+  "661403": {
+    "id": "661403",
+    "name": "Tribbie",
+    "desc": "Tribbie's DMG is amplified in the Divergent Universe.\n\nEach time she uses Ultimate, increases her own final DMG dealt by 3%. Stacks up to 10 times."
+  },
+  "661404": {
+    "id": "661404",
+    "name": "Mydei",
+    "desc": "Mydei's DMG is amplified in the Divergent Universe.\n\nAfter losing HP, increases HP restored by 15% and increases final DMG dealt by 15%. Lasts for 2 turn(s)."
+  },
+  "661405": {
+    "id": "661405",
+    "name": "Anaxa",
+    "desc": "Anaxa's DMG is amplified in the Divergent Universe.\n\nAfter Breaking an enemy target's Weakness, increases SPD by 4%. Stacks up to 10 times."
+  },
+  "661406": {
+    "id": "661406",
+    "name": "Cipher",
+    "desc": "Cipher's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the SPD of ally targets by 10%."
+  },
+  "661407": {
+    "id": "661407",
+    "name": "Castorice",
+    "desc": "Castorice's DMG is amplified in the Divergent Universe.\n\nAfter Castorice and her memosprite eliminates an enemy target, restores HP equal to 50% of Max HP."
+  },
+  "661408": {
+    "id": "661408",
+    "name": "Phainon",
+    "desc": "Phainon's DMG is amplified in the Divergent Universe.\n\nFor every 10 action value that passes, increases final DMG dealt by 0.8%."
+  },
+  "661409": {
+    "id": "661409",
+    "name": "Hyacine",
+    "desc": "Hyacine's DMG is amplified in the Divergent Universe.\n\nIncreases SPD by 25%."
+  },
+  "661410": {
+    "id": "661410",
+    "name": "Hysilens",
+    "desc": "Hysilens's DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt to enemy targets afflicted with 3 or more DoT state by 12%. For every DoT state beyond that, the DMG boost additionally increases by 1%."
+  },
+  "661412": {
+    "id": "661412",
+    "name": "Cerydra",
+    "desc": "Cerydra's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the final DMG dealt by the first character in the team lineup and their memosprite by 12%."
+  },
+  "661413": {
+    "id": "661413",
+    "name": "Evernight",
+    "desc": "Evernight's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the final DMG dealt by ally targets by 8%."
+  },
+  "661414": {
+    "id": "661414",
+    "name": "Dan Heng • Permansor Terrae",
+    "desc": "Dan Heng • Permansor Terrae's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the CRIT DMG for ally targets with Shields by 25%."
+  },
+  "661415": {
+    "id": "661415",
+    "name": "Cyrene",
+    "desc": "Cyrene's DMG is amplified in the Divergent Universe.\n\nIf there is more than or equal to 1 Chrysos Heir in the team (excluding Cyrene), increases the final DMG dealt by all allies by 10%."
+  },
+  "661501": {
+    "id": "661501",
+    "name": "Sparxie",
+    "desc": "Sparxie's DMG is amplified in the Divergent Universe.\n\nFor every 10 Punchline(s) accumulated by the entire team, increases this unit's final DMG dealt by 1%, up to a max increase of 30%."
+  },
+  "661502": {
+    "id": "661502",
+    "name": "Yao Guang",
+    "desc": "Yao Guang's DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases all allies' SPD by 10% of Yao Guang's SPD."
+  },
+  "661504": {
+    "id": "661504",
+    "name": "Ashveil",
+    "desc": "Ashveil's DMG is amplified in the Divergent Universe.\n\nHis final DMG dealt to enemy targets with HP percentage below 50% increases by 30%. If it is Follow-Up ATK DMG, additionally increases by 15%."
+  },
+  "661505": {
+    "id": "661505",
+    "name": "Evanescia",
+    "desc": "Evanescia's DMG receives Amplification in the Divergent Universe.\n\nWhile in possession of \"Certified Banger,\" increases this unit's final DMG dealt by 15%. If \"Certified Banger\" is 100 or more, additionally increases final DMG dealt by 15%."
+  },
+  "661506": {
+    "id": "661506",
+    "name": "Silver Wolf LV.999",
+    "desc": "Silver Wolf LV.999's DMG gains Amplification in the Divergent Universe.\n\nWhen Aha's turn begins, Silver Wolf LV.999's Elation increases by 0.5% for every 1 Punchline possessed, lasting until Aha's next turn begins."
+  },
+  "668001": {
+    "id": "668001",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG is amplified in the Divergent Universe.\n\nDeals 35% more final DMG to enemy targets with HP percentage above 50%."
+  },
+  "668002": {
+    "id": "668002",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG is amplified in the Divergent Universe.\n\nDeals 35% more final DMG to enemy targets with HP percentage above 50%."
+  },
+  "668003": {
+    "id": "668003",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the CRIT DMG for ally targets with Shields by 25%."
+  },
+  "668004": {
+    "id": "668004",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG is amplified in the Divergent Universe.\n\nWhile on the field, increases the CRIT DMG for ally targets with Shields by 25%."
+  },
+  "668005": {
+    "id": "668005",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG is amplified in the Divergent Universe.\n\nWhen on the field, increases the final DMG dealt by ally targets to Broken enemies by 15%."
+  },
+  "668006": {
+    "id": "668006",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG is amplified in the Divergent Universe.\n\nWhen on the field, increases the final DMG dealt by ally targets to Broken enemies by 15%."
+  },
+  "668007": {
+    "id": "668007",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt by 15%. When entering combat, regenerates Energy equal to 50% of Max Energy."
+  },
+  "668008": {
+    "id": "668008",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG is amplified in the Divergent Universe.\n\nIncreases final DMG dealt by 15%. When entering combat, regenerates Energy equal to 50% of Max Energy."
+  },
+  "668009": {
+    "id": "668009",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG receives Amplification in the Divergent Universe.\n\nWhile on the field, increases the Elation of ally targets by 12%."
+  },
+  "668010": {
+    "id": "668010",
+    "name": "{NICKNAME}",
+    "desc": "{NICKNAME}'s DMG receives Amplification in the Divergent Universe.\n\nWhile on the field, increases the Elation of ally targets by 12%."
   },
   "670010": {
     "id": "670010",
@@ -4441,5 +5697,365 @@
     "id": "675960",
     "name": "Dawn Troupe",
     "desc": "Increases the DMG multiplier of \"Harmonize\" by 50%. After ally targets launch a Follow-Up ATK, apply 1 stack(s) of \"Harmonize\" to attacked targets."
+  },
+  "676170": {
+    "id": "676170",
+    "name": "Beautiful Poem",
+    "desc": "After entering the \"Butterfly Soul\" state, after memosprites use an attack, they can deal the True DMG from \"Butterfly Soul\" without consuming its attack count. The enemy target with the highest Max HP becomes \"Encocooned,\" until you exit \"Butterfly Soul.\" While in this state, all \"Butterfly Soul\" DMG taken by it is recorded. After taking 5 hits/after the target is defeated/when exiting \"Butterfly Soul,\" deals DMG equal to 200% of the recorded DMG to all enemy targets and clears the recorded value."
+  },
+  "676180": {
+    "id": "676180",
+    "name": "Apples! Apples!",
+    "desc": "\"Sudden Insight\" appears on the Action Order. When taking action, deals 2000% Ice Base DMG to all enemies and activates the Ultimates of all allies. For every stack of \"Obsession\" possessed by the first character in the team and their memosprite, increases the Base SPD of \"Sudden Insight\" by 1 and additionally deals the 100% Ice Base DMG to each enemy target."
+  },
+  "676250": {
+    "id": "676250",
+    "name": "Conceptual Sacrificial Rite",
+    "desc": "After an enemy target attacks an ally target, \"Murmur\" obtains Charge equal to 10% of the clearance threshold. For every 5% of the clearance threshold \"Murmur\" charges, the enemy target immediately takes 1 instance of Lightning DoT equal to 120% of the \"Murmur\" clearance threshold. Each enemy target can trigger this up to 2 time(s), and the trigger count resets after any unit's action. This DMG is considered as \"Murmur\" DMG and cannot defeat the enemy target."
+  },
+  "676280": {
+    "id": "676280",
+    "name": "Soul Returner",
+    "desc": "After ally targets use Ultimates 5 time(s) in total, \"Murmur\" deals DMG equal to 60% of the original DMG multiplier to adjacent targets. DMG dealt by \"Murmur\" then additionally increases by 2% every time an Ultimate is used."
+  },
+  "676410": {
+    "id": "676410",
+    "name": "Street Rider Officer",
+    "desc": "After all allies cumulatively launch 24 attacks, the first character in the current team gains an extra turn. The attack count taken into account by Follow-Up ATKs is doubled. After using an attack in this extra turn, deals Additional DMG equal to 600% of Max HP plus 1200% of ATK to the attack target. Every stack of \"Obsession\" allies possess increases this DMG multiplier by 1% of the original multiplier."
+  },
+  "676470": {
+    "id": "676470",
+    "name": "Exorcist",
+    "desc": "While in the \"Butterfly Soul\" state, increases the DMG dealt by ally targets by 200%. After using an attack, if the enemy target's current HP is lower than 25% of their Max HP, deals \"Butterfly Soul\" DMG equal to a set amount of their current HP and recovers 2 Skill Point(s)."
+  },
+  "676510": {
+    "id": "676510",
+    "name": "Nightmare Lord",
+    "desc": "After any ally unit is attacked, it is considered as all ally targets have been attacked. All ally targets will Charge \"Blazar\" equal to the sum of 15% of their respective Max HP and Shield."
+  },
+  "676590": {
+    "id": "676590",
+    "name": "Eternal Supplicant",
+    "desc": "When the total HP lost by ally targets is equal to 100% of their Max HP or after recovering from being downed, deals DMG equal to 75% of the max limit of \"Harmonize\" to all enemies. When a character's turn starts, consumes HP equal to 5% of Max HP, increasing this value by 5% after every time this effect is triggered. When ally characters become downed for the first time in this battle, restore their current HP to 100% of their Max HP, and HP will no longer be consumed when their turn starts."
+  },
+  "676640": {
+    "id": "676640",
+    "name": "Starlight Bandits",
+    "desc": "When \"Dealer\" takes action, increases attack count by 4 and changes the attack target to the enemy with the highest current Max HP. When dealing DMG, inflicts 2 additional stack(s) of \"Reverse Critical Boost\" on the target, and after attacking, advances all allies' actions by 25%. This effect can be triggered at most 1 time(s) per turn on each enemy target."
+  },
+  "676650": {
+    "id": "676650",
+    "name": "Fire Rejectors",
+    "desc": "When \"Pother\" appears in the Action Order, each point of Dealer's Charge additionally increases its SPD by 7. When \"Pother\" takes action, increases DMG dealt by all allies by 15%, stacking up to 10 times. Also Charges \"Blazar\" by an amount equal to 150% of each ally target's respective Max HP and current Shield value combined. After each ally unleashes their next attack, deals 7 instance(s) of 80% \"Blazar\" DMG of a random Type to each of the attack targets."
+  },
+  "676720": {
+    "id": "676720",
+    "name": "Serpent Slithering",
+    "desc": "Under the \"Butterfly Soul\" state, each time all allies consume 1 Skill Point, DMG taken by all enemies increases by 10%, stackable up to 40%. After entering the \"Butterfly Soul\" state and consuming a total of 3 Skill Points for the first time, recover 6 attack count(s) of \"Butterfly Soul,\" and before this \"Butterfly Soul\" state ends, after ally targets attack, deals 1 instance of True DMG equal to 60% of the original DMG (excluding Additional DMG) to the attack target. This effect also applies to DoT taken by enemy targets at the start of their turn."
+  },
+  "676760": {
+    "id": "676760",
+    "name": "Galactic Grand Lotto",
+    "desc": "For every 1 consumed or overflowing Skill point of ally targets, obtain 1 prize draw chance, up to 25 time(s). When entering the \"Butterfly Soul\" state, summons \"Lottery Machine\" and consumes all prize draw chances to obtain prizes, with a base draw of 5 time(s). There is a small chance of obtaining the Special Prize, which deals 1 instance of DMG of a random Type equal to 4000% of base DMG to all enemy targets and gains 5 Charge for the \"Dealer.\" The Consolation Prize deals 1 instance of DMG of a random Type equal to 500% of base DMG to random enemy targets."
+  },
+  "676860": {
+    "id": "676860",
+    "name": "Useful Scholar",
+    "desc": "After \"Dealer\" takes action 4 time(s) while no allies in the team are in the \"Overclock\" state, increases all allies' CRIT DMG by 200% for 5 turn(s). Then, grants the first character in the current team the \"Overclock\" state: activates their Ultimate and Charges \"Brain in a Vat\" to 200%. This state ends after using Ultimate 3 time(s). When triggered for the first time, \"Dealer\" only needs to take action 1 time(s)."
+  },
+  "676890": {
+    "id": "676890",
+    "name": "Appliance Druid",
+    "desc": "\"Giant Turtle's Breath\" with a SPD of 150 appears in Action Order: When taking action, increases DMG taken by all enemies by 50%, lasting 3 turns, dealing Ice and Fire DMG equal to 6000% of base DMG, delays their actions by 30%, and reduces 30 Toughness from all enemy targets ignoring Weakness Type. When Weakness Break occurs on an enemy, triggers both Ice and Fire Weakness Break effects. When ally target activates Ultimate with \"Brain in a Vat,\" \"Giant Turtle's Breath's\" SPD increases by 5 that can stack up to 15 times."
+  },
+  "676920": {
+    "id": "676920",
+    "name": "Dead General",
+    "desc": "When an enemy target is in the Weakness Broken state, \"Harmonize\" gains additional effects based on the Types of ally characters in the team. Effects of the same type can stack: Wind, Lightning, Physical: Gains the \"Stormheave\" effect. When attacked, enemy targets immediately take DMG equal to 60% of the original DMG from the DoT currently inflicted on them. Fire: Gains the \"Moltflare\" effect. Increases Super Break DMG taken by enemy targets by 60%. Quantum, Imaginary, Ice: Gains the \"Intimidation\" effect. Enemy target's action is delayed by 20%. When attacked, triggers \"Harmonize\" DMG 1 time(s) at a rate of 10%."
+  },
+  "676940": {
+    "id": "676940",
+    "name": "Summoner of God",
+    "desc": "Increases ally targets' SPD by 35%. After using an attack, there is a 60% fixed chance to add 1 Weakness of a random Type to a random attack target and deals 3 instance(s) 180% of base DMG of the corresponding Type to them and is guaranteed to trigger if the attack is a Follow-Up ATK. The added Type Weakness is removed after the enemy target is Weakness Broken. After adding a Weakness to an enemy target, records the added Weakness once. This effect can trigger up to 2 time(s) per action. When any enemy target is Weakness Broken, based on the recorded Weaknesses, deals 200% Break DMG of the corresponding Type for each record to the target and adjacent targets."
+  },
+  "677160": {
+    "id": "677160",
+    "name": "Horticulturist",
+    "desc": "After an ally target uses an attack, deals Additional DMG to the target equal to 100% of Max HP. After \"Dealer\" takes action, the Additional DMG of the next attack is increased to 300% of Max HP."
+  },
+  "677170": {
+    "id": "677170",
+    "name": "History Agent",
+    "desc": "For each stack of \"Obsession\" ally target has, ally target's Basic ATK and Skill DMG dealt increase by 6%. When an ally character departs from the field, is knocked down, or when an ally memosprite disappears, the character in position 1 in the current team obtains 50% of that ally's \"Obsession\" stacks and an equal amount of \"Obsession\" max limit. This additional stack limit will disappear after 2 turn(s)."
+  },
+  "677190": {
+    "id": "677190",
+    "name": "Wheel of Career Transition",
+    "desc": "Increases max \"Obsession\" stacks of allies by 4, and increases SPD by an additional 0.3% for each \"Obsession\" stack for all allies. When breaking an enemy's Weakness, all allies gain 3 \"Obsession\" stacks."
+  },
+  "677240": {
+    "id": "677240",
+    "name": "Eternal Sprint",
+    "desc": "DoTs taken by enemy targets can CRIT. The CRIT Rate/CRIT DMG is equal to 20% of all ally characters' total CRIT Rate/CRIT DMG, with CRIT DMG capped at 120%."
+  },
+  "677250": {
+    "id": "677250",
+    "name": "Life Forged By Dice",
+    "desc": "Increases the \"Murmur\" DMG taken by enemy targets by 35%. After enemy targets take DoT outside their turn, all allies receive \"Blazar\" Charge equal to 10% of their respective ATK. This effect can be triggered up to 5 times per enemy target per turn."
+  },
+  "677260": {
+    "id": "677260",
+    "name": "Foolish King",
+    "desc": "Increases DoT taken by enemy targets by 30%. After \"Dealer\" deals DMG, each instance immediately causes all DoT debuffs on the enemy target to deal DMG equal to 15% of the original DMG."
+  },
+  "677450": {
+    "id": "677450",
+    "name": "Ironarm Ranger",
+    "desc": "Increases \"Reverse Critical Boost\" max limit by 10 stack(s). For every 15% of total team Max HP lost by the entire team, all enemies immediately gain 1 stack of \"Reverse Critical Boost.\""
+  },
+  "677460": {
+    "id": "677460",
+    "name": "Comet Handler",
+    "desc": "For every 1% of CRIT Rate that exceeds 100% for the ally target and the \"Dealer,\" CRIT DMG increases by 3%. After ally targets launch an attack, increases the CRIT Rate of this unit and the \"Dealer\" by 2%, up to 50 stacks. If it is a Follow-Up ATK, it can additionally stack 2 time(s)."
+  },
+  "677470": {
+    "id": "677470",
+    "name": "Meteor Wholesaler",
+    "desc": "For every 1% of action advance effect gained by ally targets, additionally deals True DMG equal to 0.5% of the original DMG dealt after using an attack in the next turn, up to a max of 50% of True DMG. Additionally deals True DMG equal to 50% of the original DMG when in the \"Butterfly Soul\" state."
+  },
+  "677510": {
+    "id": "677510",
+    "name": "Frost Giant",
+    "desc": "When an ally target takes DMG or consumes HP while their HP percentage is less than 40%, consumes 5 stack(s) of \"Obsession\" from the target with the highest \"Obsession\" stacks in the team, heals for 25% of this unit's Max HP, and increases DMG dealt by 150% for 2 turn(s). This effect can only be triggered 1 time(s) per turn."
+  },
+  "677570": {
+    "id": "677570",
+    "name": "Aberration Idol",
+    "desc": "Increases \"Blazar\" Charging Efficiency by 25%. When \"Butterfly Soul\" state is active, using Basic ATK/Skills to perform attacks deals 150% \"Blazar\" DMG to the target."
+  },
+  "677590": {
+    "id": "677590",
+    "name": "Divine Retribution Voting Device",
+    "desc": "When ally targets Break any enemy target's Weakness, Charge \"Blazar\" equal to 100% of Max HP and Shield. If all enemy targets are Weakness Broken, \"Blazar\" will not be cleared at the end of ally targets' turns."
+  },
+  "677650": {
+    "id": "677650",
+    "name": "Truly Fortunate Chess",
+    "desc": "For every 3 point(s) of Charge on the \"Dealer,\" gains 1 additional Hit Per Action. When a total of 10 ally targets are attacked, the \"Dealer\" gains 1 point of Charge."
+  },
+  "677680": {
+    "id": "677680",
+    "name": "Aether Hacker",
+    "desc": "Increases ally targets' CRIT DMG by 100%. After using an Ultimate or Elation Skill to defeat an enemy target, records overflow DMG. The next 1 attack(s) will deal additional DMG equal to 300% of the recorded value to a random attack target."
+  },
+  "677690": {
+    "id": "677690",
+    "name": "Fabulist of the Stars",
+    "desc": "When \"Dealer\" deals DMG, ignores Weakness Type and reduces the enemy target's Toughness by 30 points. This Toughness Reduction can at most reduce the enemy to 1 point of Toughness. When an enemy target's Weakness is Broken, for every 10 points of Max Toughness, they receive 3% more DMG for 2 turn(s)."
+  },
+  "677710": {
+    "id": "677710",
+    "name": "Impoverished Kidnapper",
+    "desc": "The True DMG multiplier of \"Butterfly Soul\" increases by 60% of the original multiplier and increases attack count by 4. After a memosprite uses an attack, they can trigger the True DMG of \"Butterfly Soul\" and consume its attack count."
+  },
+  "677720": {
+    "id": "677720",
+    "name": "Hero of Dejection",
+    "desc": "Every time an enemy target takes 1 instance of DoT, Charges \"Soul Chrysalis\" by 1%. If currently in the \"Butterfly Soul\" state, increases DMG dealt by all allies by 2%. Stacks up to 99 time(s) and lasts until exiting the \"Butterfly Soul\" state."
+  },
+  "677780": {
+    "id": "677780",
+    "name": "Imperial Sting",
+    "desc": "When ally target enters \"Butterfly Soul\" state, used Ultimate also deals \"Butterfly Soul\"'s True DMG, and increases \"Butterfly Soul\"'s attack count by 4. This effect triggers up to 1 time for each ally."
+  },
+  "677810": {
+    "id": "677810",
+    "name": "Mage of Ruins",
+    "desc": "After a memosprite uses an attack, Charge their memomaster's \"Brain in a Vat\" by 8%. After the memomaster uses \"Brain in a Vat\" to use their Ultimate, increases the memosprite's DMG by 240% for 4 turn(s)."
+  },
+  "677820": {
+    "id": "677820",
+    "name": "IQ Tax Collector",
+    "desc": "Ally targets' ATK increases by 150%. After using ATKs that deal Ultimate DMG, causes the \"Murmur\" on the attack target to deal DMG equal to 100% of original DMG."
+  },
+  "677840": {
+    "id": "677840",
+    "name": "Super Jock",
+    "desc": "When any ally target Breaks any enemy target's Weakness, Charges \"Brain in a Vat\" by 20% and regenerates Energy equal to 10% of Max Energy. After defeating any enemy target, regenerates Energy equal to 60% of Max Energy."
+  },
+  "677920": {
+    "id": "677920",
+    "name": "Song of Gravity",
+    "desc": "When enemy targets take \"Harmonize\" DMG, additionally take 1 instance of \"Harmonize\" DMG equal to 75% of the original DMG. Every debuff currently on the target additionally increases this DMG by 2%, up to a max of 40%."
+  },
+  "677940": {
+    "id": "677940",
+    "name": "Master of Fates",
+    "desc": "After any ally target attacks a Weakness Broken enemy target, converts the Toughness Reduction of this attack into 1 instance of 75% Super Break DMG. For each stack of \"Reverse Critical Boost\" inflicted on an enemy target, this effect additionally deals 5% Super Break DMG."
+  },
+  "677980": {
+    "id": "677980",
+    "name": "Man, Serpent, Astral Ring",
+    "desc": "When an enemy target's turn begins while Weakness Broken, they take 1 additional instance of \"Harmonize\" DMG equal to 200% of its original DMG. Each time an ally target uses their Ultimate, increases the \"Harmonize\" DMG by 1% of its original DMG."
+  },
+  "678150": {
+    "id": "678150",
+    "name": "Relative Winner",
+    "desc": "When an ally target consumes HP, they gain 5 stacks of \"Obsession.\" This can trigger up to 1 time(s) and can be triggered again after any unit takes action."
+  },
+  "678170": {
+    "id": "678170",
+    "name": "Close Friends",
+    "desc": "When a memosprite disappears, restores 1 Skill Point to ally targets. For every 1 Skill Point the team gains, increases DMG dealt by all allies by 3%, up to a max increase of 120%."
+  },
+  "678180": {
+    "id": "678180",
+    "name": "Pun-ishing Gourmet",
+    "desc": "While allies' \"Obsession\" stacks exceed 70, increases Ultimate DMG by 75% and memosprite DMG by 75%."
+  },
+  "678190": {
+    "id": "678190",
+    "name": "Master of Sharing",
+    "desc": "While ally targets possess \"Obsession\" increases their All-Type RES PEN by 15%. Every \"Obsession\" stack increases all ally targets' Break Effect by 0.5%."
+  },
+  "678240": {
+    "id": "678240",
+    "name": "Maze of Eternal Massacre",
+    "desc": "Increases enemy target's DoT taken by 20%. After receiving a Follow-Up ATK, gains \"Murmur\" Charge equal to 2% of the clearing threshold."
+  },
+  "678250": {
+    "id": "678250",
+    "name": "Fabled Land",
+    "desc": "When enemy targets enter combat, they are inflicted with the Bleed effect. While Bleeding, they will take Physical DoT equal to 10% of their Max HP at the start of their turn. This DMG cannot exceed 200% of all ally targets' total HP."
+  },
+  "678260": {
+    "id": "678260",
+    "name": "Reverse Adventurer",
+    "desc": "After \"Dealer\" uses an attack, inflicts Burn on the target. At the start of each turn, the target receives Fire DoT equal to 150% of \"Dealer's\" base DMG, lasting for 3 turn(s)."
+  },
+  "678280": {
+    "id": "678280",
+    "name": "Doctor of Delirium",
+    "desc": "When any enemy targets are defeated, every DoT state it possesses regenerates 5.0 Energy for all allies."
+  },
+  "678410": {
+    "id": "678410",
+    "name": "Ancestral War God",
+    "desc": "Increases ally targets' CRIT Rate by 25%. After a memosprite uses an attack, additionally applies 3 stack(s) of \"Reverse Critical Boost\" to a random attack target."
+  },
+  "678420": {
+    "id": "678420",
+    "name": "Bald Creator",
+    "desc": "For every \"Murmur\" Charge that equals to 1% of the clearing threshold, increases CRIT DMG taken by enemy targets by 1.0%, up to a max of 150%."
+  },
+  "678460": {
+    "id": "678460",
+    "name": "Vermin Hunter",
+    "desc": "Increases the DMG dealt by \"Reverse Critical Boost\" by 60%. Increases the DMG dealt by the attack triggered when using Elation Skill by 60%."
+  },
+  "678480": {
+    "id": "678480",
+    "name": "Cursed Teacher",
+    "desc": "For every enemy target defeated, increases DMG dealt by all ally targets in the current battle by 30%. Additionally increases Ultimate DMG by 15%. This effect can stack."
+  },
+  "678510": {
+    "id": "678510",
+    "name": "Demon of Renege",
+    "desc": "Ally targets' Max HP increases by 40%. When entering combat or when a memosprite is summoned, charges \"Blazar\" equal to 100% of each unit's Max HP. Then, when the turn ends, \"Blazar\" is not depleted."
+  },
+  "678520": {
+    "id": "678520",
+    "name": "Garage Dragon Slayer",
+    "desc": "Increases ally targets' Effect RES by 20% and \"Blazar\" DMG dealt by 80%. When resisting debuffs, deals Additional DMG equal to 60% of \"Blazar\" to the target. This DMG cannot defeat enemy targets."
+  },
+  "678580": {
+    "id": "678580",
+    "name": "Physical Magical Girl",
+    "desc": "When ally character's HP percentage drops below 25% for the first time in a single combat, activates Ultimate and allows this unit and memosprite's Ultimate DMG in this combat to ignore 20% DEF."
+  },
+  "678590": {
+    "id": "678590",
+    "name": "Aha Radio Station",
+    "desc": "Increases Shield Effect gained by 30%. After Breaking an enemy target's Weakness, all allies obtain a Shield equal to 15% of their Max HP for 2 turn(s)."
+  },
+  "678640": {
+    "id": "678640",
+    "name": "Detached Swordmaster",
+    "desc": "Increases ally targets' Elation by 25%. For every enemy target defeated, additionally increases it by 15%."
+  },
+  "678650": {
+    "id": "678650",
+    "name": "Upvoted Twin Stars",
+    "desc": "After each time \"Dealer\" takes action, \"Blazar\" Charging Efficiency increases by 6%. Stacks up to 10 times."
+  },
+  "678670": {
+    "id": "678670",
+    "name": "Drinksmith",
+    "desc": "Increases ally targets' CRIT DMG by 60%. After each time \"Dealer\" takes action, additionally increases all allies' CRIT DMG by 40% the next time they use their Basic ATK or Skill."
+  },
+  "678690": {
+    "id": "678690",
+    "name": "Heartbroken Soul",
+    "desc": "Increases ally targets' Elation DMG's Weakness Break Efficiency by 25%. After inflicting Weakness Break on an enemy target, increases the unit's SPD by 25%."
+  },
+  "678710": {
+    "id": "678710",
+    "name": "Ability Raffle Competition",
+    "desc": "After a memosprite attacks, \"Soul Chrysalis\" Charges for 15% with a 40% chance to recover 1 Skill Point(s)."
+  },
+  "678720": {
+    "id": "678720",
+    "name": "Planetary Bumper Cars",
+    "desc": "Increases the True DMG multiplier of \"Butterfly Soul\" by 35% of the original multiplier. Every debuff on the enemy target additionally increases this by 1% of the original multiplier."
+  },
+  "678760": {
+    "id": "678760",
+    "name": "Empathetic Cupcake",
+    "desc": "Increases the CRIT DMG of ally targets when they use Basic ATK or Skill by 100%. For every 1 Skill Point consumed, gain 1 points of Punchline."
+  },
+  "678790": {
+    "id": "678790",
+    "name": "Flipping Ant",
+    "desc": "Ally targets' Basic ATK DMG and Skill DMG ignore 25% of the enemy target's DEF. This effect increases to 40% on enemy targets in the Weakness Broken state."
+  },
+  "678840": {
+    "id": "678840",
+    "name": "Shadowchasing Mechagod",
+    "desc": "Each stack of \"Reverse Critical Boost\" additionally deals DMG equal to 15% of ATK when triggered. After using an Ultimate to attack, applies an extra 2 stack(s) of \"Reverse Critical Boost\" to all targets hit."
+  },
+  "678850": {
+    "id": "678850",
+    "name": "Cosmic Bakery",
+    "desc": "Increases ally target's \"Blazar\" DMG by 75%, after using Ultimate, gain \"Blazar\" Charge equal to 35% of Max HP."
+  },
+  "678860": {
+    "id": "678860",
+    "name": "Self-Contemplating Scholar",
+    "desc": "Increases the CRIT DMG of ally targets' Ultimate DMG by 75%. After \"Dealer\" takes action, Charges \"Brain in a Vat\" by 5% for all ally characters."
+  },
+  "678870": {
+    "id": "678870",
+    "name": "Card Game Rookie",
+    "desc": "For every 1 Skill Point consumed by an ally target, increases their Ultimate DMG dealt by 65%, up to a max increase of 130% and lasting until after using their Ultimate."
+  },
+  "678910": {
+    "id": "678910",
+    "name": "Homeland Rebuilder",
+    "desc": "Every stack of \"Obsession\" increases Break Effect by 0.8%. Memosprite's Break Effect additionally increases by 0.5%."
+  },
+  "678920": {
+    "id": "678920",
+    "name": "Encounter With a Miracle Doctor",
+    "desc": "When any ally target used an attack to inflict a debuff on enemy targets, apply 1 stack(s) of \"Harmonize\" to the enemy targets. If the targets are Weakness Broken, the applied stacks are doubled."
+  },
+  "678940": {
+    "id": "678940",
+    "name": "Knights of Arcadia",
+    "desc": "Increases the DMG multiplier of \"Harmonize\" by 50%. After ally targets launch a Follow-Up ATK, applies 1 stack(s) of \"Harmonize\" to the targets."
+  },
+  "678970": {
+    "id": "678970",
+    "name": "Particle Annihilation Force",
+    "desc": "When an ally target uses their Basic ATK or Skill, ignores 20% of the enemy target's All-Type RES. After attacking with a Basic ATK or Skill, reduces the enemy target's Toughness by 15 points, regardless of Weakness Type."
   }
 }

@@ -1706,7 +1706,7 @@
   "615420": {
     "id": "615420",
     "name": "Vigia da Galáxia",
-    "desc": "Gasta 100 pontos de Energia para usar esta habilidade e desencadeia Ressonância Limítrofe com o Caminho da Caça, causando Dano de Vento a todos os inimigos e Avançando adiante as ações de todos os aliados em 100%, com a Energia Máxima sendo 200."
+    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcançar a Ressonância Limítrofe com o Caminho da Caça, causando Dano de Vento a todos os inimigos e Avançando adiante as ações de todos os aliados em 100%, com a Energia Máxima sendo 200."
   },
   "615430": {
     "id": "615430",
@@ -1850,7 +1850,7 @@
   "615545": {
     "id": "615545",
     "name": "Pulso Subversivo",
-    "desc": "Quando a porcentagem de PV de um personagem cai abaixo de 50%, restaura uma certa quantidade de Energia igual a 50% da Energia máxima do personagem. Este efeito só pode ser acionado novamente após 4 rodada(s)."
+    "desc": "Quando a porcentagem de PV de um personagem cai abaixo de 50%, restaura uma certa quantidade de Energia igual a 50% da Energia máxima do personagem. Este efeito só pode ser ativado novamente após 4 rodada(s)."
   },
   "615546": {
     "id": "615546",
@@ -2399,7 +2399,7 @@
   "616420": {
     "id": "616420",
     "name": "Milagre do Conflito",
-    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcança a Ressonância Limítrofe com o Caminho da Caça, causando Dano de Vento a todos os inimigos-alvo e Avança Adiante as ações de todos os aliados em 100%, com a Energia Máxima sendo 200."
+    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcançar a Ressonância Limítrofe com o Caminho da Caça, causando Dano de Vento a todos os inimigos-alvo e Avança Adiante as ações de todos os aliados em 100%, com a Energia Máxima sendo 200."
   },
   "616430": {
     "id": "616430",
@@ -2433,7 +2433,7 @@
   },
   "616443": {
     "id": "616443",
-    "name": "Quebrado, mas Não Entortado",
+    "name": "Quebrado, mas Não Curvado",
     "desc": "Quando um aliado-alvo tem 4 acúmulos ou mais de \"Bônus Crítico\", diminui o Dano recebido por todos os aliados-alvo em 16%."
   },
   "616444": {
@@ -2498,7 +2498,7 @@
   "616520": {
     "id": "616520",
     "name": "Milagre do Céu",
-    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcança a Ressonância Limítrofe com o Caminho da Destruição, causando Dano de Fogo a todos os inimigos-alvo, consome PV de todos os aliados até 60% e aumenta os PV máximos de todos os aliados-alvo em 100%. No início da rodada, restaura 100% dos PV consumidos da unidade atuante, durando por 4 rodada(s)."
+    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcançar a Ressonância Limítrofe com o Caminho da Destruição, causando Dano de Fogo a todos os inimigos-alvo, consome PV de todos os aliados até 60% e aumenta os PV máximos de todos os aliados-alvo em 100%. No início da rodada, restaura 100% dos PV consumidos da unidade atuante, durando por 4 rodada(s)."
   },
   "616530": {
     "id": "616530",
@@ -2894,7 +2894,7 @@
   "616920": {
     "id": "616920",
     "name": "Milagre da Passagem",
-    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcança a Ressonância Limítrofe com o Caminho da Harmonia, causando Dano Quântico a todos os inimigos-alvo e aplicando Quebra de Fraqueza em 1000% do Efeito de Quebra. Quando afligido com Quebra de Fraqueza, ativa todos os efeitos de Quebra de Fraqueza de todos os Tipos."
+    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcançar a Ressonância Limítrofe com o Caminho da Harmonia, causando Dano Quântico a todos os inimigos-alvo e aplicando Quebra de Fraqueza em 1000% do Efeito de Quebra. Quando afligido com Quebra de Fraqueza, ativa todos os efeitos de Quebra de Fraqueza de todos os Tipos."
   },
   "616930": {
     "id": "616930",
@@ -2924,7 +2924,7 @@
   "616942": {
     "id": "616942",
     "name": "Pulso Coronal",
-    "desc": "Para cada acmúmulo de \"Harmonizar\" que um inimigo-alvo possui, aumenta o Dano de Quebra recebido em 1.0%."
+    "desc": "Para cada acúmulo de \"Harmonizar\" que um inimigo-alvo possui, aumenta o Dano de Quebra recebido em 1.0%."
   },
   "616943": {
     "id": "616943",
@@ -2985,6 +2985,807 @@
     "id": "616957",
     "name": "Narrativa Central",
     "desc": "Quando os aliados-alvo causam Quebra de Fraqueza em qualquer inimigo-alvo, o atacante restaura PV em 24% de seus PV máximos."
+  },
+  "617000": {
+    "id": "617000",
+    "name": "\"Destaques\"",
+    "desc": "Aumenta o Dano final causado pelos aliados-alvo em 2% e reduz o Dano recebido em 1%. Quando a Carga atingir 100%, Avança Adiante a ação do alvo de \"Destaques\" em 100% e aumenta o Dano final causado por ele e seu Memoespírito em 10%, durando por 2 rodada(s)."
+  },
+  "617001": {
+    "id": "617001",
+    "name": ""
+  },
+  "617110": {
+    "id": "617110",
+    "name": ""
+  },
+  "617120": {
+    "id": "617120",
+    "name": "História para Dormir",
+    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcançar \"Ressonância Limítrofe\" com o Caminho da Recordação, causando Dano de Gelo a todos os inimigos-alvo com uma grande chance aplicar \"Congelamento\" a eles por 1 rodada(s). Ao sofrer um ataque do Memoespírito enquanto estiver sob o efeito de \"Congelamento\", recebe Dano Verdadeiro adicional em um valor igual a 8% dos PV máximos. Sempre que o inimigo-alvo é afetado por este estado de \"Congelamento\", este Dano pode ser ativado no máximo 4 vez(es)."
+  },
+  "617130": {
+    "id": "617130",
+    "name": "Instinto Infalível",
+    "desc": "Quando os personagens agem, tanto eles quanto seus Memoespíritos ganham 1 acúmulo(s) de \"Obsessão\". Quando os Memoespíritos agem, tanto eles quanto seus Memomestres ganham 1 acúmulo(s) de \"Obsessão\"."
+  },
+  "617131": {
+    "id": "617131",
+    "name": "Memória Eterna",
+    "desc": "Após um aliado-alvo usar um ataque, causa Dano Adicional igual a 1% do ATQ ao(s) alvo(s) atacado(s) para cada acúmulo total de \"Obsessão\" dos aliados."
+  },
+  "617132": {
+    "id": "617132",
+    "name": "Sonho Eternamente Pacífico",
+    "desc": "Após aliados-alvo entrarem em batalha ou após um Memoespírito ser invocado, Avança Adiante sua ação em 50% e aumenta seu Dano causado em 50% por 4 rodada(s) depois que a primeira rodada deles acaba."
+  },
+  "617140": {
+    "id": "617140",
+    "name": "Iluminação: Nuvens Tecidas",
+    "desc": "Quando um aliado-alvo é atacado, ganha 2 acúmulo(s) de \"Obsessão\"."
+  },
+  "617141": {
+    "id": "617141",
+    "name": "Iluminação: Serras Tecidas",
+    "desc": "Após um aliado-alvo derrotar qualquer inimigo-alvo, todos os aliados ganham 4 acúmulo(s) de \"Obsessão\"."
+  },
+  "617142": {
+    "id": "617142",
+    "name": "Iluminação: Ondas Amarradas",
+    "desc": "Após aliados-alvo entrarem em combate ou após Memoespíritos serem invocados, eles ganham 6 acúmulo(s) de \"Obsessão\"."
+  },
+  "617143": {
+    "id": "617143",
+    "name": "Iluminação: Elegia da Orla",
+    "desc": "Cada acúmulo de \"Obsessão\" aumenta adicionalmente o Dano causado em 0.3%."
+  },
+  "617144": {
+    "id": "617144",
+    "name": "Iluminação: Louvor do Abismo",
+    "desc": "O máximo de \"Obsessão\" dos personagens aumenta em 4 acúmulo(s)."
+  },
+  "617145": {
+    "id": "617145",
+    "name": "Iluminação: Alvorecer Destilado",
+    "desc": "Sempre que um inimigo-alvo é atacado por diferentes aliados-alvo, aumenta o Dano recebido por ele em 4% até um máximo de 6 acúmulos, durando até o final da rodada."
+  },
+  "617146": {
+    "id": "617146",
+    "name": "Iluminação: Por-do-Sol Derretido",
+    "desc": "Sempre que um inimigo-alvo for atingido por diferentes aliados-alvo, diminui o Dano causado por ele em 2% até um máximo de 6 acúmulo(s), durando até o final da rodada."
+  },
+  "617150": {
+    "id": "617150",
+    "name": "Perspicácia: Calor das Lâminas",
+    "desc": "Aumenta o ATQ de todos os aliados-alvo em 18%."
+  },
+  "617151": {
+    "id": "617151",
+    "name": "Perspicácia: Forma de Garras",
+    "desc": "Aumenta o Dano causado por todos os aliados-alvo em 12%."
+  },
+  "617152": {
+    "id": "617152",
+    "name": "Perspicácia: Padrões de Conchas",
+    "desc": "Aumenta a DEF de todos os aliados-alvo em 16%."
+  },
+  "617153": {
+    "id": "617153",
+    "name": "Perspicácia: História das Monções",
+    "desc": "Aumenta o Dano causado por todos os aliados-alvo em 10% e aumenta adicionalmente o Dano causado pelos Memoespíritos em 4%."
+  },
+  "617154": {
+    "id": "617154",
+    "name": "Perspicácia: Histórias das Rochas",
+    "desc": "Aumenta a DEF de todos os aliados-alvo em 14% e aumenta adicionalmente a DEF dos Memoespíritos em 6%."
+  },
+  "617155": {
+    "id": "617155",
+    "name": "Perspicácia: Histórias das Marés",
+    "desc": "Aumenta a Cura Recebida de todos os aliados-alvo em 10% e aumenta adicionalmente a Cura Recebida dos Memoespíritos em 4%."
+  },
+  "617156": {
+    "id": "617156",
+    "name": "Perspicácia: Ossos Escarlate e Folhas Carmesim",
+    "desc": "Após um Memoespírito agir, aumenta a Chance de CRIT de todos os aliados-alvo em 14% por 2 rodada(s)."
+  },
+  "617157": {
+    "id": "617157",
+    "name": "Perspicácia: Cabelos Brancos e Pérolas",
+    "desc": "Após um Memoespírito agir, aumenta o Dano CRIT de todos os aliados-alvo em 28% por 2 rodada(s)."
+  },
+  "617210": {
+    "id": "617210",
+    "name": ""
+  },
+  "617220": {
+    "id": "617220",
+    "name": "Buraco Negro Adorável",
+    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcança a Ressonância Limítrofe com o Caminho da Inexistência. Inflige \"Queimadura\", \"Choque\", \"Sangramento\" e 2 acúmulos de \"Cisalhamento de Vento\" a todos os inimigos-alvo, durando por 3 rodada(s). Após ser atacado por um personagem, os Danos Contínuos mencionados causam imediatamente um Dano igual a 25% do Dano original."
+  },
+  "617230": {
+    "id": "617230",
+    "name": "A Comunidade Inconfessável",
+    "desc": "Quando o inimigo-alvo é afetado por um Dano Contínuo, \"Murmúrio\" ganha Carga igual a 20% da soma do ATQ dos personagens aliados."
+  },
+  "617231": {
+    "id": "617231",
+    "name": "Da Existência ao Existente",
+    "desc": "Após inimigos-alvo serem atacados pela primeira vez nesta rodada, causa Dano de \"Murmúrio\" em um valor igual a 160% do Dano original."
+  },
+  "617232": {
+    "id": "617232",
+    "name": "Uma Voz Vinda de Outro Lugar",
+    "desc": "No início da rodada de um inimigo-alvo, ativa adicionalmente 1 instância de cálculo de Dano Contínuo, e cada estado de Dano Contínuo atualmente no alvo causará imediatamente Dano igual a 90% do Dano original."
+  },
+  "617240": {
+    "id": "617240",
+    "name": "Iluminação e Extinção",
+    "desc": "Quando a rodada do inimigo-alvo termina, \"Murmúrio\" recebe Carga igual a 40% da soma do ATQ dos personagens aliados."
+  },
+  "617241": {
+    "id": "617241",
+    "name": "Lágrimas e Santos",
+    "desc": "Sempre que um inimigo-alvo sofre Dano de \"Murmúrio\", seu Dano causado será reduzido em 0.3%, até uma redução máxima de 12%."
+  },
+  "617242": {
+    "id": "617242",
+    "name": "Ode da Insônia",
+    "desc": "O Dano de \"Murmúrio\" aumenta em 30% do multiplicador de Dano original."
+  },
+  "617243": {
+    "id": "617243",
+    "name": "Nos Cumes do Desespero",
+    "desc": "Aumenta o limite de eliminação de \"Murmúrio\" em 50%."
+  },
+  "617244": {
+    "id": "617244",
+    "name": "A Escritura do Desastre",
+    "desc": "A Eficiência de Carga de \"Murmúrio\" aumenta em 20% ao receber Carga."
+  },
+  "617245": {
+    "id": "617245",
+    "name": "O Último Orador",
+    "desc": "Sempre que um inimigo-alvo receber 1 instância de Dano Contínuo, todos os aliados ganham PV em um valor igual a 1.0% de seus respectivos PV máximos."
+  },
+  "617246": {
+    "id": "617246",
+    "name": "Opiniões Incertas",
+    "desc": "Para cada 1 estado de Dano Contínuo com o qual um inimigo-alvo esteja afligido, aumenta o Dano recebido por ele em 3.0%. Esse efeito pode acumular até um máximo de 6 vezes."
+  },
+  "617250": {
+    "id": "617250",
+    "name": "A Metáfora Viva",
+    "desc": "Aumenta o Dano Contínuo causado por aliados-alvo em 24%."
+  },
+  "617251": {
+    "id": "617251",
+    "name": "O Inexistente",
+    "desc": "Aumenta a Taxa de Acerto de Efeito dos aliados-alvo em 24%."
+  },
+  "617252": {
+    "id": "617252",
+    "name": "A Doença Até a Morte",
+    "desc": "Diminui a RES a Efeito de inimigos-alvo em 12%."
+  },
+  "617253": {
+    "id": "617253",
+    "name": "Sacrilégio",
+    "desc": "Aumenta o Dano Contínuo recebido por inimigos-alvo em 10%."
+  },
+  "617254": {
+    "id": "617254",
+    "name": "A Experiência Interior",
+    "desc": "Depois que qualquer aliado-alvo aplica uma penalidade, aumenta o ATQ dele em 24% por 2 rodada(s)."
+  },
+  "617255": {
+    "id": "617255",
+    "name": "Sol Negro",
+    "desc": "Aumenta o Dano recebido por inimigos-alvo afligido com qualquer estado de Dano Contínuo em 8%."
+  },
+  "617256": {
+    "id": "617256",
+    "name": "Além do Bem e o do Mal",
+    "desc": "Depois que qualquer aliado-alvo aplica uma penalidade, aumenta a VEL dele em 10% por 3 rodada(s)."
+  },
+  "617257": {
+    "id": "617257",
+    "name": "A Expulsão dos Distintos",
+    "desc": "Sempre que um inimigo-alvo recebe 1 instância de Dano Contínuo, regenera 1.0 de Energia para um aliado-alvo aleatório. Inimigos-alvo podem ativar este efeito até um máximo de 20 vez(es) em uma rodada."
+  },
+  "617410": {
+    "id": "617410",
+    "name": ""
+  },
+  "617420": {
+    "id": "617420",
+    "name": "Última Bala",
+    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcançar a Ressonância Limítrofe com o Caminho da Caça, causando Dano de Vento a todos os inimigos-alvo e Avança Adiante as ações de todos os aliados em 100%, com a Energia Máxima sendo 200."
+  },
+  "617430": {
+    "id": "617430",
+    "name": "Armas Empunhadas, Caminhos Inquietos",
+    "desc": "Após um aliado-alvo derrotar um inimigo-alvo, Avança Adiante a ação dele em 100% e inflige 4 acúmulo(s) de \"Bônus Crítico Reverso\" em outros inimigos-alvo."
+  },
+  "617431": {
+    "id": "617431",
+    "name": "Penas Brancas Voam, Um Céu Estrelado Desaparece",
+    "desc": "Após um aliado-alvo atacar, quando o número de alvos do ataque é 1/2/3/4/5, o Dano causado de \"Bônus Crítico Reverso\" aumenta em 120%/80%/60%/40%/20% do multiplicador de Dano original."
+  },
+  "617432": {
+    "id": "617432",
+    "name": "Uma Miríade de Carruagens, Um Desafio de Coragem",
+    "desc": "Após qualquer aliado-alvo infligir Quebra de Fraqueza em um inimigo-alvo, Avança Adiante a ação desta unidade em 100%."
+  },
+  "617440": {
+    "id": "617440",
+    "name": "As Estrelas Convergem no Fio da Espada",
+    "desc": "Quando um aliado-alvo causa Dano a um inimigo-alvo com \"Bônus Crítico Reverso\", aumenta a Chance de CRIT em 20%. Para cada acúmulo de \"Bônus Crítico Reverso\", aumenta adicionalmente o Dano CRIT em 3%."
+  },
+  "617441": {
+    "id": "617441",
+    "name": "O Tortuoso Caminho das Flechas",
+    "desc": "Aumenta o limite máximo de acúmulos de \"Bônus Crítico Reverso\" nos inimigos-alvo em 5."
+  },
+  "617442": {
+    "id": "617442",
+    "name": "Os Cavaleiros Avançam no Caos",
+    "desc": "No início da rodada de um inimigo-alvo, para cada acúmulo de \"Bônus Crítico Reverso\" que ele tiver, aumenta o Dano recebido por ele em 0.8%. Esse efeito dura até o início da próxima rodada."
+  },
+  "617443": {
+    "id": "617443",
+    "name": "Quebrado, mas Não Curvado",
+    "desc": "Após um aliado-alvo lançar um Ataque Extra, inflige adicionalmente 2 acúmulo(s) de \"Bônus Crítico Reverso\" em um alvo de ataque aleatório."
+  },
+  "617444": {
+    "id": "617444",
+    "name": "Resplendor do Limiar do Raio",
+    "desc": "Após um aliado-alvo usar um ataque, se qualquer um dos alvos do ataque tiver 5 ou mais acúmulos de \"Bônus Crítico Reverso\", o ATQ desta unidade aumenta em 50% por 2 rodada(s)."
+  },
+  "617445": {
+    "id": "617445",
+    "name": "O Arco de Confiança do Arqueiro",
+    "desc": "Após um aliado-alvo realizar um Ataque Extra, tem 40% de chance fixa de recuperar 1 Ponto de Perícia."
+  },
+  "617446": {
+    "id": "617446",
+    "name": "Flechas Saltam Como Meteoros",
+    "desc": "Aumenta a VEL dos aliados-alvo em 5%. A cada 12 rodada(s) da equipe inteira, Avança Adiante a ação do aliado-alvo atual em 100%."
+  },
+  "617450": {
+    "id": "617450",
+    "name": "Alinhado Para Precisão",
+    "desc": "Aumenta a VEL dos aliados-alvo em 8%."
+  },
+  "617451": {
+    "id": "617451",
+    "name": "Força Para Superar Centenas",
+    "desc": "Aumenta a Chance de CRIT dos aliados-alvo em 12%."
+  },
+  "617452": {
+    "id": "617452",
+    "name": "O Propósito Brilha Claramente",
+    "desc": "Aumenta o Dano CRIT dos aliados-alvo em 24%."
+  },
+  "617453": {
+    "id": "617453",
+    "name": "Lua do Outono no Céu",
+    "desc": "Após derrotar qualquer inimigo-alvo, restaura os PV de todos os aliados-alvo em um valor igual a 12% dos respectivos PV máximos dos personagens."
+  },
+  "617454": {
+    "id": "617454",
+    "name": "Um Movimento de Mão",
+    "desc": "Após derrotar quaisquer inimigos-alvo, aumenta o ATQ de todos os aliados em 10%. Este efeito pode acumular até um máximo de 4 vez(es)."
+  },
+  "617455": {
+    "id": "617455",
+    "name": "A Flecha Estilhaça a Lua",
+    "desc": "No fim da rodada de um aliado-alvo, Avança Adiante sua ação em 6%."
+  },
+  "617456": {
+    "id": "617456",
+    "name": "Trovão Sobre os Muros",
+    "desc": "No início da rodada de um aliado-alvo, ele regenera 3 de Energia."
+  },
+  "617457": {
+    "id": "617457",
+    "name": "Ramo Verdejante, Corda Escarlate",
+    "desc": "Após derrotar quaisquer inimigos-alvo, aumenta a VEL de todos os aliados em 4%. Esse efeito pode acumular até um máximo de 3 vez(es)."
+  },
+  "617510": {
+    "id": "617510",
+    "name": ""
+  },
+  "617520": {
+    "id": "617520",
+    "name": "Lorde Demônio do Além",
+    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcançar a Ressonância Limítrofe com o Caminho da Destruição, causando Dano de Fogo a todos os inimigos-alvo, consome PV de todos os aliados até 60% e aumenta os PV máximos de todos os aliados-alvo em 100%. No início da rodada, restaura 100% dos PV consumidos da unidade atuante. Esse efeito dura por 4 rodada(s)."
+  },
+  "617530": {
+    "id": "617530",
+    "name": "Avanço Mais Rápido que a Luz",
+    "desc": "Aumenta o Dano de \"Blazar\" dos aliados-alvo em 20% e aumenta o limite máximo de \"Blazar\" em 65%."
+  },
+  "617531": {
+    "id": "617531",
+    "name": "Onda de Choque Aleatória da Via Livre",
+    "desc": "Depois que qualquer aliado-alvo utiliza um ATQ pela primeira vez em cada rodada, causa Dano Adicional igual a 100% de \"Blazar\" aos alvos do ataque."
+  },
+  "617532": {
+    "id": "617532",
+    "name": "Meio de Nuvem Hipersônica",
+    "desc": "Quando qualquer aliado-alvo é atacado, o Dano recebido é Distribuído entre todos os aliados."
+  },
+  "617540": {
+    "id": "617540",
+    "name": "Chama Compacta",
+    "desc": "Quando um aliado-alvo é atacado, o multiplicador de Dano de \"Blazar\" aumenta em 20% do multiplicador original, acumulando até um máximo de 2 vez(es) e durando por 2 rodada(s)."
+  },
+  "617541": {
+    "id": "617541",
+    "name": "Radiação Síncrona",
+    "desc": "40% do efeito de Escudo obtido por aliados-alvo será convertido adicionalmente em \"Blazar\"."
+  },
+  "617542": {
+    "id": "617542",
+    "name": "Espectro Contínuo",
+    "desc": "40% da Cura Recebida em excesso pode ser convertida em \"Blazar\"."
+  },
+  "617543": {
+    "id": "617543",
+    "name": "Faixas de Sombra Oculta",
+    "desc": "Aumenta o Valor de Base de \"Blazar\" em 50%."
+  },
+  "617544": {
+    "id": "617544",
+    "name": "Variável Cataclísmica",
+    "desc": "Aumenta a Chance de CRIT do Dano causado por \"Blazar\" em 20% e o Dano CRIT em 50%."
+  },
+  "617545": {
+    "id": "617545",
+    "name": "Salto Forçado",
+    "desc": "Se a porcentagem de PV atual de um aliado-alvo for menor que 35% após ser atacado ou consumir PV, restaura seus PV em um valor igual a 12% dos seus PV máximos. Isso pode restaurar PV em um máximo de 18% dos PV máximos durante uma única ação."
+  },
+  "617546": {
+    "id": "617546",
+    "name": "Decadência Radiativa",
+    "desc": "Quando a porcentagem de PV dos aliados-alvo é inferior a 50%, diminui seu Dano recebido em 10% e aumenta a Cura Recebida em 20%."
+  },
+  "617550": {
+    "id": "617550",
+    "name": "Jatos Bipolares",
+    "desc": "Reduz o Dano recebido por aliados-alvo em 6%."
+  },
+  "617551": {
+    "id": "617551",
+    "name": "Estrutura Bisegmentada",
+    "desc": "Aumenta a RES a Efeito de aliados-alvo em 12%."
+  },
+  "617552": {
+    "id": "617552",
+    "name": "Estrelas Gêmeas Em Contato",
+    "desc": "Aumenta os PV máximos dos aliados-alvo em 16%."
+  },
+  "617553": {
+    "id": "617553",
+    "name": "Magnitude Absoluta",
+    "desc": "Aumenta a Cura Recebida dos aliados-alvo em 12%."
+  },
+  "617554": {
+    "id": "617554",
+    "name": "Vela Padrão",
+    "desc": "Aumenta o Efeito do Escudo recebido por aliados-alvo em 12%."
+  },
+  "617555": {
+    "id": "617555",
+    "name": "Subestrela com Transferência de Massa",
+    "desc": "Depois que os PV ou o efeito de Escudo de um aliado-alvo são reduzidos, aumenta os PV máximos dele em 20% por 2 rodada(s)."
+  },
+  "617556": {
+    "id": "617556",
+    "name": "Eclipse Binário",
+    "desc": "Depois que os PV ou o efeito de Escudo de um aliado-alvo são reduzidos, aumenta a RES a Efeito dele em 16% por 2 rodada(s)."
+  },
+  "617557": {
+    "id": "617557",
+    "name": "Supernova",
+    "desc": "Ao ser alvo de um golpe fatal, em vez de serem derrubados, os personagens restauram imediatamente 20% de seus PV máximos. A equipe só pode ativar este efeito 1 vez(es) por batalha."
+  },
+  "617610": {
+    "id": "617610",
+    "name": ""
+  },
+  "617620": {
+    "id": "617620",
+    "name": "Improbabilidade Infinita",
+    "desc": "Consome 100 de Energia para usar uma habilidade e ativar Ressonância Limítrofe com o Caminho da Euforia, causando 5–10 instância(s) de Dano de Euforia de Tipo(s) aleatório(s) em todos os inimigos-alvo, além de conceder imediatamente 1 rodada extra a Aha, onde uma quantidade fixa de 200 ponto(s) de \"Piada\" é considerada. Essa rodada não consome ponto(s) de \"Piada\"."
+  },
+  "617630": {
+    "id": "617630",
+    "name": "\"Pizza de Alcaçuz: Gelo com Raspas de Menta\"",
+    "desc": "A cada 50 de Valor de Ação que passar, o \"Crupiê\" ganha 1 Carga permanentemente. Para cada ponto de Carga que o \"Crupiê\" tiver, a VEL de Eventos de Combate Neutros, de todos os aliados e de suas invocações aumenta em 1."
+  },
+  "617631": {
+    "id": "617631",
+    "name": "\"Coronel Oceânico: Mundo de Ontem\"",
+    "desc": "Após \"Crupiê\" agir, ganha 5 ponto(s) de \"Piada\" e aumenta o Dano CRIT de todos os aliados em 60% por 2 rodada(s)."
+  },
+  "617632": {
+    "id": "617632",
+    "name": "\"Terras do Alvorecer: Dança a Sós\"",
+    "desc": "Aumenta a PEN de RES a Todos os Tipos dos aliados-alvo em 10%. Quando \"Piada\" atinge 50/100/200/300/500 pela primeira vez, aumenta a Euforia de todos os aliados-alvo em 20%. Esse efeito pode acumular."
+  },
+  "617640": {
+    "id": "617640",
+    "name": "\"Um Mês Silencioso em Uma Casa\"",
+    "desc": "Aumenta a Chance de CRIT de \"Crupiê\" em 20% e o Dano CRIT em 50%."
+  },
+  "617641": {
+    "id": "617641",
+    "name": "\"Sub-Tenente Inebriado de Caviar\"",
+    "desc": "Quando \"Crupiê\" causa Dano, aumenta o Dano recebido pelo alvo do ataque em 5%. Esse efeito é acumulável e dura até a próxima ação de \"Crupiê\"."
+  },
+  "617642": {
+    "id": "617642",
+    "name": "\"Você Sabe, Seu Armário é Lindo\"",
+    "desc": "Aumenta a VEL base de \"Crupiê\" em 16 e Avança Adiante a ação dele em 50% quando a batalha começa."
+  },
+  "617643": {
+    "id": "617643",
+    "name": "\"Semente de Um Fruto Estranho e Divino\"",
+    "desc": "Após \"Crupiê\" agir, aumenta a VEL de todos os aliados-alvo em 18% por 2 rodada(s)."
+  },
+  "617644": {
+    "id": "617644",
+    "name": "\"Clamor do Gato Cósmico\"",
+    "desc": "Quando \"Crupiê\" causa Dano, reduz o Dano causado pelo alvo do ataque em 4%. Esse efeito pode acumular até 3 vez(es) e dura até a próxima ação de \"Crupiê\"."
+  },
+  "617645": {
+    "id": "617645",
+    "name": "\"Simon no Oceano\"",
+    "desc": "O Dano causado por aliados-alvo ignora 8% da DEF do inimigo-alvo. Se for Dano de Euforia, ignora 4% adicionais."
+  },
+  "617646": {
+    "id": "617646",
+    "name": "\"Jornada de Um Dia Longo Até o Dia\"",
+    "desc": "Quando aliados-alvo causam Dano de Euforia, aumenta a Eficiência de Quebra de Fraqueza em 35%."
+  },
+  "617650": {
+    "id": "617650",
+    "name": "Estacionamento Psicodélico",
+    "desc": "Ao entrar em combate, Avança Adiante as ações de todos os aliados em 30%, e a equipe ganha 10 ponto(s) de \"Piada\"."
+  },
+  "617651": {
+    "id": "617651",
+    "name": "\"Linha do Amor\"",
+    "desc": "Reduz o Dano recebido por todos os aliados em 4%. Após Aha agir pela primeira vez, reduz adicionalmente o Dano recebido em 3%."
+  },
+  "617652": {
+    "id": "617652",
+    "name": "\"Cidade Ômega\"",
+    "desc": "Aumenta a Chance de CRIT do aliado-alvo em 10%. Ao causar Dano de Euforia, aumenta adicionalmente em 4%."
+  },
+  "617653": {
+    "id": "617653",
+    "name": "\"Sr. Violência\"",
+    "desc": "Aumenta o Dano CRIT dos aliados-alvo em 20%. Ao causar Dano de Euforia, aumenta adicionalmente em 8%"
+  },
+  "617654": {
+    "id": "617654",
+    "name": "\"Santuário Abandonado\"",
+    "desc": "Quando Aha age, restaura 4 de Energia para todos os aliados. Esse efeito pode ser ativado no máximo 1 vez(es) por aliado por rodada."
+  },
+  "617655": {
+    "id": "617655",
+    "name": "\"Moedas de Cinzas e Ouro\"",
+    "desc": "Após Aha agir, concede a todos os aliados um Escudo igual a 20% dos respectivos PV máximos, com duração de 2 rodada(s)."
+  },
+  "617656": {
+    "id": "617656",
+    "name": "\"O Ceifador Vem Cavalgando\"",
+    "desc": "Aumenta a DEF de todos os aliados em 12%. Após Aha agir pela primeira vez, aumenta a DEF adicionalmente em 8%."
+  },
+  "617657": {
+    "id": "617657",
+    "name": "\"Cidade Felina\"",
+    "desc": "Aumenta a VEL de todos os aliados em 6%. Após Aha agir pela primeira vez, aumenta a VEL adicionalmente em 4%."
+  },
+  "617710": {
+    "id": "617710",
+    "name": ""
+  },
+  "617720": {
+    "id": "617720",
+    "name": "Criação Imagenada",
+    "desc": "Gasta 100 pontos de Energia para usar esta habilidade e ativar a Ressonância Limítrofe com o Caminho da Propagação. Faz com que um aliado designado aja imediatamente e recupera 5 Ponto(s) de Perícia. Ganha o efeito de \"Levitação\". Quando qualquer unidade inimiga é derrotada por um personagem que possui \"Levitação\", a Equação Limítrofe regenera 50 de Energia, com o máximo de Energia estipulado em 200."
+  },
+  "617730": {
+    "id": "617730",
+    "name": "Mímica Mülleriana",
+    "desc": "Aumenta o ATQ dos aliados-alvo em 50%. Cada Ponto de Perícia ganho ou consumido concede 6% de Carga de \"Crisálida Espiritual\"."
+  },
+  "617731": {
+    "id": "617731",
+    "name": "Esporos Ejetáveis",
+    "desc": "Enquanto estiver no estado de \"Espírito de Borboleta\", o Dano causado por ATQs Básicos/Perícias de aliados-alvo aumenta em 40% e \"Espírito de Borboleta\" causa adicionalmente 1 instância de Dano Verdadeiro igual a 15% do Dano original."
+  },
+  "617732": {
+    "id": "617732",
+    "name": "Gotas de Água Nutritiva",
+    "desc": "Depois que qualquer aliado-alvo consumir qualquer Ponto de Perícia, aumenta o Dano CRIT de todos os aliados em 2%, acumulando até 35 vez(es). Depois de usar a Perícia Suprema, na próxima vez que Pontos de Perícia forem consumidos, será considerado como o consumo de 1 Ponto de Perícia adicional."
+  },
+  "617740": {
+    "id": "617740",
+    "name": "Esporocarpo",
+    "desc": "Depois de derrotar um inimigo-alvo, concede 30% de Carga de \"Crisálida Espiritual\"."
+  },
+  "617741": {
+    "id": "617741",
+    "name": "Armadura de Quitina",
+    "desc": "Aumenta o ATQ dos aliados-alvo em 30%. Ao entrar em combate, carrega adicionalmente \"Crisálida Espiritual\" em 30%."
+  },
+  "617742": {
+    "id": "617742",
+    "name": "Casulo Gratuito",
+    "desc": "Quando \"Crisálida Espiritual\" altera para \"Espírito de Borboleta\", restaura 60% de PV e aumenta o Dano causado enquanto estiver neste estado em 20%."
+  },
+  "617743": {
+    "id": "617743",
+    "name": "Basídioesporos",
+    "desc": "Enquanto estiver no estado de \"Espírito de Borboleta\", aumenta a PEN de RES a Todos os Tipos de Dano de ATQ Básico/Perícia em 14%."
+  },
+  "617744": {
+    "id": "617744",
+    "name": "Tons Estruturais",
+    "desc": "Enquanto estiver no estado de \"Crisálida Espiritual\", aumenta a VEL em 16%. Enquanto estiver no estado de \"Espírito de Borboleta\", aumenta o Dano causado pelo ATQ Básico/Perícia em 50%."
+  },
+  "617745": {
+    "id": "617745",
+    "name": "Varas Sensoriais",
+    "desc": "Para cada Ponto de Perícia consumido por um aliado-alvo, seu Dano recebido é reduzido em 6% por 2 rodada(s). Esse efeito pode acumular até 2 vez(es)."
+  },
+  "617746": {
+    "id": "617746",
+    "name": "Feitiço de Respingo",
+    "desc": "O Dano causado por ATQ Básico/Perícia pelos aliados-alvo causará Dano igual a 10% do Dano original aos alvos adjacentes."
+  },
+  "617750": {
+    "id": "617750",
+    "name": "Base Fúngica",
+    "desc": "Quando os aliados-alvo consomem Pontos de Perícia, há uma chance fixa de 16% de regenerar 1 Ponto(s) de Perícia."
+  },
+  "617751": {
+    "id": "617751",
+    "name": "Fio Pendurado",
+    "desc": "Aumenta o Dano causado quando qualquer aliado-alvo usa um ATQ Básico ou a Perícia em 30%."
+  },
+  "617752": {
+    "id": "617752",
+    "name": "Manchas Oculares",
+    "desc": "Aumenta o Dano CRIT causado quando qualquer aliado-alvo usa um ATQ Básico ou a Perícia em 32%."
+  },
+  "617753": {
+    "id": "617753",
+    "name": "Asas Dorsais",
+    "desc": "Aumenta a Chance de CRIT quando qualquer aliado-alvo usa um ATQ Básico ou a Perícia em 16%."
+  },
+  "617754": {
+    "id": "617754",
+    "name": "Paredes Espessas",
+    "desc": "Depois de qualquer aliado-alvo consome Pontos de Perícia, aumenta a DEF dele em 30% por 1 rodada(s)."
+  },
+  "617755": {
+    "id": "617755",
+    "name": "Segmentos Tarsais",
+    "desc": "Depois de qualquer aliado-alvo consome Pontos de Perícia, aumenta a VEL dele em 8% por 2 rodada(s)."
+  },
+  "617756": {
+    "id": "617756",
+    "name": "Filamento Labial",
+    "desc": "Quando um aliado-alvo consome Pontos de Perícia, regenera 2 de Energia."
+  },
+  "617757": {
+    "id": "617757",
+    "name": "Propagação Florescente",
+    "desc": "Quando um aliado-alvo consome Pontos de Perícia, restaura PV em um valor igual a 10% dos seus PV máximos."
+  },
+  "617810": {
+    "id": "617810",
+    "name": ""
+  },
+  "617820": {
+    "id": "617820",
+    "name": "Referências",
+    "desc": "Gasta 100 pontos de Energia para usar esta habilidade e ativa a Ressonância Limítrofe com o Caminho da Erudição. Causa Dano Imaginário leve a todos os inimigos-alvo. Além disso, vincula o inimigo com os maiores PV máximos aos outros inimigos, infligindo \"Conexão Central\" em todos os inimigos, e regenerando Energia igual a 100% da Energia Máxima a todos os aliados."
+  },
+  "617830": {
+    "id": "617830",
+    "name": "Hipocampo TR-303",
+    "desc": "Após um aliado-alvo causar Quebra de Fraqueza em um inimigo-alvo, concede 10% de Carga de \"Cérebro In Vitro\". Se for um Inimigo de Elite, então concede adicionalmente Carga de 40%."
+  },
+  "617831": {
+    "id": "617831",
+    "name": "Núcleo Accumbens DBS-45",
+    "desc": "Quando um aliado-alvo causa Dano fatal a qualquer inimigo-alvo, concede 50% de Carga de \"Cérebro In Vitro\"."
+  },
+  "617832": {
+    "id": "617832",
+    "name": "Matéria Escura ELO-536",
+    "desc": "A PEN de RES a Todos os Tipos do Dano de Perícia Suprema do aliado-alvo aumenta em 20%. Depois que um ataque de Perícia Suprema é utilizado, para cada inimigo-alvo atingido por essa Perícia Suprema, a PEN de RES a Todos os Tipos para o Dano causado pela Perícia Suprema aumentará adicionalmente em 3%. Esse efeito dura até após o próximo uso de uma Perícia Suprema."
+  },
+  "617840": {
+    "id": "617840",
+    "name": "Reiniciar: Nervo Terminal",
+    "desc": "Quando os aliados-alvo usam sua Perícia Suprema pelo \"Cérebro In Vitro\", aumenta o Dano CRIT deles em 80%, durando até o final dessa habilidade."
+  },
+  "617841": {
+    "id": "617841",
+    "name": "Iteração: Mapa Cognitivo",
+    "desc": "Após um aliado-alvo utilizar sua Perícia Suprema através do \"Cérebro In Vitro\", ele ganha um Escudo com força igual a 36% de seus PV máximos, durando por 2 rodada(s)."
+  },
+  "617842": {
+    "id": "617842",
+    "name": "Análise: Memória Procedural",
+    "desc": "Quando um aliado-alvo utiliza \"Cérebro In Vitro\" para usar sua Perícia Suprema, aumenta o Dano causado de todos os aliados em 36% por 2 rodadas."
+  },
+  "617843": {
+    "id": "617843",
+    "name": "Estabilização: Sono de Ondas Baixas",
+    "desc": "Após os aliados-alvo serem atacados, concede 6% de Carga de \"Cérebro In Vitro\"."
+  },
+  "617844": {
+    "id": "617844",
+    "name": "Derivação: Demarcação Celular",
+    "desc": "Depois que um aliado-alvo utiliza \"Cérebro In Vitro\" para usar sua Perícia Suprema, seu ATQ aumenta em 60% por 2 rodada(s)."
+  },
+  "617845": {
+    "id": "617845",
+    "name": "Execução: Aprendizado Aprimorado",
+    "desc": "Após os aliados-alvo usarem sua Perícia Suprema para atacar inimigos afligidos com Quebra de Fraqueza, atrasa a ação do inimigo em 16%. Sempre que o inimigo-alvo é infligido por Quebra de Fraqueza, esse efeito pode ser ativado até 3 vez(es)."
+  },
+  "617846": {
+    "id": "617846",
+    "name": "Abertura: Caminho Direto",
+    "desc": "Se a habilidade de Ataque em Área de um aliado-alvo ataca apenas 1 inimigo-alvo, esse ataque causa uma quantidade definida de Dano adicional igual a 40% do Dano original ao inimigo-alvo atacado."
+  },
+  "617850": {
+    "id": "617850",
+    "name": "Bandeira Brilhante Holográfica",
+    "desc": "Aumenta o Dano causado pela Perícia Suprema dos aliados-alvo em 20%."
+  },
+  "617851": {
+    "id": "617851",
+    "name": "Armadura Armazenada em Estado Sólido",
+    "desc": "Aumenta a Chance de CRIT do Dano de Perícia Suprema dos aliados-alvo em 18%."
+  },
+  "617852": {
+    "id": "617852",
+    "name": "Fronteira Excluída Com Segurança",
+    "desc": "Aumenta o Dano CRIT de Perícia Suprema dos aliados-alvo em 36%."
+  },
+  "617853": {
+    "id": "617853",
+    "name": "Pacotes Alinhados por Partições",
+    "desc": "Ao entrar em combate, regenera Energia igual a 30% da Energia Máxima."
+  },
+  "617854": {
+    "id": "617854",
+    "name": "Rota dos Macroblocos Apagados",
+    "desc": "Quando um aliado-alvo usa sua Perícia Suprema, seu ATQ aumenta em 24% por 2 rodada(s)."
+  },
+  "617855": {
+    "id": "617855",
+    "name": "Farol de Ressonância Cristalina",
+    "desc": "Após um aliado-alvo usar sua Perícia Suprema, aumenta seus PV máximos em 20% por 2 rodada(s)."
+  },
+  "617856": {
+    "id": "617856",
+    "name": "Lentes de Orientação Ótica",
+    "desc": "Após os aliados-alvo usarem sua Perícia Suprema, eles restauram PV igual a 20% de seus PV máximos."
+  },
+  "617857": {
+    "id": "617857",
+    "name": "Trilha Sequencialmente Escrita",
+    "desc": "Ao receber um golpe fatal, personagens não serão derrubados e, em vez disso, consumirão toda a sua Energia. Em seguida, seus PV são restaurados em 50% da Energia consumida. Esse efeito só pode ser ativado uma vez por batalha pela equipe inteira."
+  },
+  "617910": {
+    "id": "617910",
+    "name": ""
+  },
+  "617920": {
+    "id": "617920",
+    "name": "Gala da Suprema Bem-Aventurança",
+    "desc": "Gasta 100 pontos de Energia para usar a habilidade e alcançar a Ressonância Limítrofe com o Caminho da Harmonia, causando Dano Quântico a todos os inimigos-alvo e aplicando Quebra de Fraqueza em 1000% do Efeito de Quebra. Quando afligido com Quebra de Fraqueza, ativa todos os efeitos de Quebra de Fraqueza de todos os Tipos."
+  },
+  "617930": {
+    "id": "617930",
+    "name": "Primeiro Movimento: o Sapo e o Cavaleiro",
+    "desc": "Sempre que um inimigo-alvo recebe 10 de redução real de Tenacidade, ele é afligido com 1 acúmulo(s) de \"Harmonizar\"."
+  },
+  "617931": {
+    "id": "617931",
+    "name": "Segundo Movimento: o Desjejum do Fauno",
+    "desc": "Depois que qualquer aliado-alvo atacar qualquer inimigo-alvo afligido com Quebra de Fraqueza, ativa 1 instância de Dano de \"Harmonizar\" em uma proporção de 8%."
+  },
+  "617932": {
+    "id": "617932",
+    "name": "Terceiro Movimento: Forma de Rondó",
+    "desc": "Quando qualquer aliado-alvo aplicar Quebra de Fraqueza em qualquer inimigo-alvo, os efeitos de Quebra de Fraqueza de outros Tipos de Fraquezas que o inimigo possui são ativados adicionalmente em uma proporção de 50%."
+  },
+  "617940": {
+    "id": "617940",
+    "name": "Período Comum de Treino",
+    "desc": "Depois que um inimigo-alvo com \"Harmonizar\" é derrotado, faz com que 1 alvo(s) adjacente(s) aleatório(s) ganhe(m) os acúmulos de \"Harmonizar\" deste inimigo-alvo."
+  },
+  "617941": {
+    "id": "617941",
+    "name": "Cálice de Dionísio",
+    "desc": "Após qualquer aliado-alvo atacar qualquer inimigo-alvo afligido com Quebra de Fraqueza, inflige 1 acúmulo(s) de \"Harmonizar\"."
+  },
+  "617942": {
+    "id": "617942",
+    "name": "Pulso Coronal",
+    "desc": "Para cada acúmulo de \"Harmonizar\" que um inimigo-alvo possui, aumenta o Dano de Quebra recebido em 1.0%."
+  },
+  "617943": {
+    "id": "617943",
+    "name": "Quarteto de Cordas",
+    "desc": "Quando o Dano de \"Harmonizar\" é ativado, conta adicionalmente 5 acúmulo(s). Aumenta os acúmulos máximos de \"Harmonizar\" em 5."
+  },
+  "617944": {
+    "id": "617944",
+    "name": "Pentâmetro Iâmbico",
+    "desc": "Aumenta o multiplicador de Dano de \"Harmonizar\" em 30% do multiplicador original."
+  },
+  "617945": {
+    "id": "617945",
+    "name": "Baixo Contínuo",
+    "desc": "Após um aliado-alvo atacar um inimigo-alvo afligido com Quebra de Fraqueza, converte a Redução de Tenacidade deste ataque em 1 instância de 50% de Super Dano de Quebra."
+  },
+  "617946": {
+    "id": "617946",
+    "name": "Nome Justo",
+    "desc": "Quando um aliado-alvo aplica Quebra de Fraqueza em um inimigo-alvo, há uma chance-base de 100% de infligir \"Congelamento\" ao alvo, com duração de 1 rodada(s)."
+  },
+  "617950": {
+    "id": "617950",
+    "name": "Tecelagem Estagnada",
+    "desc": "Quando qualquer aliado-alvo aplica Quebra de Fraqueza em um inimigo-alvo, atrasa a ação do inimigo-alvo em 20%."
+  },
+  "617951": {
+    "id": "617951",
+    "name": "Declaração Original",
+    "desc": "Aumenta o Dano de Quebra causado por aliados-alvo em 8%."
+  },
+  "617952": {
+    "id": "617952",
+    "name": "Tempestade Serena",
+    "desc": "Aumenta o Efeito de Quebra de aliados-alvo em 30%."
+  },
+  "617953": {
+    "id": "617953",
+    "name": "Melodia Linear",
+    "desc": "Quando qualquer aliado-alvo causa Quebra de Fraqueza em um inimigo-alvo, aumenta a VEL do atacante em 12% por 3 rodada(s)."
+  },
+  "617954": {
+    "id": "617954",
+    "name": "Ritmo Cruzado",
+    "desc": "Quando qualquer aliado-alvo causa Quebra de Fraqueza em um inimigo-alvo, aumenta o Efeito de Quebra de todos os aliados-alvo em 40% por 3 rodada(s)."
+  },
+  "617955": {
+    "id": "617955",
+    "name": "Tonalidade Livre",
+    "desc": "Aumenta o Dano de Quebra recebido por inimigos-alvo em 16%."
+  },
+  "617956": {
+    "id": "617956",
+    "name": "Duque dos Presságios",
+    "desc": "Reduz a DEF dos inimigos-alvo afligidos com Quebra de Fraqueza em 15%."
+  },
+  "617957": {
+    "id": "617957",
+    "name": "Narrativa Central",
+    "desc": "Quando os aliados-alvo causam Quebra de Fraqueza em qualquer inimigo-alvo, o atacante restaura PV em um valor igual a 24% de seus PV máximos."
   },
   "619920": {
     "id": "619920",
@@ -3426,6 +4227,461 @@
     "id": "634128",
     "name": "Curador da Terra",
     "desc": "Aumenta adicionalmente o Dano final causado por aliados-alvo com \"Quartzo\" em 50%."
+  },
+  "661001": {
+    "id": "661001",
+    "name": "7 de Março",
+    "desc": "O Dano de 7 de Março é amplificado no Universo Divergente.\n\nA Taxa de Acerto de Efeito aumenta em 30%. Quando em campo, inimigos-alvo no estado de \"Congelamento\" têm a DEF reduzida em 20%."
+  },
+  "661002": {
+    "id": "661002",
+    "name": "Dan Heng",
+    "desc": "O Dano de Dan Heng é amplificado no Universo Divergente.\n\nAumenta VEL em 10%. Para cada 10 pontos de VEL que excedem 150, o Dano final causado aumenta em 2.0%, até um aumento máximo de 30%."
+  },
+  "661003": {
+    "id": "661003",
+    "name": "Himeko",
+    "desc": "O Dano de Himeko é amplificado no Universo Divergente.\n\nCausa 35% de Dano final aumentado contra inimigos-alvo no estado de Quebra de Fraqueza."
+  },
+  "661004": {
+    "id": "661004",
+    "name": "Welt",
+    "desc": "O Dano de Welt é amplificado no Universo Divergente.\n\nDepois de infligir \"Aprisionamento\", atrasa adicionalmente a ação do inimigo-alvo em 30% e aumenta o Dano recebido por ele em 15%, durando por 2 rodada(s)."
+  },
+  "661005": {
+    "id": "661005",
+    "name": "Kafka",
+    "desc": "O Dano de Kafka é amplificado no Universo Divergente.\n\nAumenta o Dano final causado a inimigos-alvo afligidos com 3 ou mais estados de Dano Contínuo em 12%. Para cada estado de Dano Contínuo adicional além disso, aumenta o Dano final em mais 1%."
+  },
+  "661006": {
+    "id": "661006",
+    "name": "Loba Prateada",
+    "desc": "O Dano de Loba Prateada é amplificado no Universo Divergente.\n\nAumenta em 10% o Dano final causado a inimigos-alvo afligidos com 8 ou mais penalidades. Para cada penalidade além disso, o bônus de Dano aumenta adicionalmente em 1%."
+  },
+  "661008": {
+    "id": "661008",
+    "name": "Arlan",
+    "desc": "O Dano de Arlan é amplificado no Universo Divergente.\n\nQuando a porcentagem de PV atual dele está abaixo de 50%, aumenta o Dano final causado em 40%."
+  },
+  "661009": {
+    "id": "661009",
+    "name": "Asta",
+    "desc": "O Dano de Asta é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta a VEL de todos os aliados em 10% da VEL da Asta."
+  },
+  "661013": {
+    "id": "661013",
+    "name": "Herta",
+    "desc": "O Dano de Herta é amplificado no Universo Divergente.\n\nCausa 35% a mais de Dano final contra inimigos-alvo cuja porcentagem de PV esteja abaixo de 50%."
+  },
+  "661014": {
+    "id": "661014",
+    "name": "Saber",
+    "desc": "O Dano de Saber é amplificado no Universo Divergente.\n\nSempre que ela usa a Perícia Suprema, aumenta seu próprio Dano final causado em 3%. Acumula até 10 vezes."
+  },
+  "661015": {
+    "id": "661015",
+    "name": "Archer",
+    "desc": "O Dano de Archer é amplificado no Universo Divergente.\n\nAumenta o Dano final causado em 15%. Recupera 1 Ponto(s) de Perícia no início de cada rodada."
+  },
+  "661101": {
+    "id": "661101",
+    "name": "Bronya",
+    "desc": "O Dano de Bronya é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado pelo primeiro personagem da formação da equipe e seu Memoespírito em 12%."
+  },
+  "661102": {
+    "id": "661102",
+    "name": "Seele",
+    "desc": "O Dano de Seele é amplificado no Universo Divergente.\n\nDepois de usar um ataque, se a porcentagem de PV do alvo for menor ou igual a 15%, causa Dano Verdadeiro igual aos PV atuais do alvo."
+  },
+  "661103": {
+    "id": "661103",
+    "name": "Serval",
+    "desc": "O Dano de Serval é amplificado no Universo Divergente.\n\nPara cada inimigo-alvo presente no campo, o Dano final causado aumenta em 4%. Após eliminar um inimigo-alvo, o Dano final aumenta adicionalmente em 2% durante a batalha. Esse efeito é acumulável."
+  },
+  "661104": {
+    "id": "661104",
+    "name": "Gepard",
+    "desc": "O Dano de Gepard é amplificado no Universo Divergente.\n\nA Taxa de Acerto de Efeito aumenta em 30%. Enquanto estiver em campo, inimigos-alvo no estado de \"Congelamento\" têm sua DEF reduzida em 20%."
+  },
+  "661105": {
+    "id": "661105",
+    "name": "Natasha",
+    "desc": "O Dano de Natasha é amplificado no Universo Divergente.\n\nAumenta a Cura Realizada em 30% e reduz o Dano recebido pelos alvos curados em 15%, durando por 2 rodada(s)."
+  },
+  "661106": {
+    "id": "661106",
+    "name": "Pela",
+    "desc": "O Dano de Pela é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o ATQ dos aliados-alvo em 12% do ATQ de Pela."
+  },
+  "661107": {
+    "id": "661107",
+    "name": "Clara",
+    "desc": "O Dano de Clara é amplificado no Universo Divergente.\n\nReduz o Dano recebido em 10%. O Dano final causado por Ataques Extras aumenta em 20%."
+  },
+  "661108": {
+    "id": "661108",
+    "name": "Sampo",
+    "desc": "O Dano de Sampo é amplificado no Universo Divergente.\n\nApós usar a Perícia Suprema para atacar, todo Dano Contínuo atualmente infligido no alvo do ataque produz imediatamente um Dano igual a 60% do Dano original."
+  },
+  "661109": {
+    "id": "661109",
+    "name": "Hook",
+    "desc": "O Dano de Hook é amplificado no Universo Divergente.\n\nCausa 35% a mais de Dano final contra inimigos-alvo com porcentagem de PV abaixo de 50%."
+  },
+  "661110": {
+    "id": "661110",
+    "name": "Lynx",
+    "desc": "O Dano de Lynx é amplificado no Universo Divergente.\n\nAumenta a Cura Realizada em 30%. Reduz o Dano recebido pelo alvo curado em 15%, durando por 2 rodada(s)."
+  },
+  "661111": {
+    "id": "661111",
+    "name": "Luka",
+    "desc": "O Dano de Luka é amplificado no Universo Divergente.\n\nApós usar a Perícia Suprema para atacar, todo Dano Contínuo atualmente infligido no alvo do ataque produz imediatamente um Dano igual a 120% do Dano original."
+  },
+  "661112": {
+    "id": "661112",
+    "name": "Topaz e Dinheirinho",
+    "desc": "O Dano de Topaz e Dinheirinho é amplificado no Universo Divergente.\n\nSempre que um ataque é usado, o Dano final causado aumenta em 4%. Esse efeito pode acumular até 10 vez(es) e é removido quando os PV são reduzidos."
+  },
+  "661201": {
+    "id": "661201",
+    "name": "Qingque",
+    "desc": "O Dano de Qingque é amplificado no Universo Divergente.\n\nAumenta o Dano final causado em 15%. Recupera 1 Ponto(s) de Perícia no início de cada rodada."
+  },
+  "661202": {
+    "id": "661202",
+    "name": "Tingyun",
+    "desc": "O Dano de Tingyun é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o ATQ dos aliados-alvo em um valor igual a 12% do ATQ de Tingyun."
+  },
+  "661203": {
+    "id": "661203",
+    "name": "Luocha",
+    "desc": "O Dano de Luocha é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado por aliados-alvo em 8%."
+  },
+  "661204": {
+    "id": "661204",
+    "name": "Jing Yuan",
+    "desc": "O Dano de Jing Yuan é amplificado no Universo Divergente.\n\nAo realizar um Ataque Extra, Avança Adiante sua ação em 20%."
+  },
+  "661205": {
+    "id": "661205",
+    "name": "Blade",
+    "desc": "O Dano de Blade é amplificado no Universo Divergente.\n\nAo perder PV, aumenta a Cura Recebida em 15% e aumenta o Dano final causado em 15%. Dura por 2 rodada(s)."
+  },
+  "661206": {
+    "id": "661206",
+    "name": "Sushang",
+    "desc": "O Dano de Sushang é amplificado no Universo Divergente.\n\nApós infligir Quebra de Fraqueza a um inimigo-alvo, aumenta a VEL em 4%. Acumula até 10 vezes."
+  },
+  "661207": {
+    "id": "661207",
+    "name": "Yukong",
+    "desc": "O Dano de Yukong é aumentado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o ATQ de todos os aliados-alvo em um valor igual a 12% do ATQ da Yukong."
+  },
+  "661208": {
+    "id": "661208",
+    "name": "Fu Xuan",
+    "desc": "O Dano de Fu Xuan é amplificado no Universo Divergente.\n\nReduz o Dano recebido em 20%. No início de cada rodada, restaura PV em um valor igual a 15% dos PV máximos."
+  },
+  "661209": {
+    "id": "661209",
+    "name": "Yanqing",
+    "desc": "O Dano de Yanqing é amplificado no Universo Divergente.\n\nSempre que um ataque é usado, o Dano final causado aumenta em 4%. Esse efeito pode acumular até 10 vez(es) e é removido quando os PV são reduzidos."
+  },
+  "661210": {
+    "id": "661210",
+    "name": "Guinaifen",
+    "desc": "O Dano de Guinaifen é amplificado no Universo Divergente.\n\nApós usar sua Perícia Suprema para atacar, todo Dano Contínuo atualmente infligido ao alvo do ataque produz imediatamente um Dano igual a 60% do Dano original."
+  },
+  "661211": {
+    "id": "661211",
+    "name": "Bailu",
+    "desc": "O Dano de Bailu é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado por aliados-alvo em 8%."
+  },
+  "661212": {
+    "id": "661212",
+    "name": "Jingliu",
+    "desc": "O Dano de Jingliu é amplificado no Universo Divergente.\n\nAo perder PV, aumenta a Cura Recebida em 15% e aumenta o Dano final causado em 15%. Dura por 2 rodada(s)."
+  },
+  "661213": {
+    "id": "661213",
+    "name": "Dan Heng - Embebidor Lunae",
+    "desc": "O Dano de Dan Heng - Embebidor Lunae é amplificado no Universo Divergente.\n\nAumenta o Dano final causado em 15%. Recupera 1 Ponto(s) de Perícia no início de cada rodada."
+  },
+  "661214": {
+    "id": "661214",
+    "name": "Xueyi",
+    "desc": "O Dano de Xueyi é amplificado no Universo Divergente.\n\nCausa 35% de Dano final aumentado contra inimigos-alvo em estado de Quebra de Fraqueza."
+  },
+  "661215": {
+    "id": "661215",
+    "name": "Hanya",
+    "desc": "O Dano de Hanya é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta a VEL de todos os aliados em 10% da VEL de Hanya."
+  },
+  "661217": {
+    "id": "661217",
+    "name": "Huohuo",
+    "desc": "O Dano de Huohuo é amplificado no Universo Divergente.\n\nAumenta a Cura Realizada em 30%. Reduz o Dano recebido pelo alvo curado em 15%, durando por 2 rodada(s)."
+  },
+  "661218": {
+    "id": "661218",
+    "name": "Jiaoqiu",
+    "desc": "O Dano de Jiaoqiu é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado por aliados-alvo em 8%."
+  },
+  "661220": {
+    "id": "661220",
+    "name": "Feixiao",
+    "desc": "O Dano de Feixiao é amplificado no Universo Divergente.\n\nSempre que um ataque é usado, o Dano final causado aumenta em 4%. Esse efeito pode acumular até 10 vez(es) e é removido quando os PV são reduzidos."
+  },
+  "661221": {
+    "id": "661221",
+    "name": "Yunli",
+    "desc": "O Dano de Yunli é amplificado no Universo Divergente.\n\nReduz o Dano recebido em 10%. O Dano final causado por Ataques Extras aumenta em 20%."
+  },
+  "661222": {
+    "id": "661222",
+    "name": "Lingsha",
+    "desc": "O Dano de Lingsha é amplificado no Universo Divergente.\n\nAumenta a Cura Realizada em 30%. Reduz o Dano recebido pelo alvo curado em 15%, durando por 2 rodada(s)."
+  },
+  "661223": {
+    "id": "661223",
+    "name": "Moze",
+    "desc": "O Dano de Moze é amplificado no Universo Divergente.\n\nSempre que um ataque é usado, o Dano final causado aumenta em 4%. Esse efeito pode acumular até 10 vez(es) e é removido quando os PV são reduzidos."
+  },
+  "661224": {
+    "id": "661224",
+    "name": "7 de Março",
+    "desc": "O Dano de 7 de Março é amplificado no Universo Divergente.\n\nAumenta a VEL em 10%. Para cada 10 pontos de VEL que excedem 150, o Dano final causado aumenta em 2.0%, até um aumento máximo de 30%."
+  },
+  "661225": {
+    "id": "661225",
+    "name": "Fugue",
+    "desc": "O Dano de Fugue é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado por aliados-alvo contra inimigos no estado de Quebra de Fraqueza em 15%."
+  },
+  "661301": {
+    "id": "661301",
+    "name": "Gallagher",
+    "desc": "O Dano de Gallagher é amplificado no Universo Divergente.\n\nAumenta a Cura Realizada em 30%. Reduz o Dano recebido pelo alvo curado em 15%, durando por 2 rodada(s)."
+  },
+  "661302": {
+    "id": "661302",
+    "name": "Argenti",
+    "desc": "O Dano de Argenti é amplificado no Universo Divergente.\n\nPara cada inimigo-alvo presente no campo, o Dano final causado aumenta em 4%. Após eliminar um inimigo-alvo, o Dano final aumenta adicionalmente em 2% durante a batalha. Esse efeito é acumulável."
+  },
+  "661303": {
+    "id": "661303",
+    "name": "Ruan Mei",
+    "desc": "O Dano de Ruan Mei é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado por aliados-alvo a inimigos no estado de Quebra de Fraqueza em 15%."
+  },
+  "661304": {
+    "id": "661304",
+    "name": "Aventurine",
+    "desc": "O Dano de Aventurine é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano CRIT dos aliados-alvo com Escudos em 25%."
+  },
+  "661305": {
+    "id": "661305",
+    "name": "Dr. Ratio",
+    "desc": "O Dano de Dr. Ratio é amplificado no Universo Divergente.\n\nSempre que um ataque é usado, o Dano final causado aumenta em 4%. Esse efeito pode ser acumulado até 10 vez(es) e é removido quando os PV são reduzidos."
+  },
+  "661306": {
+    "id": "661306",
+    "name": "Sparkle",
+    "desc": "O Dano de Sparkle é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado por aliados-alvo em 8%."
+  },
+  "661307": {
+    "id": "661307",
+    "name": "Cisne Negro",
+    "desc": "O Dano de Cisne Negro é amplificado no Universo Divergente.\n\nAumenta o Dano final causado a inimigos-alvo afligidos em 3 ou mais estados de Dano Contínuo em 12%. Para cada estado de Dano Contínuo além disso, o bônus de Dano aumenta adicionalmente em 1%."
+  },
+  "661308": {
+    "id": "661308",
+    "name": "Acheron",
+    "desc": "O Dano de Acheron é amplificado no Universo Divergente.\n\nAumenta o Dano final causado a inimigos-alvo afligidos com 8 ou mais penalidades em 10%. Para cada penalidade além disso, o bônus de Dano aumenta adicionalmente em 1%."
+  },
+  "661309": {
+    "id": "661309",
+    "name": "Robin",
+    "desc": "O Dano de Robin é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta a VEL de todos os aliados em 10% da VEL dela."
+  },
+  "661310": {
+    "id": "661310",
+    "name": "Vaga-lume",
+    "desc": "O Dano de Vaga-lume é amplificado no Universo Divergente.\n\nPara cada 10 pontos de Tenacidade máxima de um inimigo-alvo, aumenta o Dano final causado a ele em 1.2%, até um aumento máximo de 30%."
+  },
+  "661312": {
+    "id": "661312",
+    "name": "Misha",
+    "desc": "O Dano de Misha é amplificado no Universo Divergente.\n\nCausa 50% de Dano final aumentado contra inimigos-alvo afligidos com \"Congelamento\"."
+  },
+  "661313": {
+    "id": "661313",
+    "name": "Sunday",
+    "desc": "O Dano de Sunday é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado pelo primeiro personagem da formação da equipe e seu Memoespírito em 12%."
+  },
+  "661314": {
+    "id": "661314",
+    "name": "Jade",
+    "desc": "O Dano de Jade é amplificado no Universo Divergente.\n\nSempre que um ataque é usado, o Dano final causado aumenta em 4%. Esse efeito pode acumular até 10 vez(es) e é removido quando os PV são reduzidos."
+  },
+  "661315": {
+    "id": "661315",
+    "name": "Boothill",
+    "desc": "O Dano de Boothill é amplificado no Universo Divergente.\n\nApós infligir Quebra de Fraqueza a um inimigo-alvo, aumenta a VEL em 4%. Acumula até 10 vezes."
+  },
+  "661317": {
+    "id": "661317",
+    "name": "Rappa",
+    "desc": "O Dano de Rappa é amplificado no Universo Divergente.\n\nCausa 35% de Dano final aumentado contra inimigos-alvo no estado de Quebra de Fraqueza."
+  },
+  "661321": {
+    "id": "661321",
+    "name": "A Dália",
+    "desc": "O Dano de A Dália é amplificado no Universo Divergente.\n\nPara cada 10 pontos de Tenacidade Máxima de um inimigo-alvo, aumenta o Dano final causado a ele em 1.2%, até um aumento máximo de 30%."
+  },
+  "661401": {
+    "id": "661401",
+    "name": "A Herta",
+    "desc": "O Dano de A Herta é amplificado no Universo Divergente.\n\nPara cada inimigo-alvo presente no campo, o Dano final causado aumenta em 4%. Após eliminar um inimigo-alvo, o Dano final aumenta adicionalmente em 2% durante a batalha. Esse efeito é acumulável."
+  },
+  "661402": {
+    "id": "661402",
+    "name": "Aglaea",
+    "desc": "O Dano de Aglaea é amplificado no Universo Divergente.\n\nAumenta a VEL desta unidade e de seu Memoespírito em 25%."
+  },
+  "661403": {
+    "id": "661403",
+    "name": "Tribbie",
+    "desc": "O Dano de Tribbie é amplificado no Universo Divergente.\n\nSempre que ela usa sua Perícia Suprema, aumenta seu próprio Dano final causado em 3%. Acumula até 10 vezes."
+  },
+  "661404": {
+    "id": "661404",
+    "name": "Mydei",
+    "desc": "O Dano de Mydei é amplificado no Universo Divergente.\n\nAo perder PV, aumenta a Cura Recebida em 15% e aumenta o Dano final causado em 15%. Dura por 2 rodada(s)."
+  },
+  "661405": {
+    "id": "661405",
+    "name": "Anaxa",
+    "desc": "O Dano de Anaxa é amplificado no Universo Divergente.\n\nApós infligir Quebra de Fraqueza a um inimigo-alvo, aumenta a VEL em 4%. Acumula até 10 vezes."
+  },
+  "661406": {
+    "id": "661406",
+    "name": "Cipher",
+    "desc": "O Dano de Cipher é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta a VEL dos aliados-alvo em 10%."
+  },
+  "661407": {
+    "id": "661407",
+    "name": "Castorice",
+    "desc": "O Dano de Castorice é amplificado no Universo Divergente.\n\nDepois que Castorice e seu Memoespírito eliminam um inimigo-alvo, restaura PV em um valor igual a 50% dos PV máximos."
+  },
+  "661408": {
+    "id": "661408",
+    "name": "Phainon",
+    "desc": "O Dano de Phainon é amplificado no Universo Divergente.\n\nA cada 10 de Valor de Ação que passa, aumenta o Dano final causado em 0.8%."
+  },
+  "661409": {
+    "id": "661409",
+    "name": "Hyacine",
+    "desc": "O Dano de Hyacine é amplificado no Universo Divergente.\n\nAumenta a VEL em 25%."
+  },
+  "661410": {
+    "id": "661410",
+    "name": "Hysilens",
+    "desc": "O Dano de Hysilens é amplificado no Universo Divergente.\n\nAumenta o Dano final causado a inimigos-alvo afligidos com 3 ou mais estados de Dano Contínuo em 12%. Para cada estado de Dano Contínuo além disso, o bônus de Dano aumenta adicionalmente em 1%."
+  },
+  "661412": {
+    "id": "661412",
+    "name": "Cerydra",
+    "desc": "O Dano de Cerydra é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado pelo primeiro personagem da formação da equipe e seu Memoespírito em 12%."
+  },
+  "661413": {
+    "id": "661413",
+    "name": "Noite Eterna",
+    "desc": "O Dano de Noite Eterna é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado por aliados-alvo em 8%."
+  },
+  "661414": {
+    "id": "661414",
+    "name": "Dan Heng - Permansor Terrae",
+    "desc": "O Dano de Dan Heng - Permansor Terrae é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano CRIT dos aliados-alvo com Escudos em 25%."
+  },
+  "661415": {
+    "id": "661415",
+    "name": "Cyrene",
+    "desc": "O Dano de Cyrene é amplificado no Universo Divergente.\n\nSe houver 1 ou mais Herdeiros de Chrysos na equipe (exceto Cyrene), aumenta o Dano final causado por todos os aliados em 10%."
+  },
+  "661501": {
+    "id": "661501",
+    "name": "Sparxie",
+    "desc": "O Dano de Sparxie é amplificado no Universo Divergente.\n\nPara cada 10 ponto(s) de \"Piada\" acumulado(s) por toda a equipe, aumenta o Dano final causado por essa unidade em 1%, podendo aumentar até 30%."
+  },
+  "661502": {
+    "id": "661502",
+    "name": "Yao Guang",
+    "desc": "O Dano de Yao Guang é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta a VEL de todos os aliados em 10% da VEL dela."
+  },
+  "661504": {
+    "id": "661504",
+    "name": "Ashveil",
+    "desc": "O Dano de Ashveil é amplificado no Universo Divergente.\n\nO Dano final causado a inimigos-alvo com porcentagem de PV abaixo de 50% aumenta em 30%. Aumenta adicionalmente em 15% para Dano de Ataque Extra."
+  },
+  "661505": {
+    "id": "661505",
+    "name": "Evanescia",
+    "desc": "O Dano de Evanescia recebe Amplificação no Universo Divergente.\n\nEnquanto possuir \"Mandou Bem\", aumenta o Dano final causado dessa unidade em 15%. Se \"Mandou Bem\" for 100 ou mais, aumenta adicionalmente o Dano final causado em 15%."
+  },
+  "661506": {
+    "id": "661506",
+    "name": "Loba Prateada Nv. 999",
+    "desc": "O Dano de Loba Prateada Nv. 999 é amplificado no Universo Divergente.\n\nQuando a rodada de Aha começa, a Euforia de Loba Prateada Nv. 999 aumenta em 0.5% para cada 1 ponto de \"Piada\" possuído, durando até o início da próxima rodada de Aha."
+  },
+  "668001": {
+    "id": "668001",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificado no Universo Divergente.\n\nCausa 35% a mais de Dano final contra inimigos-alvo com porcentagem de PV maior que 50%."
+  },
+  "668002": {
+    "id": "668002",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificado no Universo Divergente.\n\nCausa 35% a mais de Dano final contra inimigos-alvo com porcentagem de PV maior que 50%."
+  },
+  "668003": {
+    "id": "668003",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano CRIT dos aliados-alvo com Escudos em 25%."
+  },
+  "668004": {
+    "id": "668004",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano CRIT dos aliados-alvo com Escudos em 25%."
+  },
+  "668005": {
+    "id": "668005",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado por aliados-alvo contra inimigos no estado de Quebra de Fraqueza em 15%."
+  },
+  "668006": {
+    "id": "668006",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificado no Universo Divergente.\n\nEnquanto estiver em campo, aumenta o Dano final causado por aliados-alvo contra inimigos no estado de Quebra de Fraqueza em 15%."
+  },
+  "668007": {
+    "id": "668007",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificado no Universo Divergente.\n\nAumenta o Dano final causado em 15%. Ao entrar em combate, regenera Energia em um valor igual a 50% da Energia Máxima."
+  },
+  "668008": {
+    "id": "668008",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificado no Universo Divergente.\n\nAumenta o Dano final causado em 15%. Ao entrar em combate, regenera Energia em um valor igual a 50% da Energia Máxima."
+  },
+  "668009": {
+    "id": "668009",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificação no Universo Divergente.\n\nEnquanto estiver em campo, aumenta a Euforia dos aliados-alvo em 12%."
+  },
+  "668010": {
+    "id": "668010",
+    "name": "{NICKNAME}",
+    "desc": "O Dano de {NICKNAME} é amplificação no Universo Divergente.\n\nEnquanto estiver em campo, aumenta a Euforia dos aliados-alvo em 12%."
   },
   "670010": {
     "id": "670010",
@@ -4441,5 +5697,365 @@
     "id": "675960",
     "name": "Trupe do Amanhecer",
     "desc": "Aumenta o multiplicador de Dano de \"Harmonizar\" em 50%. Após os aliados-alvo realizarem um Ataque Extra, aplica 1 acúmulo(s) de \"Harmonizar\" aos alvos atacados."
+  },
+  "676170": {
+    "id": "676170",
+    "name": "Belo Poema",
+    "desc": "Ao entrar no estado de \"Espírito de Borboleta\", depois que os Memoespíritos usam um ataque, eles podem causar o Dano Verdadeiro de \"Espírito de Borboleta\" sem consumir a contagem de ataque. O inimigo-alvo com os PV máximos mais altos fica \"Encasulado\" até você sair de \"Espírito de Borboleta\". Enquanto estiver nesse estado, todo o Dano de \"Espírito de Borboleta\" recebido por ele é registrado. Após receber 5 golpes/após o alvo ser derrotado/ao sair de \"Espírito de Borboleta\", causa Dano igual a 200% do Dano registrado a todos os inimigos-alvo e apaga o valor registrado."
+  },
+  "676180": {
+    "id": "676180",
+    "name": "Maçãs! Maçãs!",
+    "desc": "\"Revelação Súbita\" aparece na Ordem de Ação. Ao agir, causa 2000% de Dano base de Gelo a todos os inimigos e ativa as Perícias Supremas de todos os aliados. Para cada acúmulo de \"Obsessão\" possuído pelo primeiro personagem da equipe e seu Memoespírito, aumenta a VEL-Base de \"Revelação Súbita\" em 1 e causa 100% de Dano base de Gelo adicional a cada inimigo-alvo."
+  },
+  "676250": {
+    "id": "676250",
+    "name": "Rito Sacrificial Conceitual",
+    "desc": "Após um inimigo-alvo atacar um aliado-alvo, \"Murmúrio\" obtém Carga igual a 10% do limite de eliminação. Para cada 5% do limite de eliminação de \"Murmúrio\" que concede Carga, o inimigo-alvo recebe imediatamente 1 instância de Dano de Raio Contínuo igual a 120% do limite de eliminação de \"Murmúrio\". Cada inimigo-alvo pode ativar isso até 2 vez(es), e a contagem de ativação é redefinida após a ação de qualquer unidade. Esse Dano é considerado como Dano de \"Murmúrio\" e não pode derrotar o inimigo-alvo."
+  },
+  "676280": {
+    "id": "676280",
+    "name": "Retornador de Almas",
+    "desc": "Após os aliados-alvo usarem Perícias Supremas 5 vez(es) no total, \"Murmúrio\" causa Dano igual a 60% do multiplicador de Dano original a alvos adjacentes. Então, o Dano causado por \"Murmúrio\" aumenta adicionalmente em 2% para cada vez que uma Perícia Suprema é usada."
+  },
+  "676410": {
+    "id": "676410",
+    "name": "Oficial Patrulheiro de Rua",
+    "desc": "Depois que todos os aliados realizarm cumulativamente 24 ataques, o primeiro personagem da equipe atual ganha uma rodada extra. A contagem de ataques considerada pelos Ataques Extras é dobrada. Após usar um ataque nessa rodada extra, causa Dano Adicional igual a 600% dos PV máximos + 1200% de ATQ no alvo atacado. Cada acúmulo de \"Obsessão\" que os aliados possuem aumenta esse multiplicador de Dano em 1% do multiplicador original."
+  },
+  "676470": {
+    "id": "676470",
+    "name": "Exorcista",
+    "desc": "Enquanto estiver no estado de \"Espírito de Borboleta\", aumenta o Dano causado pelos aliados-alvo em 200%. Após usar um ataque, se os PV atuais do inimigo-alvo forem menores que 25% dos seus PV máximos, causa Dano de \"Espírito de Borboleta\" igual a uma quantidade definida dos seus PV atuais e recupera 2 Ponto(s) de Perícia."
+  },
+  "676510": {
+    "id": "676510",
+    "name": "Senhor dos Pesadelos",
+    "desc": "Após qualquer unidade aliada ser atacada, considera-se que todos os aliados-alvo foram atacados. Todos os aliados-alvo ganharão Carga de \"Blazar\" igual a 15% da soma de seus respectivos PV máximos e Escudo."
+  },
+  "676590": {
+    "id": "676590",
+    "name": "Suplicante Eterno",
+    "desc": "Quando a quantidade total de PV perdidos pelos aliados-alvo for igual a 100% dos seus PV máximos ou após se recuperarem de estarem fora de combate, causa Dano igual a 75% do limite máximo de \"Harmonizar\" a todos os inimigos. Quando a rodada de um personagem começa, consome PV em um valor igual a 5% dos PV máximos, aumentando este valor em 5% sempre que este efeito for ativado. Quando personagens aliados ficam fora de combate pela primeira vez nesta batalha, restaura seus PV atuais para 100% dos seus PV máximos, e os PV não serão mais consumidos quando sua rodada começar."
+  },
+  "676640": {
+    "id": "676640",
+    "name": "Bandidos do Brilho Estelar",
+    "desc": "Quando \"Crupiê\" age, aumenta a contagem de ataque em 4 e muda o alvo do ataque para o inimigo com os maiores PV máximos atuais. Ao causar Dano, inflige 2 acúmulo(s) adicional(is) de \"Bônus Crítico Reverso\" no alvo e, após atacar, Avança Adiante a ação de todos os aliados em 25%. Esse efeito pode ser ativado no máximo 1 vez(es) por rodada em cada inimigo-alvo."
+  },
+  "676650": {
+    "id": "676650",
+    "name": "Rejeitores de Fogo",
+    "desc": "Quando \"Insanidade\" aparece na Ordem de Ação, cada ponto de Carga de \"Crupiê\" aumenta adicionalmente sua VEL em 7. Quando \"Insanidade\" age, aumenta o Dano causado por todos os aliados em 15%, acumulando até 10 vezes. Também Carrega \"Blazar\" em um valor igual a 150% dos respectivos PV máximos e valor de Escudo atual de cada aliado-alvo combinados. Depois que cada aliado usar seu próximo ataque, causa 7 instância(s) de 80% de Dano \"Blazar\" de um Tipo aleatório em cada um dos alvos do ataque."
+  },
+  "676720": {
+    "id": "676720",
+    "name": "Serpente Serpenteante",
+    "desc": "Enquanto estiver no estado de \"Espírito de Borboleta\", sempre que todos os aliados consomem 1 Ponto de Perícia, o Dano recebido por todos os inimigos aumenta em 10%, acumulando até um máximo de 40%. Após entrar no estado de \"Espírito de Borboleta\" e consumir um total de 3 Pontos de Perícia pela primeira vez, recupera 6 contagem(ns) de ataque de \"Espírito de Borboleta\". Antes que este estado de \"Espírito de Borboleta\" termine, após os aliados-alvo atacarem, causa 1 instância de Dano Verdadeiro igual a 60% do Dano original (excluindo Dano Adicional) ao alvo atacado. Esse efeito também se aplica ao Dano Contínuo recebido pelos inimigos-alvo no início de suas rodadas."
+  },
+  "676760": {
+    "id": "676760",
+    "name": "Grande Loteria Galáctica",
+    "desc": "Para cada 1 Ponto de Perícia consumido ou transbordante de aliados-alvo, obtém 1 chance de sorteio de prêmio, até 25 vez(es). Ao entrar no estado de \"Espírito de Borboleta\", invoca \"Máquina de Loteria\" e consome todas as chances de sorteio para obter prêmios, com um sorteio base de 5 vez(es). Existe uma pequena chance de obter o Prêmio Especial, que causa 1 instância de Dano de um Tipo aleatório igual a 4000% do Dano base a todos os inimigos-alvo e ganha 5 de Carga para \"Crupiê\". O Prêmio de Consolação causa 1 instância de Dano de um Tipo aleatório igual a 500% do Dano base a inimigos-alvo aleatórios."
+  },
+  "676860": {
+    "id": "676860",
+    "name": "Erudito Útil",
+    "desc": "Depois que \"Crupiê\" age 4 vez(es) enquanto nenhum aliado na equipe estiver no estado de \"Sobrecarga\", aumenta o Dano CRIT de todos os aliados em 200% por 5 rodada(s). Então, concede ao primeiro personagem da equipe atual o estado de \"Sobrecarga\": ativa sua Perícia Suprema e Carrega \"Cérebro In Vitro\" para 200%. Esse estado termina após usar a Perícia Suprema 3 vez(es). Quando ativado pela primeira vez, \"Crupiê\" só precisa apenas agir 1 vez(es)."
+  },
+  "676890": {
+    "id": "676890",
+    "name": "Druida dos Eletrodomésticos",
+    "desc": "A \"Respiração da Tartaruga Gigante\" com 150 de VEL aparece na Ordem de Ação: ao agir, aumenta o Dano recebido por todos os inimigos em 50%, durando por 3 rodadas, causando Dano de Gelo e de Fogo igual a 6000% do Dano base, atrasando suas ações em 30% e reduzindo em 30 a Tenacidade de todos os inimigos-alvo, ignorando o Tipo de Fraqueza. Ao aplicar Quebra de Fraqueza a um inimigo, são ativados os efeitos de Quebra de Fraqueza de Gelo e de Fogo. Quando um aliado-alvo ativa sua Perícia Suprema sob o efeito de \"Cérebro In Vitro\", a VEL da \"Respiração da Tartaruga Gigante\" aumenta em 5, podendo acumular até 15 vezes."
+  },
+  "676920": {
+    "id": "676920",
+    "name": "General Morto",
+    "desc": "Quando um inimigo-alvo está no estado de Quebra de Fraqueza, \"Harmonizar\" ganha efeitos adicionais com base nos Tipos de personagens aliados na equipe. Efeitos do mesmo tipo podem se acumular: Vento, Raio, Físico: ganha o efeito \"Impacto Tempestuoso\". Quando atacados, inimigos-alvo recebem imediatamente Dano igual a 60% do Dano original do Dano Contínuo atualmente infligido neles. Fogo: ganha o efeito \"Chama Derretida\". Aumenta o Super Dano de Quebra recebido por inimigos-alvo em 60%. Quântico, Imaginário, Gelo: ganha o efeito \"Intimidação\". A ação do inimigo-alvo é atrasada em 20%. Quando atacado, ativa o Dano de \"Harmonizar\" 1 vez(es) a uma taxa de 10%."
+  },
+  "676940": {
+    "id": "676940",
+    "name": "Conjurador de Deus",
+    "desc": "Aumenta a VEL dos aliados-alvo em 35%. Depois de usar um ataque, há 60% de chance fixa de adicionar 1 Fraqueza de um Tipo aleatório a um inimigo-alvo aleatório e causa 3 instância(s) de 180% de Dano base do Tipo correspondente a ele e é garantido que seja ativado se o ataque for um Ataque Extra. A Fraqueza de Tipo adicionada é removida depois que o inimigo-alvo sofrer Quebra de Fraqueza. Depois de adicionar uma Fraqueza a um inimigo-alvo, registra a Fraqueza adicionada uma vez. Esse efeito pode ser ativado até 2 vez(es) por ação. Quando qualquer inimigo-alvo sofrer Quebra de Fraqueza, com base nas Fraquezas registradas, causa 200% de Dano de Quebra do Tipo correspondente para cada registro ao alvo e alvos adjacentes."
+  },
+  "677160": {
+    "id": "677160",
+    "name": "Horticultor",
+    "desc": "Depois que um aliado-alvo usar um ataque, causa Dano Adicional ao alvo em um valor igual a 100% dos PV máximos. Depois que \"Crupiê\" age, o Dano Adicional do próximo ataque aumenta para 300% dos PV máximos."
+  },
+  "677170": {
+    "id": "677170",
+    "name": "Agente de Histórico",
+    "desc": "Para cada acúmulo de \"Obsessão\" que o aliado-alvo possua, o Dano de ATQ Básico e de Perícia causado por ele aumenta em 6%. Quando um personagem aliado sai de campo, é derrubado ou quando o Memoespírito aliado desaparece, o personagem na posição 1 na equipe atual obtém 50% dos acúmulos de \"Obsessão\" daquele aliado e um valor igual de limite máximo de \"Obsessão\". Esse limite de acúmulo adicional desaparecerá após 2 rodada(s)."
+  },
+  "677190": {
+    "id": "677190",
+    "name": "Roda da Transição de Carreira",
+    "desc": "Aumenta o número máximo de acúmulos de \"Obsessão\" dos aliados em 4 e aumenta a VEL em um adicional de 0.3% para cada acúmulo de \"Obsessão\" para todos os aliados. Ao causar Quebra de Fraqueza a um inimigo, todos os aliados ganham 3 acúmulos de \"Obsessão\"."
+  },
+  "677240": {
+    "id": "677240",
+    "name": "Corrida Eterna",
+    "desc": "Os Danos Contínuos recebidos por inimigos-alvo podem ser CRIT. A Chance de CRIT/Dano CRIT é igual a 20% da Chance de CRIT/Dano CRIT total dos todos os personagens aliados, com o Dano CRIT limitado a 120%."
+  },
+  "677250": {
+    "id": "677250",
+    "name": "Vida Forjada pelos Dados",
+    "desc": "Aumenta o Dano de \"Murmúrio\" recebido pelos inimigos-alvo em 35%. Após os inimigos-alvo receberem Dano Contínuo fora da própria rodada, todos os aliados recebem Carga de \"Blazar\" igual a 10% de seus respectivos ATQs. Esse efeito pode ser ativado até 5 vezes por inimigo-alvo por rodada."
+  },
+  "677260": {
+    "id": "677260",
+    "name": "Rei Tolo",
+    "desc": "Aumenta o Dano Contínuo recebido pelos inimigos-alvo em 30%. Após \"Crupiê\" causar Dano, cada instância faz com que todas as penalidades de Dano Contínuo no inimigo-alvo causem Dano igual a 15% do Dano original imediatamente."
+  },
+  "677450": {
+    "id": "677450",
+    "name": "Vigia Braço de Ferro",
+    "desc": "Aumenta o limite máximo de \"Bônus Crítico Reverso\" em 10 acúmulo(s). Para cada 15% do total de PV máximos da equipe perdidos pela equipe inteira, todos os inimigos recebem imediatamente 1 acúmulo de \"Bônus Crítico Reverso\"."
+  },
+  "677460": {
+    "id": "677460",
+    "name": "Condutor de Cometas",
+    "desc": "Para cada 1% de Chance de CRIT que exceder 100% do aliado-alvo e do \"Crupiê\", o Dano CRIT aumenta em 3%. Depois que os aliados-alvo realizam um ataque, aumenta a Chance de CRIT dessa unidade e do \"Crupiê\" em 2%, até 50 acúmulos. Se for um Ataque Extra, pode acumular adicionalmente 2 vez(es)."
+  },
+  "677470": {
+    "id": "677470",
+    "name": "Atacadista de Meteoros",
+    "desc": "Para cada 1% de efeito de Avanço Adiante de ação obtido pelos aliados-alvo, causa adicionalmente Dano Verdadeiro igual a 0.5% do Dano original causado após usar um ataque na próxima rodada, até um máximo de 50% de Dano Verdadeiro. Causa adicionalmente Dano Verdadeiro igual a 50% do Dano original no estado de \"Espírito de Borboleta\"."
+  },
+  "677510": {
+    "id": "677510",
+    "name": "Gigante de Gelo",
+    "desc": "Quando um aliado-alvo sofre Dano ou consome PV enquanto sua porcentagem de PV estiver abaixo de 40%, consome 5 acúmulo(s) de \"Obsessão\" do alvo com o maior número de acúmulos de \"Obsessão\" na equipe, cura 25% dos PV máximos desta unidade e aumenta o Dano causado em 150% por 2 rodada(s). Esse efeito só pode ser ativado 1 vez(es) por rodada."
+  },
+  "677570": {
+    "id": "677570",
+    "name": "Ídolo da Aberração",
+    "desc": "Aumenta a Eficiência de Carga de \"Blazar\" em 25%. Quando o estado de \"Espírito de Borboleta\" está ativo, usar ATQs Básicos/Perícias para realizar ataques causa 150% de Dano de \"Blazar\" ao alvo."
+  },
+  "677590": {
+    "id": "677590",
+    "name": "Dispositivo de Votação da Retribuição Divina",
+    "desc": "Quando os aliados-alvo aplicam Quebra de Fraqueza a qualquer inimigo, carrega \"Blazar\" em um valor igual a 100% dos PV máximos e do Escudo. Se todos os inimigos-alvo estiverem afligidos com Quebra de Fraqueza, \"Blazar\" não será reiniciado no final das rodadas dos aliados-alvo."
+  },
+  "677650": {
+    "id": "677650",
+    "name": "Xadrez da Verdadeira Fortuna",
+    "desc": "Para cada 3 ponto(s) de Carga no \"Crupiê\", ganha 1 Golpe por Ação adicional. Quando um total de 10 aliados-alvo são atacados, \"Crupiê\" ganha 1 ponto de Carga."
+  },
+  "677680": {
+    "id": "677680",
+    "name": "Hacker de Éter",
+    "desc": "Aumenta o Dano CRIT dos aliados-alvo em 100%. Ao usar uma Perícia Suprema ou Perícia da Euforia para derrotar um inimigo-alvo, registra o Dano Sobressalente. O(s) próximo(s) 1 ataque(s) causará(ão) Dano Adicional igual a 300% do valor registrado a um alvo de ataque aleatório."
+  },
+  "677690": {
+    "id": "677690",
+    "name": "Fabulista das Estrelas",
+    "desc": "Quando \"Crupiê\" causa Dano, ignora o Tipo de Fraqueza e reduz a Tenacidade do inimigo-alvo em 30 pontos. Essa Redução de Tenacidade pode, no máximo, reduzir o inimigo a 1 ponto de Tenacidade. Quando um inimigo-alvo sofre Quebra de Fraqueza , para cada 10 pontos de Tenacidade máxima, ele recebe 3% a mais de Dano por 2 rodada(s)."
+  },
+  "677710": {
+    "id": "677710",
+    "name": "Sequestrador Empobrecido",
+    "desc": "O multiplicador de Dano Verdadeiro de \"Espírito de Borboleta\" aumenta em 60% do multiplicador original e a contagem de ataque aumenta em 4. Após o Memoespírito usar um ataque, ele pode ativar o Dano Verdadeiro de \"Espírito de Borboleta\" e consumir sua contagem de ataques."
+  },
+  "677720": {
+    "id": "677720",
+    "name": "Herói do Desalento",
+    "desc": "Sempre que um inimigo-alvo recebe 1 instância de Dano Contínuo, Carrega \"Crisálida Espiritual\" em 1%. Se estiver atualmente no estado de \"Espírito de Borboleta\", aumenta o Dano causado por todos os aliados em 2%. Acumula até 99 vez(es) e dura até sair do estado de \"Espírito de Borboleta\"."
+  },
+  "677780": {
+    "id": "677780",
+    "name": "Ferrão Imperial",
+    "desc": "Quando um aliado-alvo entra no estado de \"Espírito de Borboleta\", a Perícia Suprema usada também causa Dano Verdadeiro de \"Espírito de Borboleta\" e aumenta a contagem de ataque de \"Espírito de Borboleta\" em 4. Esse efeito é ativado até 1 vez para cada aliado."
+  },
+  "677810": {
+    "id": "677810",
+    "name": "Mago das Ruínas",
+    "desc": "Depois que um Memoespírito utiliza um ataque, concede 8% de Carga de \"Cérebro In Vitro\" para seu Memomestre. Após o Memomestre usar \"Cérebro In Vitro\" para usar sua Perícia Suprema, aumenta o Dano do Memoespírito em 240% por 4 rodada(s)."
+  },
+  "677820": {
+    "id": "677820",
+    "name": "Coletor do Imposto de QI",
+    "desc": "O ATQ dos aliados-alvo aumenta em 150%. Após utilizar ataques que causam Dano de Perícia Suprema, faz com que o \"Murmúrio\" no alvo atacado cause Dano igual a 100% do Dano original."
+  },
+  "677840": {
+    "id": "677840",
+    "name": "Super Atleta",
+    "desc": "Quando qualquer aliado-alvo aplica Quebra de Fraqueza a qualquer inimigo-alvo, concede 20% de Carga de \"Cérebro In Vitro\" e regenera Energia em um valor igual a 10% da Energia Máxima. Após derrotar qualquer inimigo-alvo, regenera Energia em um valor igual a 60% da Energia Máxima."
+  },
+  "677920": {
+    "id": "677920",
+    "name": "Canção da Gravidade",
+    "desc": "Quando os inimigos-alvo sofrem Dano de \"Harmonizar\", recebem adicionalmente 1 instância de Dano de \"Harmonizar\" igual a 75% do Dano original. Cada penalidade presente atualmente no alvo aumenta adicionalmente esse Dano em 2%, até um máximo de 40%."
+  },
+  "677940": {
+    "id": "677940",
+    "name": "Mestre dos Destinos",
+    "desc": "Após qualquer aliado-alvo atacar um inimigo-alvo afligido com Quebra de Fraqueza, converte a Redução de Tenacidade desse ataque em 1 instância de 75% de \"Super Dano de Quebra\". Para cada acúmulo de \"Bônus Crítico Reverso\" infligido em um inimigo-alvo, esse efeito causa adicionalmente 5% de \"Super Dano de Quebra\"."
+  },
+  "677980": {
+    "id": "677980",
+    "name": "Homem, Serpente, Anel Astral",
+    "desc": "Quando a rodada de um inimigo-alvo começa enquanto ele está afligido com Quebra de Fraqueza, ele recebe 1 instância adicional de Dano de \"Harmonizar\" igual a 200% de seu Dano original. Sempre que um aliado-alvo usa sua Perícia Suprema, aumenta o Dano de \"Harmonizar\" em 1% de seu Dano original."
+  },
+  "678150": {
+    "id": "678150",
+    "name": "Vencedor Relativo",
+    "desc": "Quando um aliado-alvo consome PV, obtém 5 acúmulo(s) de \"Obsessão\". Isso pode ser ativado até 1 vez(es) e pode ser ativado novamente após qualquer unidade agir."
+  },
+  "678170": {
+    "id": "678170",
+    "name": "Amigos Íntimos",
+    "desc": "Quando um Memoespírito desaparece, restaura 1 Ponto de Perícia para aliados-alvo. Para cada 1 Ponto de Perícia que a equipe ganha, aumenta o Dano causado por todos os aliados em 3%, até um aumento máximo de 120%."
+  },
+  "678180": {
+    "id": "678180",
+    "name": "Gourmeme",
+    "desc": "Enquanto os acúmulos de \"Obsessão\" dos aliados excederem 70, aumenta o Dano de Perícia Suprema em 75% e o Dano de Memoespírito em 75%."
+  },
+  "678190": {
+    "id": "678190",
+    "name": "Mestre do Compartilhamento",
+    "desc": "Enquanto os aliados-alvo possuírem \"Obsessão\", aumenta a PEN de RES a Todos os Tipos deles em 15%. Cada acúmulo de \"Obsessão\" aumenta o Efeito de Quebra de todos os aliados-alvo em 0.5%."
+  },
+  "678240": {
+    "id": "678240",
+    "name": "Labirinto do Massacre Eterno",
+    "desc": "Aumenta o Dano Contínuo recebido pelo inimigo-alvo em 20%. Após sofrer um Ataque Extra, ganha Carga de \"Murmúrio\" igual a 2% do limite de reinício."
+  },
+  "678250": {
+    "id": "678250",
+    "name": "Terra Fabulosa",
+    "desc": "Quando os inimigos-alvo entram em combate, eles são afligidos pelo efeito de \"Sangramento\". Enquanto estão afligidos com \"Sangramento\", eles recebem Dano Físico Contínuo em um valor igual a 10% dos seus PV máximos no início da sua rodada. Este Dano não pode exceder 200% do total de PV de todos os aliados-alvo."
+  },
+  "678260": {
+    "id": "678260",
+    "name": "Aventureiro Reverso",
+    "desc": "Após \"Crupiê\" usar um ataque, inflige \"Queimadura\" no alvo. No início de cada rodada, o alvo recebe Dano de Fogo Contínuo igual a 150% do Dano base de \"Crupiê\", durando por 3 rodada(s)."
+  },
+  "678280": {
+    "id": "678280",
+    "name": "Doutor do Delírio",
+    "desc": "Quando qualquer inimigo-alvo for derrotado, cada estado de Dano Contínuo que ele possui regenera 5.0 de Energia para todos os aliados."
+  },
+  "678410": {
+    "id": "678410",
+    "name": "Deus da Guerra Ancestral",
+    "desc": "Aumenta a Chance de CRIT dos aliados-alvo em 25%. Após um Memoespírito usar um ataque, aplica 3 acúmulo(s) de \"Bônus Crítico Reverso\" em um alvo de ataque aleatório."
+  },
+  "678420": {
+    "id": "678420",
+    "name": "Criador Careca",
+    "desc": "Para cada Carga de \"Murmúrio\" equivalente a 1% do limite de reinício, aumenta o Dano CRIT recebido pelos inimigos-alvo em 1.0%, até um máximo de 150%."
+  },
+  "678460": {
+    "id": "678460",
+    "name": "Caçador de Pragas",
+    "desc": "Aumenta o Dano causado por \"Bônus Crítico Reverso\" em 60%. Aumenta o Dano causado pelo ataque ativado ao usar a Perícia da Euforia em 60%."
+  },
+  "678480": {
+    "id": "678480",
+    "name": "Professor Amaldiçoado",
+    "desc": "Para cada inimigo-alvo derrotado, aumenta o Dano causado por todos os aliados-alvo na batalha atual em 30%. Aumenta adicionalmente o Dano da Perícia Suprema em 15%. Esse efeito pode acumular."
+  },
+  "678510": {
+    "id": "678510",
+    "name": "Demônio da Renúncia",
+    "desc": "Os PV máximos dos aliados-alvo aumentam em 40%. Ao entrar em combate ou invocar um Memoespírito, concede Carga de \"Blazar\" em um valor igual a 100% dos PV máximos de cada unidade. Então, quando a rodada termina, \"Blazar\" não é exaurido."
+  },
+  "678520": {
+    "id": "678520",
+    "name": "Matador de Dragão de Garagem",
+    "desc": "Aumenta a RES a Efeito dos aliados-alvo em 20% e o Dano causado de \"Blazar\" em 80%. Ao resistir a penalidades, causa Dano Adicional igual a 60% de \"Blazar\" ao alvo. Esse Dano não pode derrotar inimigos-alvo."
+  },
+  "678580": {
+    "id": "678580",
+    "name": "Garota Mágica Física",
+    "desc": "Quando os PV do personagem aliado caírem abaixo de 25% pela primeira vez em um único combate, ativa a Perícia Suprema e permite que o Dano da Perícia Suprema desta unidade e do Memoespírito neste combate ignore 20% da DEF do inimigo-alvo."
+  },
+  "678590": {
+    "id": "678590",
+    "name": "Estação de Rádio Aha",
+    "desc": "Aumenta o efeito de Escudo obtido em 30%. Após aplicar Quebra de Fraqueza a um inimigo, todos os aliados recebem um Escudo em um valor igual a 15% de seus PV máximos, com duração de 2 rodada(s)."
+  },
+  "678640": {
+    "id": "678640",
+    "name": "Espadachim Desapegado",
+    "desc": "Aumenta a Euforia dos aliados-alvo em 25%. Para cada inimigo-alvo derrotado, aumenta adicionalmente em 15%."
+  },
+  "678650": {
+    "id": "678650",
+    "name": "Estrelas Gêmeas Promovidas",
+    "desc": "Depois de cada ação de \"Crupiê\", a Eficiência de Carga de \"Blazar\" aumenta em 6%. Acumula até 10 vezes."
+  },
+  "678670": {
+    "id": "678670",
+    "name": "Coquetelista",
+    "desc": "Aumenta o Dano CRIT de aliados-alvo em 60%. Depois de cada ação de \"Crupiê\", aumenta adicionalmente o Dano CRIT de todos os aliados em 40% na próxima vez que usarem seu ATQ Básico ou Perícia."
+  },
+  "678690": {
+    "id": "678690",
+    "name": "Alma Despedaçada",
+    "desc": "Aumenta a Eficiência de Quebra de Fraqueza do Dano de Euforia dos aliados-alvo em 25%. Após infligir Quebra de Fraqueza em um inimigo-alvo, aumenta a VEL da unidade em 25%."
+  },
+  "678710": {
+    "id": "678710",
+    "name": "Competição de Sorteio de Habilidades",
+    "desc": "Após o Memoespírito atacar, \"Crisálida Espiritual\" Carrega em 15% com uma chance de 40% de recuperar 1 Ponto(s) de Perícia."
+  },
+  "678720": {
+    "id": "678720",
+    "name": "Carrinhos de Bate-bate Planetários",
+    "desc": "Aumenta o multiplicador de Dano Verdadeiro de \"Espírito de Borboleta\" em 35% do multiplicador original. Cada penalidade no inimigo-alvo aumenta isso adicionalmente em 1% do multiplicador original."
+  },
+  "678760": {
+    "id": "678760",
+    "name": "Cupcake Empático",
+    "desc": "Aumenta o Dano CRIT de aliados-alvo quando eles usam um ATQ Básico ou uma Perícia em 100%. Para cada 1 Ponto de Perícia consumido, ganha 1 pontos de \"Piada\"."
+  },
+  "678790": {
+    "id": "678790",
+    "name": "Formiga Giratória",
+    "desc": "O Dano do ATQ Básico e o Dano da Perícia dos aliados-alvo ignora 25% da DEF do inimigo-alvo. Esse efeito aumenta para 40% em inimigos-alvo no estado de Quebra de Fraqueza."
+  },
+  "678840": {
+    "id": "678840",
+    "name": "Robô Divino Caça-Sombras",
+    "desc": "Cada acúmulo de \"Bônus Crítico Reverso\" causa Dano adicional igual a 15% do ATQ ao ser ativado. Após usar uma Perícia Suprema para atacar, aplica 2 acúmulo(s) adicional(is) de \"Bônus Crítico Reverso\" a todos os alvos atingidos."
+  },
+  "678850": {
+    "id": "678850",
+    "name": "Padaria Cósmica",
+    "desc": "Aumenta o Dano de \"Blazar\" do aliado-alvo em 75%. Após usar a Perícia Suprema, ganha Carga de \"Blazar\" em um valor igual a 35% dos PV máximos."
+  },
+  "678860": {
+    "id": "678860",
+    "name": "Acadêmico Autocontemplativo",
+    "desc": "Aumenta o Dano CRIT do Dano da Perícia Suprema de aliados-alvo em 75%. Após \"Crupiê\" agir, Carrega \"Cérebro In Vitro\" em 5% para todos os personagens aliados."
+  },
+  "678870": {
+    "id": "678870",
+    "name": "Novato em Jogos de Cartas",
+    "desc": "Para cada 1 Ponto de Perícia consumido por um aliado-alvo, aumenta o Dano causado pela Perícia Suprema dele em 65%, até um máximo de 130%, e durando até após utilizar a Perícia Suprema."
+  },
+  "678910": {
+    "id": "678910",
+    "name": "Reconstrutor da Pátria",
+    "desc": "Cada acúmulo de \"Obsessão\" aumenta o Efeito de Quebra em 0.8%. O Efeito de Quebra do Memoespírito aumenta adicionalmente em 0.5%."
+  },
+  "678920": {
+    "id": "678920",
+    "name": "Encontro com um Médico Milagroso",
+    "desc": "Quando qualquer aliado-alvo usa um ataque para infligir uma penalidade nos inimigos-alvo, aplica 1 acúmulo(s) de \"Harmonizar\" aos inimigos-alvo. Se os alvos estiverem afligidos com Quebra de Fraqueza, os acúmulos aplicados são dobrados."
+  },
+  "678940": {
+    "id": "678940",
+    "name": "Cavaleiros de Arcádia",
+    "desc": "Aumenta o multiplicador de Dano de \"Harmonizar\" em 50%. Após os aliados-alvo realizarem um Ataque Extra, aplica 1 acúmulo(s) de \"Harmonizar\" aos alvos."
+  },
+  "678970": {
+    "id": "678970",
+    "name": "Força de Aniquilação de Partículas",
+    "desc": "Quando um aliado-alvo usa seu ATQ Básico ou Perícia, ignora 20% da RES a Todos os Tipos do inimigo-alvo. Após atacar com um ATQ Básico ou Perícia, reduz a Tenacidade do inimigo-alvo em 15 pontos, independentemente do Tipo de Fraqueza."
   }
 }

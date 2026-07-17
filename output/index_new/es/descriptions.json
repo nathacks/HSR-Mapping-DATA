@@ -259,11 +259,6 @@
     "title": "Alianza Xianzhou",
     "desc": "Antigua alianza formada por muchas razas inteligentes.\nDirigen las naves de Xianzhou para erradicar las abominaciones de la Abundancia."
   },
-  "10053": {
-    "id": "10053",
-    "title": "Cazadores de Estelaron",
-    "desc": "Organización que viaja por los mundos en busca de Estelaron.\nNo se sabe qué Eón les proporcionó su poder."
-  },
   "10054": {
     "id": "10054",
     "title": "Moradores de la Abundancia",
@@ -1584,6 +1579,51 @@
     "title": "Ryusuke",
     "desc": "Actual director de la Escuela Grafía.\nTambién es el patriarca de la familia Grafía y afirma ser el padre de Himeko."
   },
+  "10421": {
+    "id": "10421",
+    "title": "Espacio del fragmento del cuadro",
+    "desc": "Fragmentos espaciales que se desprendieron del mundo del cuadro cuando Planarcadia regresó a la realidad.\nEs la zona fronteriza entre la realidad y el cuadro, donde unas vías de tren abandonadas conducen a un abismo insondable."
+  },
+  "10422": {
+    "id": "10422",
+    "title": "Sociedad de Investigación Sonrisa Feliz",
+    "desc": "Una organización benéfica de gran envergadura que surgió de la Asociación de Apoyo Mutuo para víctimas del incidente del Anunciamuertes.\nMediante métodos de sanación como la cirugía de la felicidad, se dedica a devolver la felicidad y las sonrisas a Planarcadia."
+  },
+  "10423": {
+    "id": "10423",
+    "title": "Buendeseo",
+    "desc": "Presidenta de la Sociedad de Investigación Sonrisa Feliz y directora del canal de televisión Buendeseo. Huérfana sobreviviente de los Juegos de Sangre.\nAhora es una conocida filántropa y magnate de los medios de comunicación, y ha hecho de encauzar el camino de la Exultación su misión personal."
+  },
+  "10424": {
+    "id": "10424",
+    "title": "Festival Star Rail",
+    "desc": "Convención temática del Expreso Astral, un escenario preparado por Perla para los Anónimos.\nLa asistencia de los Anónimos causó un gran revuelo, y atrajo las miradas y la Imagiesencia de toda Planarcadia."
+  },
+  "10425": {
+    "id": "10425",
+    "title": "Consorcio Perlux",
+    "desc": "Grupo de entretenimiento interestelar a nombre de Perla. Sus principales actividades abarcan la producción y venta de mecatrones.\nLa Torre Perlux, su imponente sede, es un santuario anhelado por incontables buscadores de empleo."
+  },
+  "10426": {
+    "id": "10426",
+    "title": "Buendeseo",
+    "desc": "Presidenta de la Sociedad de Investigación Sonrisa Feliz y directora del canal de televisión Buendeseo. Huérfana sobreviviente de los Juegos de Sangre.\nPara consumar su venganza contra la Exultación de Planarcadia, se transformó en su propio enemigo y, como Anunciamuertes, juzgó a la arcadia."
+  },
+  "10427": {
+    "id": "10427",
+    "title": "Sociedad de Investigación Sonrisa Feliz",
+    "desc": "Una organización benéfica de gran envergadura que surgió de la Asociación de Apoyo Mutuo para víctimas del incidente del Anunciamuertes.\nMediante métodos como la cirugía de la felicidad, transforma a los ciudadanos en bestias que solo conocen el sabor de la felicidad."
+  },
+  "10428": {
+    "id": "10428",
+    "title": "Anunciamuertes",
+    "desc": "El principal culpable de los Juegos de Sangre, un monstruo que se deleita con la masacre.\nAhora Buendeseo lo utiliza como símbolo del miedo para agitar la opinión pública de Planarcadia."
+  },
+  "10429": {
+    "id": "10429",
+    "title": "Cazadores de Estelaron",
+    "desc": "Una organización que viaja entre los mundos en busca de Estelaron.\nPor cierto propósito, avanzan a contracorriente en la Vía de la Conclusión."
+  },
   "20000": {
     "id": "20000",
     "title": "Volviendo a la perspectiva {F#de la}{M#del} Trazacaminos...",
@@ -1933,5 +1973,30 @@
     "id": "20098",
     "title": "Cambiando a la perspectiva de Silver Wolf...",
     "desc": "Tingyun logró robar la máscara. Poco después, una pobre alma que había perdido su máscara llegó al distrito Palomaguas..."
+  },
+  "20099": {
+    "id": "20099",
+    "title": "Cambiando a la perspectiva de Ashveil...",
+    "desc": "Siguiendo el rastro del criminal, Ashveil se detuvo junto al puente y recordó brevemente el pasado..."
+  },
+  "20102": {
+    "id": "20102",
+    "title": "Cambiando a la perspectiva de Evanescia...",
+    "desc": "Por otro lado, mientras {NICKNAME} investigaba en la escuela, Evanescia y Yao Guang también llegaron a Manamar..."
+  },
+  "20103": {
+    "id": "20103",
+    "title": "Cambiando a la perspectiva de Chispa...",
+    "desc": "Por otro lado, Chispa está charlando animadamente con alguien en la taberna..."
+  },
+  "20104": {
+    "id": "20104",
+    "title": "Cambiando a la perspectiva de Evanescia...",
+    "desc": "Evanescia saca su espada regla y se prepara para cumplir su misión..."
+  },
+  "20105": {
+    "id": "20105",
+    "title": "Cambiando a la perspectiva de Silver Wolf...",
+    "desc": "Mientras tanto, en el estudio de Perla, Silver Wolf también se prepara para pasar a la acción..."
   }
 }

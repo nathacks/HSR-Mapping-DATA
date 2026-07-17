@@ -4554,6 +4554,70 @@
       ]
     ]
   },
+  "22007": {
+    "id": "22007",
+    "skill": "Adelphes",
+    "desc": "Augmente les DGT critiques du porteur de #1[i]%. Après l'ultime du porteur, augmente l'Allégresse de tous les alliés de #2[i]% pour une durée de #3[i] tour.",
+    "params": [
+      [
+        0.12,
+        0.08,
+        1
+      ],
+      [
+        0.15,
+        0.09,
+        1
+      ],
+      [
+        0.18,
+        0.1,
+        1
+      ],
+      [
+        0.21,
+        0.11,
+        1
+      ],
+      [
+        0.24,
+        0.12,
+        1
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.12
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.15
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.24
+        }
+      ]
+    ]
+  },
   "23000": {
     "id": "23000",
     "skill": "Essaim de météores",
@@ -8484,6 +8548,233 @@
       ]
     ]
   },
+  "23056": {
+    "id": "23056",
+    "skill": "Absorption",
+    "desc": "Augmente les chances de coup critique du porteur de #1[i]%. Au début du combat ou chaque fois que le porteur lance #2[i] ATQ de suivi, lui applique Ténèbres voraces pour une durée de #3[i] tours. Lorsque le porteur bénéficie de Ténèbres voraces, augmente son ATQ de #4[i]% et augmente les DGT subis par tous les ennemis de #5[i]%. Les effets du même type ne peuvent pas être cumulés.",
+    "params": [
+      [
+        0.18,
+        4,
+        3,
+        0.4,
+        0.2
+      ],
+      [
+        0.21,
+        4,
+        3,
+        0.5,
+        0.225
+      ],
+      [
+        0.24,
+        4,
+        3,
+        0.6,
+        0.25
+      ],
+      [
+        0.27,
+        4,
+        3,
+        0.7,
+        0.275
+      ],
+      [
+        0.3,
+        4,
+        3,
+        0.8,
+        0.3
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.24
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.27
+        }
+      ],
+      [
+        {
+          "type": "CriticalChanceBase",
+          "value": 0.3
+        }
+      ]
+    ]
+  },
+  "23057": {
+    "id": "23057",
+    "skill": "Victoire assurée",
+    "desc": "Augmente la VIT du porteur de #1[i]%. Les comidégâts infligés ignorent #2[i]% de la DÉF de la cible. Lorsque le porteur utilise son ultime sur lui-même, il gagne #3[i] points de Panache. Cet effet peut être déclenché jusqu'à 1 fois et le nombre de déclenchements se réinitialise après avoir utilisé l'ATQ normale #4[i] fois.",
+    "params": [
+      [
+        0.18,
+        0.2,
+        20,
+        3
+      ],
+      [
+        0.21,
+        0.24,
+        25,
+        3
+      ],
+      [
+        0.24,
+        0.28,
+        30,
+        3
+      ],
+      [
+        0.27,
+        0.32,
+        35,
+        3
+      ],
+      [
+        0.3,
+        0.36,
+        40,
+        3
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.18
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.21
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.24
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.27
+        }
+      ],
+      [
+        {
+          "type": "SpeedAddedRatio",
+          "value": 0.3
+        }
+      ]
+    ]
+  },
+  "23058": {
+    "id": "23058",
+    "skill": "Rêverie",
+    "desc": "Augmente les DGT critiques du porteur de #1[i]% et son taux de régénération d'énergie de #4[f1]%. Lorsque l'énergie max du porteur est supérieure à #5[i], pour chaque tranche de 10 points d'énergie max en excédent, augmente le taux de régénération d'énergie de #6[f1]% supplémentaire, jusqu'à un maximum de #7[i] points d'énergie max en excédent comptabilisés. Lorsque le porteur utilise une comicompétence, augmente les DGT subis par tous les ennemis de #2[f1]% pendant #3[i] tours. Les effets du même type ne peuvent pas se cumuler.",
+    "params": [
+      [
+        0.6,
+        0.15,
+        2,
+        0.1,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        0.75,
+        0.1875,
+        2,
+        0.115,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        0.9,
+        0.225,
+        2,
+        0.13,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        1.05,
+        0.2625,
+        2,
+        0.145,
+        120,
+        0.0029999998,
+        360
+      ],
+      [
+        1.2,
+        0.3,
+        2,
+        0.16,
+        120,
+        0.0029999998,
+        360
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.6
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.75
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 0.9
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 1.05
+        }
+      ],
+      [
+        {
+          "type": "CriticalDamageBase",
+          "value": 1.2
+        }
+      ]
+    ]
+  },
   "24000": {
     "id": "24000",
     "skill": "Comme un aimant",
@@ -8879,6 +9170,70 @@
         {
           "type": "SpeedAddedRatio",
           "value": 0.12
+        }
+      ]
+    ]
+  },
+  "24006": {
+    "id": "24006",
+    "skill": "Ouverture",
+    "desc": "Augmente l'ATQ du porteur de #1[i]%. Après que le porteur a utilisé sa compétence ou son ultime sur un personnage allié, augmente l'Allégresse de la cible de #2[i]% pour une durée de #3[i] tours.",
+    "params": [
+      [
+        0.2,
+        0.12,
+        2
+      ],
+      [
+        0.25,
+        0.15,
+        2
+      ],
+      [
+        0.3,
+        0.18,
+        2
+      ],
+      [
+        0.35,
+        0.21,
+        2
+      ],
+      [
+        0.4,
+        0.24,
+        2
+      ]
+    ],
+    "properties": [
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.2
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.25
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.3
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.35
+        }
+      ],
+      [
+        {
+          "type": "AttackAddedRatio",
+          "value": 0.4
         }
       ]
     ]

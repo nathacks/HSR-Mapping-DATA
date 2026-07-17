@@ -259,11 +259,6 @@
     "title": "Liên Minh Xianzhou",
     "desc": "Đồng minh cổ xưa do rất nhiều chủng tộc có trí tuệ tạo thành.\nBước lên Xianzhou tiêu diệt đám Tà Vật Trù Phú khắp vũ trụ."
   },
-  "10053": {
-    "id": "10053",
-    "title": "Thợ Săn Stellaron",
-    "desc": "Tổ chức đi qua các thế giới để săn Stellaron.\nAeon ban năng lực cho họ là ai vẫn chưa rõ."
-  },
   "10054": {
     "id": "10054",
     "title": "Dân Trù Phú",
@@ -1507,7 +1502,7 @@
   "10405": {
     "id": "10405",
     "title": "Kỷ Nguyên Tro Tàn",
-    "desc": "Hổ Phách Kỷ 2148, quân tiên phong của \"Hủy Diệt\" tấn công Ahatopia, mở màn cho Kỷ Nguyên Tro Tàn.\nDưới sự lãnh đạo của họa sư \"Graphia\", những Huyễn Tạo Chủng đầu tiên đã kề vai sát cánh cùng con người, cùng nhau chống lại lũ ác quỷ đến từ phía bên ngoài."
+    "desc": "Hổ Phách Kỷ 2148, quân tiên phong của \"Hủy Diệt\" tấn công Ahatopia, mở màn cho Kỷ Nguyên Tro Tàn.\nDưới sự lãnh đạo của họa sư \"Graphia\", những Huyễn Tạo Chủng đầu tiên đã kề vai sát cánh cùng con người, cùng nhau chống lại lũ Thiên Ma đến từ phía bên ngoài."
   },
   "10406": {
     "id": "10406",
@@ -1583,6 +1578,51 @@
     "id": "10420",
     "title": "Ryusuke",
     "desc": "Hiệu trưởng hiện tại của Học Viện Graphia.\nĐồng thời cũng là gia chủ hiện tại của Gia Tộc Graphia, tự xưng là cha của Himeko."
+  },
+  "10421": {
+    "id": "10421",
+    "title": "Không Gian \"Tàn Quyển\"",
+    "desc": "Mảnh vỡ không gian bị bóc tách từ \"Thế Giới Trong Tranh\" khi \"Planarcadia\" trở về hiện thực.\nVùng ranh giới giữa hiện thực và bức tranh, đường ray bỏ hoang dẫn đến vực thẳm khó lòng nhìn thấu."
+  },
+  "10422": {
+    "id": "10422",
+    "title": "Hội Nghiên Cứu Nụ Cười Hạnh Phúc",
+    "desc": "Một tổ chức từ thiện quy mô lớn, tiền thân là Hội Tương Trợ Nạn Nhân Sự Kiện Ma Báo Tử.\nThông qua các biện pháp chữa lành như \"Phẫu Thuật Hạnh Phúc\", nỗ lực giúp \"Planarcadia\" tìm lại hạnh phúc và nụ cười."
+  },
+  "10423": {
+    "id": "10423",
+    "title": "Fulwish",
+    "desc": "Hội Trưởng \"Hội Nghiên Cứu Nụ Cười Hạnh Phúc\" kiêm Giám Đốc \"Đài Truyền Hình Fulwish\". Đứa con mồ côi từ Trò Chơi Đẫm Máu.\nHiện là nhà từ thiện và trùm truyền thông nổi tiếng, coi việc dẫn dắt con đường Vui Vẻ đúng đắn là trách nhiệm của mình."
+  },
+  "10424": {
+    "id": "10424",
+    "title": "Star Rail FES",
+    "desc": "Triển lãm lấy chủ đề \"Đội Tàu Astral\", sân khấu do Pearl dựng lên cho Khách Vô Danh.\nDo Khách Vô Danh tham dự đã dấy lên trào lưu, thu hút sự chú ý của ngàn vạn Nguyện Lực tại \"Planarcadia\"."
+  },
+  "10425": {
+    "id": "10425",
+    "title": "Tập Đoàn Pearluxe",
+    "desc": "Tập đoàn giải trí liên hành tinh dưới danh nghĩa của Pearl. Ngành nghề kinh doanh chính bao gồm sản xuất và buôn bán \"Giáp Máy\".\n\"Tòa Tháp Pearluxe\" sừng sững là trụ sở chính, cũng là nơi mà vô số người tìm việc khao khát đặt chân đến."
+  },
+  "10426": {
+    "id": "10426",
+    "title": "Fulwish",
+    "desc": "Hội Trưởng \"Hội Nghiên Cứu Nụ Cười Hạnh Phúc\" kiêm Giám Đốc \"Đài Truyền Hình Fulwish\". Đứa con mồ côi trong Trò Chơi Đẫm Máu.\nĐể trả thù \"Vui Vẻ\" của Planarcadia, hóa thân thành kẻ thù của chính mình, dùng dáng vẻ Ma Báo Tử mang đến phán quyết cho thiên đường vui vẻ."
+  },
+  "10427": {
+    "id": "10427",
+    "title": "Hội Nghiên Cứu Nụ Cười Hạnh Phúc",
+    "desc": "Một tổ chức từ thiện quy mô lớn, tiền thân là Tổ Chức Hỗ Trợ Nạn Nhân Sự Kiện Ma Báo Tử.\nThông qua các phương pháp như \"Phẫu Thuật Hạnh Phúc\", biến người dân thành ác thú chỉ biết đến hương vị của hạnh phúc."
+  },
+  "10428": {
+    "id": "10428",
+    "title": "Ma Báo Tử",
+    "desc": "Kẻ đầu sỏ của Trò Chơi Đẫm Máu, con quái vật lấy việc giết chóc làm niềm vui.\nNay lại bị Fulwish lợi dụng, với tư cách là biểu tượng của \"nỗi sợ\", nó khuấy động làn sóng tư tưởng của Planarcadia."
+  },
+  "10429": {
+    "id": "10429",
+    "title": "Thợ Săn Stellaron",
+    "desc": "Tổ chức đi qua các thế giới để săn Stellaron.\nVì một mục đích nào đó, họ đã đi ngược dòng trong Vận Mệnh \"Tuyệt Diệt\"."
   },
   "20000": {
     "id": "20000",
@@ -1933,5 +1973,30 @@
     "id": "20098",
     "title": "Đang chuyển sang góc nhìn của Sói Bạc...",
     "desc": "Tingyun đã thuận lợi cướp mất chiếc mặt nạ. Không lâu sau đó, một người số khổ mất mặt nạ cũng đến Quận Dovebrook..."
+  },
+  "20099": {
+    "id": "20099",
+    "title": "Đang chuyển sang góc nhìn của Ashveil...",
+    "desc": "Lần theo dấu vết của tội phạm, Ashveil đứng bên cầu, thoáng hồi tưởng về quá khứ..."
+  },
+  "20102": {
+    "id": "20102",
+    "title": "Đang chuyển sang góc nhìn của \"Evanescia\"...",
+    "desc": "Hoa nở hai đóa, mỗi đóa một cành, trong lúc {NICKNAME} đang điều tra ở trường học, Evanescia và Yao Guang cũng đã đến Thành Phố Seafeld..."
+  },
+  "20103": {
+    "id": "20103",
+    "title": "Đang chuyển sang góc nhìn của \"Sparxie\"...",
+    "desc": "Phía bên kia, Sparxie đang cười nói rôm rả với những người trong \"Quán Rượu\"..."
+  },
+  "20104": {
+    "id": "20104",
+    "title": "Đang chuyển sang góc nhìn của \"Evanescia\"...",
+    "desc": "Evanescia rút thước đao ra, chuẩn bị thực thi sứ mệnh của mình..."
+  },
+  "20105": {
+    "id": "20105",
+    "title": "Đang chuyển sang góc nhìn của \"Sói Bạc\"...",
+    "desc": "Lúc này, tại Phòng Tranh Của Pearl, Sói Bạc cũng chuẩn bị bắt đầu hành động..."
   }
 }

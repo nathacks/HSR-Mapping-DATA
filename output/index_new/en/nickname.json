@@ -228,6 +228,15 @@
     "1502": [
       "Yao Guang"
     ],
+    "1504": [
+      "Ashveil"
+    ],
+    "1505": [
+      "Evanescia"
+    ],
+    "1506": [
+      "Silver Wolf LV.999"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -250,6 +259,12 @@
       "{NICKNAME}"
     ],
     "8008": [
+      "{NICKNAME}"
+    ],
+    "8009": [
+      "{NICKNAME}"
+    ],
+    "8010": [
       "{NICKNAME}"
     ],
     "1014": [
@@ -727,6 +742,21 @@
     ],
     "23054": [
       "When She Decided to See"
+    ],
+    "23056": [
+      "The Finale of a Lie"
+    ],
+    "24006": [
+      "Elation Brimming With Blessings"
+    ],
+    "23058": [
+      "Until the Flowers Bloom Again"
+    ],
+    "23057": [
+      "Welcome to the Cosmic City"
+    ],
+    "22007": [
+      "Tomorrow, Together"
     ]
   },
   "relic_sets": {
@@ -891,6 +921,12 @@
     ],
     "324": [
       "Tengoku@Livestream"
+    ],
+    "325": [
+      "Punklorde Stage Zero"
+    ],
+    "326": [
+      "City of Converging Stars"
     ]
   }
 }

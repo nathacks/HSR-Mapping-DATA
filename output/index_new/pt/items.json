@@ -22,6 +22,7 @@
       "Cálice: Comissão de Artesanato",
       "Cálice: Devaneio (Mundonírico)",
       "Cálice: \"Floresta dos Murmúrios\" do Bosque da Epifania",
+      "Cálice: {TextID#FloorName_20503001}",
       "Recompensas de Missão",
       "Recompensas de Atribuição",
       "Troca de Brasas"
@@ -279,6 +280,7 @@
       "Cálice: Vau-nuvem",
       "Cálice: Margem do Sonho",
       "Cálice: \"Santuário da Profecia\" de Janusópolis",
+      "Cálice: {TextID#FloorName_20501001}",
       "Recompensas de Atribuição"
     ]
   },
@@ -295,6 +297,7 @@
       "Cálice: Vau-nuvem",
       "Cálice: Margem do Sonho",
       "Cálice: \"Santuário da Profecia\" de Janusópolis",
+      "Cálice: {TextID#FloorName_20501001}",
       "Treinamento Diário",
       "Troca de Brasas"
     ]
@@ -312,6 +315,7 @@
       "Cálice: Vau-nuvem",
       "Cálice: Margem do Sonho",
       "Cálice: \"Santuário da Profecia\" de Janusópolis",
+      "Cálice: {TextID#FloorName_20501001}",
       "Salão Esquecido"
     ]
   },
@@ -328,6 +332,7 @@
       "Cálice: Comissão de Divinação",
       "Cálice: Sonho de Uma Criança",
       "Cálice: \"Ruínas do Conflito\" de Castrum Kremnos",
+      "Cálice: {TextID#FloorName_20503001}",
       "Recompensas de Atribuição"
     ]
   },
@@ -344,6 +349,7 @@
       "Cálice: Comissão de Divinação",
       "Cálice: Sonho de Uma Criança",
       "Cálice: \"Ruínas do Conflito\" de Castrum Kremnos",
+      "Cálice: {TextID#FloorName_20503001}",
       "Troca de Brasas"
     ]
   },
@@ -360,6 +366,7 @@
       "Cálice: Comissão de Divinação",
       "Cálice: Sonho de Uma Criança",
       "Cálice: \"Ruínas do Conflito\" de Castrum Kremnos",
+      "Cálice: {TextID#FloorName_20503001}",
       "Salão Esquecido"
     ]
   },
@@ -576,7 +583,6 @@
     "desc": "Use para trocar por um personagem de 5 estrelas na loja Convergência Estelar.",
     "come_from": [
       "Companheiros Estelares",
-      "Companheiros Estelares (já resgatados para este período)",
       "Resgatável após obter um duplicado de um personagem de 5 estrelas com o máximo de Eidolons duas vezes",
       "Resgatável após obter um duplicado de um personagem de 5 estrelas com o máximo de Eidolons duas vezes"
     ]
@@ -612,11 +618,8 @@
     "sub_type": "Material",
     "rarity": 5,
     "icon": "icon/item/291.png",
-    "desc": "Em Planarcadia, onde desejos podem se tornar Força, seu desejo de \"erguer a luz e se tornar um herói\" respondeu ao seu chamado, tomando forma Física para Inspirar sua jornada adiante. Aceite por enquanto, cedo ou tarde, ele se tornará sua ajuda Uma-Em-Um-Milhão.\n\n\"De acordo com estatísticas altamente não confiáveis, todo mundo em Planarcadia já sonhou em se transformar em um super-herói em algum momento.\"",
-    "come_from": [
-      "Recompensa de Nível de Bem-estar de \"Pelônline\"",
-      "Recompensas de Missão de Desbravamento"
-    ]
+    "desc": "Em Planarcadia, onde desejos podem se tornar Força, seu desejo de \"erguer a luz e se tornar um herói\" respondeu ao seu chamado, tomando forma física para inspirar sua jornada adiante. Aceite por enquanto, cedo ou tarde, ele se tornará sua ajuda \"uma em um milhão\".\n\n\"De acordo com estatísticas altamente não confiáveis, todo mundo em Planarcadia já sonhou em se transformar em um super-herói em algum momento.\"",
+    "come_from": []
   },
   "503": {
     "id": "503",
@@ -669,6 +672,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "Uma bênção dada aos que embarcaram na Jornada de Perseguição às Chamas.\n\nQue você dance com as divindades, reacendendo os gigantes caídos com o fogo dos heróis.\nQue você supere o destino, iluminando o mundo e todos os seres vivos com a luz do alvorecer.\nSua jornada aqui será gravada pela eternidade, ressoando nos cânticos antigos das lendas.",
+    "come_from": []
+  },
+  "804": {
+    "id": "804",
+    "name": "Bênção da Música Fantasmagórica",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/804.png",
+    "desc": "Uma Bênção para {F#a Protagonista}{M#o Protagonista}\n\nQue {F#você}{M#você} derrube a injustiça, sem temer estilhaçar Máscaras falsas com seu verdadeiro eu.\nQue {F#você}{M#você} carregue as esperanças de todos, erga a vela de desbravamento sob mil estrelas.\nSeus Rastros nesse reino ecoarão pelo cosmos como a alegria da Arcádia.",
     "come_from": []
   },
   "821": {
@@ -3217,6 +3230,92 @@
       "Sintetizador Omni — Síntese de Relíquia"
     ]
   },
+  "83251": {
+    "id": "83251",
+    "name": "Estágio Zero de Punklorde",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83252": {
+    "id": "83252",
+    "name": "Estágio Zero de Punklorde",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83253": {
+    "id": "83253",
+    "name": "Estágio Zero de Punklorde",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83254": {
+    "id": "83254",
+    "name": "Estágio Zero de Punklorde",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": [
+      "Universo Divergente: Extração de Ornamentos Planos",
+      "\"Sintetizador Omni\" — Síntese de Relíquia"
+    ]
+  },
+  "83261": {
+    "id": "83261",
+    "name": "Cidade da Convergência Estelar",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83262": {
+    "id": "83262",
+    "name": "Cidade da Convergência Estelar",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83263": {
+    "id": "83263",
+    "name": "Cidade da Convergência Estelar",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83264": {
+    "id": "83264",
+    "name": "Cidade da Convergência Estelar",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": [
+      "Universo Divergente: Extração de Ornamentos Planos",
+      "\"Sintetizador Omni\" — Síntese de Relíquia"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "Ornamentos Planos",
@@ -3933,7 +4032,6 @@
     "icon": "icon/item/110261.png",
     "desc": "\"Fofurinha Através do Azul\" em seu estágio de storyboard. Aumenta levemente os Rastros de personagens da Euforia.",
     "come_from": [
-      "Sintetizador - Troca Equivalente",
       "Cálice: {TextID#FloorName_20502001}",
       "Troca de Brasas",
       "Sintetizador Omni — Troca de Material"
@@ -3948,7 +4046,6 @@
     "icon": "icon/item/110262.png",
     "desc": "\"Fofurinha Através do Azul\" atualmente em lançamento de revista. Aumenta moderadamente os Rastros de personagens da Euforia.",
     "come_from": [
-      "Sintetizador - Troca Equivalente",
       "Cálice: {TextID#FloorName_20502001}",
       "Sintetizador Omni — Síntese de Material",
       "Troca de Brasas",
@@ -3962,9 +4059,8 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110263.png",
-    "desc": "\"Fofurinha Através do Azul\", agora em volumes autônomos publicados. Aumenta muito os Rastros de personagens da Euforia.",
+    "desc": "\"Fofurinha Através do Azul\", agora em volumes individuais publicados. Aumenta muito os Rastros de personagens da Euforia.",
     "come_from": [
-      "Sintetizador - Troca Equivalente",
       "Cálice: {TextID#FloorName_20502001}",
       "Sintetizador Omni — Síntese de Material",
       "Sintetizador Omni — Troca de Material"
@@ -3977,7 +4073,7 @@
     "sub_type": "TracePath",
     "rarity": 2,
     "icon": "icon/item/110271.png",
-    "desc": "Pé de cristal carmesim que os artesãos de Castrum Kremnos usam para revestir suas armas. Aumenta levemente os Rastros de personagens da Caça.",
+    "desc": "Pó de cristal carmesim que os artesãos de Castrum Kremnos usam para revestir suas armas. Aumenta levemente os Rastros de personagens da Caça.",
     "come_from": [
       "Cálice: {TextID#FloorName_20481001}",
       "Troca de Brasas",
@@ -4006,9 +4102,52 @@
     "sub_type": "TracePath",
     "rarity": 4,
     "icon": "icon/item/110273.png",
-    "desc": "Uma lança carmesim forjada a partir das vidas e da dignidade dos artesãos de Castrum Kremnos. Aumenta muito os Rastros de personagens Caça.",
+    "desc": "Uma lança carmesim forjada a partir das vidas e da dignidade dos artesãos de Castrum Kremnos. Aumenta muito os Rastros de personagens da Caça.",
     "come_from": [
       "Cálice: {TextID#FloorName_20481001}",
+      "Sintetizador Omni — Síntese de Material",
+      "Sintetizador Omni — Troca de Material"
+    ]
+  },
+  "110311": {
+    "id": "110311",
+    "name": "Lágrima de Phagousa",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 2,
+    "icon": "icon/item/110311.png",
+    "desc": "Uma gota de água cristalina. Use para aumentar levemente o nível dos Rastros de personagens da Inexistência.",
+    "come_from": [
+      "Cálice \"{TextID#FloorName_20461001}\"",
+      "Troca de Brasas",
+      "Sintetizador Omni — Troca de Material"
+    ]
+  },
+  "110312": {
+    "id": "110312",
+    "name": "Vinho de Phagousa",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 3,
+    "icon": "icon/item/110312.png",
+    "desc": "Ondas transbordando da xícara. Usado para conceder um aumento de nível moderado aos Rastros de personagens da Inexistência.",
+    "come_from": [
+      "Cálice \"{TextID#FloorName_20461001}\"",
+      "Sintetizador Omni — Síntese de Material",
+      "Troca de Brasas",
+      "Sintetizador Omni — Troca de Material"
+    ]
+  },
+  "110313": {
+    "id": "110313",
+    "name": "Coração de Phagousa",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 4,
+    "icon": "icon/item/110313.png",
+    "desc": "Um cristal feito de incontáveis ondas do oceano. Use para aumentar significativamente o nível dos Rastros de personagens da Inexistência.",
+    "come_from": [
+      "Cálice \"{TextID#FloorName_20461001}\"",
       "Sintetizador Omni — Síntese de Material",
       "Sintetizador Omni — Troca de Material"
     ]
@@ -4345,7 +4484,7 @@
     "sub_type": "AvatarRank",
     "rarity": 4,
     "icon": "icon/item/110434.png",
-    "desc": "Um instrumento favorito dos Rebeldes Rockeiros. Um material de ascensão para personagens de Raio.",
+    "desc": "Um instrumento favorito dos Malucos Beleza. Um material de ascensão para personagens de Raio.",
     "come_from": [
       "Sombra Estagnada: {TextID#FloorName_20503001}",
       "Sintetizador Omni — Troca de Material"
@@ -5030,7 +5169,7 @@
     "sub_type": "CommonMonsterDrop",
     "rarity": 3,
     "icon": "icon/item/116002.png",
-    "desc": "Um fragmento de Imaginouro de uma criatura imaginada. Um material normal usado para Aprimoramento.",
+    "desc": "Um fragmento de Imaginouro de uma criatura imagenada. Um material normal usado para Aprimoramento.",
     "come_from": [
       "Obtido de criaturas Imagenae no Nível de Equilíbrio 2",
       "Sintetizador Omni — Síntese de Material",
@@ -5041,12 +5180,12 @@
   },
   "116003": {
     "id": "116003",
-    "name": "Punção Lúcida",
+    "name": "Pincel Lúcido",
     "type": "Material",
     "sub_type": "CommonMonsterDrop",
     "rarity": 4,
     "icon": "icon/item/116003.png",
-    "desc": "Um fragmento de Imaginouro de uma criatura imaginada. Um Material Avançado usado para Aprimoramento.",
+    "desc": "Um fragmento de Imaginouro de uma criatura imagenada. Um Material Avançado usado para Aprimoramento.",
     "come_from": [
       "Obtido de criaturas Imagenae no Nível de Equilíbrio 4",
       "Sintetizador Omni — Síntese de Material",
@@ -5220,6 +5359,16 @@
     "desc": "Uma flor cristalina, frágil e defeituosa da Recordação. Pode ser usada para sobrepor o Cone de Luz \"Rumo ao Amanhã Cor-de-Rosa\".",
     "come_from": []
   },
+  "121007": {
+    "id": "121007",
+    "name": "Cartucho Comemorativo",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121007.png",
+    "desc": "Um cartucho de jogo com o avatar do Guaxinim do Beisebol, a prova de um Streamer popular. Pode ser usado para Sobrepor o Cone de Luz: \"Juntos no Futuro\".",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "Fichas Aideen",
@@ -5254,6 +5403,18 @@
     "icon": "icon/item/123001.png",
     "desc": "",
     "come_from": []
+  },
+  "123002": {
+    "id": "123002",
+    "name": "Cartão de Acesso",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "Pode-se utilizar para abrir Baús de Relíquia na coleção misteriosa da Estação Espacial Herta.",
+    "come_from": [
+      "Obtido no evento Exploração de Relíquias"
+    ]
   },
   "140000": {
     "id": "140000",
@@ -10486,7 +10647,37 @@
     "sub_type": "Mission",
     "rarity": 3,
     "icon": "icon/item/140608.png",
-    "desc": "Era o Ano Novo do antigo calendário. Naquele ano, os tempos eram difíceis. As raposas não podiam se dar ao luxo de realizar seus banquetes, os sapos não ousavam cantar, os macacos pararam de discutir sobre voar, e os coelhos brancos não passavam por ali há séculos.\n\nMas então ele chegou.\n\nUm coelho negro.\n\nDiferente daqueles coelhos que nada se importavam com a lua, este liderava seus companheiros e dava uma mão amiga para os pequenos animais daqui.\n\n...Ah, devo dizer, dava a eles uma pata.",
+    "desc": "Era o Ano Novo do antigo calendário. Naquele ano, os tempos eram difíceis. As raposas não podiam se dar ao luxo de realizar seus banquetes, os sapos não ousavam cantar, os macacos pararam de discutir sobre voar, e os coelhos brancos não passavam por ali há séculos.\n\nMas então ele chegou.\n\nUm coelho negro.\n\nDiferente daqueles coelhos que nada se importavam com a lua, este liderava seus companheiros e dava uma mão amiga para os pequenos animais daqui.\n\n...Ah, devo dizer, dava uma pata amiga a eles.",
+    "come_from": []
+  },
+  "140609": {
+    "id": "140609",
+    "name": "Pata Redonda do Desbravamentomon (Esquerda)",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140609.png",
+    "desc": "O coelho preto trouxe muitos amigos: alguns parecem humanos, enquanto outros parecem bem estranhos.\n\nEles não são tão equilibrados quanto o coelho preto. Discussões acaloradas são parte da rotina diária deles.\n\nMas quando um inimigo aparece, eles deixam de lado suas diferenças imediatamente e lutam com total confiança, seguindo até as ordens mais questionáveis.\n\nComo dizem, pessoas boas devem permanecer juntas. Amigos nem sempre vão concordar, mas sempre vão ajudar uns aos outros a viver uma vida melhor.",
+    "come_from": []
+  },
+  "140610": {
+    "id": "140610",
+    "name": "Pata do Desbravamentomon (Esquerda)",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140610.png",
+    "desc": "A profecia das raposas se concretizou. As chamas da destruição se acenderam nas terras fronteiriças, varrendo tudo até o centro do mundo.\n\nMuitos amigos do coelho preto foram sacrificados no campo de batalha.\n\nOs sapos e macacos foram tomados pela culpa, e ninguém mais estava disposto a cantar à noite.\n\n...Mas o coelho preto estendeu a mão mais uma vez.\n\nEle disse: \"Levantem-se. Vocês são dignos de cantarem com toda a força de suas almas.\"",
+    "come_from": []
+  },
+  "140611": {
+    "id": "140611",
+    "name": "Troféu do \"Guardião Azul\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 4,
+    "icon": "icon/item/140611.png",
+    "desc": "O troféu dos \"Novos Jogos da Lua Fantasma\" será concedido a todo herói que ofereceu seu Imaginouro para proteger o Planeta Azul!\n\n\"Um final alegre como esse é exatamente o que os leitores que celebram a vida merecem!\"",
     "come_from": []
   },
   "149957": {
@@ -11686,7 +11877,7 @@
     "sub_type": "Mission",
     "rarity": 3,
     "icon": "icon/item/150093.png",
-    "desc": "A Certificação Profissional do Cosmicombate, que indica que o portador é reconhecido como tendo maestria profissional em dados. Uma vez obtida, você pode trocar diferentes Dados Prismáticos para suas cartas.",
+    "desc": "A Certificação Profissional do Cosmicombate, que indica que o portador é reconhecido como tendo um domínio profissional dos dados. Uma vez obtida, você pode trocar diferentes Dados Prismáticos para suas cartas.",
     "come_from": [
       "Aumente o Nível de Experiência na jogabilidade do Cosmicombate para obter"
     ]
@@ -11729,6 +11920,46 @@
     "rarity": 3,
     "icon": "icon/item/190002.png",
     "desc": "Página após página de juridiquês denso capaz de colocar qualquer pessoa para dormir só com um olhar. Tanto faz, o dinheiro já está na mão, então nada louco deve acabar aparecendo... né? ...Né?",
+    "come_from": []
+  },
+  "150098": {
+    "id": "150098",
+    "name": "Bastão de Luz de Fã do Desbrava FRIENDS",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150098.png",
+    "desc": "Desde os Inominados que ligam as estrelas até as criaturas adoráveis de Fofurinha e os heróis que salvaram o universo... todos se reuniram aqui por sua causa, acenando seus bastões luminosos com esperança e animação.\n\n\"Neste vasto universo, sempre haverá pessoas apoiando você. Nunca esqueça isso, onde quer que você vá.\"",
+    "come_from": []
+  },
+  "150099": {
+    "id": "150099",
+    "name": "Torrada Clichê",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150099.png",
+    "desc": "Uma fatia de pão com o tipo, formato, tamanho e sabor perfeitos para recriar aquele clichê clássico. Basta colocá-la na boca e correr por um cruzamento para provocar um encontro dramático... é praticamente uma lei do universo.\n\n\"Então essa é sua desculpa por ter batido em mim!?\"\n\"Já disse que foi mal, beleza!?\"",
+    "come_from": []
+  },
+  "150100": {
+    "id": "150100",
+    "name": "Rei Pom-Pom: Armadura de Liga 999",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150100.png",
+    "desc": "O protótipo original da <i>action figure</i> do Rei Pom-Pom. Em \"Fofurinha Através do Azul\", é um monstro que deixa a maioria dos Inominados no chinelo. Vem equipado com sistemas completos de limpeza, lavanderia e desinfecção, dando conta de 99% das tarefas domésticas do universo.\n\n\"O Pom-Pom está começando a se sentir ameaçado!\"",
+    "come_from": []
+  },
+  "150101": {
+    "id": "150101",
+    "name": "Pin da \"Pelolôncio Semanal\"",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 4,
+    "icon": "icon/item/150101.png",
+    "desc": "Um pin da \"Pelolôncio Semanal\" com a arte desenhada pessoalmente por uma famosa artista de quadrinhos, comemorando a vitória da loja temporária da \"Pelolôncio Semanal\" como campeã do Distrito Comercial da Cidade de Felipe de Noronha.\n\n\"Ah, esses Pelôncios de olhinhos lacrimejantes são os mais fofinhos, não são?\"",
     "come_from": []
   },
   "180001": {
@@ -21591,6 +21822,16 @@
     "desc": "Lenda dos Demônios do Além",
     "come_from": []
   },
+  "191998": {
+    "id": "191998",
+    "name": "Registro de Maldição Resistida",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Registro de Maldição Resistida",
+    "come_from": []
+  },
   "191999": {
     "id": "191999",
     "name": "Histórias Sobrenaturais da Academia (Edição Especial)",
@@ -21859,6 +22100,646 @@
     "rarity": 1,
     "icon": "icon/item/190021.png",
     "desc": "Leitor de Conhecimentos Gerais: Você Conhece Suas Origens?",
+    "come_from": []
+  },
+  "192026": {
+    "id": "192026",
+    "name": "História da Família Graphia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "História da Família Graphia",
+    "come_from": []
+  },
+  "192027": {
+    "id": "192027",
+    "name": "Aviso da Cirurgia da Felicidade",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Aviso da Cirurgia da Felicidade",
+    "come_from": []
+  },
+  "192028": {
+    "id": "192028",
+    "name": "Os Segredos de Silhoumont",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Os Segredos de Silhoumont",
+    "come_from": []
+  },
+  "192029": {
+    "id": "192029",
+    "name": "A Ascensão da Corporação Pearluxe",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "A Ascensão da Corporação Pearluxe",
+    "come_from": []
+  },
+  "192030": {
+    "id": "192030",
+    "name": "Entrevista com Estagiário Mechatron da Pearluxe Entretenimento",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Entrevista com Estagiário Mechatron da Pearluxe Entretenimento",
+    "come_from": []
+  },
+  "192031": {
+    "id": "192031",
+    "name": "Projeto de Cocriação do Herói \"Rei Pom-Pom de Liga Metálica\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Projeto de Cocriação do Herói \"Rei Pom-Pom de Liga Metálica\"",
+    "come_from": []
+  },
+  "192032": {
+    "id": "192032",
+    "name": "Roteiro de Produção de \"Alvorada Cósmica: Eco Man\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Roteiro de Produção de \"Alvorada Cósmica: Eco Man\"",
+    "come_from": []
+  },
+  "192033": {
+    "id": "192033",
+    "name": "As Aventuras de Clara no Mundo Mecânico",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "As Aventuras de Clara no Mundo Mecânico",
+    "come_from": []
+  },
+  "192034": {
+    "id": "192034",
+    "name": "Cocolia, a Garota Mágica",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Cocolia, a Garota Mágica",
+    "come_from": []
+  },
+  "192035": {
+    "id": "192035",
+    "name": "Ranking de Poder do Esquadrão das Altas Nuvens",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Ranking de Poder do Esquadrão das Altas Nuvens",
+    "come_from": []
+  },
+  "192036": {
+    "id": "192036",
+    "name": "Níveis de Ameaça de Aberrações em Planarcadia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Níveis de Ameaça de Aberrações em Planarcadia",
+    "come_from": []
+  },
+  "192037": {
+    "id": "192037",
+    "name": "Crônicas da Gordura Flutuante: Capítulo do Macaco (XI)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Crônicas da Gordura Flutuante: Capítulo do Macaco (XI)",
+    "come_from": []
+  },
+  "192038": {
+    "id": "192038",
+    "name": "Crônicas da Gordura Flutuante: Capítulo do Coelho (V)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Crônicas da Gordura Flutuante: Capítulo do Coelho (V)",
+    "come_from": []
+  },
+  "192039": {
+    "id": "192039",
+    "name": "Arquivo de Marcus Antali",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Arquivo de Marcus Antali",
+    "come_from": []
+  },
+  "192040": {
+    "id": "192040",
+    "name": "Em Memória de um Velho Amigo",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Em Memória de um Velho Amigo",
+    "come_from": []
+  },
+  "192041": {
+    "id": "192041",
+    "name": "Declaração de Dívidas da Nihilux",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Declaração de Dívidas da Nihilux",
+    "come_from": []
+  },
+  "192042": {
+    "id": "192042",
+    "name": "Conjectura de Elsa_de_QRoz",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Conjectura de Elsa_de_QRoz",
+    "come_from": []
+  },
+  "192043": {
+    "id": "192043",
+    "name": "Registros Secretos dos Jogos da Lua Fantasma",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Registros Secretos dos Jogos da Lua Fantasma",
+    "come_from": []
+  },
+  "192044": {
+    "id": "192044",
+    "name": "Índice de Super-heróis de Planarcadia (Trecho)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Índice de Super-heróis de Planarcadia (Trecho)",
+    "come_from": []
+  },
+  "192045": {
+    "id": "192045",
+    "name": "Apreciação do Trabalho de Ryusuke (Parte 1)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Apreciação do Trabalho de Ryusuke (Parte 1)",
+    "come_from": []
+  },
+  "192046": {
+    "id": "192046",
+    "name": "Apreciação do Trabalho de Ryusuke (Parte 2)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Apreciação do Trabalho de Ryusuke (Parte 2)",
+    "come_from": []
+  },
+  "192047": {
+    "id": "192047",
+    "name": "Guia de Imagênese de Mechatrons",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Guia de Imagênese de Mechatrons",
+    "come_from": []
+  },
+  "192048": {
+    "id": "192048",
+    "name": "Lista de Prêmios do Evento de Gala Anual da Corporação Pearluxe",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Lista de Prêmios do Evento de Gala Anual da Corporação Pearluxe",
+    "come_from": []
+  },
+  "192049": {
+    "id": "192049",
+    "name": "Guia de Canais da TV Bendesejo",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Guia de Canais da TV Bendesejo",
+    "come_from": []
+  },
+  "192050": {
+    "id": "192050",
+    "name": "Trechos de Publicações do \"Cinzinha do Amanhecer\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Trechos de Publicações do \"Cinzinha do Amanhecer\"",
+    "come_from": []
+  },
+  "192051": {
+    "id": "192051",
+    "name": "Phantylia, Minha Colega de Sala",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Phantylia, Minha Colega de Sala",
+    "come_from": []
+  },
+  "192052": {
+    "id": "192052",
+    "name": "Melhor Não Mexer com Bebidas de Origem Desconhecida",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Melhor Não Mexer com Bebidas de Origem Desconhecida",
+    "come_from": []
+  },
+  "192054": {
+    "id": "192054",
+    "name": "Registro de Patrulha Presencial do Desbrava FRIENDS",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Registro de Patrulha Presencial do Desbrava FRIENDS",
+    "come_from": []
+  },
+  "192055": {
+    "id": "192055",
+    "name": "Recorte de Notícia da \"Folha de Solaranjas\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Recorte de Notícia da \"Folha de Solaranjas\"",
+    "come_from": []
+  },
+  "192056": {
+    "id": "192056",
+    "name": "Anúncio do Seminário de Ajuda Mútua da Sociedade de Pesquisa dos Sorrisos Felizes",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Anúncio do Seminário de Ajuda Mútua da Sociedade de Pesquisa dos Sorrisos Felizes",
+    "come_from": []
+  },
+  "192057": {
+    "id": "192057",
+    "name": "Declaração de Dívidas da Divindade Inominada Aha",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Declaração de Dívidas da Divindade Inominada Aha",
+    "come_from": []
+  },
+  "192058": {
+    "id": "192058",
+    "name": "Histórias e Segredos das Máscaras de Suplicante",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Histórias e Segredos das Máscaras de Suplicante",
+    "come_from": []
+  },
+  "192059": {
+    "id": "192059",
+    "name": "Arquivos dos \"Jogos Sanguinários\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Arquivos dos \"Jogos Sanguinários\"",
+    "come_from": []
+  },
+  "192060": {
+    "id": "192060",
+    "name": "Instruções do Jornal Mediúnico",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Instruções do Jornal Mediúnico",
+    "come_from": []
+  },
+  "192061": {
+    "id": "192061",
+    "name": "Conjectura Razoável Sobre a Mecânica dos Jogos da Lua Fantasma",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Conjectura Razoável Sobre a Mecânica dos Jogos da Lua Fantasma",
+    "come_from": []
+  },
+  "192062": {
+    "id": "192062",
+    "name": "Visão Geral das Indústrias Patinho",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Visão Geral das Indústrias Patinho",
+    "come_from": []
+  },
+  "192063": {
+    "id": "192063",
+    "name": "Manual de Observação de Operações do Raioso",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Manual de Observação de Operações do Raioso",
+    "come_from": []
+  },
+  "192064": {
+    "id": "192064",
+    "name": "Prefácio dos Estudos Básicos Sobre Imaginouro",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Prefácio dos Estudos Básicos Sobre Imaginouro",
+    "come_from": []
+  },
+  "192065": {
+    "id": "192065",
+    "name": "Petição Conjunta Sobre a Restauração do Estado Pintado da Cidade de Felipe de Noronha",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Petição Conjunta Sobre a Restauração do Estado Pintado da Cidade de Felipe de Noronha",
+    "come_from": []
+  },
+  "192066": {
+    "id": "192066",
+    "name": "Registro de Nutrição da Cobaia A",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Registro de Nutrição da Cobaia A",
+    "come_from": []
+  },
+  "192067": {
+    "id": "192067",
+    "name": "Anuário dos Ex-Alunos da Turma de 1984: Bendesejo",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Anuário dos Ex-Alunos da Turma de 1984: Bendesejo",
+    "come_from": []
+  },
+  "192068": {
+    "id": "192068",
+    "name": "Sobre os Planos de Programa de Variedades da Bendesejo",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Sobre os Planos de Programa de Variedades da Bendesejo",
+    "come_from": []
+  },
+  "192069": {
+    "id": "192069",
+    "name": "Etiqueta da Boneca da Sparkle",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190005.png",
+    "desc": "Etiqueta da Boneca da Sparkle",
+    "come_from": []
+  },
+  "192070": {
+    "id": "192070",
+    "name": "Manual dos Figurantes",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190005.png",
+    "desc": "Manual dos Figurantes",
+    "come_from": []
+  },
+  "192071": {
+    "id": "192071",
+    "name": "Registro de Avaliação Psicológica Pré-Operatória",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Registro de Avaliação Psicológica Pré-Operatória",
+    "come_from": []
+  },
+  "192072": {
+    "id": "192072",
+    "name": "Relatório de Anomalia das Correntes Oceânicas",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Relatório de Anomalia das Correntes Oceânicas",
+    "come_from": []
+  },
+  "192073": {
+    "id": "192073",
+    "name": "Crônicas da TV Felipe de Noronha",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Crônicas da TV Felipe de Noronha",
+    "come_from": []
+  },
+  "192074": {
+    "id": "192074",
+    "name": "Cartas Para o Detetive",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190003.png",
+    "desc": "Cartas Para o Detetive",
+    "come_from": []
+  },
+  "192075": {
+    "id": "192075",
+    "name": "Cartuchos Clássicos de Todos os Tempos",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Cartuchos Clássicos de Todos os Tempos",
+    "come_from": []
+  },
+  "192076": {
+    "id": "192076",
+    "name": "Histórias de Acaminho",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Histórias de Acaminho",
+    "come_from": []
+  },
+  "192077": {
+    "id": "192077",
+    "name": "Lamento Informar... Mas Nem Tanto",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Lamento Informar... Mas Nem Tanto",
+    "come_from": []
+  },
+  "192078": {
+    "id": "192078",
+    "name": "Petição Interna da TV Bendesejo",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Petição Interna da TV Bendesejo",
+    "come_from": []
+  },
+  "192079": {
+    "id": "192079",
+    "name": "Observação da Sociedade dos Sorrisos",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Observação da Sociedade dos Sorrisos",
+    "come_from": []
+  },
+  "192080": {
+    "id": "192080",
+    "name": "Cartas de Yoyo",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190003.png",
+    "desc": "Cartas de Yoyo",
+    "come_from": []
+  },
+  "192081": {
+    "id": "192081",
+    "name": "Explorando a Ciência: A Misteriosa Zona Escura",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Explorando a Ciência: A Misteriosa Zona Escura",
+    "come_from": []
+  },
+  "192082": {
+    "id": "192082",
+    "name": "Encontre o \"Kraken\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Encontre o \"Kraken\"",
+    "come_from": []
+  },
+  "192083": {
+    "id": "192083",
+    "name": "Cidade de Felipe de Noronha, a cidade que não para.",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190002.png",
+    "desc": "Cidade de Felipe de Noronha, a cidade que não para.",
+    "come_from": []
+  },
+  "192084": {
+    "id": "192084",
+    "name": "Quadro de Avisos do Porto",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190002.png",
+    "desc": "Quadro de Avisos do Porto",
+    "come_from": []
+  },
+  "192085": {
+    "id": "192085",
+    "name": "Lenda da Árvore Sagrada da Ilha Flutuante",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Lenda da Árvore Sagrada da Ilha Flutuante",
+    "come_from": []
+  },
+  "192086": {
+    "id": "192086",
+    "name": "Promessa de Felicidade de Felipe de Noronha",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Promessa de Felicidade de Felipe de Noronha",
+    "come_from": []
+  },
+  "192087": {
+    "id": "192087",
+    "name": "Roteiro de Transmissão de Rádio da Madrugada",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Roteiro de Transmissão de Rádio da Madrugada",
+    "come_from": []
+  },
+  "192088": {
+    "id": "192088",
+    "name": "Estudo Cultural \"Murata\"",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Estudo Cultural \"Murata\"",
+    "come_from": []
+  },
+  "192089": {
+    "id": "192089",
+    "name": "Crônicas da Gordura Flutuante: Capítulo do Sapo (III)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Crônicas da Gordura Flutuante: Capítulo do Sapo (III)",
+    "come_from": []
+  },
+  "192090": {
+    "id": "192090",
+    "name": "Crônicas da Gordura Flutuante: Capítulo da Raposa (VII)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Crônicas da Gordura Flutuante: Capítulo da Raposa (VII)",
     "come_from": []
   },
   "210001": {
@@ -23871,6 +24752,196 @@
     "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Comedy Symphony\".",
     "come_from": []
   },
+  "210451": {
+    "id": "210451",
+    "name": "<i>Happy Destination</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Happy Destination\".",
+    "come_from": []
+  },
+  "210452": {
+    "id": "210452",
+    "name": "<i>Auspicious Snow</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Auspicious Snow\".",
+    "come_from": []
+  },
+  "210453": {
+    "id": "210453",
+    "name": "<i>A Grand Promise</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"A Grand Promise\".",
+    "come_from": []
+  },
+  "210454": {
+    "id": "210454",
+    "name": "<i>Cosmic Cruise</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Cosmic Cruise\".",
+    "come_from": []
+  },
+  "210455": {
+    "id": "210455",
+    "name": "<i>Dragon in the Frozen Deep</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Dragon in the Frozen Deep\".",
+    "come_from": []
+  },
+  "210456": {
+    "id": "210456",
+    "name": "<i>A Duel of Justice</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"A Duel of Justice\".",
+    "come_from": []
+  },
+  "210457": {
+    "id": "210457",
+    "name": "<i>Land of the Forgotten</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Land of the Forgotten\".",
+    "come_from": []
+  },
+  "210458": {
+    "id": "210458",
+    "name": "<i>Steel and Resolve</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Steel and Resolve\".",
+    "come_from": []
+  },
+  "210459": {
+    "id": "210459",
+    "name": "<i>Heroes, Assemble</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Heroes, Assemble\".",
+    "come_from": []
+  },
+  "210460": {
+    "id": "210460",
+    "name": "<i>Hidden Pearl</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Hidden Pearl\".",
+    "come_from": []
+  },
+  "210461": {
+    "id": "210461",
+    "name": "<i>Listen! The Engines Roar!</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa \"Listen! The Engines Roar!\"",
+    "come_from": []
+  },
+  "210462": {
+    "id": "210462",
+    "name": "<i>Hollow Waves</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa <i>\"Hollow Waves\"</i>.",
+    "come_from": []
+  },
+  "210463": {
+    "id": "210463",
+    "name": "<i>Amusing Ourselves to Death</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa <i>\"Amusing Ourselves to Death\"</i>.",
+    "come_from": []
+  },
+  "210464": {
+    "id": "210464",
+    "name": "<i>The Age of Mass Media</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa <i>\"The Age of Mass Media\"</i>.",
+    "come_from": []
+  },
+  "210465": {
+    "id": "210465",
+    "name": "<i>Condescending</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa <i>\"Condescending\"</i>.",
+    "come_from": []
+  },
+  "210466": {
+    "id": "210466",
+    "name": "<i>Seaside Town</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa <i>\"Seaside Town\"</i>.",
+    "come_from": []
+  },
+  "210467": {
+    "id": "210467",
+    "name": "<i>Floating</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa <i>\"Floating\"</i>.",
+    "come_from": []
+  },
+  "210468": {
+    "id": "210468",
+    "name": "<i>Unbridled Growth</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa <i>\"Unbridled Growth\"</i>.",
+    "come_from": []
+  },
+  "210469": {
+    "id": "210469",
+    "name": "<i>Death and Rebirth</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Um disco que pode ser reproduzido no fonógrafo do Expresso. Pode ter sido uma aquisição oportuna ou um presente de alguém. Quando a música toca, ela evoca todo tipo de memória: sorrisos, encontros, toques, até o entusiasmo de uma batalha. Talvez seja por isso que as pessoas ainda colecionam discos, mesmo com o rápido avanço da tecnologia.\nO disco atual contém a faixa <i>\"Death and Rebirth\"</i>.",
+    "come_from": []
+  },
   "215001": {
     "id": "215001",
     "name": "<i>Pitter-Patter</i>",
@@ -23909,6 +24980,16 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "O universo está repleto de inúmeros sons, cada um com sua beleza única. Que esses sons sempre encantem seus ouvidos e nutram seu coração.\nEste disco contém \"Murmur\".",
+    "come_from": []
+  },
+  "215008": {
+    "id": "215008",
+    "name": "<i>Arboreal Whispers</i>",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "O universo está repleto de inúmeros sons, cada um com sua beleza única. Que esses sons sempre encantem seus ouvidos e nutram seu coração.\nEste disco contém <i>\"Arboreal Whispers\"</i>.",
     "come_from": []
   },
   "220000": {
@@ -24030,6 +25111,18 @@
     "desc": "Caixa de Bate-Papo para Mensagem e Bate-Papo. Uma vez obtidas, elas podem ser utilizadas nas funções de Mensagem e Bate-Papo",
     "come_from": [
       "Caixa de Bate-Papo obtida do evento \"Campeonato Auuu de Chrysos\""
+    ]
+  },
+  "220010": {
+    "id": "220010",
+    "name": "Verdade em Meio ao Tumulto",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220010.png",
+    "desc": "Caixa de Bate-Papo para Mensagem e Bate-Papo. Uma vez obtidas, elas podem ser utilizadas nas funções de Mensagem e Bate-Papo.",
+    "come_from": [
+      "Caixa de Bate-Papo obtida do evento \"A Grande Guerra das Poeirinhas\""
     ]
   },
   "221000": {
@@ -26933,7 +28026,7 @@
     "icon": "icon/item/227007.png",
     "desc": "O clássico ícone de \"Carregando\" que você vê por toda parte, agora com efeitos de luz estilosos.",
     "come_from": [
-      "Caixa de Presentes \"Adereço de Moda\""
+      "Obtido na loja de Itens de Moda"
     ]
   },
   "227008": {
@@ -26946,6 +28039,55 @@
     "desc": "Uma máscara de origami estilizada como um guaxinim. Manuseie-a com cuidado.",
     "come_from": [
       "Moda do Desbravamento obtida das recompensas de ranque dos mais vendidos de \"Pelônline\""
+    ]
+  },
+  "227009": {
+    "id": "227009",
+    "name": "Superestrela do Cosmos: Fones de Orelha de Gatinho Neon",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227009.png",
+    "desc": "Um par de fones de ouvido futuristas com orelhas de gato e um design ousado e adorável, brilhando com uma luz neon rosa característica. A prova perfeita de que você se tornou {F#uma}{M#um} Streamer de elite.",
+    "come_from": [
+      "Disponível na loja Presente da Poeira Estelar"
+    ]
+  },
+  "227010": {
+    "id": "227010",
+    "name": "Guaxinim Transformado: Raposevinha",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227010.png",
+    "desc": "Um par de orelhas de raposa cor-de-rosa, altas e esguias, presas em uma tiara, com suas bordas adornadas com delicados detalhes de metal prateado e feitas com um cuidado excepcional.",
+    "come_from": [
+      "Caixa de Presentes \"Sombra Evanescente da Raposa\"",
+      "Obtido na loja de Itens de Moda"
+    ]
+  },
+  "227012": {
+    "id": "227012",
+    "name": "Óculos do Pelôncio",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227012.png",
+    "desc": "Com uma armação larga e lentes chamativas em tons de laranja, esses óculos de proteção de edição especial da Pelônline são feitos para proteger seus olhos no caos das notícias urgentes no local.",
+    "come_from": [
+      "Disponível na loja Presente da Poeira Estelar"
+    ]
+  },
+  "227013": {
+    "id": "227013",
+    "name": "Óculos Super Mega Estilosos",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227013.png",
+    "desc": "Com lentes translúcidas multicoloridas e efeitos de fogo azul e rosa nas bordas, esses óculos com um estilo de fliperama retrô são, apenas pela aparência, uma combinação quase perfeita de 1:1 com o original.",
+    "come_from": [
+      "Caixa de Presentes \"Corrida Cósmica\""
     ]
   },
   "229001": {
@@ -29140,6 +30282,26 @@
     "desc": "Após exibir isso no Museu de Probabilidades, os Fragmentos Cósmicos obtidos após uma vitória em batalha no Universo Divergente aumentam em 1.",
     "come_from": []
   },
+  "250609": {
+    "id": "250609",
+    "name": "Pearl: Edição Limitada",
+    "type": "Usable",
+    "sub_type": "RogueMedal",
+    "rarity": 4,
+    "icon": "icon/item/IconRogueTournCollection_PearlPigeon.png",
+    "desc": "Após o estabelecimento do Museu de Probabilidades, a Loja de Bênçãos do Universo Divergente nos Domínios de \"Loja\" aumentará a quantidade de Bênçãos adquiríveis em 1.",
+    "come_from": []
+  },
+  "250610": {
+    "id": "250610",
+    "name": "Gargalhada",
+    "type": "Usable",
+    "sub_type": "RogueMedal",
+    "rarity": 4,
+    "icon": "icon/item/IconRogueTournCollection_TournPersonaMedal.png",
+    "desc": "Aumenta a Euforia dos personagens no Universo Divergente em 3%.",
+    "come_from": []
+  },
   "250700": {
     "id": "250700",
     "name": "Códice Tático: Ataque Simulado",
@@ -29294,6 +30456,16 @@
     "desc": "Uma quimerinha registrada no Jardim da Vida que prefere compartilhar opiniões sobre tudo ao seu redor ao invés de focar no trabalho de verdade.",
     "come_from": []
   },
+  "251004": {
+    "id": "251004",
+    "name": "Corpo de Imprensa dos Pelôncios",
+    "type": "Pet",
+    "sub_type": "NormalPet",
+    "rarity": 5,
+    "icon": "icon/item/251004.png",
+    "desc": "O Corpo de Imprensa dos Pelôncios, liderado por Pulitzôncio, seus funcionários mais confiáveis, mais tagarelas e com melhor equilíbrio entre vida pessoal e trabalho.",
+    "come_from": []
+  },
   "252000": {
     "id": "252000",
     "name": "Escarlate Solene! Roupinha do Condutor",
@@ -29323,6 +30495,30 @@
     "sub_type": "PamSkin",
     "rarity": 4,
     "icon": "icon/item/252002.png",
+    "desc": "Uma roupinha para o condutor. Ele pode trocar de roupa no Guarda-Roupa do Pom-Pom no Vagão de Festas.",
+    "come_from": [
+      "Disponível na loja Presente da Poeira Estelar"
+    ]
+  },
+  "252003": {
+    "id": "252003",
+    "name": "Era do Desbravamento! Roupinhas Formais",
+    "type": "Usable",
+    "sub_type": "PamSkin",
+    "rarity": 4,
+    "icon": "icon/item/252003.png",
+    "desc": "Uma roupinha para o condutor. Ele pode trocar de roupa no Guarda-Roupa do Pom-Pom no Vagão de Festas.",
+    "come_from": [
+      "Obtido ao falar com o Pom-Pom em Ajuda do Pom-Pom"
+    ]
+  },
+  "252004": {
+    "id": "252004",
+    "name": "Sonho Dourado! Conjunto de Traje Formal",
+    "type": "Usable",
+    "sub_type": "PamSkin",
+    "rarity": 5,
+    "icon": "icon/item/252004.png",
     "desc": "Uma roupinha para o condutor. Ele pode trocar de roupa no Guarda-Roupa do Pom-Pom no Vagão de Festas.",
     "come_from": [
       "Disponível na loja Presente da Poeira Estelar"
@@ -31168,6 +32364,18 @@
     "desc": "Apenas uma Lua Fantasma soprando uma língua de sogra.",
     "come_from": []
   },
+  "253004": {
+    "id": "253004",
+    "name": "Arcádia, Lá Vamos Nós",
+    "type": "Usable",
+    "sub_type": "PersonalCard",
+    "rarity": 5,
+    "icon": "icon/item/253004.png",
+    "desc": "Uma jogadora de elite atravessa uma cidade em miniatura, determinada a não deixar uma única Moeda de Ouro para trás. O que você acha? Será que ela consegue chegar até o fim?",
+    "come_from": [
+      "Caixa de Presentes \"Corrida Cósmica\""
+    ]
+  },
   "254000": {
     "id": "254000",
     "name": "Livre Arbítrio de {NICKNAME}",
@@ -31865,7 +33073,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264013": {
@@ -31889,7 +33097,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264015": {
@@ -31901,7 +33109,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264016": {
@@ -31913,7 +33121,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264017": {
@@ -31925,7 +33133,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264018": {
@@ -31949,7 +33157,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264020": {
@@ -31961,7 +33169,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264021": {
@@ -31985,7 +33193,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264023": {
@@ -31997,7 +33205,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264024": {
@@ -32009,7 +33217,7 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264025": {
@@ -32021,7 +33229,127 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "Uma carta usada em partidas doe Cosmicombate, originária do Pacote de Expansão I.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
+    ]
+  },
+  "264026": {
+    "id": "264026",
+    "name": "Loba Prateada Nv. 999",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264027": {
+    "id": "264027",
+    "name": "Evanescia",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264028": {
+    "id": "264028",
+    "name": "{NICKNAME}",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264029": {
+    "id": "264029",
+    "name": "Ashveil",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264030": {
+    "id": "264030",
+    "name": "Sunday",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264031": {
+    "id": "264031",
+    "name": "Blade",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264032": {
+    "id": "264032",
+    "name": "Hysilens",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264033": {
+    "id": "264033",
+    "name": "Tribbie",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264034": {
+    "id": "264034",
+    "name": "Ruan Mei",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264035": {
+    "id": "264035",
+    "name": "Himeko",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/264035.png",
+    "desc": "Uma carta usada em partidas de Cosmicombate, originária do Pacote de Expansão II.",
+    "come_from": [
+      "Conclua a missão \"Sangue do Lobo Solitário\""
     ]
   },
   "264101": {
@@ -32106,10 +33434,10 @@
     "type": "Material",
     "sub_type": "DiceCombatDice",
     "rarity": 3,
-    "icon": "icon/item/264405.png",
+    "icon": "icon/item/264428.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264406": {
@@ -32121,7 +33449,7 @@
     "icon": "icon/item/264406.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264407": {
@@ -32133,7 +33461,7 @@
     "icon": "icon/item/264407.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264408": {
@@ -32145,7 +33473,7 @@
     "icon": "icon/item/264408.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264409": {
@@ -32157,7 +33485,7 @@
     "icon": "icon/item/264409.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264410": {
@@ -32169,7 +33497,7 @@
     "icon": "icon/item/264410.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264411": {
@@ -32181,7 +33509,7 @@
     "icon": "icon/item/264411.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264412": {
@@ -32193,7 +33521,7 @@
     "icon": "icon/item/264412.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264413": {
@@ -32205,7 +33533,7 @@
     "icon": "icon/item/264413.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264416": {
@@ -32229,7 +33557,7 @@
     "icon": "icon/item/264417.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264418": {
@@ -32241,7 +33569,7 @@
     "icon": "icon/item/264418.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264419": {
@@ -32253,7 +33581,7 @@
     "icon": "icon/item/264419.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264420": {
@@ -32265,7 +33593,7 @@
     "icon": "icon/item/264420.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
     ]
   },
   "264421": {
@@ -32289,7 +33617,79 @@
     "icon": "icon/item/264422.png",
     "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
     "come_from": [
-      "Compre no \"Pacote de Expansão 1\" na Loja do Cosmicombate"
+      "Compre no \"Pacote de Expansão I\" na Loja do Cosmicombate"
+    ]
+  },
+  "264423": {
+    "id": "264423",
+    "name": "Verdade • Toxina",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264423.png",
+    "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264424": {
+    "id": "264424",
+    "name": "Verdade • Carregamento",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264426.png",
+    "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264425": {
+    "id": "264425",
+    "name": "Verdade • Sorte",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264425.png",
+    "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264426": {
+    "id": "264426",
+    "name": "Verdade • Investida",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264424.png",
+    "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264427": {
+    "id": "264427",
+    "name": "Verdade • Defesa",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264427.png",
+    "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
+    ]
+  },
+  "264428": {
+    "id": "264428",
+    "name": "Verdade • Resistência",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264428.png",
+    "desc": "Um Dado Prismático profundo e brilhante que pode ser usado em partidas de Cosmicombate.",
+    "come_from": [
+      "Compre no \"Pacote de Expansão II\" na Loja do Cosmicombate"
     ]
   },
   "264502": {
@@ -32328,7 +33728,7 @@
     "type": "Material",
     "sub_type": "DiceCombatDice",
     "rarity": 3,
-    "icon": "icon/item/264405.png",
+    "icon": "icon/item/264428.png",
     "desc": "",
     "come_from": []
   },
@@ -32482,6 +33882,26 @@
     "desc": "",
     "come_from": []
   },
+  "264523": {
+    "id": "264523",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264426.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264524": {
+    "id": "264524",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264423.png",
+    "desc": "",
+    "come_from": []
+  },
   "264996": {
     "id": "264996",
     "name": "Ficha de Poder",
@@ -32502,7 +33922,7 @@
     "sub_type": "Material",
     "rarity": 3,
     "icon": "icon/item/264997.png",
-    "desc": "Fichas especiais de troca usadas na Loja do Cosmicombate, emitidas durante eventos para resgatar conteúdo do Pacote de Expansão 1.",
+    "desc": "Fichas especiais de troca usadas na Loja do Cosmicombate, emitidas durante eventos para resgatar conteúdo do Pacote de Expansão I.",
     "come_from": [
       "Obtido ao participar do evento \"Cosmicombate! Que Rolem os Dados!\""
     ]
@@ -32516,6 +33936,7 @@
     "icon": "icon/item/264998.png",
     "desc": "A poeira cristalina que se espalha após um Duelo de Cosmicombate. Dizem que ela é a marca deixada pelas vontades conflitantes dos jogadores de dados. Colete uma certa quantidade para dar um novo brilho às cartas que você possui.",
     "come_from": [
+      "Obtido ao participar do evento \"Cosmicombate! Que Rolem os Dados de Novo!\"",
       "Obtido ao participar do evento \"Cosmicon, que Rolem os Dados!\"",
       "Obtém após jogar contra jogadores de cartas enquanto explora Planarcadia"
     ]
@@ -32529,6 +33950,7 @@
     "icon": "icon/item/264999.png",
     "desc": "Use isso para aumentar o Nível de Experiência do Cosmicombate. Ela representa a Experiência de combate de um lançador de dados. Quanto maior a Experiência, mais fácil é ganhar o respeito dos outros... pelo menos é isso que os jogadores dizem.",
     "come_from": [
+      "Obtido ao participar do evento \"Cosmicombate! Que Rolem os Dados de Novo!\"",
       "Obtido ao participar do evento \"Cosmicon, que Rolem os Dados!\"",
       "Obtém após jogar contra jogadores de cartas enquanto explora Planarcadia"
     ]
@@ -33013,6 +34435,56 @@
     "desc": "",
     "come_from": []
   },
+  "266001": {
+    "id": "266001",
+    "name": "Moeda de Ouro",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266001.png",
+    "desc": "Uma moeda especial dessa stream que pode ser usada para melhorar espaços de personagens no jogo.",
+    "come_from": []
+  },
+  "266002": {
+    "id": "266002",
+    "name": "Ponto de Talento",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266002.png",
+    "desc": "Um token especial desse livestream que pode ser usado para desbloquear Nódulos de Talento no jogo.",
+    "come_from": []
+  },
+  "266003": {
+    "id": "266003",
+    "name": "Baú Surpresa",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266003.png",
+    "desc": "Um item especial desta stream que pode ser usado para obter uma grande quantidade de equipamentos do jogo.",
+    "come_from": []
+  },
+  "266004": {
+    "id": "266004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/300103.png",
+    "desc": "",
+    "come_from": []
+  },
+  "266005": {
+    "id": "266005",
+    "name": "Diamante",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266005.png",
+    "desc": "Um token especial para este livestream que pode ser usado para obter novos personagens do jogo.",
+    "come_from": []
+  },
   "267001": {
     "id": "267001",
     "name": "",
@@ -33022,6 +34494,18 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "",
     "come_from": []
+  },
+  "269001": {
+    "id": "269001",
+    "name": "Fichas de Poder Coloridas",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/269001.png",
+    "desc": "Fichas especiais de troca usadas na Loja do Cosmicombate, emitidas durante eventos para resgatar conteúdo do Pacote de Expansão II.",
+    "come_from": [
+      "Obtido ao participar do evento \"Cosmicombate! Que Rolem os Dados de Novo!\""
+    ]
   },
   "270000": {
     "id": "270000",
@@ -33089,6 +34573,26 @@
     "rarity": 4,
     "icon": "icon/item/270005.png",
     "desc": "\"Fichas de Foca\" manufaturadas por Apophis, cada uma possui uma marca única. Podem ser usadas para comprar foquinhas na Loja de Foquinhas.",
+    "come_from": []
+  },
+  "270006": {
+    "id": "270006",
+    "name": "Cristal de Imaginouro",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/281038.png",
+    "desc": "Uma partícula cristalina formada a partir de Rastros de Imaginouro, o nutriente supremo para Poeirinhas.",
+    "come_from": []
+  },
+  "270007": {
+    "id": "270007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/270005.png",
+    "desc": "",
     "come_from": []
   },
   "281001": {
@@ -33311,6 +34815,16 @@
     "rarity": 3,
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "",
+    "come_from": []
+  },
+  "281030": {
+    "id": "281030",
+    "name": "Cartucho",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281030.png",
+    "desc": "Um cartucho de jogo único usado para desbloquear itens e aprimoramentos em \"Crônicas de Arcádia\"",
     "come_from": []
   },
   "281031": {
@@ -33911,6 +35425,16 @@
     "rarity": 5,
     "icon": "icon/item/310013.png",
     "desc": "Contrato de ajuda mútua entre Herta e o Expresso. Ela ajuda o Expresso sempre que puder em troca de tesouros encontrados durante o desbravamento.",
+    "come_from": []
+  },
+  "310014": {
+    "id": "310014",
+    "name": "Caixa de Presentes \"Corrida Cósmica\"",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Obtenha o Adereço de Desbravamento \"Óculos Super Mega Estilosos\" e o Cartão de Identificação \"Arcádia, Lá Vamos Nós\"",
     "come_from": []
   },
   "311000": {
@@ -36722,7 +38246,7 @@
   },
   "408445": {
     "id": "408445",
-    "name": "Manto de Batalha dos Emblemas",
+    "name": "Manto de Batalha dos Botons",
     "type": "Usable",
     "sub_type": "Food",
     "rarity": 2,
@@ -37316,7 +38840,7 @@
   },
   "408804": {
     "id": "408804",
-    "name": "Bastão Luminoso Multifuncional de Fã da \"Fofurinha\"",
+    "name": "Taco Luminoso Multifuncional de Fã de \"Fofurinha\"",
     "type": "Usable",
     "sub_type": "Food",
     "rarity": 4,

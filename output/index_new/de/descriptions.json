@@ -259,11 +259,6 @@
     "title": "Die Xianzhou-Allianz",
     "desc": "Eine uralte Vereinigung aus vielen intelligenten Arten.\nIhr Ziel für Xianzhou ist es, die Ausgeburten des Überflusses auszulöschen."
   },
-  "10053": {
-    "id": "10053",
-    "title": "Stellaron-Jäger",
-    "desc": "Eine Organisation, die auf der Jagd nach Stellarons zwischen den Welten reist.\nEs ist unbekannt, von welchem Äon ihre Macht stammt."
-  },
   "10054": {
     "id": "10054",
     "title": "Wesen des Überflusses",
@@ -1506,8 +1501,8 @@
   },
   "10405": {
     "id": "10405",
-    "title": "Aschenzeitalter",
-    "desc": "Im Jahr 2148 BZ erreichte die Vorhut der Zerstörung Ahatopia und läutete damit das Aschenzeitalter ein.\nUnter der Führung der Künstlerin Graphia kämpften die ersten Imagenaes Seite an Seite mit den Menschen, um gemeinsam die Dämonen aus den jenseitigen Sphären abzuwehren."
+    "title": "Aschezeitalter",
+    "desc": "Im Jahr 2148 BZ erreichte die Vorhut der Zerstörung Ahatopia und läutete damit das Aschezeitalter ein.\nUnter der Führung der Künstlerin Graphia kämpften die ersten Imagenaes Seite an Seite mit den Menschen, um gemeinsam die Dämonen aus den jenseitigen Sphären abzuwehren."
   },
   "10406": {
     "id": "10406",
@@ -1583,6 +1578,51 @@
     "id": "10420",
     "title": "Ryusuke",
     "desc": "Der derzeitige Rektor der Graphia-Akademie.\nEr ist auch das derzeitige Oberhaupt der Familie Graphia und behauptet, Himekos Vater zu sein."
+  },
+  "10421": {
+    "id": "10421",
+    "title": "Raum „Zerrissene Schriftrolle“",
+    "desc": "Raumfragmente, die von der Welt auf Leinwand abgeschält wurden, als Planarcadia in die Realität zurückkehrte.\nDas Grenzgebiet zwischen Realität und Leinwand, wo verlassene Gleise in einen unergründlichen Abgrund führen."
+  },
+  "10422": {
+    "id": "10422",
+    "title": "Forschungsgesellschaft für glückliches Lächeln",
+    "desc": "Eine riesige Wohltätigkeitsorganisation, ehemals die Gesellschaft für gegenseitige Hilfe für Opfer des Vorfalls mit dem Herold des Todes.\nMithilfe von Heilmethoden wie „Glücksoperationen“ setzt sie sich dafür ein, Planarcadia wieder Glück und Lächeln zu schenken."
+  },
+  "10423": {
+    "id": "10423",
+    "title": "Füllwunsch",
+    "desc": "Vorsitzende der „Forschungsgesellschaft für glückliches Lächeln“ und Intendantin von „Wunscherfüllungs-TV“. Eine Waise der Blutdürstigen Spiele.\nHeute hat sie es sich als bekannte Philanthrop und Medienmogul zur Aufgabe gemacht, den Pfad des Hochgefühls in die richtigen Bahnen zu lenken."
+  },
+  "10424": {
+    "id": "10424",
+    "title": "Star-Rail-FEST",
+    "desc": "Eine Ausstellung zum Thema „Astralexpress“, eine von Pearl für die Namenlosen errichtete Bühne.\nDie Anwesenheit der Namenlosen löste große Begeisterung aus, die die Aufmerksamkeit der unzähligen Wunschkraft von Planarcadia auf sich zog."
+  },
+  "10425": {
+    "id": "10425",
+    "title": "Pearluxe Corp",
+    "desc": "Pearls interstellare Unterhaltungs-Mediengruppe. Das Hauptgeschäft umfasst die Produktion und den Verkauf von Mechatrons.\nDer hoch aufragende Hauptsitz, der Pearluxe-Turm, ist ein Tempel, nach dem sich unzählige Bewerber sehnen."
+  },
+  "10426": {
+    "id": "10426",
+    "title": "Füllwunsch",
+    "desc": "Präsidentin der „Forschungsgesellschaft für glückliches Lächeln“ und Direktorin von „Wunscherfüllungs-TV“. Ein Waisenkind der Blutdürstigen Spiele.\nUm sich am Hochgefühl von Planarcadia zu rächen, verwandelte sie sich in ihren eigenen Feind, um Arcadia als Herold des Todes das Urteil zu bringen."
+  },
+  "10427": {
+    "id": "10427",
+    "title": "Forschungsgesellschaft für glückliches Lächeln",
+    "desc": "Eine riesige Wohltätigkeitsorganisation, ehemals die Gesellschaft für gegenseitige Hilfe für Opfer des Vorfalls mit dem Herold des Todes.\nMithilfe von Heilmethoden wie „Glücksoperationen“ verwandelt sie die Bürger in Bestien, die nur den Geschmack des Glücks kennen."
+  },
+  "10428": {
+    "id": "10428",
+    "title": "Herold des Todes",
+    "desc": "Der Hauptschuldige der Blutdürstigen Spiele, ein Monster, das sich am Gemetzel ergötzt.\nNun wird es von Füllwunsch benutzt, um als Symbol der „Angst“ das Gedankengut von Planarcadia in Aufruhr zu versetzen."
+  },
+  "10429": {
+    "id": "10429",
+    "title": "Stellaron-Jäger",
+    "desc": "Eine Organisation, die auf der Jagd nach Stellarons zwischen den Welten reist.\nFür ein bestimmtes Ziel bewegt sie sich auf dem Pfad der „Endgültigkeit“ stromaufwärts."
   },
   "20000": {
     "id": "20000",
@@ -1933,5 +1973,30 @@
     "id": "20098",
     "title": "Wechsel zur Perspektive von Silberwolf ...",
     "desc": "Tingyun macht sich mit der Maske davon. Kurz darauf findet eine arme Seele, die sie verloren hat, ebenfalls den Weg nach Dovebrook ..."
+  },
+  "20099": {
+    "id": "20099",
+    "title": "Wechsel zur Perspektive von Ashveil ...",
+    "desc": "Auf der Suche nach dem Täter kommt Ashveil an der Brücke vorbei, als die Erinnerungen an die Vergangenheit wieder auftauchen ..."
+  },
+  "20102": {
+    "id": "20102",
+    "title": "Wechsel zur Perspektive von Evanescia ...",
+    "desc": "Während {NICKNAME} die Ermittlungen an der Schule fortsetzt, treffen Evanescia und Yao Guang in Seafeld City ein ..."
+  },
+  "20103": {
+    "id": "20103",
+    "title": "Wechsel zur Perspektive von Sparxie ...",
+    "desc": "Andernorts unterhält sich Sparxie in der Taverne prächtig mit anderen ..."
+  },
+  "20104": {
+    "id": "20104",
+    "title": "Wechsel zur Perspektive von Evanescia ...",
+    "desc": "Evanescia greift nach ihrer Herrscherklinge, bereit, das durchzuziehen, was sie sich vorgenommen hat ..."
+  },
+  "20105": {
+    "id": "20105",
+    "title": "Wechsel zur Perspektive von Silberwolf ...",
+    "desc": "Währenddessen bereitet sich auch Silberwolf in Pearls Studio darauf vor, in Aktion zu treten ..."
   }
 }

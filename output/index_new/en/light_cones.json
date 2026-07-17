@@ -1139,6 +1139,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22007": {
+    "id": "22007",
+    "name": "Tomorrow, Together",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "A grand gift swoops down into the livestream.\n<i>\"It's a specially customized third anniversary cake from the fans for everyone!\"</i>\n\nEvery cherished memory becomes a driving force in this moment, pulling everyone together toward the future.\n<i>\"May everyone move forward happily and safely in the new year!\"</i>\n<i>\"Don't worry, conductor! March Bunny will capture this moment~\"</i>\n\nIn the heartwarming atmosphere, everyone raises their glasses together, laughter and joy filling every corner.\n<i>\"On this day worth celebrating, let us raise our glasses.\"</i>\n<i>\"To the star-filled tomorrow—\"</i>\n<i>\"Cheers!\"</i>",
+    "icon": "icon/light_cone/22007.png",
+    "preview": "image/light_cone_preview/22007.png",
+    "portrait": "image/light_cone_portrait/22007.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "Night on the Milky Way",
@@ -1799,6 +1811,42 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "23056": {
+    "id": "23056",
+    "name": "The Finale of a Lie",
+    "rarity": 5,
+    "path": "Rogue",
+    "desc": "<i>\"What did </i>Introduction to Detective Deduction<i> say again? Unless absolutely necessary...\"</i>\nFangs woven in red and black crept inch by inch up his shoulder.\n\nWhere the night drowns deepest, clouds of doubt emerge. In the shadowed forest, vicious beasts lurk.\n<i>\"This game of cat and mouse... it's time to end it.\"</i>\nThe crimson fades. Moonlight still gleams silver across the sky, and the stars rest in peaceful slumber.\n\nThis is yet another one of his searches for the truth, but the shadows of the past tap his shoulder, then dissipate into nothing.\nThe maneuvering of this very moment continues, until—\n\n<i>\"Until... the day retribution falls upon the wicked.\"</i>",
+    "icon": "icon/light_cone/23056.png",
+    "preview": "image/light_cone_preview/23056.png",
+    "portrait": "image/light_cone_portrait/23056.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23057": {
+    "id": "23057",
+    "name": "Welcome to the Cosmic City",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Above the city, a girl's flamboyant figure bursts free from the teleporter.\nEndless streams of traffic, countless silhouettes of people... the bustle carries on as always.\n<i>\"Sure looks lively, but...\"</i>\n\nThe screen before her lights up as people's joys and sorrows transform into specks of light, flowing into it.\n<i>\"Even the NPCs' fatigue gauges are about to max out...\"</i>\n<i>\"No way I'm playing a raid this boring.\"</i>\n\nFollowing the swipe of her finger, the city lights flicker on and off.\nFrom an unnoticed corner comes a startled cry, followed by thunderous cheers echoing through the sky.\n<i>\"All players' Luck doubled, randomized special talents, rewards maxed out...\"</i>\n<i>\"Game loaded successfully! Time to run the show!\"</i>\n\nThe girl leaps down as familiar notification sounds ring in her ears.\nHer game time has begun.",
+    "icon": "icon/light_cone/23057.png",
+    "preview": "image/light_cone_preview/23057.png",
+    "portrait": "image/light_cone_portrait/23057.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23058": {
+    "id": "23058",
+    "name": "Until the Flowers Bloom Again",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "A gentle breeze stirs the white curtains, tugging at the young girl's thoughts.\nAs she gazes at the chattering crowd outside her window, her drawing pen unconsciously pauses in place.\n<i>\"How many times have I sat here now?\"</i>\n\nIn that fleeting moment, a falling petal brushes past her nose, as if in response, as if in reminder.\nA grand game, a once-in-a-lifetime encounter, days and nights of blooming and withering flowers...\nShe recalls her story with this land, from a blank canvas to vibrant colors. With each slumber, she eagerly awaits tomorrow's arrival.\n\n<i>\"Oh, the comic has been updated! I'll check it out after I finish drawing these cuties...\"</i>\nThe girl receives a notification, her ears perking up as her previously still pen springs back to life.\n\n<i>\"I wish... by the next flower season, I'll catch up on all the top-rated new releases!\"</i>",
+    "icon": "icon/light_cone/23058.png",
+    "preview": "image/light_cone_preview/23058.png",
+    "portrait": "image/light_cone_portrait/23058.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "24000": {
     "id": "24000",
     "name": "On the Fall of an Aeon",
@@ -1868,6 +1916,18 @@
     "icon": "icon/light_cone/24005.png",
     "preview": "image/light_cone_preview/24005.png",
     "portrait": "image/light_cone_portrait/24005.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "24006": {
+    "id": "24006",
+    "name": "Elation Brimming With Blessings",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Beneath the fingertips of geniuses, data flows steadily, endlessly.\nMasks lurk in the cracks between \"occurrences,\" observing every possibility waiting to unfold.\n\nAnalysis, extrapolation, answers, questions. Isn't this a perfect stage for geniuses?\nCheers, tears, roars, wails... the emotions of life bloom in full.\n\nThe silent play grows raucous, and blessings fill elation past the brim. Is this the most captivating act?\nThe answer remains the same: utterly unpredictable!",
+    "icon": "icon/light_cone/24006.png",
+    "preview": "image/light_cone_preview/24006.png",
+    "portrait": "image/light_cone_portrait/24006.png",
     "max_rank": 5,
     "max_promotion": 6
   }

@@ -16887,7 +16887,7 @@
     "type_text": "Chiến Kỹ",
     "effect": "Support",
     "effect_text": "Hỗ Trợ",
-    "simple_desc": "Khiến 1 đồng đội phe ta trở thành Sư Phụ. Khi Tấn Công Thường hoặc gây sát thương Tấn Công Thường Cường Hóa, sẽ dựa vào vận mệnh Sư Phụ để kích hoạt hiệu ứng tương ứng:\nTri Thức, Hủy Diệt, Săn Bắn, Ký Ức: Gây thêm Sát Thương Kèm Theo dựa trên thuộc tính Sư Phụ.\nHòa Hợp, Hư Vô, Bảo Hộ, Trù Phú: Tăng điểm Giảm Sức Bền.",
+    "simple_desc": "Khiến 1 đồng đội phe ta trở thành Sư Phụ. Khi Tấn Công Thường hoặc gây sát thương Tấn Công Thường Cường Hóa, sẽ dựa vào vận mệnh Sư Phụ để kích hoạt hiệu ứng tương ứng:\nTri Thức, Hủy Diệt, Săn Bắn, Ký Ức, Vui Vẻ: Gây thêm Sát Thương Kèm Theo dựa trên thuộc tính Sư Phụ.\nHòa Hợp, Hư Vô, Bảo Hộ, Trù Phú: Tăng điểm Giảm Sức Bền.",
     "desc": "Giúp 1 đồng đội chỉ định (ngoại trừ bản thân) trở thành Sư Phụ, Tốc Độ của Sư Phụ tăng #1[f1]%. Chỉ mục tiêu thi triển gần đây nhất của Chiến Kỹ được xem là Sư Phụ của March 7th.\nMỗi khi thi triển Tấn Công Thường hoặc gây ra 1 đòn sát thương Tấn Công Thường Cường Hóa, nếu trong trận có Sư Phụ thuộc Vận Mệnh được chỉ định, thì sẽ kích hoạt hiệu ứng tương ứng:\nTri Thức, Hủy Diệt, Săn Bắn, Ký Ức, Vui Vẻ: Gây thêm Sát Thương Kèm Theo dựa theo thuộc tính của Sư Phụ bằng #2[i]% Tấn Công của March 7th.\nHòa Hợp, Hư Vô, Bảo Hộ, Trù Phú: Tăng #3[i]% điểm Giảm Sức Bền của lần sát thương này.",
     "params": [
       [
@@ -32504,7 +32504,7 @@
     "type_text": "Chiến Kỹ",
     "effect": "Support",
     "effect_text": "Hỗ Trợ",
-    "simple_desc": "Triển khai kết giới, tăng Độ Vui Vẻ của toàn bộ mục tiêu phe ta, và Yao Guang nhận được Điểm Hài Hước sau khi thi triển Tấn Công Thường, Chiến Kỹ.",
+    "simple_desc": "Triển khai kết giới, tăng Độ Vui Vẻ của toàn bộ mục tiêu phe ta, và Yao Guang sau khi thi triển Tấn Công Thường, Chiến Kỹ sẽ nhận được Điểm Hài Hước.",
     "desc": "Triển khai kết giới, duy trì #1[i] hiệp, khi bắt đầu mỗi hiệp của bản thân, số hiệp duy trì kết giới giảm 1. Trong thời gian duy trì kết giới, Độ Vui Vẻ của toàn bộ mục tiêu phe ta tăng, mức tăng bằng #2[f1]% Độ Vui Vẻ của Yao Guang, và Yao Guang nhận được #3[i] Điểm Hài Hước sau khi thi triển Tấn Công Thường, Chiến Kỹ.",
     "params": [
       [
@@ -32714,7 +32714,7 @@
     "type_text": "Thiên Phú",
     "effect": "Support",
     "effect_text": "Hỗ Trợ",
-    "simple_desc": "Yao Guang khi sở hữu \"Việc Tốt Đáng Thưởng\", sau khi mục tiêu phe ta thi triển tấn công sẽ kích hoạt \"Đại Cát Đại Lợi\": Gây thêm 1 lần lượng nhỏ Sát Thương Vui Vẻ thuộc tính tương ứng lên 1 mục tiêu trúng đòn ngẫu nhiên. Nếu tiêu hao Điểm Chiến Kỹ trong lần tấn công này, hiệu ứng này sẽ được kích hoạt thêm 1 lần. Hiệu ứng này không được xem là 1 lần tấn công.",
+    "simple_desc": "Khi Yao Guang sở hữu \"Việc Tốt Đáng Thưởng\", sau khi mục tiêu phe ta thi triển tấn công sẽ kích hoạt \"Đại Cát Đại Lợi\": Gây thêm 1 lần lượng nhỏ Sát Thương Vui Vẻ thuộc tính tương ứng lên 1 mục tiêu trúng đòn ngẫu nhiên. Nếu tiêu hao Điểm Chiến Kỹ trong lần tấn công này, hiệu ứng này sẽ được kích hoạt thêm 1 lần. Hiệu ứng này không được xem là 1 lần tấn công.",
     "desc": "Khi Yao Guang sở hữu \"Việc Tốt Đáng Thưởng\": \nKhiến mục tiêu phe ta sau khi thi triển tấn công sẽ kích hoạt hiệu ứng \"Đại Cát Đại Lợi\", gây thêm 1 lần Sát Thương Vui Vẻ thuộc tính tương ứng bằng #1[f1]% lên 1 mục tiêu đã bị đánh trúng ngẫu nhiên, nếu tiêu hao Điểm Chiến Kỹ trong lần tấn công này sẽ kích hoạt thêm 1 lần hiệu ứng \"Đại Cát Đại Lợi\".\nKhi kích hoạt hiệu ứng \"Đại Cát Đại Lợi\", nếu Độ Vui Vẻ của người tấn công thấp hơn Yao Guang, thì Sát Thương Vui Vẻ lần này sẽ dùng Độ Vui Vẻ của Yao Guang để tính toán.\nKích hoạt hiệu ứng \"Đại Cát Đại Lợi\" không được xem là 1 lần tấn công.",
     "params": [
       [
@@ -32931,6 +32931,1759 @@
       ]
     ],
     "icon": "icon/skill/1502_Elation.png"
+  },
+  "150401": {
+    "id": "150401",
+    "name": "Vuốt Sắc: Truyền Thụ Lễ Nghi",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Lôi lên 1 kẻ địch chỉ định.",
+    "desc": "Gây Sát Thương Lôi bằng #1[i]% Tấn Công của Ashveil cho 1 kẻ địch chỉ định.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1504_basic_atk.png"
+  },
+  "150402": {
+    "id": "150402",
+    "name": "Tiếng Roi: Quét Sạch Ác Thú",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Khiến 1 kẻ địch chỉ định trở thành \"Mồi Ngon\", gây lượng lớn Sát Thương Lôi cho kẻ đó. Nếu mục tiêu này là \"Mồi Ngon\", sẽ gây thêm lượng nhỏ Sát Thương Lôi cho kẻ đó và hồi phục #5[i] Điểm Chiến Kỹ. Khi trong trận tồn tại \"Mồi Ngon\", toàn bộ phe địch sẽ giảm Phòng Thủ.",
+    "desc": "Khiến 1 kẻ địch chỉ định trở thành \"Mồi Ngon\", gây cho kẻ đó Sát Thương Lôi bằng #1[i]% Tấn Công của Ashveil. Nếu mục tiêu này là \"Mồi Ngon\", sẽ gây thêm cho kẻ đó Sát Thương Lôi bằng #3[i]% Tấn Công của Ashveil, và hồi phục #5[i] Điểm Chiến Kỹ. Khi trên sân tồn tại \"Mồi Ngon\", Phòng Thủ của toàn phe địch giảm #4[i]%.\nKhi trên sân không tồn tại \"Mồi Ngon\", Ashveil lập tức khiến 1 mục tiêu phe địch có HP thấp nhất trên sân hiện tại trở thành \"Mồi Ngon\", trạng thái \"Mồi Ngon\" chỉ có hiệu lực với mục tiêu được thi triển mới nhất.",
+    "params": [
+      [
+        1,
+        1,
+        0.5,
+        0.2,
+        1
+      ],
+      [
+        1.1,
+        1,
+        0.55,
+        0.22,
+        1
+      ],
+      [
+        1.2,
+        1,
+        0.6,
+        0.24,
+        1
+      ],
+      [
+        1.3,
+        1,
+        0.65,
+        0.26,
+        1
+      ],
+      [
+        1.4,
+        1,
+        0.7,
+        0.28,
+        1
+      ],
+      [
+        1.5,
+        1,
+        0.75,
+        0.3,
+        1
+      ],
+      [
+        1.625,
+        1,
+        0.8125,
+        0.325,
+        1
+      ],
+      [
+        1.75,
+        1,
+        0.875,
+        0.35,
+        1
+      ],
+      [
+        1.875,
+        1,
+        0.9375,
+        0.375,
+        1
+      ],
+      [
+        2,
+        1,
+        1,
+        0.4,
+        1
+      ],
+      [
+        2.1,
+        1,
+        1.05,
+        0.42,
+        1
+      ],
+      [
+        2.2,
+        1,
+        1.1,
+        0.44,
+        1
+      ],
+      [
+        2.3,
+        1,
+        1.15,
+        0.46,
+        1
+      ],
+      [
+        2.4,
+        1,
+        1.2,
+        0.48,
+        1
+      ],
+      [
+        2.5,
+        1,
+        1.25,
+        0.5,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1504_skill.png"
+  },
+  "150403": {
+    "id": "150403",
+    "name": "Yến Tiệc: Không Hồi Kết",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "Ultra",
+    "type_text": "Tuyệt Kỹ",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Khiến 1 kẻ địch chỉ định trở thành \"Mồi Ngon\", gây cho kẻ đó lượng lớn Sát Thương Lôi, sau đó lập tức phát động lên \"Mồi Ngon\" 1 lần Đòn Đánh Theo Sau của Thiên Phú được cường hóa, đồng thời Ashveil được Nạp Năng Lượng.\nĐòn Đánh Theo Sau của Thiên Phú được cường hóa không tiêu hao Nạp Năng Lượng, khi \"Tham Lam\" lớn hơn hoặc bằng #3[i] tầng, có thể tiêu hao #3[i] tầng \"Tham Lam\" để gây thêm lượng lớn Sát Thương Lôi, đồng thời trong quá trình Đòn Đánh Theo Sau lần này, khi gây tấn công chí tử cho mục tiêu, sẽ tiếp tục gây sát thương cho \"Mồi Ngon\" mới, cho đến khi \"Tham Lam\" dưới #3[i] tầng.",
+    "desc": "Khiến 1 kẻ địch chỉ định trở thành \"Mồi Ngon\", gây cho kẻ đó Sát Thương Lôi bằng #1[i]% Tấn Công của Ashveil, sau đó lập tức phát động 1 lần Đòn Đánh Theo Sau của Thiên Phú được cường hóa lên \"Mồi Ngon\", và Ashveil nhận #2[i] điểm Nạp Năng Lượng.\nĐòn Đánh Theo Sau của Thiên Phú được cường hóa không tiêu hao Nạp Năng Lượng. Khi \"Tham Lam\" lớn hơn hoặc bằng #3[i] tầng, có thể tiêu hao #3[i] tầng \"Tham Lam\" gây thêm 1 lần Sát Thương Lôi bằng #4[i]% Tấn Công của Ashveil, và trong quá trình Đòn Đánh Theo Sau lần này, khi gây tấn công chí tử cho mục tiêu, sẽ tiếp tục gây sát thương cho \"Mồi Ngon\" mới, cho đến khi \"Tham Lam\" dưới #3[i] tầng. Nếu sau khi tất cả mục tiêu phe địch hiện tại trên sân đều chịu tấn công chí tử, Đòn Đánh Theo Sau của Thiên Phú được cường hóa sẽ kết thúc ngay lập tức.",
+    "params": [
+      [
+        2,
+        3,
+        4,
+        1
+      ],
+      [
+        2.2,
+        3,
+        4,
+        1.1
+      ],
+      [
+        2.4,
+        3,
+        4,
+        1.2
+      ],
+      [
+        2.6,
+        3,
+        4,
+        1.3
+      ],
+      [
+        2.8,
+        3,
+        4,
+        1.4
+      ],
+      [
+        3,
+        3,
+        4,
+        1.5
+      ],
+      [
+        3.25,
+        3,
+        4,
+        1.625
+      ],
+      [
+        3.5,
+        3,
+        4,
+        1.75
+      ],
+      [
+        3.75,
+        3,
+        4,
+        1.875
+      ],
+      [
+        4,
+        3,
+        4,
+        2
+      ],
+      [
+        4.2,
+        3,
+        4,
+        2.1
+      ],
+      [
+        4.4,
+        3,
+        4,
+        2.2
+      ],
+      [
+        4.6,
+        3,
+        4,
+        2.3
+      ],
+      [
+        4.8,
+        3,
+        4,
+        2.4
+      ],
+      [
+        5,
+        3,
+        4,
+        2.5
+      ]
+    ],
+    "icon": "icon/skill/1504_ultimate.png"
+  },
+  "150404": {
+    "id": "150404",
+    "name": "Oán Hận: Báo Ứng Đáp Trả",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "Thiên Phú",
+    "type_text": "Thiên Phú",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "\"Mồi Ngon\" sau khi chịu tấn công bởi mục tiêu khác của phe ta, Ashveil sẽ hồi cố định Năng Lượng, sau đó tiêu hao Nạp Năng Lượng để phát động Đòn Đánh Theo Sau lên \"Mồi Ngon\", gây lượng lớn Sát Thương Lôi, sau đó nhận #5[i] tầng \"Tham Lam\".",
+    "desc": "Ashveil ban đầu sở hữu #1[i] điểm Nạp Năng Lượng, tối đa sở hữu #2[i] điểm Nạp Năng Lượng. Sau khi \"Mồi Ngon\" bị mục tiêu khác của phe ta tấn công, Ashveil hồi phục cố định #7[i] điểm Năng Lượng, sau đó tiêu hao #3[i] điểm Nạp Năng Lượng để phát động Đòn Đánh Theo Sau lên \"Mồi Ngon\", gây sát thương Lôi bằng #4[i]% Tấn Công của Ashveil, sau đó nhận #5[i] tầng \"Tham Lam\", tối đa cộng dồn #6[i] tầng.",
+    "params": [
+      [
+        2,
+        3,
+        1,
+        1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.3,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.4,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.5,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.625,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.75,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.875,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.3,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.4,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.5,
+        2,
+        12,
+        8
+      ]
+    ],
+    "icon": "icon/skill/1504_talent.png"
+  },
+  "150406": {
+    "id": "150406",
+    "name": "Vuốt Sắc: Truyền Thụ Lễ Nghi",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "params": [],
+    "icon": "icon/skill/1504_basic_atk.png"
+  },
+  "150407": {
+    "id": "150407",
+    "name": "Ăn Đi: Bàn Tay Đáng Ghét",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Bí Kỹ",
+    "effect": "Impair",
+    "effect_text": "Quấy Nhiễu",
+    "simple_desc": "Khiến kẻ địch trong khu vực nhất định rơi vào trạng thái Choáng. Tấn công kẻ địch đang ở trạng thái Choáng, sau khi vào chiến đấu sẽ gây lượng nhỏ Sát Thương Lôi lên toàn phe địch, đồng thời Ashveil nhận #3[i] điểm Nạp Năng Lượng.",
+    "desc": "Sau khi dùng Bí Kỹ, khiến kẻ địch trong khu vực nhất định rơi vào trạng thái Choáng #1[i] giây, kẻ địch ở trạng thái Choáng sẽ không chủ động tấn công mục tiêu phe ta.\nNếu chủ động tấn công kẻ địch ở trạng thái Choáng, khi vào chiến đấu, sẽ gây sát thương Lôi lên toàn bộ phe địch bằng #2[i]% Tấn Công của Ashveil, và Ashveil nhận #3[i] điểm Nạp Năng Lượng.",
+    "params": [
+      [
+        10,
+        1,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1504_technique.png"
+  },
+  "150501": {
+    "id": "150501",
+    "name": "Bài Tập - Kiểm Tra Đột Xuất",
+    "max_level": 10,
+    "element": "Physical",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Vật Lý cho 1 kẻ địch chỉ định.",
+    "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của Evanescia.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1505_basic_atk.png"
+  },
+  "150502": {
+    "id": "150502",
+    "name": "Kỷ Luật - Thước Đo Phán Quyết",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "Blast",
+    "effect_text": "Khuếch Tán",
+    "simple_desc": "Gây lượng lớn Sát Thương Vật Lý cho 1 kẻ địch, gây Sát Thương Vật Lý cho mục tiêu lân cận, đồng thời nhận thêm Điểm Hài Hước.",
+    "desc": "Gây Sát Thương Vật Lý cho 1 kẻ địch chỉ định bằng #2[i]% Tấn Công của Evanescia, gây Sát Thương Vật Lý cho mục tiêu lân cận bằng #3[i]% Tấn Công của Evanescia, và nhận thêm #4[i] điểm Điểm Hài Hước.",
+    "params": [
+      [
+        1,
+        1.5,
+        0.75,
+        10
+      ],
+      [
+        1,
+        1.65,
+        0.825,
+        10
+      ],
+      [
+        1,
+        1.8,
+        0.9,
+        10
+      ],
+      [
+        1,
+        1.95,
+        0.975,
+        10
+      ],
+      [
+        1,
+        2.1,
+        1.05,
+        10
+      ],
+      [
+        1,
+        2.25,
+        1.125,
+        10
+      ],
+      [
+        1,
+        2.4375,
+        1.21875,
+        10
+      ],
+      [
+        1,
+        2.625,
+        1.3125,
+        10
+      ],
+      [
+        1,
+        2.8125,
+        1.40625,
+        10
+      ],
+      [
+        1,
+        3,
+        1.5,
+        10
+      ],
+      [
+        1,
+        3.15,
+        1.575,
+        10
+      ],
+      [
+        1,
+        3.3,
+        1.65,
+        10
+      ],
+      [
+        1,
+        3.45,
+        1.725,
+        10
+      ],
+      [
+        1,
+        3.6,
+        1.8,
+        10
+      ],
+      [
+        1,
+        3.75,
+        1.875,
+        10
+      ]
+    ],
+    "icon": "icon/skill/1505_skill.png"
+  },
+  "150503": {
+    "id": "150503",
+    "name": "Kiếm Ca - Thần Quỷ Không Tha",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "Ultra",
+    "type_text": "Tuyệt Kỹ",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây Sát Thương Vật Lý lên toàn bộ phe địch, sau đó gây Sát Thương Vật Lý lên 1 kẻ địch ngẫu nhiên, tổng cộng nảy bật 5 lần.",
+    "desc": "Gây Sát Thương Vật Lý lên toàn bộ phe địch bằng #1[i]% Tấn Công của Evanescia, sau đó gây 5 lần sát thương, mỗi lần sát thương gây Sát Thương Vật Lý lên 1 kẻ địch ngẫu nhiên bằng #3[i]% Tấn Công của Evanescia.",
+    "params": [
+      [
+        0.8,
+        5,
+        0.72,
+        88
+      ],
+      [
+        0.88,
+        5,
+        0.768,
+        88
+      ],
+      [
+        0.96,
+        5,
+        0.816,
+        88
+      ],
+      [
+        1.04,
+        5,
+        0.864,
+        88
+      ],
+      [
+        1.12,
+        5,
+        0.912,
+        88
+      ],
+      [
+        1.2,
+        5,
+        0.96,
+        88
+      ],
+      [
+        1.3,
+        5,
+        1.02,
+        88
+      ],
+      [
+        1.4,
+        5,
+        1.08,
+        88
+      ],
+      [
+        1.5,
+        5,
+        1.14,
+        88
+      ],
+      [
+        1.6,
+        5,
+        1.2,
+        88
+      ],
+      [
+        1.68,
+        5,
+        1.248,
+        88
+      ],
+      [
+        1.76,
+        5,
+        1.296,
+        88
+      ],
+      [
+        1.84,
+        5,
+        1.344,
+        88
+      ],
+      [
+        1.92,
+        5,
+        1.392,
+        88
+      ],
+      [
+        2,
+        5,
+        1.44,
+        88
+      ]
+    ],
+    "icon": "icon/skill/1505_ultimate.png"
+  },
+  "150504": {
+    "id": "150504",
+    "name": "Thanh Xuân - Tuổi Trẻ Vô Hạn",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "Thiên Phú",
+    "type_text": "Thiên Phú",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Khi Evanescia nhận Năng Lượng, sẽ đồng thời nhận \"Việc Tốt Đáng Thưởng\" có giá trị tương đương; Khi Evanescia nhận \"Việc Tốt Đáng Thưởng\", sẽ đồng thời nhận Năng Lượng có giá trị tương đương. Khi tích lũy nhận số lượng Năng Lượng nhất định, \"Giáo Viên Hồ Ly\" sẽ thi triển Đòn Đánh Theo Sau gây một lượng nhỏ Sát Thương Vật Lý cho toàn bộ phe địch, đồng thời hồi Năng Lượng cho Evanescia. Khi Evanescia sở hữu \"Việc Tốt Đáng Thưởng\", thi triển Chiến Kỹ, Tuyệt Kỹ và Đòn Đánh Theo Sau của \"Giáo Viên Hồ Ly\" có thể gây một lượng nhỏ Sát Thương Vui Vẻ thuộc tính Vật Lý cho phe địch.",
+    "desc": "Evanescia nhận Độ Vui Vẻ bằng #5[i]% Sát Thương Bạo Kích. Khi Evanescia nhận Năng Lượng, sẽ đồng thời nhận \"Việc Tốt Đáng Thưởng\" có giá trị tương đương. Khi Evanescia nhận \"Việc Tốt Đáng Thưởng\", sẽ đồng thời nhận Năng Lượng có giá trị tương đương, \"Việc Tốt Đáng Thưởng\" được tính toán thông qua cách này trong một lần không vượt quá 100 điểm.\nKhi tích lũy nhận #3[i] điểm Năng Lượng, tiêu hao #3[i] điểm tích lũy, \"Giáo Viên Hồ Ly\" phát động Đòn Đánh Theo Sau gây Sát Thương Vật Lý bằng #1[i]% Tấn Công của Evanescia cho toàn bộ phe địch, hồi #4[i] điểm Năng Lượng cho Evanescia, khi nhận Năng Lượng trong một lần, tối đa nhận #3[i] điểm tích lũy. Khi Evanescia sở hữu \"Việc Tốt Đáng Thưởng\":\nThi triển Chiến Kỹ có thể gây #7[f1]% Sát Thương Vui Vẻ thuộc tính Vật Lý cho mục tiêu phe địch bị tấn công.\nThi triển Tuyệt Kỹ có thể gây #6[i]% Sát Thương Vui Vẻ thuộc tính Vật Lý cho toàn bộ phe địch, đồng thời gây #8[i]% Sát Thương Vui Vẻ thuộc tính Vật Lý cho mục tiêu phe địch ngẫu nhiên chịu sát thương từ Tuyệt Kỹ, khi Tuyệt Kỹ gây Sát Thương Vui Vẻ, ít nhất sẽ tính lượng \"Việc Tốt Đáng Thưởng\" bằng với Giới Hạn Năng Lượng.\nĐòn Đánh Theo Sau của \"Giáo Viên Hồ Ly\" có thể gây #2[i]% Sát Thương Vui Vẻ thuộc tính Vật Lý cho toàn bộ phe địch.",
+    "params": [
+      [
+        0.5,
+        0.125,
+        240,
+        10,
+        0.2,
+        0.12,
+        0.08,
+        0.14
+      ],
+      [
+        0.55,
+        0.1375,
+        240,
+        10,
+        0.2,
+        0.132,
+        0.088,
+        0.154
+      ],
+      [
+        0.6,
+        0.15,
+        240,
+        10,
+        0.2,
+        0.144,
+        0.096,
+        0.168
+      ],
+      [
+        0.65,
+        0.1625,
+        240,
+        10,
+        0.2,
+        0.156,
+        0.104,
+        0.182
+      ],
+      [
+        0.7,
+        0.175,
+        240,
+        10,
+        0.2,
+        0.168,
+        0.112,
+        0.196
+      ],
+      [
+        0.75,
+        0.1875,
+        240,
+        10,
+        0.2,
+        0.18,
+        0.12,
+        0.21
+      ],
+      [
+        0.8125,
+        0.203125,
+        240,
+        10,
+        0.2,
+        0.195,
+        0.13,
+        0.2275
+      ],
+      [
+        0.875,
+        0.21875,
+        240,
+        10,
+        0.2,
+        0.21,
+        0.14,
+        0.245
+      ],
+      [
+        0.9375,
+        0.234375,
+        240,
+        10,
+        0.2,
+        0.225,
+        0.15,
+        0.2625
+      ],
+      [
+        1,
+        0.25,
+        240,
+        10,
+        0.2,
+        0.24,
+        0.16,
+        0.28
+      ],
+      [
+        1.05,
+        0.2625,
+        240,
+        10,
+        0.2,
+        0.252,
+        0.168,
+        0.294
+      ],
+      [
+        1.1,
+        0.275,
+        240,
+        10,
+        0.2,
+        0.264,
+        0.176,
+        0.308
+      ],
+      [
+        1.15,
+        0.2875,
+        240,
+        10,
+        0.2,
+        0.276,
+        0.184,
+        0.322
+      ],
+      [
+        1.2,
+        0.3,
+        240,
+        10,
+        0.2,
+        0.288,
+        0.192,
+        0.336
+      ],
+      [
+        1.25,
+        0.3125,
+        240,
+        10,
+        0.2,
+        0.3,
+        0.2,
+        0.35
+      ]
+    ],
+    "icon": "icon/skill/1505_talent.png"
+  },
+  "150506": {
+    "id": "150506",
+    "name": "Tấn Công",
+    "max_level": 1,
+    "element": "Physical",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "params": [],
+    "icon": "icon/skill/1505_basic_atk.png"
+  },
+  "150507": {
+    "id": "150507",
+    "name": "Hoa Rơi - Người Đi Còn Lại Ký Ức",
+    "max_level": 1,
+    "element": "Physical",
+    "type": "Maze",
+    "type_text": "Bí Kỹ",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Lập tức tấn công tất cả kẻ địch trong phạm vi nhất định. Sau khi vào chiến đấu, gây lượng nhỏ Sát Thương Vật Lý cho toàn bộ phe địch và nhận \"Việc Tốt Đáng Thưởng\".",
+    "desc": "Lập tức tấn công tất cả kẻ địch trong phạm vi nhất định. Sau khi vào chiến đấu, gây Sát Thương Vật Lý cho toàn bộ phe địch bằng #1[i]% Tấn Công của Evanescia, đồng thời nhận #2[i] điểm \"Việc Tốt Đáng Thưởng\".",
+    "params": [
+      [
+        1,
+        20
+      ]
+    ],
+    "icon": "icon/skill/1505_technique.png"
+  },
+  "150510": {
+    "id": "150510",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1205_Ultra_on.png"
+  },
+  "150512": {
+    "id": "150512",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "Blast",
+    "effect_text": "Khuếch Tán",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1112_Ultra_on.png"
+  },
+  "150518": {
+    "id": "150518",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1212_Ultra_on.png"
+  },
+  "150520": {
+    "id": "150520",
+    "name": "Sắc Thắm - Không Vui Là Chém",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "ElationDamage",
+    "type_text": "Kỹ Năng Vui Vẻ",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Vật Lý cho toàn phe địch và nhận thêm \"Việc Tốt Đáng Thưởng\".",
+    "desc": "Gây #2[i]% Sát Thương Vui Vẻ thuộc tính Vật Lý cho toàn phe địch, đồng thời nhận thêm #1[i] điểm \"Việc Tốt Đáng Thưởng\".",
+    "params": [
+      [
+        5,
+        0.55
+      ],
+      [
+        5,
+        0.605
+      ],
+      [
+        5,
+        0.66
+      ],
+      [
+        5,
+        0.715
+      ],
+      [
+        5,
+        0.77
+      ],
+      [
+        5,
+        0.825
+      ],
+      [
+        5,
+        0.89375
+      ],
+      [
+        5,
+        0.9625
+      ],
+      [
+        5,
+        1.03125
+      ],
+      [
+        5,
+        1.1
+      ],
+      [
+        5,
+        1.155
+      ],
+      [
+        5,
+        1.21
+      ],
+      [
+        5,
+        1.265
+      ],
+      [
+        5,
+        1.32
+      ],
+      [
+        5,
+        1.375
+      ]
+    ],
+    "icon": "icon/skill/1505_Elation.png"
+  },
+  "150601": {
+    "id": "150601",
+    "name": "Một Đấm!",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Số Ảo cho 1 kẻ địch chỉ định.",
+    "desc": "Gây Sát Thương Số Ảo cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của \"Sói Bạc LV.999\".",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1506_basic_atk.png"
+  },
+  "150602": {
+    "id": "150602",
+    "name": "Bùng Nổ Thuộc Tính Shoot",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Nhận Điểm Hài Hước, gây Sát Thương Số Ảo cho toàn bộ phe địch.",
+    "desc": "Nhận #2[i] Điểm Hài Hước, gây Sát Thương Số Ảo cho toàn bộ phe địch bằng #1[i]% Tấn Công của \"Sói Bạc LV.999\".",
+    "params": [
+      [
+        0.8,
+        5
+      ],
+      [
+        0.88,
+        5
+      ],
+      [
+        0.96,
+        5
+      ],
+      [
+        1.04,
+        5
+      ],
+      [
+        1.12,
+        5
+      ],
+      [
+        1.2,
+        5
+      ],
+      [
+        1.3,
+        5
+      ],
+      [
+        1.4,
+        5
+      ],
+      [
+        1.5,
+        5
+      ],
+      [
+        1.6,
+        5
+      ],
+      [
+        1.68,
+        5
+      ],
+      [
+        1.76,
+        5
+      ],
+      [
+        1.84,
+        5
+      ],
+      [
+        1.92,
+        5
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "icon": "icon/skill/1506_skill.png"
+  },
+  "150603": {
+    "id": "150603",
+    "name": "Người Chơi Vô Địch: Khởi Động!",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Tuyệt Kỹ",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Biến thân và Ưu Tiên Hành Động 100%.\nTrong thời gian biến thân sẽ triển khai kết giới. Khi có \"Việc Tốt Đáng Thưởng\", mỗi khi phe ta tiêu hao 1 Điểm Chiến Kỹ, có xác suất lớn kích hoạt 1 lần \"Túi Mù Tiếp Tế Cực Phẩm\": Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo, chia đều cho toàn bộ phe địch, và ngẫu nhiên kích hoạt 1 loại hiệu ứng:\nGây Sát Thương Chuẩn cho mục tiêu có HP cao nhất dựa trên tổng lượng sát thương;\nHồi phục Điểm Chiến Kỹ;\nNhận Điểm Hài Hước.\nSau mỗi lần kích hoạt, xác suất sẽ giảm dần theo tỷ lệ.",
+    "desc": "Vào trạng thái \"Người Chơi Vô Địch\" và Ưu Tiên Hành Động 100%.\nTrong trạng thái \"Người Chơi Vô Địch\" sẽ triển khai Kết Giới. Khi \"Sói Bạc LV.999\" sở hữu \"Việc Tốt Đáng Thưởng\", mỗi khi mục tiêu phe ta trong Kết Giới tiêu hao 1 Điểm Chiến Kỹ, có xác suất kích hoạt 1 lần \"Túi Mù Tiếp Tế Cực Phẩm\" của \"Sói Bạc LV.999\": Gây #3[i]% Sát Thương Vui Vẻ thuộc tính Số Ảo, chia đều cho toàn bộ phe địch, và kích hoạt ngẫu nhiên 1 loại hiệu ứng:\n\"Kiếm Siêu Siêu To\": Gây thêm Sát Thương Chuẩn bằng #5[i]% tổng sát thương lần này cho mục tiêu phe địch có HP cao nhất;\n\"Trứng Nổ Bùm Bùm\": Hồi #7[i] Điểm Chiến Kỹ;\n\"Đậu Vị Kỳ Quái\": Nhận #6[i] Điểm Hài Hước.\nXác suất cố định ban đầu kích hoạt hiệu ứng này là 100%, sau khi kích hoạt thành công, xác suất cố định cho lần kích hoạt tiếp theo sẽ giảm còn #4[i]% của xác suất hiện tại. Nếu trước khi kích hoạt mà mục tiêu đã bị tiêu diệt, thì sẽ kích hoạt lên mục tiêu phe địch mới vào trận.",
+    "params": [
+      [
+        60,
+        0,
+        0.45,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.495,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.54,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.585,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.63,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.675,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.73125,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.7875,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.84375,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.9,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.945,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.99,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.035,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.08,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.125,
+        0.2,
+        0.2,
+        3,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1506_ultimate.png"
+  },
+  "150604": {
+    "id": "150604",
+    "name": "Tôi Gánh Team, Bao Thắng Chắc",
+    "max_level": 15,
+    "element": "",
+    "type": "Thiên Phú",
+    "type_text": "Thiên Phú",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Sau khi \"Điểm Ẩn\" đạt #1[i] điểm có thể kích hoạt Tuyệt Kỹ. Khi nhận Điểm Hài Hước sẽ nhận lượng \"Điểm Ẩn\" tương đương. \"Điểm Ẩn\" càng cao thì Tỷ Lệ Bạo Kích càng cao, sau khi Tỷ Lệ Bạo Kích đạt 100% chuyển thành tăng Sát Thương Bạo Kích.\nTrong thời gian biến thân, \"Sói Bạc LV.999\" miễn dịch Hiệu Ứng Xấu Loại Khống Chế, Tấn Công Thường và Kỹ Năng Vui Vẻ được cường hóa, sau khi thi triển #5[i] lần Tấn Công Thường Cường Hóa sẽ thoát trạng thái biến thân.\nKhi có \"Việc Tốt Đáng Thưởng\", thi triển Tấn Công Thường, Chiến Kỹ gây thêm Sát Thương Vui Vẻ thuộc tính Số Ảo, sát thương kỹ năng của Tấn Công Thường Cường Hóa chuyển thành Sát Thương Vui Vẻ.",
+    "desc": "Sau khi \"Điểm Ẩn\" đạt #1[i] điểm có thể kích hoạt Tuyệt Kỹ, sau khi đạt giới hạn còn có thể dư ra #2[i] điểm.\nKhi nhận Điểm Hài Hước, \"Sói Bạc LV.999\" sẽ nhận lượng \"Điểm Ẩn\" tương đương. Mỗi \"Điểm Ẩn\" giúp tăng #4[f2]% Tỷ Lệ Bạo Kích. Sau khi Tỷ Lệ Bạo Kích đạt 100%, mỗi \"Điểm Ẩn\" còn lại sẽ chuyển thành tăng #6[f2]% Sát Thương Bạo Kích.\nTrong trạng thái \"Người Chơi Vô Địch\", \"Sói Bạc LV.999\" miễn dịch Hiệu Ứng Xấu Loại Khống Chế, không thể thi triển Tuyệt Kỹ, sở hữu Tấn Công Thường Cường Hóa và Kỹ Năng Vui Vẻ Cường Hóa, sau khi thi triển hoàn tất #5[i] lần Tấn Công Thường Cường Hóa sẽ thoát trạng thái \"Người Chơi Vô Địch\". Khi thoát trạng thái \"Người Chơi Vô Địch\", \"Điểm Ẩn\" sẽ bị xóa sạch.\nKhi có \"Việc Tốt Đáng Thưởng\", thi triển Tấn Công Thường, Chiến Kỹ gây #3[i]% Sát Thương Vui Vẻ thuộc tính Số Ảo cho mục tiêu phe địch bị tấn công, sát thương kỹ năng của Tấn Công Thường Cường Hóa chuyển thành Sát Thương Vui Vẻ có cùng bội số.",
+    "params": [
+      [
+        60,
+        240,
+        0.2,
+        0.0019999999,
+        3,
+        0.0039999997
+      ],
+      [
+        60,
+        240,
+        0.22,
+        0.0022,
+        3,
+        0.0044
+      ],
+      [
+        60,
+        240,
+        0.24,
+        0.0024,
+        3,
+        0.0048
+      ],
+      [
+        60,
+        240,
+        0.26,
+        0.0026000002,
+        3,
+        0.0051999995
+      ],
+      [
+        60,
+        240,
+        0.28,
+        0.0028000004,
+        3,
+        0.0056
+      ],
+      [
+        60,
+        240,
+        0.3,
+        0.0029999998,
+        3,
+        0.0059999996
+      ],
+      [
+        60,
+        240,
+        0.325,
+        0.0032500003,
+        3,
+        0.0065
+      ],
+      [
+        60,
+        240,
+        0.35,
+        0.0035,
+        3,
+        0.0069999993
+      ],
+      [
+        60,
+        240,
+        0.375,
+        0.0037500006,
+        3,
+        0.0075
+      ],
+      [
+        60,
+        240,
+        0.4,
+        0.0039999997,
+        3,
+        0.007999999
+      ],
+      [
+        60,
+        240,
+        0.42,
+        0.0042,
+        3,
+        0.0084
+      ],
+      [
+        60,
+        240,
+        0.44,
+        0.0044,
+        3,
+        0.0088
+      ],
+      [
+        60,
+        240,
+        0.46,
+        0.0046,
+        3,
+        0.009199999
+      ],
+      [
+        60,
+        240,
+        0.48,
+        0.0048,
+        3,
+        0.0095999995
+      ],
+      [
+        60,
+        240,
+        0.5,
+        0.005,
+        3,
+        0.01
+      ]
+    ],
+    "icon": "icon/skill/1506_talent.png"
+  },
+  "150606": {
+    "id": "150606",
+    "name": "Tấn Công",
+    "max_level": 1,
+    "element": "Imaginary",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "params": [],
+    "icon": "icon/skill/1506_basic_atk.png"
+  },
+  "150607": {
+    "id": "150607",
+    "name": "Ôi Bạn Ơi, Đây Mới Là Bí Kỹ Tier 0",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Bí Kỹ",
+    "effect": "Summon",
+    "effect_text": "Triệu Hồi",
+    "simple_desc": "Triệu hồi \"Đậu Vị Kỳ Quái\", sử dụng lần nữa sẽ giải trừ triệu hồi. Khi dùng không tiêu hao Điểm Bí Kỹ.\n\"Đậu Vị Kỳ Quái\" sẽ tự động tìm kiếm và tấn công kẻ địch thường, tiêu hao 1 Điểm Bí Kỹ lập tức tiêu diệt kẻ địch đó mà không cần vào chiến đấu.\nSau khi vào chiến đấu, khi bắt đầu mỗi đợt sẽ kích hoạt \"Túi Mù Tiếp Tế Cực Phẩm\" tương ứng với \"Đậu Vị Kỳ Quái\".",
+    "desc": "Triệu hồi \"Đậu Vị Kỳ Quái\", sử dụng lần nữa sẽ hủy triệu hồi. Sử dụng Bí Kỹ không tiêu hao Điểm Bí Kỹ, khi Điểm Bí Kỹ bằng 0 sẽ hủy triệu hồi và không thể sử dụng Bí Kỹ.\n\"Đậu Vị Kỳ Quái\" sẽ khiến kẻ địch thường trong phạm vi nhất định rơi vào trạng thái Kinh Hãi, đồng thời tự động tìm kiếm và tấn công kẻ địch thường, tiêu hao 1 Điểm Bí Kỹ lập tức tiêu diệt kẻ địch đó mà không cần vào chiến đấu.\nKhi \"Đậu Vị Kỳ Quái\" ở trong trận, sau khi vào chiến đấu, khi bắt đầu mỗi đợt sẽ kích hoạt 1 lần \"Túi Mù Tiếp Tế Cực Phẩm\" tương ứng với \"Đậu Vị Kỳ Quái\", Sát Thương Vui Vẻ gây ra lần này tính cố định #1[i] điểm \"Việc Tốt Đáng Thưởng\".",
+    "params": [
+      [
+        99
+      ]
+    ],
+    "icon": "icon/skill/1506_technique.png"
+  },
+  "150608": {
+    "id": "150608",
+    "name": "Ải Thưởng: \"Thời Khắc Sói Tôn\"",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "Bounce",
+    "effect_text": "Nảy Bật",
+    "simple_desc": "Gây Sát Thương Số Ảo, tổng cộng nảy bật nhiều lần, trong thời gian này có thể kích hoạt #5[i] lần \"Túi Mù Tiếp Tế Cực Phẩm\". Nếu gây sát thương chí tử cho toàn bộ phe địch, giữ lại hiệu ứng còn lại tiếp tục thi triển lên mục tiêu phe địch mới vào trận. Cuối cùng gây Sát Thương Số Ảo, chia đều cho toàn bộ phe địch.\nMỗi khi \"Điểm Ẩn\" đạt số điểm nhất định, có thể tăng thêm sát thương của Tấn Công Thường Cường Hóa.",
+    "desc": "Gây Sát Thương Số Ảo tổng cộng bằng #1[i]% Tấn Công của \"Sói Bạc LV.999\", chia đều thành #3[i] đòn sát thương nảy bật lên các kẻ địch đơn lẻ ngẫu nhiên. Mỗi khi nảy bật đạt số đòn nhất định, tạm dừng nảy bật và kích hoạt 1 lần \"Túi Mù Tiếp Tế Cực Phẩm\", tổng cộng có thể kích hoạt #5[i] lần.\nNếu gây sát thương chí tử cho toàn bộ phe địch trên sân thì kết thúc kỹ năng lần này, sau khi xuất hiện mục tiêu phe địch có thể tấn công sẽ nhận 1 hiệp tăng thêm và dựa trên số đòn nảy bật còn lại và số lần \"Túi Mù Tiếp Tế Cực Phẩm\" để thi triển lại. Khi kích hoạt hiệu ứng này lần đầu mỗi hiệp, khiến tất cả hiệu ứng buff của bản thân kéo dài thêm 1 hiệp.\nSau khi tổng kết toàn bộ sát thương nói trên, sẽ phát động Đòn Đánh Cuối Cùng, gây Sát Thương Số Ảo bằng #4[i]% Tấn Công của \"Sói Bạc LV.999\", chia đều cho toàn bộ phe địch.\nTấn Công Thường Cường Hóa không thể hồi Điểm Chiến Kỹ. Mỗi khi có #6[i] \"Điểm Ẩn\", sát thương gây ra trong thời gian Tấn Công Thường Cường Hóa tăng bằng #8[i]% sát thương gốc, tối đa cộng dồn #7[i] tầng.",
+    "params": [
+      [
+        1.2,
+        0,
+        100,
+        0.5,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.44,
+        0,
+        100,
+        0.6,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.68,
+        0,
+        100,
+        0.7,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.92,
+        0,
+        100,
+        0.8,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.16,
+        0,
+        100,
+        0.9,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.4,
+        0,
+        100,
+        1,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.64,
+        0,
+        100,
+        1.1,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.88,
+        0,
+        100,
+        1.2,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        3.12,
+        0,
+        100,
+        1.3,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        3.36,
+        0,
+        100,
+        1.4,
+        3,
+        60,
+        2,
+        0.15
+      ]
+    ],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_00.png"
+  },
+  "150610": {
+    "id": "150610",
+    "name": "Kiếm Siêu Siêu To",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho toàn bộ phe địch, chia đều cho toàn bộ phe địch. Gây Sát Thương Chuẩn dựa trên tổng lượng sát thương cho mục tiêu có HP cao nhất.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_01.png"
+  },
+  "150612": {
+    "id": "150612",
+    "name": "Trứng Nổ Bùm Bùm",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho toàn bộ phe địch, chia đều cho toàn bộ phe địch. Hồi phục Điểm Chiến Kỹ.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_02.png"
+  },
+  "150618": {
+    "id": "150618",
+    "name": "Đậu Vị Kỳ Quái",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho toàn bộ phe địch, chia đều cho toàn bộ phe địch. Nhận Điểm Hài Hước.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_03.png"
+  },
+  "150620": {
+    "id": "150620",
+    "name": "Phát Lại Thao Tác Cấp Đỉnh Cao",
+    "max_level": 15,
+    "element": "",
+    "type": "ElationDamage",
+    "type_text": "Kỹ Năng Vui Vẻ",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Nhận được \"Điểm Ẩn\".",
+    "desc": "Nhận #1[i] \"Điểm Ẩn\".",
+    "params": [
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ]
+    ],
+    "icon": "icon/skill/1506_Elation.png"
+  },
+  "150621": {
+    "id": "150621",
+    "name": "Trình Diễn Sát Thương Cấp Honkai",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "ElationDamage",
+    "type_text": "Kỹ Năng Vui Vẻ",
+    "effect": "Bounce",
+    "effect_text": "Nảy Bật",
+    "simple_desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho 1 kẻ địch, nảy bật tổng cộng #2[i] lần. Đặt lại xác suất kích hoạt của \"Túi Mù Tiếp Tế Cực Phẩm\".",
+    "desc": "Gây #2[i] lần sát thương, mỗi lần gây #1[i]% Sát Thương Vui Vẻ thuộc tính Số Ảo cho 1 kẻ địch ngẫu nhiên. Đặt lại xác suất cố định kích hoạt \"Túi Mù Tiếp Tế Cực Phẩm\" về giá trị ban đầu.",
+    "params": [
+      [
+        0.45,
+        6
+      ],
+      [
+        0.495,
+        6
+      ],
+      [
+        0.54,
+        6
+      ],
+      [
+        0.585,
+        6
+      ],
+      [
+        0.63,
+        6
+      ],
+      [
+        0.675,
+        6
+      ],
+      [
+        0.73125,
+        6
+      ],
+      [
+        0.7875,
+        6
+      ],
+      [
+        0.84375,
+        6
+      ],
+      [
+        0.9,
+        6
+      ],
+      [
+        0.945,
+        6
+      ],
+      [
+        0.99,
+        6
+      ],
+      [
+        1.035,
+        6
+      ],
+      [
+        1.08,
+        6
+      ],
+      [
+        1.125,
+        6
+      ]
+    ],
+    "icon": "icon/skill/1506_Elation02.png"
   },
   "800101": {
     "id": "800101",
@@ -36046,6 +37799,1374 @@
     "params": [],
     "icon": "icon/skill/8007_skill.png"
   },
+  "800901": {
+    "id": "800901",
+    "name": "Đây Chính Là Cổ Vũ",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Lôi cho 1 kẻ địch.",
+    "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của Nhà Khai Phá.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/8009_basic_atk.png"
+  },
+  "800902": {
+    "id": "800902",
+    "name": "Cơn Bão Thật Ồn Ào",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Lôi cho toàn phe địch, nhận \"Việc Tốt Đáng Thưởng\".",
+    "desc": "Gây Sát Thương Lôi cho toàn bộ phe địch bằng #1[i]% Tấn Công của Nhà Khai Phá, nhận #2[i] điểm \"Việc Tốt Đáng Thưởng\".",
+    "params": [
+      [
+        0.3,
+        20
+      ],
+      [
+        0.33,
+        20
+      ],
+      [
+        0.36,
+        20
+      ],
+      [
+        0.39,
+        20
+      ],
+      [
+        0.42,
+        20
+      ],
+      [
+        0.45,
+        20
+      ],
+      [
+        0.4875,
+        20
+      ],
+      [
+        0.525,
+        20
+      ],
+      [
+        0.5625,
+        20
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.63,
+        20
+      ],
+      [
+        0.66,
+        20
+      ],
+      [
+        0.69,
+        20
+      ],
+      [
+        0.72,
+        20
+      ],
+      [
+        0.75,
+        20
+      ]
+    ],
+    "icon": "icon/skill/8009_skill.png"
+  },
+  "800903": {
+    "id": "800903",
+    "name": "Yên Tâm Bay Đi, Khai Phá Mãi Đồng Hành!",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Tuyệt Kỹ",
+    "effect": "Support",
+    "effect_text": "Hỗ Trợ",
+    "simple_desc": "Nhận Điểm Hài Hước, khiến 1 đồng đội chỉ định tăng Sát Thương Bạo Kích, đồng thời giải trừ Hiệu Ứng Xấu Loại Khống Chế của mục tiêu này. Nếu mục tiêu có Kỹ Năng Vui Vẻ, mục tiêu nhận thêm \"Việc Tốt Đáng Thưởng\", đồng thời khiến mục tiêu lập tức thi triển Kỹ Năng Vui Vẻ, nếu không sẽ khiến mục tiêu Ưu Tiên Hành Động.",
+    "desc": "Nhận #6[i] Điểm Hài Hước, khiến Sát Thương Bạo Kích của 1 đồng đội chỉ định tăng #1[i]%, duy trì #2[i] hiệp, đồng thời giải trừ Hiệu Ứng Xấu Loại Khống Chế của mục tiêu này.\nNếu mục tiêu có Kỹ Năng Vui Vẻ, mục tiêu nhận thêm #4[i] điểm \"Việc Tốt Đáng Thưởng\", đồng thời khiến mục tiêu lập tức thi triển 1 lần Kỹ Năng Vui Vẻ được tính cố định #5[i] Điểm Hài Hước, nếu mục tiêu phe địch bị tiêu diệt trước khi thi triển Kỹ Năng Vui Vẻ, thì sẽ phát động Kỹ Năng Vui Vẻ lên mục tiêu phe địch mới vào trận.\nNếu mục tiêu không có Kỹ Năng Vui Vẻ, khiến mục tiêu đó Ưu Tiên Hành Động #3[i]%.",
+    "params": [
+      [
+        0.3,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.32,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.34,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.36,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.38,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.4,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.425,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.45,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.475,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.5,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.52,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.54,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.56,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.58,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.6,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ]
+    ],
+    "icon": "icon/skill/8009_ultimate.png"
+  },
+  "800904": {
+    "id": "800904",
+    "name": "Anh Hùng Mỉm Cười, Sinh Tử Khó Lường",
+    "max_level": 15,
+    "element": "",
+    "type": "Thiên Phú",
+    "type_text": "Thiên Phú",
+    "effect": "Support",
+    "effect_text": "Hỗ Trợ",
+    "simple_desc": "Sau khi thi triển tấn công sẽ hồi Năng Lượng và nhận Điểm Hài Hước.\nKhi Nhà Khai Phá sở hữu \"Việc Tốt Đáng Thưởng\", Chiến Kỹ sẽ gây thêm lượng nhỏ Sát Thương Vui Vẻ thuộc tính Lôi cho toàn bộ phe địch.",
+    "desc": "Sau khi thi triển tấn công, hồi phục cố định #1[i] điểm Năng Lượng và nhận #2[i] Điểm Hài Hước.\nKhi Nhà Khai Phá sở hữu \"Việc Tốt Đáng Thưởng\", Chiến Kỹ gây thêm #3[i]% Sát Thương Vui Vẻ thuộc tính Lôi cho toàn bộ phe địch, sát thương này sử dụng giá trị \"Việc Tốt Đáng Thưởng\" cao nhất của phe ta để tính toán.",
+    "params": [
+      [
+        10,
+        3,
+        0.15
+      ],
+      [
+        10,
+        3,
+        0.165
+      ],
+      [
+        10,
+        3,
+        0.18
+      ],
+      [
+        10,
+        3,
+        0.195
+      ],
+      [
+        10,
+        3,
+        0.21
+      ],
+      [
+        10,
+        3,
+        0.225
+      ],
+      [
+        10,
+        3,
+        0.24375
+      ],
+      [
+        10,
+        3,
+        0.2625
+      ],
+      [
+        10,
+        3,
+        0.28125
+      ],
+      [
+        10,
+        3,
+        0.3
+      ],
+      [
+        10,
+        3,
+        0.315
+      ],
+      [
+        10,
+        3,
+        0.33
+      ],
+      [
+        10,
+        3,
+        0.345
+      ],
+      [
+        10,
+        3,
+        0.36
+      ],
+      [
+        10,
+        3,
+        0.375
+      ]
+    ],
+    "icon": "icon/skill/8009_talent.png"
+  },
+  "800906": {
+    "id": "800906",
+    "name": "Tấn Công",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "params": [],
+    "icon": "icon/skill/8009_Maze02.png"
+  },
+  "800907": {
+    "id": "800907",
+    "name": "Cháy Lên Nào!",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Bí Kỹ",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Sau khi dùng Bí Kỹ, lần tới khi vào chiến đấu sẽ tăng Độ Vui Vẻ cho toàn bộ phe ta.",
+    "desc": "Sau khi sử dụng Bí Kỹ sẽ nhận ngẫu nhiên 1 loại hiệu ứng sau:\nXác suất nhỏ nhận \"Cười Vang Sảng Khoái\": Độ Vui Vẻ tăng #1[i]%.\nXác suất lớn nhận \"Không Nhịn Được Cười\": Độ Vui Vẻ tăng #3[i]%.\nKhi bắt đầu trận chiến tiếp theo, khiến toàn phe ta tăng Độ Vui Vẻ theo giá trị tương ứng, duy trì #5[i] hiệp.",
+    "params": [
+      [
+        0.3,
+        0.1,
+        0.2,
+        0.1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/8009_technique.png"
+  },
+  "800920": {
+    "id": "800920",
+    "name": "Tôi Nói Vui Vẻ, Không Nghe Thấy À?",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "ElationDamage",
+    "type_text": "Kỹ Năng Vui Vẻ",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây sát thương nhiều lần, mỗi lần gây lượng nhỏ Sát Thương Vui Vẻ thuộc tính Lôi cho 1 kẻ địch ngẫu nhiên, cuối cùng gây Sát Thương Vui Vẻ thuộc tính Lôi chia đều cho toàn bộ phe địch.",
+    "desc": "Gây #1[i] lần sát thương, mỗi lần gây #2[i]% Sát Thương Vui Vẻ thuộc tính Lôi cho 1 kẻ địch ngẫu nhiên. Cuối cùng gây #3[i]% Sát Thương Vui Vẻ thuộc tính Lôi, chia đều cho toàn bộ phe địch.",
+    "params": [
+      [
+        8,
+        0.1,
+        0.3
+      ],
+      [
+        8,
+        0.11,
+        0.33
+      ],
+      [
+        8,
+        0.12,
+        0.36
+      ],
+      [
+        8,
+        0.13,
+        0.39
+      ],
+      [
+        8,
+        0.14,
+        0.42
+      ],
+      [
+        8,
+        0.15,
+        0.45
+      ],
+      [
+        8,
+        0.1625,
+        0.4875
+      ],
+      [
+        8,
+        0.175,
+        0.525
+      ],
+      [
+        8,
+        0.1875,
+        0.5625
+      ],
+      [
+        8,
+        0.2,
+        0.6
+      ],
+      [
+        8,
+        0.21,
+        0.63
+      ],
+      [
+        8,
+        0.22,
+        0.66
+      ],
+      [
+        8,
+        0.23,
+        0.69
+      ],
+      [
+        8,
+        0.24,
+        0.72
+      ],
+      [
+        8,
+        0.25,
+        0.75
+      ]
+    ],
+    "icon": "icon/skill/8009_Elation.png"
+  },
+  "801001": {
+    "id": "801001",
+    "name": "Đây Chính Là Cổ Vũ",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Lôi cho 1 kẻ địch.",
+    "desc": "Gây Sát Thương Lôi cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của Nhà Khai Phá.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/8009_basic_atk.png"
+  },
+  "801002": {
+    "id": "801002",
+    "name": "Cơn Bão Thật Ồn Ào",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Lôi cho toàn phe địch, nhận \"Việc Tốt Đáng Thưởng\".",
+    "desc": "Gây Sát Thương Lôi cho toàn bộ phe địch bằng #1[i]% Tấn Công của Nhà Khai Phá, nhận #2[i] điểm \"Việc Tốt Đáng Thưởng\".",
+    "params": [
+      [
+        0.3,
+        20
+      ],
+      [
+        0.33,
+        20
+      ],
+      [
+        0.36,
+        20
+      ],
+      [
+        0.39,
+        20
+      ],
+      [
+        0.42,
+        20
+      ],
+      [
+        0.45,
+        20
+      ],
+      [
+        0.4875,
+        20
+      ],
+      [
+        0.525,
+        20
+      ],
+      [
+        0.5625,
+        20
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.63,
+        20
+      ],
+      [
+        0.66,
+        20
+      ],
+      [
+        0.69,
+        20
+      ],
+      [
+        0.72,
+        20
+      ],
+      [
+        0.75,
+        20
+      ]
+    ],
+    "icon": "icon/skill/8009_skill.png"
+  },
+  "801003": {
+    "id": "801003",
+    "name": "Yên Tâm Bay Đi, Khai Phá Mãi Đồng Hành!",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Tuyệt Kỹ",
+    "effect": "Support",
+    "effect_text": "Hỗ Trợ",
+    "simple_desc": "Nhận Điểm Hài Hước, khiến 1 đồng đội chỉ định tăng Sát Thương Bạo Kích, đồng thời giải trừ Hiệu Ứng Xấu Loại Khống Chế của mục tiêu này. Nếu mục tiêu có Kỹ Năng Vui Vẻ, mục tiêu nhận thêm \"Việc Tốt Đáng Thưởng\", đồng thời khiến mục tiêu lập tức thi triển Kỹ Năng Vui Vẻ, nếu không sẽ khiến mục tiêu Ưu Tiên Hành Động.",
+    "desc": "Nhận #6[i] Điểm Hài Hước, khiến Sát Thương Bạo Kích của 1 đồng đội chỉ định tăng #1[i]%, duy trì #2[i] hiệp, đồng thời giải trừ Hiệu Ứng Xấu Loại Khống Chế của mục tiêu này.\nNếu mục tiêu có Kỹ Năng Vui Vẻ, mục tiêu nhận thêm #4[i] điểm \"Việc Tốt Đáng Thưởng\", đồng thời khiến mục tiêu lập tức thi triển 1 lần Kỹ Năng Vui Vẻ được tính cố định #5[i] Điểm Hài Hước, nếu mục tiêu phe địch bị tiêu diệt trước khi thi triển Kỹ Năng Vui Vẻ, thì sẽ phát động Kỹ Năng Vui Vẻ lên mục tiêu phe địch mới vào trận.\nNếu mục tiêu không có Kỹ Năng Vui Vẻ, khiến mục tiêu đó Ưu Tiên Hành Động #3[i]%.",
+    "params": [
+      [
+        0.3,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.32,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.34,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.36,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.38,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.4,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.425,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.45,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.475,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.5,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.52,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.54,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.56,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.58,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.6,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ]
+    ],
+    "icon": "icon/skill/8009_ultimate.png"
+  },
+  "801004": {
+    "id": "801004",
+    "name": "Anh Hùng Mỉm Cười, Sinh Tử Khó Lường",
+    "max_level": 15,
+    "element": "",
+    "type": "Thiên Phú",
+    "type_text": "Thiên Phú",
+    "effect": "Support",
+    "effect_text": "Hỗ Trợ",
+    "simple_desc": "Sau khi thi triển tấn công sẽ hồi Năng Lượng và nhận Điểm Hài Hước.\nKhi Nhà Khai Phá sở hữu \"Việc Tốt Đáng Thưởng\", Chiến Kỹ sẽ gây thêm lượng nhỏ Sát Thương Vui Vẻ thuộc tính Lôi cho toàn bộ phe địch.",
+    "desc": "Sau khi thi triển tấn công, hồi phục cố định #1[i] điểm Năng Lượng và nhận #2[i] Điểm Hài Hước.\nKhi Nhà Khai Phá sở hữu \"Việc Tốt Đáng Thưởng\", Chiến Kỹ gây thêm #3[i]% Sát Thương Vui Vẻ thuộc tính Lôi cho toàn bộ phe địch, sát thương này sử dụng giá trị \"Việc Tốt Đáng Thưởng\" cao nhất của phe ta để tính toán.",
+    "params": [
+      [
+        10,
+        3,
+        0.15
+      ],
+      [
+        10,
+        3,
+        0.165
+      ],
+      [
+        10,
+        3,
+        0.18
+      ],
+      [
+        10,
+        3,
+        0.195
+      ],
+      [
+        10,
+        3,
+        0.21
+      ],
+      [
+        10,
+        3,
+        0.225
+      ],
+      [
+        10,
+        3,
+        0.24375
+      ],
+      [
+        10,
+        3,
+        0.2625
+      ],
+      [
+        10,
+        3,
+        0.28125
+      ],
+      [
+        10,
+        3,
+        0.3
+      ],
+      [
+        10,
+        3,
+        0.315
+      ],
+      [
+        10,
+        3,
+        0.33
+      ],
+      [
+        10,
+        3,
+        0.345
+      ],
+      [
+        10,
+        3,
+        0.36
+      ],
+      [
+        10,
+        3,
+        0.375
+      ]
+    ],
+    "icon": "icon/skill/8009_talent.png"
+  },
+  "801006": {
+    "id": "801006",
+    "name": "Tấn Công",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "params": [],
+    "icon": "icon/skill/8009_Maze02.png"
+  },
+  "801007": {
+    "id": "801007",
+    "name": "Cháy Lên Nào!",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Bí Kỹ",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Sau khi dùng Bí Kỹ, lần tới khi vào chiến đấu sẽ tăng Độ Vui Vẻ cho toàn bộ phe ta.",
+    "desc": "Sau khi sử dụng Bí Kỹ sẽ nhận ngẫu nhiên 1 loại hiệu ứng sau:\nXác suất nhỏ nhận \"Cười Vang Sảng Khoái\": Độ Vui Vẻ tăng #1[i]%.\nXác suất lớn nhận \"Không Nhịn Được Cười\": Độ Vui Vẻ tăng #3[i]%.\nKhi bắt đầu trận chiến tiếp theo, khiến toàn phe ta tăng Độ Vui Vẻ theo giá trị tương ứng, duy trì #5[i] hiệp.",
+    "params": [
+      [
+        0.3,
+        0.1,
+        0.2,
+        0.1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/8009_technique.png"
+  },
+  "801020": {
+    "id": "801020",
+    "name": "Tôi Nói Vui Vẻ, Không Nghe Thấy À?",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "ElationDamage",
+    "type_text": "Kỹ Năng Vui Vẻ",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây sát thương nhiều lần, mỗi lần gây lượng nhỏ Sát Thương Vui Vẻ thuộc tính Lôi cho 1 kẻ địch ngẫu nhiên, cuối cùng gây Sát Thương Vui Vẻ thuộc tính Lôi chia đều cho toàn bộ phe địch.",
+    "desc": "Gây #1[i] lần sát thương, mỗi lần gây #2[i]% Sát Thương Vui Vẻ thuộc tính Lôi cho 1 kẻ địch ngẫu nhiên. Cuối cùng gây #3[i]% Sát Thương Vui Vẻ thuộc tính Lôi, chia đều cho toàn bộ phe địch.",
+    "params": [
+      [
+        8,
+        0.1,
+        0.3
+      ],
+      [
+        8,
+        0.11,
+        0.33
+      ],
+      [
+        8,
+        0.12,
+        0.36
+      ],
+      [
+        8,
+        0.13,
+        0.39
+      ],
+      [
+        8,
+        0.14,
+        0.42
+      ],
+      [
+        8,
+        0.15,
+        0.45
+      ],
+      [
+        8,
+        0.1625,
+        0.4875
+      ],
+      [
+        8,
+        0.175,
+        0.525
+      ],
+      [
+        8,
+        0.1875,
+        0.5625
+      ],
+      [
+        8,
+        0.2,
+        0.6
+      ],
+      [
+        8,
+        0.21,
+        0.63
+      ],
+      [
+        8,
+        0.22,
+        0.66
+      ],
+      [
+        8,
+        0.23,
+        0.69
+      ],
+      [
+        8,
+        0.24,
+        0.72
+      ],
+      [
+        8,
+        0.25,
+        0.75
+      ]
+    ],
+    "icon": "icon/skill/8009_Elation.png"
+  },
+  "1100401": {
+    "id": "1100401",
+    "name": "Trọng Lực Áp Chế",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Số Ảo cho 1 kẻ địch.",
+    "desc": "Gây Sát Thương Số Ảo cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của Welt.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1004_basic_atk.png"
+  },
+  "1100402": {
+    "id": "1100402",
+    "name": "Biên Giới Hư Không",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "Bounce",
+    "effect_text": "Nảy Bật",
+    "simple_desc": "Gây một lượng nhỏ Sát Thương Số Ảo cho 1 kẻ địch, tổng cộng nảy bật 5 lần, có xác suất thi triển trạng thái Giảm Tốc cho mục tiêu.",
+    "desc": "Gây Sát Thương Số Ảo cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của Welt, đồng thời gây thêm 4 lần sát thương. Mỗi lần sát thương sẽ gây cho 1 kẻ địch ngẫu nhiên Sát Thương Số Ảo bằng #1[i]% Tấn Công của Welt. Khi tấn công chính xác có #2[i]% xác suất cơ bản khiến Tốc Độ của kẻ địch bị tấn công giảm #3[i]%, duy trì #4[i] hiệp.",
+    "params": [
+      [
+        0.36,
+        0.65,
+        0.1,
+        2
+      ],
+      [
+        0.396,
+        0.66,
+        0.1,
+        2
+      ],
+      [
+        0.432,
+        0.67,
+        0.1,
+        2
+      ],
+      [
+        0.468,
+        0.68,
+        0.1,
+        2
+      ],
+      [
+        0.504,
+        0.69,
+        0.1,
+        2
+      ],
+      [
+        0.54,
+        0.7,
+        0.1,
+        2
+      ],
+      [
+        0.585,
+        0.7125,
+        0.1,
+        2
+      ],
+      [
+        0.63,
+        0.725,
+        0.1,
+        2
+      ],
+      [
+        0.675,
+        0.7375,
+        0.1,
+        2
+      ],
+      [
+        0.72,
+        0.75,
+        0.1,
+        2
+      ],
+      [
+        0.756,
+        0.76,
+        0.1,
+        2
+      ],
+      [
+        0.792,
+        0.77,
+        0.1,
+        2
+      ],
+      [
+        0.828,
+        0.78,
+        0.1,
+        2
+      ],
+      [
+        0.864,
+        0.79,
+        0.1,
+        2
+      ],
+      [
+        0.9,
+        0.8,
+        0.1,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1004_skill.png"
+  },
+  "1100403": {
+    "id": "1100403",
+    "name": "Lỗ Đen Mô Phỏng",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "Ultra",
+    "type_text": "Tuyệt Kỹ",
+    "effect": "AoEAttack",
+    "effect_text": "Đánh Lan",
+    "simple_desc": "Gây Sát Thương Số Ảo cho toàn phe địch, có xác suất lớn thi triển hiệu ứng Giam Cầm. Khiến toàn phe địch rơi vào trạng thái \"Mất Trọng Lượng\": Khi chịu tấn công sẽ bị Trì Hoãn Hành Động.",
+    "desc": "Gây Sát Thương Số Ảo cho toàn bộ phe địch bằng #1[i]% Tấn Công của Welt, có #3[i]% xác suất cơ bản khiến mục tiêu phe địch chịu tấn công rơi vào trạng thái Giam Cầm, duy trì 1 hiệp.\nTrong trạng thái Giam Cầm, mục tiêu phe địch bị Trì Hoãn Hành Động #2[f1]%, Tốc Độ giảm #4[i]%. Sau khi thi triển Tuyệt Kỹ sẽ khiến toàn bộ phe địch rơi vào trạng thái \"Mất Trọng Lượng\", mục tiêu phe địch trong trạng thái \"Mất Trọng Lượng\" khi chịu tấn công sẽ bị Trì Hoãn Hành Động #5[f1]%, hiệu ứng này với mỗi mục tiêu trong mỗi hiệp kích hoạt tối đa #6[i] lần, trạng thái \"Mất Trọng Lượng\" duy trì #7[i] hiệp.",
+    "params": [
+      [
+        0.9,
+        0.06,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        0.96,
+        0.066,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.02,
+        0.072,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.08,
+        0.078,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.14,
+        0.084,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.2,
+        0.09,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.275,
+        0.0975,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.35,
+        0.105,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.425,
+        0.1125,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.5,
+        0.12,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.56,
+        0.126,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.62,
+        0.132,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.68,
+        0.138,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.74,
+        0.144,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.8,
+        0.15,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1004_ultimate.png"
+  },
+  "1100404": {
+    "id": "1100404",
+    "name": "Bẻ Cong Thời Không",
+    "max_level": 15,
+    "element": "",
+    "type": "Thiên Phú",
+    "type_text": "Thiên Phú",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Mục tiêu phe địch ở trạng thái \"Mất Trọng Lượng\" bị giảm Phòng Thủ và Tốc Độ. Khi đánh trúng mục tiêu phe địch ở trạng thái Giảm Tốc, sẽ gây thêm một lượng nhỏ Sát Thương Kèm Theo Số Ảo.",
+    "desc": "Mục tiêu phe địch trong trạng thái \"Mất Trọng Lượng\" Phòng Thủ giảm #2[i]%, Tốc Độ giảm #3[i]%. Khi Welt đánh trúng mục tiêu phe địch trong trạng thái Giảm Tốc, sẽ gây thêm 1 lần Sát Thương Kèm Theo Số Ảo bằng #1[i]% Tấn Công của Welt.",
+    "params": [
+      [
+        0.5,
+        0.4,
+        0.05
+      ],
+      [
+        0.55,
+        0.4,
+        0.05
+      ],
+      [
+        0.6,
+        0.4,
+        0.05
+      ],
+      [
+        0.65,
+        0.4,
+        0.05
+      ],
+      [
+        0.7,
+        0.4,
+        0.05
+      ],
+      [
+        0.75,
+        0.4,
+        0.05
+      ],
+      [
+        0.8125,
+        0.4,
+        0.05
+      ],
+      [
+        0.875,
+        0.4,
+        0.05
+      ],
+      [
+        0.9375,
+        0.4,
+        0.05
+      ],
+      [
+        1,
+        0.4,
+        0.05
+      ],
+      [
+        1.05,
+        0.4,
+        0.05
+      ],
+      [
+        1.1,
+        0.4,
+        0.05
+      ],
+      [
+        1.15,
+        0.4,
+        0.05
+      ],
+      [
+        1.2,
+        0.4,
+        0.05
+      ],
+      [
+        1.25,
+        0.4,
+        0.05
+      ]
+    ],
+    "icon": "icon/skill/1004_talent.png"
+  },
+  "1100406": {
+    "id": "1100406",
+    "name": "Tấn Công",
+    "max_level": 1,
+    "element": "Imaginary",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "params": [],
+    "icon": "icon/skill/1004_basic_atk.png"
+  },
+  "1100407": {
+    "id": "1100407",
+    "name": "Ngục Tù Trói Buộc",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Bí Kỹ",
+    "effect": "Impair",
+    "effect_text": "Quấy Nhiễu",
+    "simple_desc": "Tạo một vùng đặc biệt. Giảm tốc độ di chuyển của kẻ địch trong khu vực. Sau khi vào chiến đấu với kẻ địch trong vùng, sẽ có xác suất lớn khiến kẻ địch rơi vào trạng thái Giam Cầm.",
+    "desc": "Sau khi dùng Bí Kỹ sẽ tạo ra 1 vùng đặc biệt duy trì trong #4[i]s. Tốc Độ Di Chuyển của kẻ địch trong vùng đặc biệt sẽ bị giảm #5[i]%. Khi vào chiến đấu với kẻ địch trong vùng đặc biệt, có #1[i]% xác suất cơ bản khiến kẻ địch bị Giam Cầm, duy trì 1 hiệp.\nTrong trạng thái Giam Cầm, kẻ địch bị Trì Hoãn Hành Động #2[i]%, Tốc Độ giảm #3[i]%. Cùng một lúc chỉ có thể tồn tại 1 hiệu ứng vùng do phe ta tạo ra.",
+    "params": [
+      [
+        1,
+        0.2,
+        0.1,
+        15,
+        0.5
+      ]
+    ],
+    "icon": "icon/skill/1004_technique.png"
+  },
   "1100501": {
     "id": "1100501",
     "name": "Náo Động Giữa Đêm",
@@ -36921,6 +40042,323 @@
       ]
     ],
     "icon": "icon/skill/1006_technique.png"
+  },
+  "1110201": {
+    "id": "1110201",
+    "name": "Tập Kích Mạnh Mẽ",
+    "max_level": 10,
+    "element": "Quantum",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Lượng Tử cho 1 kẻ địch.",
+    "desc": "Gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của Seele.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1102_basic_atk.png"
+  },
+  "1110202": {
+    "id": "1110202",
+    "name": "Lưỡi Kiếm Trở Về",
+    "max_level": 15,
+    "element": "Quantum",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng lớn Sát Thương Lượng Tử cho 1 kẻ địch, đồng thời tăng Tốc Độ của bản thân. Sau khi mục tiêu phe ta tấn công, nếu Phần Trăm HP hiện tại của mục tiêu bị tấn công nhỏ hơn hoặc bằng #4[i]%, Seele tự động thi triển 1 lần Chiến Kỹ lên mục tiêu đó.",
+    "desc": "Tăng #2[i]% Tốc Độ của Seele, đồng thời gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của Seele, hiệu ứng tăng Tốc Độ duy trì #3[i] hiệp.\nSau khi mục tiêu phe ta tấn công, nếu Phần Trăm HP hiện tại của mục tiêu bị tấn công nhỏ hơn hoặc bằng #4[i]%, thì Seele tự động thi triển 1 lần Chiến Kỹ lên mục tiêu đó, Chiến Kỹ lần này không tiêu hao Điểm Chiến Kỹ và không hồi Năng Lượng, hiệu ứng này mỗi hiệp tối đa kích hoạt 1 lần, khi bắt đầu hiệp của Seele sẽ làm mới số lần có thể kích hoạt. Nếu không tồn tại mục tiêu có thể tấn công, thì tấn công 1 kẻ địch có HP thấp nhất.",
+    "params": [
+      [
+        1.8,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        1.98,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.16,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.34,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.52,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.7,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.925,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.15,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.375,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.6,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.78,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.96,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.14,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.32,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.5,
+        0.25,
+        3,
+        0.5
+      ]
+    ],
+    "icon": "icon/skill/1102_skill.png"
+  },
+  "1110203": {
+    "id": "1110203",
+    "name": "Loạn Điệp",
+    "max_level": 15,
+    "element": "Quantum",
+    "type": "Ultra",
+    "type_text": "Tuyệt Kỹ",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Vào trạng thái Buff, gây lượng lớn Sát Thương Lượng Tử cho 1 kẻ địch.",
+    "desc": "Vào trạng thái Buff ngay, đồng thời gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của Seele.",
+    "params": [
+      [
+        3.6
+      ],
+      [
+        3.96
+      ],
+      [
+        4.32
+      ],
+      [
+        4.68
+      ],
+      [
+        5.04
+      ],
+      [
+        5.4
+      ],
+      [
+        5.85
+      ],
+      [
+        6.3
+      ],
+      [
+        6.75
+      ],
+      [
+        7.2
+      ],
+      [
+        7.56
+      ],
+      [
+        7.92
+      ],
+      [
+        8.28
+      ],
+      [
+        8.64
+      ],
+      [
+        9
+      ]
+    ],
+    "icon": "icon/skill/1102_ultimate.png"
+  },
+  "1110204": {
+    "id": "1110204",
+    "name": "Tái Hiện",
+    "max_level": 15,
+    "element": "",
+    "type": "Thiên Phú",
+    "type_text": "Thiên Phú",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Khi thi triển Tấn Công Thường, Chiến Kỹ, Tuyệt Kỹ tiêu diệt kẻ địch, sẽ nhận hiệp tăng thêm và vào trạng thái Buff, ở trạng thái Buff, sẽ tăng sát thương do bản thân gây ra.",
+    "desc": "Thi triển Tấn Công Thường, Chiến Kỹ, Tuyệt Kỹ tiêu diệt mục tiêu phe địch sẽ nhận ngay 1 hiệp tăng thêm và vào trạng thái Buff, trong trạng thái Buff, sát thương do Seele gây ra tăng #1[i]%, duy trì #2[i] hiệp.\nNếu Seele tiêu diệt mục tiêu phe địch trong hiệp tăng thêm nhận từ Thiên Phú \"Tái Hiện\", thì Thiên Phú này sẽ không có hiệu lực.",
+    "params": [
+      [
+        0.4,
+        3
+      ],
+      [
+        0.44,
+        3
+      ],
+      [
+        0.48,
+        3
+      ],
+      [
+        0.52,
+        3
+      ],
+      [
+        0.56,
+        3
+      ],
+      [
+        0.6,
+        3
+      ],
+      [
+        0.65,
+        3
+      ],
+      [
+        0.7,
+        3
+      ],
+      [
+        0.75,
+        3
+      ],
+      [
+        0.8,
+        3
+      ],
+      [
+        0.84,
+        3
+      ],
+      [
+        0.88,
+        3
+      ],
+      [
+        0.92,
+        3
+      ],
+      [
+        0.96,
+        3
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/1102_talent.png"
+  },
+  "1110206": {
+    "id": "1110206",
+    "name": "Tấn Công",
+    "max_level": 1,
+    "element": "Quantum",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "params": [],
+    "icon": "icon/skill/1102_basic_atk.png"
+  },
+  "1110207": {
+    "id": "1110207",
+    "name": "Bóng Hình Ảo Ảnh",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Bí Kỹ",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Vào trạng thái Tàng Hình. Sau khi tấn công kẻ địch vào chiến đấu, lập tức tiến vào trạng thái Buff đồng thời gây lượng lớn Sát Thương Lượng Tử chắc chắn Bạo Kích cho mục tiêu ngẫu nhiên.",
+    "desc": "Sau khi dùng Bí Kỹ sẽ vào trạng thái Tàng Hình trong #1[i] giây. Ở trạng thái Tàng Hình sẽ không bị kẻ địch phát hiện, và khi chủ động tấn công kẻ địch vào chiến đấu, Seele sẽ lập tức vào trạng thái Buff và gây cho mục tiêu phe địch ngẫu nhiên 1 lần Sát Thương Lượng Tử bằng Bội Số Sát Thương Chiến Kỹ của Seele, sát thương này chắc chắn Bạo Kích.",
+    "params": [
+      [
+        20
+      ]
+    ],
+    "icon": "icon/skill/1102_technique.png"
   },
   "1120501": {
     "id": "1120501",
@@ -37977,6 +41415,446 @@
     ],
     "icon": "icon/skill/1212_skill.png"
   },
+  "1121701": {
+    "id": "1121701",
+    "name": "Cờ Lệnh - Hô Mưa Gọi Gió",
+    "max_level": 10,
+    "element": "Wind",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Phong lên 1 kẻ địch.",
+    "desc": "Gây cho 1 kẻ địch chỉ định Sát Thương Phong bằng #1[i]% Giới Hạn HP của Huohuo.",
+    "params": [
+      [
+        0.25
+      ],
+      [
+        0.3
+      ],
+      [
+        0.35
+      ],
+      [
+        0.4
+      ],
+      [
+        0.45
+      ],
+      [
+        0.5
+      ],
+      [
+        0.55
+      ],
+      [
+        0.6
+      ],
+      [
+        0.65
+      ],
+      [
+        0.7
+      ]
+    ],
+    "icon": "icon/skill/1217_basic_atk.png"
+  },
+  "1121702": {
+    "id": "1121702",
+    "name": "Linh Phù - Hộ Thân",
+    "max_level": 15,
+    "element": "",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "Restore",
+    "effect_text": "Hồi Phục",
+    "simple_desc": "Giải trừ 1 Hiệu Ứng Xấu cho 1 đồng đội, đồng thời hồi phục HP cho 1 đồng đội và mục tiêu ở gần.",
+    "desc": "Giải trừ #5[i] Hiệu Ứng Xấu cho 1 đồng đội chỉ định, lập tức hồi phục cho 1 đồng đội chỉ định một lượng HP bằng #1[f1]% Giới Hạn HP của Huohuo +#2[i], đồng thời hồi phục cho mục tiêu ở gần một lượng HP bằng #3[f1]% Giới Hạn HP của Huohuo +#4[i].",
+    "params": [
+      [
+        0.16,
+        160,
+        0.128,
+        128,
+        1
+      ],
+      [
+        0.17,
+        256,
+        0.13599999,
+        204.8,
+        1
+      ],
+      [
+        0.18,
+        328,
+        0.144,
+        262.4,
+        1
+      ],
+      [
+        0.19,
+        400,
+        0.152,
+        320,
+        1
+      ],
+      [
+        0.2,
+        448,
+        0.16,
+        358.4,
+        1
+      ],
+      [
+        0.208,
+        496,
+        0.1664,
+        396.8,
+        1
+      ],
+      [
+        0.216,
+        532,
+        0.1728,
+        425.6,
+        1
+      ],
+      [
+        0.224,
+        568,
+        0.1792,
+        454.4,
+        1
+      ],
+      [
+        0.232,
+        604,
+        0.1856,
+        483.2,
+        1
+      ],
+      [
+        0.24,
+        640,
+        0.192,
+        512,
+        1
+      ],
+      [
+        0.248,
+        676,
+        0.1984,
+        540.8,
+        1
+      ],
+      [
+        0.256,
+        712,
+        0.2048,
+        569.6,
+        1
+      ],
+      [
+        0.264,
+        748,
+        0.2112,
+        598.4,
+        1
+      ],
+      [
+        0.272,
+        784,
+        0.2176,
+        627.2,
+        1
+      ],
+      [
+        0.28,
+        820,
+        0.224,
+        656,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1217_skill.png"
+  },
+  "1121703": {
+    "id": "1121703",
+    "name": "Lão Đuôi - Chế Ngự Tâm Linh",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Tuyệt Kỹ",
+    "effect": "Support",
+    "effect_text": "Hỗ Trợ",
+    "simple_desc": "Hồi phục Năng Lượng cho đồng đội ngoài bản thân, đồng thời tăng Tấn Công cho mỗi người.",
+    "desc": "Hồi phục Năng Lượng cho đồng đội ngoài bản thân bằng #1[f1]% Giới Hạn Năng Lượng của mỗi người, đồng thời tăng #2[f1]% Tấn Công cho mỗi người, duy trì #3[i] hiệp.",
+    "params": [
+      [
+        0.15,
+        0.24,
+        2
+      ],
+      [
+        0.155,
+        0.256,
+        2
+      ],
+      [
+        0.16,
+        0.272,
+        2
+      ],
+      [
+        0.165,
+        0.288,
+        2
+      ],
+      [
+        0.17,
+        0.304,
+        2
+      ],
+      [
+        0.175,
+        0.32,
+        2
+      ],
+      [
+        0.18125,
+        0.34,
+        2
+      ],
+      [
+        0.1875,
+        0.36,
+        2
+      ],
+      [
+        0.19375,
+        0.38,
+        2
+      ],
+      [
+        0.2,
+        0.4,
+        2
+      ],
+      [
+        0.205,
+        0.416,
+        2
+      ],
+      [
+        0.21,
+        0.432,
+        2
+      ],
+      [
+        0.215,
+        0.448,
+        2
+      ],
+      [
+        0.22,
+        0.464,
+        2
+      ],
+      [
+        0.225,
+        0.48,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1217_ultimate.png"
+  },
+  "1121704": {
+    "id": "1121704",
+    "name": "Nhập Thể - Kết Nối Siêu Hình",
+    "max_level": 15,
+    "element": "",
+    "type": "Thiên Phú",
+    "type_text": "Thiên Phú",
+    "effect": "Restore",
+    "effect_text": "Hồi Phục",
+    "simple_desc": "Sau khi thi triển Chiến Kỹ hoặc Tuyệt Kỹ, Huohuo sẽ nhận \"Cầu Mệnh\". Khi Huohuo có \"Cầu Mệnh\", mục tiêu phe ta bắt đầu hiệp hoặc thi triển Tuyệt Kỹ sẽ hồi phục HP cho bản thân và mục tiêu phe ta có Phần Trăm HP thấp nhất, sau đó sinh ra 1 lần hiệu ứng hồi phục lên mỗi mục tiêu có HP tương đối thấp của phe ta. Khi kích hoạt \"Cầu Mệnh\" trị liệu cho mục tiêu phe ta, sẽ giải trừ 1 Hiệu Ứng Xấu của mục tiêu này.",
+    "desc": "Sau khi thi triển Chiến Kỹ hoặc Tuyệt Kỹ, Huohuo nhận \"Cầu Mệnh\", duy trì #1[i] hiệp, mỗi khi Huohuo bắt đầu hiệp, số hiệp duy trì giảm 1. Khi Huohuo có \"Cầu Mệnh\", mục tiêu phe ta bắt đầu hiệp hoặc thi triển Tuyệt Kỹ, sẽ hồi HP bằng #3[f1]% Giới Hạn HP của Huohuo +#5[i] cho bản thân và mục tiêu phe ta có Phần Trăm HP thấp nhất, sau đó khiến mỗi mục tiêu phe ta có Phần Trăm HP hiện tại nhỏ hơn hoặc bằng #6[i]% hồi HP bằng #3[f1]% Giới Hạn HP của Huohuo +#5[i].\nKhi kích hoạt \"Cầu Mệnh\" trị liệu cho mục tiêu phe ta, sẽ giải trừ #2[i] Hiệu Ứng Xấu của mục tiêu này, hiệu ứng này có thể kích hoạt #7[i] lần, sau khi nhận lại \"Cầu Mệnh\" sẽ làm mới số lần kích hoạt hiệu ứng.",
+    "params": [
+      [
+        3,
+        1,
+        0.03,
+        0,
+        30,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.031875,
+        0,
+        48,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.03375,
+        0,
+        61.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.035625,
+        0,
+        75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0375,
+        0,
+        84,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.039,
+        0,
+        93,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0405,
+        0,
+        99.75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.042,
+        0,
+        106.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0435,
+        0,
+        113.25,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.044999998,
+        0,
+        120,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0465,
+        0,
+        126.75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.048,
+        0,
+        133.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0495,
+        0,
+        140.25,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.051,
+        0,
+        147,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.052500002,
+        0,
+        153.75,
+        0.5,
+        6
+      ]
+    ],
+    "icon": "icon/skill/1217_talent.png"
+  },
+  "1121706": {
+    "id": "1121706",
+    "name": "Tấn Công",
+    "max_level": 1,
+    "element": "Wind",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "params": [],
+    "icon": "icon/skill/1217_basic_atk.png"
+  },
+  "1121707": {
+    "id": "1121707",
+    "name": "Hung Sát - Trấn Áp Yêu Tà",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Bí Kỹ",
+    "effect": "Impair",
+    "effect_text": "Quấy Nhiễu",
+    "simple_desc": "Khiến kẻ địch xung quanh rơi vào trạng thái \"Phách Tán\". Sau khi vào chiến đấu với kẻ địch ở trạng thái \"Phách Tán\", có xác suất lớn giảm Tấn Công của kẻ địch.",
+    "desc": "Huohuo hù dọa kẻ địch xung quanh, khiến kẻ địch rơi vào trạng thái \"Phách Tán\". Kẻ địch ở trạng thái \"Phách Tán\" sẽ trốn chạy thật xa khỏi Huohuo, duy trì #4[i] giây. Sau khi vào chiến đấu với kẻ địch ở trạng thái \"Phách Tán\", có #1[i]% xác suất cơ bản giảm #2[i]% Tấn Công của mỗi một kẻ địch, duy trì #3[i] hiệp.",
+    "params": [
+      [
+        1,
+        0.25,
+        2,
+        10
+      ]
+    ],
+    "icon": "icon/skill/1217_technique.png"
+  },
   "1130601": {
     "id": "1130601",
     "name": "Hài Độc Thoại",
@@ -38837,6 +42715,620 @@
       ]
     ],
     "icon": "icon/skill/1307_technique.png"
+  },
+  "1131001": {
+    "id": "1131001",
+    "name": "Chỉ Lệnh: Lực Đẩy Bùng Phát",
+    "max_level": 10,
+    "element": "Fire",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Gây lượng nhỏ Sát Thương Hỏa cho 1 kẻ địch.",
+    "desc": "Gây Sát Thương Hỏa bằng #1[i]% Tấn Công của Chiến Giáp SAM cho một kẻ địch chỉ định.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1310_basic_atk.png"
+  },
+  "1131002": {
+    "id": "1131002",
+    "name": "Chỉ Lệnh: Oanh Tạc Trên Không",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Tiêu hao một phần HP của bản thân để hồi Năng Lượng, gây Sát Thương Hỏa cho một kẻ địch. Khiến bản thân lần sau Ưu Tiên Hành Động.",
+    "desc": "Tiêu hao HP bằng #2[i]% Giới Hạn HP của bản thân để hồi phục cố định một lượng Năng Lượng bằng #3[i]% Giới Hạn Năng Lượng của bản thân, gây Sát Thương Hỏa bằng #1[i]% Tấn Công của Chiến Giáp SAM cho một kẻ địch chỉ định. Nếu HP hiện tại không đủ, khi thi triển Chiến Kỹ thì HP hiện tại của Chiến Giáp SAM sẽ giảm còn 1 điểm. Khiến bản thân lần sau Ưu Tiên Hành Động #4[i]%.",
+    "params": [
+      [
+        1,
+        0.4,
+        0.5,
+        0.25
+      ],
+      [
+        1.1,
+        0.4,
+        0.51,
+        0.25
+      ],
+      [
+        1.2,
+        0.4,
+        0.52,
+        0.25
+      ],
+      [
+        1.3,
+        0.4,
+        0.53,
+        0.25
+      ],
+      [
+        1.4,
+        0.4,
+        0.54,
+        0.25
+      ],
+      [
+        1.5,
+        0.4,
+        0.55,
+        0.25
+      ],
+      [
+        1.625,
+        0.4,
+        0.5625,
+        0.25
+      ],
+      [
+        1.75,
+        0.4,
+        0.575,
+        0.25
+      ],
+      [
+        1.875,
+        0.4,
+        0.5875,
+        0.25
+      ],
+      [
+        2,
+        0.4,
+        0.6,
+        0.25
+      ],
+      [
+        2.1,
+        0.4,
+        0.61,
+        0.25
+      ],
+      [
+        2.2,
+        0.4,
+        0.62,
+        0.25
+      ],
+      [
+        2.3,
+        0.4,
+        0.63,
+        0.25
+      ],
+      [
+        2.4,
+        0.4,
+        0.64,
+        0.25
+      ],
+      [
+        2.5,
+        0.4,
+        0.65,
+        0.25
+      ]
+    ],
+    "icon": "icon/skill/1310_skill.png"
+  },
+  "1131003": {
+    "id": "1131003",
+    "name": "Đom Đóm IV: Thiêu Đốt Hoàn Toàn",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Tuyệt Kỹ",
+    "effect": "Enhance",
+    "effect_text": "Cường Hóa",
+    "simple_desc": "Bước vào trạng thái \"Thiêu Đốt Hoàn Toàn\", khiến bản thân ưu tiên hành động 100%, nhận được Tấn Công Thường Cường Hóa và Chiến Kỹ Cường Hóa, đồng thời tăng Tốc Độ, Hiệu Suất Phá Vỡ Điểm Yếu của bản thân, và Sát Thương Phá Vỡ mà kẻ địch phải chịu, cho đến khi đếm ngược kết thúc.",
+    "desc": "Bước vào trạng thái \"Thiêu Đốt Hoàn Toàn\", bản thân ưu tiên hành động 100% đồng thời nhận được Tấn Công Thường Cường Hóa và Chiến Kỹ Cường Hóa. Ở trạng thái \"Thiêu Đốt Hoàn Toàn\", Tốc Độ tăng #3[i] điểm, hơn nữa khi thi triển Tấn Công Thường Cường Hóa và Chiến Kỹ Cường Hóa, hiệu suất Phá Vỡ Điểm Yếu của bản thân tăng #2[i]%, khiến Sát Thương Phá Vỡ mà kẻ địch phải chịu do Chiến Giáp SAM gây ra tăng #1[f1]%, duy trì đến khi kết thúc lần tấn công này.\nỞ thứ tự hành động xuất hiện đếm ngược \"Thiêu Đốt Hoàn Toàn\", khi hiệp đếm ngược bắt đầu, Chiến Giáp SAM sẽ giải trừ trạng thái \"Thiêu Đốt Hoàn Toàn\", đếm ngược sở hữu cố định #4[i] Tốc Độ.\nỞ trạng thái Thiêu Đốt Hoàn Toàn, Chiến Giáp SAM không thể thi triển Tuyệt Kỹ.",
+    "params": [
+      [
+        0.1,
+        0.5,
+        30,
+        70
+      ],
+      [
+        0.11,
+        0.5,
+        33,
+        70
+      ],
+      [
+        0.12,
+        0.5,
+        36,
+        70
+      ],
+      [
+        0.13,
+        0.5,
+        39,
+        70
+      ],
+      [
+        0.14,
+        0.5,
+        42,
+        70
+      ],
+      [
+        0.15,
+        0.5,
+        45,
+        70
+      ],
+      [
+        0.1625,
+        0.5,
+        48.75,
+        70
+      ],
+      [
+        0.175,
+        0.5,
+        52.5,
+        70
+      ],
+      [
+        0.1875,
+        0.5,
+        56.25,
+        70
+      ],
+      [
+        0.2,
+        0.5,
+        60,
+        70
+      ],
+      [
+        0.21,
+        0.5,
+        63,
+        70
+      ],
+      [
+        0.22,
+        0.5,
+        66,
+        70
+      ],
+      [
+        0.23,
+        0.5,
+        69,
+        70
+      ],
+      [
+        0.24,
+        0.5,
+        72,
+        70
+      ],
+      [
+        0.25,
+        0.5,
+        75,
+        70
+      ]
+    ],
+    "icon": "icon/skill/1310_ultimate.png"
+  },
+  "1131004": {
+    "id": "1131004",
+    "name": "Trung Khu Kén Lửa",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "Thiên Phú",
+    "type_text": "Thiên Phú",
+    "effect": "Defence",
+    "effect_text": "Phòng Thủ",
+    "simple_desc": "HP càng thấp, sát thương phải chịu càng thấp. Hiệu ứng Giảm Sát Thương trong trạng thái \"Thiêu Đốt Hoàn Toàn\" duy trì mức tối đa, tăng Kháng Hiệu Ứng. Nếu Năng Lượng không đủ #2[i]% thì khi bắt đầu chiến đấu, năng lượng sẽ hồi đến #2[i]%. Khi Năng Lượng hồi đến giới hạn sẽ giải trừ tất cả Hiệu Ứng Xấu của bản thân.",
+    "desc": "HP càng thấp, sát thương phải chịu càng thấp, khi HP từ #3[i]% trở xuống, hiệu ứng Giảm Sát Thương sẽ đạt mức tối đa, tối đa giảm #1[i]%. Hiệu ứng Giảm Sát Thương trong trạng thái \"Thiêu Đốt Hoàn Toàn\" duy trì mức tối đa, Kháng Hiệu Ứng tăng #4[i]%.\nNếu Năng Lượng không đủ #2[i]% thì khi bắt đầu chiến đấu, Năng Lượng sẽ hồi đến #2[i]%. Khi Năng Lượng hồi đến giới hạn sẽ giải trừ tất cả Hiệu Ứng Xấu của bản thân.",
+    "params": [
+      [
+        0.2,
+        0.5,
+        0.2,
+        0.1
+      ],
+      [
+        0.22,
+        0.5,
+        0.2,
+        0.12
+      ],
+      [
+        0.24,
+        0.5,
+        0.2,
+        0.14
+      ],
+      [
+        0.26,
+        0.5,
+        0.2,
+        0.16
+      ],
+      [
+        0.28,
+        0.5,
+        0.2,
+        0.18
+      ],
+      [
+        0.3,
+        0.5,
+        0.2,
+        0.2
+      ],
+      [
+        0.325,
+        0.5,
+        0.2,
+        0.225
+      ],
+      [
+        0.35,
+        0.5,
+        0.2,
+        0.25
+      ],
+      [
+        0.375,
+        0.5,
+        0.2,
+        0.275
+      ],
+      [
+        0.4,
+        0.5,
+        0.2,
+        0.3
+      ],
+      [
+        0.42,
+        0.5,
+        0.2,
+        0.32
+      ],
+      [
+        0.44,
+        0.5,
+        0.2,
+        0.34
+      ],
+      [
+        0.46,
+        0.5,
+        0.2,
+        0.36
+      ],
+      [
+        0.48,
+        0.5,
+        0.2,
+        0.38
+      ],
+      [
+        0.5,
+        0.5,
+        0.2,
+        0.4
+      ]
+    ],
+    "icon": "icon/skill/1310_talent.png"
+  },
+  "1131006": {
+    "id": "1131006",
+    "name": "Tấn Công",
+    "max_level": 1,
+    "element": "Fire",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+    "params": [],
+    "icon": "icon/skill/1310_Normal02.png"
+  },
+  "1131007": {
+    "id": "1131007",
+    "name": "Δ Chỉ Lệnh: Thiêu Đốt Sao Băng",
+    "max_level": 1,
+    "element": "Fire",
+    "type": "Maze",
+    "type_text": "Bí Kỹ",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Nhảy lên không trung và di chuyển tự do, sau vài giây sẽ đáp xuống và tấn công tất cả kẻ địch trong phạm vi, khi bắt đầu mỗi đợt sẽ thêm Điểm Yếu Hỏa cho toàn phe địch, đồng thời gây Sát Thương Hỏa cho toàn phe địch.",
+    "desc": "Nhảy lên không trung và thực hiện di chuyển tự do, duy trì #1[i] giây, lúc này dùng tấn công từ trên cao sẽ kết thúc sớm thời gian duy trì. Sau khi hết thời gian duy trì, sẽ đáp xuống và tấn công ngay tất cả kẻ địch trong phạm vi nhất định, khi bắt đầu mỗi đợt sẽ thêm Điểm Yếu Hỏa cho toàn phe địch, duy trì #3[i] hiệp, sau đó sẽ gây Sát Thương Hỏa bằng #2[i]% Tấn Công của Chiến Giáp SAM cho toàn phe địch.",
+    "params": [
+      [
+        5,
+        2,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1310_technique.png"
+  },
+  "1131008": {
+    "id": "1131008",
+    "name": "Đom Đóm IV - Nhát Chém Kích Nổ",
+    "max_level": 10,
+    "element": "Fire",
+    "type": "Normal",
+    "type_text": "Tấn Công Thường",
+    "effect": "SingleAttack",
+    "effect_text": "Đánh Đơn",
+    "simple_desc": "Hồi một phần HP cho bản thân, gây Sát Thương Hỏa cho 1 kẻ địch.",
+    "desc": "Hồi HP bằng #2[i]% Giới Hạn HP của bản thân. Gây Sát Thương Hỏa bằng #1[i]% Tấn Công của Chiến Giáp SAM cho 1 kẻ địch chỉ định.",
+    "params": [
+      [
+        1,
+        0.2
+      ],
+      [
+        1.2,
+        0.2
+      ],
+      [
+        1.4,
+        0.2
+      ],
+      [
+        1.6,
+        0.2
+      ],
+      [
+        1.8,
+        0.2
+      ],
+      [
+        2,
+        0.2
+      ],
+      [
+        2.2,
+        0.2
+      ],
+      [
+        2.4,
+        0.2
+      ],
+      [
+        2.6,
+        0.2
+      ],
+      [
+        2.8,
+        0.2
+      ]
+    ],
+    "icon": "icon/skill/1310_Normal02.png"
+  },
+  "1131009": {
+    "id": "1131009",
+    "name": "Đom Đóm IV - Sao Chết Quá Tải",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "BPSkill",
+    "type_text": "Chiến Kỹ",
+    "effect": "Blast",
+    "effect_text": "Khuếch Tán",
+    "simple_desc": "Hồi một phần HP cho bản thân, thêm Điểm Yếu Hỏa cho 1 kẻ địch và các mục tiêu ở gần, đồng thời gây lượng lớn Sát Thương Hỏa cho kẻ đó, gây Sát Thương Hỏa cho các mục tiêu ở gần.",
+    "desc": "Hồi HP bằng 25% Giới Hạn HP của bản thân. Thêm Điểm Yếu Hỏa cho 1 kẻ địch chỉ định và các mục tiêu ở gần kẻ đó, duy trì 2 hiệp. Gây Sát Thương Hỏa bằng (#5[f1]*Tấn Công Kích Phá + #1[f1]%) Tấn Công của Chiến Giáp SAM cho mục tiêu này. Đồng thời gây Sát Thương Hỏa bằng (#6[f1]*Tấn Công Kích Phá + #2[f1]%) Tấn Công của Chiến Giáp SAM cho các mục tiêu ở gần kẻ đó. Tối đa tính #7[i]% Tấn Công Kích Phá.",
+    "params": [
+      [
+        1,
+        0.5,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.1,
+        0.55,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.2,
+        0.6,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.3,
+        0.65,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.4,
+        0.7,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.5,
+        0.75,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.625,
+        0.8125,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.75,
+        0.875,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.875,
+        0.9375,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2,
+        1,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.1,
+        1.05,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.2,
+        1.1,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.3,
+        1.15,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.4,
+        1.2,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.5,
+        1.25,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ]
+    ],
+    "icon": "icon/skill/1310_skill.png"
   },
   "1140201": {
     "id": "1140201",

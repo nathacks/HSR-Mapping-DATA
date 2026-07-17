@@ -1139,6 +1139,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22007": {
+    "id": "22007",
+    "name": "未來，有我們一起",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "一份大禮唰地降落在直播頻道。\n<i>「是粉絲們特別訂製給大家的三週年蛋糕！」</i>\n\n過往點滴都在此刻化為動力，牽引著所有人一同行向未來。\n<i>「願新的一年，大家能快快樂樂，平平安安地前進帕！」</i>\n<i>「放心吧列車長，三月兔會把這一刻都記錄下來～」</i>\n\n溫馨的氛圍下，眾人一齊舉杯，歡聲笑語充斥著每一處角落。\n<i>「在這個值得慶祝的日子裡，讓我們舉杯。」</i>\n<i>「為星月滿天的明日——」</i>\n<i>「乾杯！」</i>",
+    "icon": "icon/light_cone/22007.png",
+    "preview": "image/light_cone_preview/22007.png",
+    "portrait": "image/light_cone_portrait/22007.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "銀河鐵道之夜",
@@ -1799,6 +1811,42 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "23056": {
+    "id": "23056",
+    "name": "一場謊言的終幕",
+    "rarity": 5,
+    "path": "Rogue",
+    "desc": "<i>「《偵探推理入門》是怎麼說的來著？非到不得已之時……」</i>\n紅與黑交織的獠牙，正一寸寸攀上肩頭。\n\n夜色沉溺之處，疑雲湧現。幽暗的森林中，惡獸藏匿。\n<i>「你追我趕的遊戲，該結束了。」</i>\n血色褪去，天幕上月光依舊皎潔，星星安然沉睡。 \n\n這是他對真相的又一次尋索，但過去的影子拍拍他的肩膀，隨之消散而去。\n今時此刻的周旋，直到——\n\n<i>「直到……為罪惡降下懲罰的那天。」</i>",
+    "icon": "icon/light_cone/23056.png",
+    "preview": "image/light_cone_preview/23056.png",
+    "portrait": "image/light_cone_portrait/23056.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23057": {
+    "id": "23057",
+    "name": "歡迎來到銀河城",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "城市上空，少女張揚的身影自傳送門中脫出。\n車馬洪流，人影綽綽，喧鬧一如既往。\n<i>「看著確實熱鬧，不過——」</i>\n\n面前的螢幕亮起，人們的喜怒哀樂化成星星點點流向其中。\n<i>「連NPC的疲憊值都快登頂了……」</i>\n<i>「無聊到爆的副本，我可不玩。」</i>\n\n跟隨手指划動，城市燈光忽明忽滅。\n不為人知的角落中傳出一聲驚呼，而後，呼聲震震，響徹天際。\n<i>「所有玩家幸運值翻倍，特別天賦隨機，獎勵滿點……」</i>\n<i>「載入遊戲成功！就現在，玩轉全場！」</i>\n\n少女縱身躍下，熟悉的提示音環繞在耳畔。\n屬於她的遊戲時刻，已然開啟。",
+    "icon": "icon/light_cone/23057.png",
+    "preview": "image/light_cone_preview/23057.png",
+    "portrait": "image/light_cone_portrait/23057.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23058": {
+    "id": "23058",
+    "name": "邂逅於下一個花季",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "微風吹過潔白的窗紗，牽動少女的思緒。\n她望向窗外有說有笑的人群，寫寫畫畫的筆不自覺地停留某處。\n<i>「這是……第幾次坐在這裡了？」</i>\n\n恍然間，飄落的花瓣略過她的鼻尖，仿若回應，仿若提醒。\n一場盛大的遊戲、一期一會的際遇、花開花謝的日夜……\n她回憶著自己和這片土地的故事，從一片空白，到五彩繽紛，每一次沉睡，她都在期待著明天的到來。\n\n<i>「呀，漫畫更新了，畫完小可愛們就去看吧……」</i>\n少女收到提醒，晃了晃耳朵，停滯的筆尖再度躍動。\n\n<i>「許願……下一個花季，我要追完所有的高分新作！」</i>",
+    "icon": "icon/light_cone/23058.png",
+    "preview": "image/light_cone_preview/23058.png",
+    "portrait": "image/light_cone_portrait/23058.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "24000": {
     "id": "24000",
     "name": "記一位星神的殞落",
@@ -1868,6 +1916,18 @@
     "icon": "icon/light_cone/24005.png",
     "preview": "image/light_cone_preview/24005.png",
     "portrait": "image/light_cone_portrait/24005.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "24006": {
+    "id": "24006",
+    "name": "歡愉滿溢祝福",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "天才們的指尖下，資料平穩運轉，永無止息。\n面具潛藏在「事件」的罅隙，觀摩每一場亟待發展的可能。\n\n剖析、演算、解答、提問、這何嘗不是天才們的舞台？\n歡呼、淚水、怒吼、哀嚎……生命的喜怒哀樂盡數綻放。\n\n默劇變得喧鬧，歡愉滿溢祝福。這是最引人入勝的一幕嗎？\n答案依舊是——無可預料！",
+    "icon": "icon/light_cone/24006.png",
+    "preview": "image/light_cone_preview/24006.png",
+    "portrait": "image/light_cone_portrait/24006.png",
     "max_rank": 5,
     "max_promotion": 6
   }

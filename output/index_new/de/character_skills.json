@@ -432,8 +432,8 @@
     "type_text": "Fertigkeit",
     "effect": "SingleAttack",
     "effect_text": "Einzelangriff",
-    "simple_desc": "Fügt einem Gegner Wind-SCH zu. Nach einem KRIT wird das Ziel mit hoher Wahrscheinlichkeit verlangsamt.",
-    "desc": "Fügt einem anvisierten Gegner Wind-SCH in Höhe von #1[i]% von Dan Hengs ANG zu.\nVerringert die GES des Ziels mit einer Grundchance von #4[i]% für #3[i] Rd. um #2[i]%, wenn der durch Fertigkeiten verursachte SCH einen Kritischen Treffer auslöst.",
+    "simple_desc": "Fügt einem Gegner Wind-SCH zu und verlangsamt ihn mit hoher Chance bei einem Kritischen Treffer.",
+    "desc": "Fügt einem anvisierten Gegner Wind-SCH in Höhe von #1[i]% von Dan Hengs ANG zu.\nReduziert die GES des getroffenen Gegners mit einer Grundchance von #4[i]% für #3[i] Rd. um #2[i]%, wenn der durch Fertigkeiten verursachte SCH einen Kritischen Treffer auslöst.",
     "params": [
       [
         1.3,
@@ -1070,7 +1070,7 @@
     "type_text": "Fertigkeit",
     "effect": "Bounce",
     "effect_text": "Abpraller",
-    "simple_desc": "Fügt einem Gegner geringen imaginären SCH zu. Dieser Angriff kann 3-mal abprallen und hat eine Chance, betroffene Ziele zu verlangsamen.",
+    "simple_desc": "Fügt einem Gegner geringen imaginären SCH zu, der 3-mal abprallt. Hat eine Chance, Ziele zu verlangsamen.",
     "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von #1[i]% von Welts ANG zu und verursacht zusätzlich 2-mal SCH. Jedes Mal wird einem zufälligen Gegner imaginärer SCH in Höhe von #1[i]% von Welts ANG zugefügt. Beim Treffen hat eine Grundchance von #2[i]%, die GES des getroffenen Ziels für #4[i] Rd. um #3[i]% zu reduzieren.",
     "params": [
       [
@@ -1176,7 +1176,7 @@
     "effect": "AoEAttack",
     "effect_text": "Flächenangriff",
     "simple_desc": "Fügt allen Gegnern imaginären SCH zu und verursacht mit hoher Chance Gefangenschaft.",
-    "desc": "Fügt allen Gegnern imaginären SCH in Höhe von #1[i]% von Welts ANG zu und verursacht bei getroffenen Gegnern mit einer Grundchance von #3[i]% den Status Gefangenschaft, der für 1 Rd. hält.\nDie Aktionen der gefangenen Gegner werden um #2[f1]% verzögert und ihre GES sinkt um #4[i]%.",
+    "desc": "Fügt allen Gegnern imaginären SCH in Höhe von #1[i]% von Welts ANG zu und verursacht bei getroffenen Gegnern mit einer Grundchance von #3[i]% den Status Gefangenschaft, der 1 Rd. anhält.\nDie Aktionen der Gegner im Status Gefangenschaft werden um #2[f1]% verzögert und ihre GES um #4[i]% reduziert.",
     "params": [
       [
         0.9,
@@ -1281,7 +1281,7 @@
     "effect": "Enhance",
     "effect_text": "Verstärkung",
     "simple_desc": "Fügt einem verlangsamten Gegner zusätzlich geringen imaginären SCH zu.",
-    "desc": "Fügt dem getroffenen Gegner 1-mal zusätzlichen imaginären SCH in Höhe von #1[i]% von Welts ANG zu, wenn der Gegner verlangsamt wird.",
+    "desc": "Wenn ein verlangsamter Gegner getroffen wird, wird noch 1-mal zusätzlicher imaginärer SCH in Höhe von #1[i]% von Welts ANG verursacht.",
     "params": [
       [
         0.3
@@ -4365,8 +4365,8 @@
     "type_text": "Fertigkeit",
     "effect": "SingleAttack",
     "effect_text": "Einzelangriff",
-    "simple_desc": "Fügt einem Gegner Quanten-SCH zu und erhöht die GES.",
-    "desc": "Erhöht Seeles GES für #3[i] Rd. um #2[i]% und fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% ihres ANG zu.",
+    "simple_desc": "Fügt einem Gegner Quanten-SCH zu und erhöht die eigene GES.",
+    "desc": "Erhöht Seeles GES für #3[i] Rd. um #2[i]% und fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% von Seeles ANG zu.",
     "params": [
       [
         1.1,
@@ -4455,8 +4455,8 @@
     "type_text": "Ultimate",
     "effect": "SingleAttack",
     "effect_text": "Einzelangriff",
-    "simple_desc": "Tritt in den verstärkten Zustand ein und fügt einem Gegner massiven Quanten-SCH zu.",
-    "desc": "Tritt in den verstärkten Zustand ein und fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% von Seeles ANG zu.",
+    "simple_desc": "Tritt in den Verstärkten Zustand ein und fügt einem Gegner massiven Quanten-SCH zu.",
+    "desc": "Tritt in den Verstärkten Zustand ein und fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% von Seeles ANG zu.",
     "params": [
       [
         2.55
@@ -4515,8 +4515,8 @@
     "type_text": "Talent",
     "effect": "Enhance",
     "effect_text": "Verstärkung",
-    "simple_desc": "Seele tritt beim Besiegen eines Gegners durch Standardangriff, Fertigkeit oder Ultimate in den verstärkten Zustand ein und erhält unmittelbar eine zusätzliche Runde. Während des verstärkten Zustands wird ihr SCH erhöht.",
-    "desc": "Seele tritt beim Besiegen eines Gegners durch Standardangriff, Fertigkeit oder Ultimate in den verstärkten Zustand ein und erhält unmittelbar eine zusätzliche Runde. Während des verstärkten Zustands wird ihr SCH für #2[i] Rd. um #1[i]% erhöht.\nGegner, die in der zusätzlichen Runde des Talents „Erneute Erscheinung“ besiegt werden, lösen das Talent nicht aus.",
+    "simple_desc": "Tritt beim Besiegen eines Gegners durch Standardangriff, Fertigkeit oder Ultimate in den Verstärkten Zustand ein und erhält eine zusätzliche Runde. Während des Verstärkten Zustands wird der verursachte SCH dieser Einheit erhöht.",
+    "desc": "Tritt beim Besiegen eines Gegners durch Standardangriff, Fertigkeit oder Ultimate in den Verstärkten Zustand ein und erhält sofort eine zusätzliche Runde. Während des Verstärkten Zustands wird Seeles durch Angriffe verursachter SCH für #2[i] Rd. um #1[i]% erhöht.\nGegner, die in der zusätzlichen Runde des Talents „Erneute Erscheinung“ besiegt werden, lösen dieses Talent nicht aus.",
     "params": [
       [
         0.4,
@@ -4604,8 +4604,8 @@
     "type_text": "Technik",
     "effect": "Enhance",
     "effect_text": "Verstärkung",
-    "simple_desc": "Tritt in den Zustand Tarnung ein. Seele tritt zu Beginn des Kampfs sofort in den verstärkten Zustand ein, wenn sie einen Gegner aktiv angreift.",
-    "desc": "Nach dem Einsatz der Technik erhält Seele für #1[i] s Tarnung. Während Tarnung aktiv ist, ist Seele für Gegner unsichtbar und tritt zu Beginn des Kampfs sofort in den verstärkten Zustand ein, wenn sie einen Gegner aktiv angreift.",
+    "simple_desc": "Tritt in den Status Tarnung ein. Nachdem diese Einheit durch einen Angriff auf Gegner in den Kampf eingetreten ist, tritt sie sofort in den Verstärkten Zustand ein.",
+    "desc": "Nach dem Einsatz der Technik erhält Seele für #1[i] Sek. Tarnung. Während Tarnung aktiv ist, ist Seele für Gegner unsichtbar. Wenn sie durch einen aktiven Angriff auf Gegner in den Kampf eintritt, tritt Seele sofort in den Verstärkten Zustand ein.",
     "params": [
       [
         20
@@ -14153,7 +14153,7 @@
     "effect": "Restore",
     "effect_text": "Wiederherstellung",
     "simple_desc": "Entfernt 1 Debuff von einem Verbündeten und stellt die LP dieses Verbündeten und angrenzender Verbündeter wieder her.",
-    "desc": "Entfernt #5[i] Debuff(s) von einem Verbündeten und stellt bei ihm sofort LP in Höhe von #1[f1]% von Huohuos max. LP plus #2[i] wieder her. Stellt gleichzeitig bei angrenzenden Verbündeten LP in Höhe von #3[f1]% von Huohuos max. LP plus #4[i] wieder her.",
+    "desc": "Entfernt #5[i] Debuff von einem anvisierten Verbündeten und stellt bei ihm sofort LP in Höhe von #1[f1]% von Huohuos max. LP plus #2[i] wieder her. Stellt gleichzeitig bei angrenzenden Verbündeten LP in Höhe von #3[f1]% von Huohuos max. LP plus #4[i] wieder her.",
     "params": [
       [
         0.14,
@@ -14272,8 +14272,8 @@
     "type_text": "Ultimate",
     "effect": "Support",
     "effect_text": "Unterstützung",
-    "simple_desc": "Energie-Wiederherstellung für alle Verbündeten außer Huohuo und ANG-Erhöhung.",
-    "desc": "Stellt Energie für alle Verbündeten außer Huohuo in Höhe von #1[f1]% ihrer jeweiligen max. Energie wieder her. Erhöht gleichzeitig den ANG für #3[i] Rd. um #2[f1]%.",
+    "simple_desc": "Stellt bei allen Teammitgliedern außer dieser Einheit Energie wieder her und erhöht ihren ANG.",
+    "desc": "Stellt Energie für alle Teammitglieder außer dieser Einheit in Höhe von #1[f1]% ihrer jeweiligen max. Energie wieder her. Erhöht gleichzeitig ihren ANG für #3[i] Rd. um #2[f1]%.",
     "params": [
       [
         0.15,
@@ -14362,8 +14362,8 @@
     "type_text": "Talent",
     "effect": "Restore",
     "effect_text": "Wiederherstellung",
-    "simple_desc": "Nach dem Einsatz der Fertigkeit erhält Huohuo „Gesegnete Heilung“. Besitzt Huohuo Gesegnete Heilung, wird zu Beginn jeder Runde eines Verbündeten oder beim Einsatz eines Ultimates seine LP wiederhergestellt und gleichzeitig alle Verbündeten mit niedrigen LP 1-mal geheilt.Wird ein Verbündeter durch den Einsatz von Gesegnete Heilung geheilt, wird 1 Debuff von ihm entfernt.",
-    "desc": "Nach dem Einsatz der Fertigkeit erhält Huohuo für #1[i] Rd. „Gesegnete Heilung“. Diese Dauer verringert sich zu Beginn jeder Runde von Huohuo um 1. Besitzt Huohuo Gesegnete Heilung, wird zu Beginn jeder Runde eines Verbündeten oder beim Einsatz eines Ultimates seine LP um #3[f1]% von Huohuos max. LP plus #5[i] wiederhergestellt. Gleichzeitig werden alle Verbündeten, deren LP-Prozentsatz zu diesem Zeitpunkt bei #6[i]% oder niedriger liegt, einmal geheilt.\nWird ein Verbündeter durch den Einsatz von Gesegnete Heilung geheilt, werden #2[i] Debuff(s) von ihm entfernt. Dieser Effekt kann #7[i]-mal ausgelöst werden. Bei erneutem Einsatz der Fertigkeit wird die Anzahl der Auslösungen zurückgesetzt.",
+    "simple_desc": "Nach dem Einsatz der Fertigkeit erhält Huohuo „Gesegnete Heilung“. Wenn Huohuo Gesegnete Heilung besitzt, wird zu Beginn der Runde eines Verbündeten oder beim Einsatz seines Ultimates dessen LP wiederhergestellt und gleichzeitig alle Verbündeten mit niedrigen LP 1-mal geheilt. Wird ein Verbündeter durch das Auslösen von Gesegnete Heilung geheilt, wird 1 Debuff von ihm entfernt.",
+    "desc": "Nach dem Einsatz der Fertigkeit erhält Huohuo für #1[i] Rd. „Gesegnete Heilung“. Diese Dauer wird zu Beginn jeder Runde von Huohuo um 1 verringert. Wenn Huohuo Gesegnete Heilung besitzt, wird zu Beginn der Runde eines Verbündeten oder beim Einsatz seines Ultimates dessen LP um #3[f1]% von Huohuos max. LP plus #5[i] wiederhergestellt. Gleichzeitig werden alle Verbündeten, deren LP-Prozentsatz zu diesem Zeitpunkt bei #6[i]% oder niedriger liegt, 1-mal geheilt.\nWird ein Verbündeter durch das Auslösen von Gesegnete Heilung geheilt, wird #2[i] Debuff von ihm entfernt. Dieser Effekt kann #7[i]-mal ausgelöst werden. Bei erneutem Einsatz der Fertigkeit wird die Auslösungsanzahl zurückgesetzt.",
     "params": [
       [
         2,
@@ -16887,7 +16887,7 @@
     "type_text": "Fertigkeit",
     "effect": "Support",
     "effect_text": "Unterstützung",
-    "simple_desc": "Lässt einen Verbündeten zum „Meister“ werden. Wenn er seinen Standardangriff einsetzt oder SCH durch einen verstärkten Standardangriff verursacht, wird basierend auf dem Pfad des Meisters der entsprechende Effekt ausgelöst.\nDie Gelehrsamkeit, Die Zerstörung, Die Jagd, Das Gedenken: Verursacht basierend auf dem Typ des Meisters zusätzlichen SCH.\nDie Harmonie, Die Nichtigkeit, Die Bewahrung, Der Überfluss: Erhöht WDS-Reduzierungswert.",
+    "simple_desc": "Lässt einen Verbündeten zum „Meister“ werden. Wenn er seinen Standardangriff einsetzt oder SCH durch einen verstärkten Standardangriff verursacht, wird basierend auf dem Pfad des Meisters der entsprechende Effekt ausgelöst.\nDie Gelehrsamkeit, Die Zerstörung, Die Jagd, Das Gedenken, Das Hochgefühl: Verursacht basierend auf dem Typ des Meisters zusätzlichen SCH.\nDie Harmonie, Die Nichtigkeit, Die Bewahrung, Der Überfluss: Erhöht WDS-Reduzierungswert.",
     "desc": "Lässt einen Verbündeten außer der Figur selbst zum „Meister“ werden. Seine GES wird um #1[f1]% erhöht. Nur das letzte Ziel der Fertigkeit gilt als Meister von 7. März.\nWenn der Meister mit bestimmten Pfaden auf dem Kampffeld ist, werden entsprechende Effekte beim Einsatz von Standardangriffen oder beim Verursachen von SCH durch verstärkte Standardangriffe mit 1 Treffer ausgelöst:\nDie Gelehrsamkeit, Die Zerstörung, Die Jagd, Das Gedenken, Das Hochgefühl: Verursacht basierend auf dem Typ des Meisters zusätzlichen SCH in Höhe von #2[i]% von 7. März’ ANG.\nDie Harmonie, Die Nichtigkeit, Die Bewahrung, Der Überfluss: Erhöht den WDS-Reduzierungswert dieses SCH um #3[i]%.",
     "params": [
       [
@@ -21928,7 +21928,7 @@
     "type_text": "Fertigkeit",
     "effect": "Blast",
     "effect_text": "Ausdehnung",
-    "simple_desc": "Stellt einen Teil der eigenen LP wieder her. Implantiert einem Gegner Feuer-Schwäche und fügt ihm massiven Feuer-SCH zu. Fügt gleichzeitig angrenzenden Einheiten Feuer-SCH zu.",
+    "simple_desc": "Stellt einen Teil der eigenen LP wieder her. Implantiert einem Gegner Feuer-Schwäche. Fügt ihm massiven Feuer-SCH und angrenzenden Einheiten Feuer-SCH zu.",
     "desc": "Stellt #3[i]% der eigenen max. LP wieder her. Implantiert einem anvisierten Gegner für #4[i] Rd. eine Feuer-Schwäche und fügt ihm Feuer-SCH in Höhe von #5[f1] × Brucheffekt + #1[f1]% von SAMs ANG zu. Fügt gleichzeitig angrenzenden Einheiten Feuer-SCH in Höhe von #6[f1] × Brucheffekt + #2[f1]% von SAMs ANG zu. Dabei werden max. #7[i]% des Brucheffekts berechnet.",
     "params": [
       [
@@ -32932,6 +32932,1759 @@
     ],
     "icon": "icon/skill/1502_Elation.png"
   },
+  "150401": {
+    "id": "150401",
+    "name": "Klauen: Lehrer der Etikette",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem anvisierten Gegner geringen Blitz-SCH zu.",
+    "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von #1[i]% von Ashveils ANG zu.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1504_basic_atk.png"
+  },
+  "150402": {
+    "id": "150402",
+    "name": "Peitschenknall: Vertreiben der Bestien",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Markiert einen anvisierten Gegner als „Köder“ und fügt ihm massiven Blitz-SCH zu. Ist das Ziel bereits als Köder markiert, wird ihm zusätzlich geringer Blitz-SCH zugefügt und #5[i] Fertigkeitspunkt wiederhergestellt. Wenn sich ein Köder auf dem Kampffeld befindet, wird die VTD aller Gegner reduziert.",
+    "desc": "Markiert einen anvisierten Gegner als „Köder“ und fügt ihm Blitz-SCH in Höhe von #1[i]% von Ashveils ANG zu. Ist das Ziel bereits als Köder markiert, wird ihm zusätzlich Blitz-SCH in Höhe von #3[i]% von Ashveils ANG zugefügt und #5[i] Fertigkeitspunkt wiederhergestellt. Wenn sich ein Köder auf dem Kampffeld befindet, wird die VTD aller Gegner um #4[i]% reduziert.\nWenn sich kein Köder auf dem Kampffeld befindet, markiert Ashveil sofort den Gegner mit den aktuell niedrigsten LP auf dem Kampffeld als Köder. Der Status Köder gilt nur für das zuletzt belegte Ziel.",
+    "params": [
+      [
+        1,
+        1,
+        0.5,
+        0.2,
+        1
+      ],
+      [
+        1.1,
+        1,
+        0.55,
+        0.22,
+        1
+      ],
+      [
+        1.2,
+        1,
+        0.6,
+        0.24,
+        1
+      ],
+      [
+        1.3,
+        1,
+        0.65,
+        0.26,
+        1
+      ],
+      [
+        1.4,
+        1,
+        0.7,
+        0.28,
+        1
+      ],
+      [
+        1.5,
+        1,
+        0.75,
+        0.3,
+        1
+      ],
+      [
+        1.625,
+        1,
+        0.8125,
+        0.325,
+        1
+      ],
+      [
+        1.75,
+        1,
+        0.875,
+        0.35,
+        1
+      ],
+      [
+        1.875,
+        1,
+        0.9375,
+        0.375,
+        1
+      ],
+      [
+        2,
+        1,
+        1,
+        0.4,
+        1
+      ],
+      [
+        2.1,
+        1,
+        1.05,
+        0.42,
+        1
+      ],
+      [
+        2.2,
+        1,
+        1.1,
+        0.44,
+        1
+      ],
+      [
+        2.3,
+        1,
+        1.15,
+        0.46,
+        1
+      ],
+      [
+        2.4,
+        1,
+        1.2,
+        0.48,
+        1
+      ],
+      [
+        2.5,
+        1,
+        1.25,
+        0.5,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1504_skill.png"
+  },
+  "150403": {
+    "id": "150403",
+    "name": "Festmahl: Anfang ohne Ende",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "Ultra",
+    "type_text": "Ultimate",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Markiert einen anvisierten Gegner als „Köder“ und fügt ihm massiven Blitz-SCH zu. Löst anschließend sofort 1-mal den verstärkten Folgeangriff des Talents gegen den Köder aus und Ashveil erhält Aufladung.\nDer verstärkte Folgeangriff des Talents verbraucht keine Aufladung. Jedes Mal, wenn „Völlerei“ #3[i] oder mehr Stapelungen erreicht, werden #3[i] Stapelungen Völlerei verbraucht, um zusätzlich massiven Blitz-SCH zu verursachen. Wenn das Ziel während dieses Folgeangriffs einen Todesstoß erleidet, wird weiterhin einem neuen Köder SCH zugefügt, bis die Stapelzahl von Völlerei unter #3[i] fällt.",
+    "desc": "Markiert einen anvisierten Gegner als „Köder“ und fügt ihm Blitz-SCH in Höhe von #1[i]% von Ashveils ANG zu. Löst anschließend sofort 1-mal den verstärkten Folgeangriff des Talents gegen den Köder aus und Ashveil erhält #2[i] Pkt. Aufladung.\nDer verstärkte Folgeangriff des Talents verbraucht keine Aufladung. Jedes Mal, wenn „Völlerei“ #3[i] oder mehr Stapelungen erreicht, werden #3[i] Stapelungen Völlerei verbraucht, um zusätzlich 1-mal Blitz-SCH in Höhe von #4[i]% von Ashveils ANG zu verursachen. Wenn das Ziel während dieses Folgeangriffs einen Todesstoß erleidet, wird weiterhin einem neuen Köder SCH zugefügt, bis die Stapelzahl von Völlerei unter #3[i] fällt. Wenn alle Gegner auf dem Kampffeld einen Todesstoß erlitten haben, endet der verstärkte Folgeangriff des Talents sofort.",
+    "params": [
+      [
+        2,
+        3,
+        4,
+        1
+      ],
+      [
+        2.2,
+        3,
+        4,
+        1.1
+      ],
+      [
+        2.4,
+        3,
+        4,
+        1.2
+      ],
+      [
+        2.6,
+        3,
+        4,
+        1.3
+      ],
+      [
+        2.8,
+        3,
+        4,
+        1.4
+      ],
+      [
+        3,
+        3,
+        4,
+        1.5
+      ],
+      [
+        3.25,
+        3,
+        4,
+        1.625
+      ],
+      [
+        3.5,
+        3,
+        4,
+        1.75
+      ],
+      [
+        3.75,
+        3,
+        4,
+        1.875
+      ],
+      [
+        4,
+        3,
+        4,
+        2
+      ],
+      [
+        4.2,
+        3,
+        4,
+        2.1
+      ],
+      [
+        4.4,
+        3,
+        4,
+        2.2
+      ],
+      [
+        4.6,
+        3,
+        4,
+        2.3
+      ],
+      [
+        4.8,
+        3,
+        4,
+        2.4
+      ],
+      [
+        5,
+        3,
+        4,
+        2.5
+      ]
+    ],
+    "icon": "icon/skill/1504_ultimate.png"
+  },
+  "150404": {
+    "id": "150404",
+    "name": "Groll: Vergeltung verübt",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Nachdem der „Köder“ von einem anderen Verbündeten angegriffen wurde, stellt Ashveil eine feste Menge Energie wieder her und verbraucht anschließend Aufladung, um einen Folgeangriff auf den Köder auszuführen, der massiven Blitz-SCH verursacht. Erhält danach #5[i] Stapelungen „Völlerei“.",
+    "desc": "Ashveil verfügt zu Beginn über #1[i] Pkt. Aufladung, bis zu #2[i] Pkt. Nachdem der „Köder“ von einem anderen Verbündeten angegriffen wurde, stellt Ashveil eine feste Anzahl von #7[i] Pkt. Energie wieder her und verbraucht anschließend #3[i] Pkt. Aufladung, um einen Folgeangriff auf den Köder auszuführen, der Blitz-SCH in Höhe von #4[i]% von Ashveils ANG verursacht. Danach erhält Ashveil #5[i] Stapelungen „Völlerei“, bis zu #6[i] Stapelungen.",
+    "params": [
+      [
+        2,
+        3,
+        1,
+        1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.3,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.4,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.5,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.625,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.75,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.875,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.3,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.4,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.5,
+        2,
+        12,
+        8
+      ]
+    ],
+    "icon": "icon/skill/1504_talent.png"
+  },
+  "150406": {
+    "id": "150406",
+    "name": "Klauen: Lehrer der Etikette",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "params": [],
+    "icon": "icon/skill/1504_basic_atk.png"
+  },
+  "150407": {
+    "id": "150407",
+    "name": "Friss: Abscheuliche Hand",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technik",
+    "effect": "Impair",
+    "effect_text": "Beeinträchtigung",
+    "simple_desc": "Verursacht bei Gegnern in einem bestimmten Bereich Schwindel. Fügt beim Angriff eines von Schwindel betroffenen Gegners nach Kampfeintritt allen Gegnern geringen Blitz-SCH zu und Ashveil erhält #3[i] Pkt. Aufladung.",
+    "desc": "Nach dem Einsatz der Technik werden Gegner in einem bestimmten Bereich für #1[i] Sek. von Schwindel betroffen und können Verbündeten nicht aktiv angreifen.\nNach Kampfeintritt mit einem aktiven Angriff auf von Schwindel betroffene Gegner wird allen Gegnern Blitz-SCH in Höhe von #2[i]% von Ashveils ANG zugefügt und Ashveil erhält #3[i] Pkt. Aufladung.",
+    "params": [
+      [
+        10,
+        1,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1504_technique.png"
+  },
+  "150501": {
+    "id": "150501",
+    "name": "Schularbeit: Überraschungstest",
+    "max_level": 10,
+    "element": "Physical",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem anvisierten Gegner geringen physischen SCH zu.",
+    "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von #1[i]% von Evanescias ANG zu.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1505_basic_atk.png"
+  },
+  "150502": {
+    "id": "150502",
+    "name": "Disziplin: Klares Urteil",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "Blast",
+    "effect_text": "Ausdehnung",
+    "simple_desc": "Fügt einem Gegner massiven physischen SCH und angrenzenden Einheiten physischen SCH zu. Erhält außerdem zusätzlich Lachpunkte.",
+    "desc": "Fügt einem anvisierten Gegner physischen SCH in Höhe von #2[i]% von Evanescias ANG und angrenzenden Einheiten physischen SCH in Höhe von #3[i]% von Evanescias ANG zu. Erhält außerdem zusätzlich #4[i] Lachpunkte.",
+    "params": [
+      [
+        1,
+        1.5,
+        0.75,
+        10
+      ],
+      [
+        1,
+        1.65,
+        0.825,
+        10
+      ],
+      [
+        1,
+        1.8,
+        0.9,
+        10
+      ],
+      [
+        1,
+        1.95,
+        0.975,
+        10
+      ],
+      [
+        1,
+        2.1,
+        1.05,
+        10
+      ],
+      [
+        1,
+        2.25,
+        1.125,
+        10
+      ],
+      [
+        1,
+        2.4375,
+        1.21875,
+        10
+      ],
+      [
+        1,
+        2.625,
+        1.3125,
+        10
+      ],
+      [
+        1,
+        2.8125,
+        1.40625,
+        10
+      ],
+      [
+        1,
+        3,
+        1.5,
+        10
+      ],
+      [
+        1,
+        3.15,
+        1.575,
+        10
+      ],
+      [
+        1,
+        3.3,
+        1.65,
+        10
+      ],
+      [
+        1,
+        3.45,
+        1.725,
+        10
+      ],
+      [
+        1,
+        3.6,
+        1.8,
+        10
+      ],
+      [
+        1,
+        3.75,
+        1.875,
+        10
+      ]
+    ],
+    "icon": "icon/skill/1505_skill.png"
+  },
+  "150503": {
+    "id": "150503",
+    "name": "Schwertgesang: Keine Gnade",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "Ultra",
+    "type_text": "Ultimate",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Fügt allen Gegnern physischen SCH zu. Fügt anschließend einem zufälligen Gegner physischen SCH zu, der insgesamt 5-mal abprallt.",
+    "desc": "Fügt allen Gegnern physischen SCH in Höhe von #1[i]% von Evanescias ANG zu. Verursacht anschließend 5-mal SCH, wobei jedes Mal einem zufälligen Gegner physischer SCH in Höhe von #3[i]% von Evanescias ANG zugefügt wird.",
+    "params": [
+      [
+        0.8,
+        5,
+        0.72,
+        88
+      ],
+      [
+        0.88,
+        5,
+        0.768,
+        88
+      ],
+      [
+        0.96,
+        5,
+        0.816,
+        88
+      ],
+      [
+        1.04,
+        5,
+        0.864,
+        88
+      ],
+      [
+        1.12,
+        5,
+        0.912,
+        88
+      ],
+      [
+        1.2,
+        5,
+        0.96,
+        88
+      ],
+      [
+        1.3,
+        5,
+        1.02,
+        88
+      ],
+      [
+        1.4,
+        5,
+        1.08,
+        88
+      ],
+      [
+        1.5,
+        5,
+        1.14,
+        88
+      ],
+      [
+        1.6,
+        5,
+        1.2,
+        88
+      ],
+      [
+        1.68,
+        5,
+        1.248,
+        88
+      ],
+      [
+        1.76,
+        5,
+        1.296,
+        88
+      ],
+      [
+        1.84,
+        5,
+        1.344,
+        88
+      ],
+      [
+        1.92,
+        5,
+        1.392,
+        88
+      ],
+      [
+        2,
+        5,
+        1.44,
+        88
+      ]
+    ],
+    "icon": "icon/skill/1505_ultimate.png"
+  },
+  "150504": {
+    "id": "150504",
+    "name": "Jugend: Unendliche Pracht",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Wenn Evanescia Energie erhält, erhält sie gleichzeitig Verdiente Leistung in gleicher Höhe; wenn Evanescia Verdiente Leistung erhält, erhält sie gleichzeitig Energie in gleicher Höhe. Wenn eine bestimmte Menge Energie angesammelt wurde, führt „Fuchslehrer“ einen Folgeangriff aus, der allen Gegnern geringen physischen SCH zufügt und für Evanescia Energie wiederherstellt. Wenn Evanescia Verdiente Leistung besitzt, kann der Einsatz der Fertigkeit und des Ultimates sowie der Folgeangriff von Fuchslehrer den Gegnern geringen physischen Hochgefühl-SCH zufügen.",
+    "desc": "Evanescia erhält Hochgefühl in Höhe von #5[i]% ihres KRIT-SCH. Wenn Evanescia Energie erhält, erhält sie gleichzeitig Verdiente Leistung in gleicher Höhe; wenn Evanescia Verdiente Leistung erhält, erhält sie gleichzeitig Energie in gleicher Höhe. Die jedes Mal durch diese Methode berechnete Menge an Verdiente Leistung kann 100 Pkt. nicht überschreiten.\nWenn insgesamt #3[i] Energie gesammelt wurde, werden #3[i] Pkt. dieses kumulierten Werts verbraucht und „Fuchslehrer“ führt einen Folgeangriff aus, der allen Gegnern physischen SCH in Höhe von #1[i]% von Evanescias ANG zufügt und #4[i] Energie für Evanescia wiederherstellt, wobei bei jeder Energie-Wiederherstellung bis zu #3[i] Pkt. des kumulierten Werts erhalten werden. Wenn Evanescia Verdiente Leistung besitzt:\nDer Einsatz der Fertigkeit fügt dem Gegner #7[f1]% physischen Hochgefühl-SCH zu.\nDer Einsatz des Ultimates fügt allen Gegnern #6[i]% physischen Hochgefühl-SCH und einem zufälligen Gegner, der durch den Ultimate SCH erleidet, #8[i]% physischen Hochgefühl-SCH zu. Wenn der Ultimate Hochgefühl-SCH verursacht, wird mindestens Verdiente Leistung in Höhe der max. Energie berechnet.\nDer Folgeangriff von Fuchslehrer fügt allen Gegnern #2[i]% physischen Hochgefühl-SCH zu.",
+    "params": [
+      [
+        0.5,
+        0.125,
+        240,
+        10,
+        0.2,
+        0.12,
+        0.08,
+        0.14
+      ],
+      [
+        0.55,
+        0.1375,
+        240,
+        10,
+        0.2,
+        0.132,
+        0.088,
+        0.154
+      ],
+      [
+        0.6,
+        0.15,
+        240,
+        10,
+        0.2,
+        0.144,
+        0.096,
+        0.168
+      ],
+      [
+        0.65,
+        0.1625,
+        240,
+        10,
+        0.2,
+        0.156,
+        0.104,
+        0.182
+      ],
+      [
+        0.7,
+        0.175,
+        240,
+        10,
+        0.2,
+        0.168,
+        0.112,
+        0.196
+      ],
+      [
+        0.75,
+        0.1875,
+        240,
+        10,
+        0.2,
+        0.18,
+        0.12,
+        0.21
+      ],
+      [
+        0.8125,
+        0.203125,
+        240,
+        10,
+        0.2,
+        0.195,
+        0.13,
+        0.2275
+      ],
+      [
+        0.875,
+        0.21875,
+        240,
+        10,
+        0.2,
+        0.21,
+        0.14,
+        0.245
+      ],
+      [
+        0.9375,
+        0.234375,
+        240,
+        10,
+        0.2,
+        0.225,
+        0.15,
+        0.2625
+      ],
+      [
+        1,
+        0.25,
+        240,
+        10,
+        0.2,
+        0.24,
+        0.16,
+        0.28
+      ],
+      [
+        1.05,
+        0.2625,
+        240,
+        10,
+        0.2,
+        0.252,
+        0.168,
+        0.294
+      ],
+      [
+        1.1,
+        0.275,
+        240,
+        10,
+        0.2,
+        0.264,
+        0.176,
+        0.308
+      ],
+      [
+        1.15,
+        0.2875,
+        240,
+        10,
+        0.2,
+        0.276,
+        0.184,
+        0.322
+      ],
+      [
+        1.2,
+        0.3,
+        240,
+        10,
+        0.2,
+        0.288,
+        0.192,
+        0.336
+      ],
+      [
+        1.25,
+        0.3125,
+        240,
+        10,
+        0.2,
+        0.3,
+        0.2,
+        0.35
+      ]
+    ],
+    "icon": "icon/skill/1505_talent.png"
+  },
+  "150506": {
+    "id": "150506",
+    "name": "Angriff",
+    "max_level": 1,
+    "element": "Physical",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "params": [],
+    "icon": "icon/skill/1505_basic_atk.png"
+  },
+  "150507": {
+    "id": "150507",
+    "name": "Verblühen: Zerstreute Erinnerungen",
+    "max_level": 1,
+    "element": "Physical",
+    "type": "Maze",
+    "type_text": "Technik",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Greift sofort alle Gegner in einem bestimmten Bereich an. Fügt nach Kampfeintritt allen Gegnern geringen physischen SCH zu und erhält Verdiente Leistung.",
+    "desc": "Greift sofort alle Gegner in einem bestimmten Bereich an. Fügt nach Kampfeintritt allen Gegnern physischen SCH in Höhe von #1[i]% von Evanescias ANG zu und erhält #2[i] Pkt. Verdiente Leistung.",
+    "params": [
+      [
+        1,
+        20
+      ]
+    ],
+    "icon": "icon/skill/1505_technique.png"
+  },
+  "150510": {
+    "id": "150510",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1205_Ultra_on.png"
+  },
+  "150512": {
+    "id": "150512",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "Blast",
+    "effect_text": "Ausdehnung",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1112_Ultra_on.png"
+  },
+  "150518": {
+    "id": "150518",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1212_Ultra_on.png"
+  },
+  "150520": {
+    "id": "150520",
+    "name": "Scharlachrot: Genuss oder Gericht",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "ElationDamage",
+    "type_text": "Fähigkeit des Hochgefühls",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Fügt allen Gegnern massiven physischen Hochgefühl-SCH zu und erhält zusätzlich Verdiente Leistung.",
+    "desc": "Fügt allen Gegnern #2[i]% physischen Hochgefühl-SCH zu und erhält zusätzlich #1[i] Pkt. Verdiente Leistung.",
+    "params": [
+      [
+        5,
+        0.55
+      ],
+      [
+        5,
+        0.605
+      ],
+      [
+        5,
+        0.66
+      ],
+      [
+        5,
+        0.715
+      ],
+      [
+        5,
+        0.77
+      ],
+      [
+        5,
+        0.825
+      ],
+      [
+        5,
+        0.89375
+      ],
+      [
+        5,
+        0.9625
+      ],
+      [
+        5,
+        1.03125
+      ],
+      [
+        5,
+        1.1
+      ],
+      [
+        5,
+        1.155
+      ],
+      [
+        5,
+        1.21
+      ],
+      [
+        5,
+        1.265
+      ],
+      [
+        5,
+        1.32
+      ],
+      [
+        5,
+        1.375
+      ]
+    ],
+    "icon": "icon/skill/1505_Elation.png"
+  },
+  "150601": {
+    "id": "150601",
+    "name": "Voll auf die Zwölf!",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem anvisierten Gegner geringen imaginären SCH zu.",
+    "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von #1[i]% des ANG von Silberwolf St. 999 zu.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1506_basic_atk.png"
+  },
+  "150602": {
+    "id": "150602",
+    "name": "Steigendes Shoot-Attribut",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Erhält Lachpunkte und fügt allen Gegnern imaginären SCH zu.",
+    "desc": "Erhält #2[i] Lachpunkte und fügt allen Gegnern imaginären SCH in Höhe von #1[i]% des ANG von Silberwolf St. 999 zu.",
+    "params": [
+      [
+        0.8,
+        5
+      ],
+      [
+        0.88,
+        5
+      ],
+      [
+        0.96,
+        5
+      ],
+      [
+        1.04,
+        5
+      ],
+      [
+        1.12,
+        5
+      ],
+      [
+        1.2,
+        5
+      ],
+      [
+        1.3,
+        5
+      ],
+      [
+        1.4,
+        5
+      ],
+      [
+        1.5,
+        5
+      ],
+      [
+        1.6,
+        5
+      ],
+      [
+        1.68,
+        5
+      ],
+      [
+        1.76,
+        5
+      ],
+      [
+        1.84,
+        5
+      ],
+      [
+        1.92,
+        5
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "icon": "icon/skill/1506_skill.png"
+  },
+  "150603": {
+    "id": "150603",
+    "name": "God-Mode: Aktiviert!",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultimate",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Verwandelt sich und erhält einen Aktionsvorzug von 100 %.\nErzeugt während der Verwandlung ein Kraftfeld. Wenn Verdiente Leistung vorhanden ist, wird jedes Mal, wenn ein Verbündeter 1 Fertigkeitspunkt verbraucht, mit hoher Chance 1-mal die „Top-Lootbox“ ausgelöst. Diese verursacht massiven imaginären Hochgefühl-SCH, der gleichmäßig unter allen Gegnern aufgeteilt wird, und löst zufällig 1 der folgenden Effekte aus:\nFügt dem Ziel mit den höchsten LP Tatsächlichen SCH basierend auf dem verursachten Gesamtschaden zu.\nStellt Fertigkeitspunkte wieder her.\nErhält Lachpunkte.\nNach jeder Auslösung verringert sich die Chance proportional.",
+    "desc": "Tritt in den Status „God-Mode-Spielerin“ ein und erhält einen Aktionsvorzug von 100 %.\nErzeugt im Status God-Mode-Spielerin ein Kraftfeld. Wenn Silberwolf St. 999 Verdiente Leistung besitzt, besteht jedes Mal, wenn ein Verbündeter im Kraftfeld 1 Fertigkeitspunkt verbraucht, die Chance, 1-mal die Top-Lootbox von Silberwolf St. 999 auszulösen. Diese verursacht #3[i]% imaginären Hochgefühl-SCH, der gleichmäßig unter allen Gegnern aufgeteilt wird, und löst zufällig 1 der folgenden Effekte aus:\n„Riesen-Riesenschwert“: Fügt dem Gegner mit den höchsten LP zusätzlich Tatsächlichen SCH in Höhe von #5[i]% des dieses Mal verursachten Gesamtschadens zu.\n„Bumm-Bombenei“: Stellt #7[i] Fertigkeitspunkte wieder her.\n„Komisch-Knabberbohne“: Erhält #6[i] Lachpunkte.\nDie anfängliche feste Chance zur Auslösung dieses Effekts beträgt 100 %. Nach erfolgreicher Auslösung wird die feste Chance für die nächste Auslösung auf #4[i]% der aktuellen Chance reduziert. Wenn das Ziel vor der Auslösung besiegt wird, wird der Effekt bei einem neu im Kampf erscheinenden Gegner ausgelöst.",
+    "params": [
+      [
+        60,
+        0,
+        0.45,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.495,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.54,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.585,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.63,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.675,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.73125,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.7875,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.84375,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.9,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.945,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.99,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.035,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.08,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.125,
+        0.2,
+        0.2,
+        3,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1506_ultimate.png"
+  },
+  "150604": {
+    "id": "150604",
+    "name": "Mit mir ist jedes Spiel ein Kinderspiel",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Wenn „Verstecktes MMR“ #1[i] Pkt. erreicht, kann der Ultimate aktiviert werden. Beim Erhalt von Lachpunkten wird die gleiche Menge Verstecktes MMR erhalten. Je höher das Versteckte MMR, desto höher die KRIT-Rate. Wenn die KRIT-Rate 100 % erreicht, wird stattdessen der KRIT-SCH erhöht.\nWährend der Verwandlung ist Silberwolf St. 999 immun gegen Mengenkontrolle-Debuffs, und Standardangriff sowie Hochgefühl-Fähigkeit werden verstärkt. Nachdem sie den verstärkten Standardangriff #5[i]-mal eingesetzt hat, endet die Verwandlung.\nWenn sie Verdiente Leistung besitzt, verursachen Standardangriff oder Fertigkeit zusätzlich imaginären Hochgefühl-SCH, und der Fähigkeits-SCH des verstärkten Standardangriffs wird in Hochgefühl-SCH umgewandelt.",
+    "desc": "Wenn „Verstecktes MMR“ #1[i] Pkt. erreicht, kann der Ultimate aktiviert werden. Nach Erreichen der Obergrenze können bis zu #2[i] überschüssige Pkt. angesammelt werden.\nBeim Erhalt von Lachpunkten erhält Silberwolf St. 999 die gleiche Menge Verstecktes MMR. Jeder Punkt Verstecktes MMR erhöht die KRIT-Rate um #4[f2]%. Wenn die KRIT-Rate 100 % erreicht, erhöht jeder weitere Punkt Verstecktes MMR stattdessen den KRIT-SCH um #6[f2]%.\nIm Status „God-Mode-Spielerin“ ist Silberwolf St. 999 immun gegen Mengenkontrolle-Debuffs, kann keinen Ultimate einsetzen und verfügt über einen verstärkten Standardangriff sowie eine verstärkte Hochgefühl-Fähigkeit. Nachdem sie den verstärkten Standardangriff #5[i]-mal vollständig eingesetzt hat, verlässt sie den Status God-Mode-Spielerin. Beim Verlassen dieses Status wird Verstecktes MMR zurückgesetzt.\nWenn sie Verdiente Leistung besitzt, fügt der Einsatz des Standardangriffs oder der Fertigkeit dem getroffenen Gegner #3[i]% imaginären Hochgefühl-SCH zu. Der Fähigkeits-SCH des verstärkten Standardangriffs wird in Hochgefühl-SCH mit demselben Multiplikator umgewandelt.",
+    "params": [
+      [
+        60,
+        240,
+        0.2,
+        0.0019999999,
+        3,
+        0.0039999997
+      ],
+      [
+        60,
+        240,
+        0.22,
+        0.0022,
+        3,
+        0.0044
+      ],
+      [
+        60,
+        240,
+        0.24,
+        0.0024,
+        3,
+        0.0048
+      ],
+      [
+        60,
+        240,
+        0.26,
+        0.0026000002,
+        3,
+        0.0051999995
+      ],
+      [
+        60,
+        240,
+        0.28,
+        0.0028000004,
+        3,
+        0.0056
+      ],
+      [
+        60,
+        240,
+        0.3,
+        0.0029999998,
+        3,
+        0.0059999996
+      ],
+      [
+        60,
+        240,
+        0.325,
+        0.0032500003,
+        3,
+        0.0065
+      ],
+      [
+        60,
+        240,
+        0.35,
+        0.0035,
+        3,
+        0.0069999993
+      ],
+      [
+        60,
+        240,
+        0.375,
+        0.0037500006,
+        3,
+        0.0075
+      ],
+      [
+        60,
+        240,
+        0.4,
+        0.0039999997,
+        3,
+        0.007999999
+      ],
+      [
+        60,
+        240,
+        0.42,
+        0.0042,
+        3,
+        0.0084
+      ],
+      [
+        60,
+        240,
+        0.44,
+        0.0044,
+        3,
+        0.0088
+      ],
+      [
+        60,
+        240,
+        0.46,
+        0.0046,
+        3,
+        0.009199999
+      ],
+      [
+        60,
+        240,
+        0.48,
+        0.0048,
+        3,
+        0.0095999995
+      ],
+      [
+        60,
+        240,
+        0.5,
+        0.005,
+        3,
+        0.01
+      ]
+    ],
+    "icon": "icon/skill/1506_talent.png"
+  },
+  "150606": {
+    "id": "150606",
+    "name": "Angriff",
+    "max_level": 1,
+    "element": "Imaginary",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "params": [],
+    "icon": "icon/skill/1506_basic_atk.png"
+  },
+  "150607": {
+    "id": "150607",
+    "name": "Glaub mir, das ist total Meta",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technik",
+    "effect": "Summon",
+    "effect_text": "Beschwörung",
+    "simple_desc": "Beschwört „Komisch-Knabberbohne“. Die Beschwörung wird aufgehoben, wenn die Technik erneut eingesetzt wird. Beim Einsatz werden keine Technikpunkte verbraucht.\nDie Komisch-Knabberbohne sucht automatisch nach gewöhnlichen Gegnern, greift diese an und verbraucht 1 Technikpunkt, um sie sofort zu besiegen, ohne in den Kampf einzutreten.\nLöst nach Kampfeintritt zu Beginn jeder Kampfwelle die entsprechende „Top-Lootbox“ der Komisch-Knabberbohne aus.",
+    "desc": "Beschwört „Komisch-Knabberbohne“. Die Beschwörung wird aufgehoben, wenn die Technik erneut eingesetzt wird. Der Einsatz der Technik verbraucht keine Technikpunkte. Bei 0 Technikpunkten wird die Beschwörung aufgehoben und die Technik kann nicht eingesetzt werden.\nDie Komisch-Knabberbohne versetzt gewöhnliche Gegner in einem bestimmten Bereich in den Status Angst. Gleichzeitig sucht sie automatisch nach gewöhnlichen Gegnern, greift diese an und verbraucht 1 Technikpunkt, um sie sofort zu besiegen, ohne in den Kampf einzutreten.\nWenn die Komisch-Knabberbohne sich auf dem Kampffeld befindet, wird nach Kampfeintritt zu Beginn jeder Kampfwelle 1-mal die entsprechende Top-Lootbox der Komisch-Knabberbohne ausgelöst, wobei der dabei verursachte Hochgefühl-SCH fest als #1[i] Pkt. Verdiente Leistung angerechnet wird.",
+    "params": [
+      [
+        99
+      ]
+    ],
+    "icon": "icon/skill/1506_technique.png"
+  },
+  "150608": {
+    "id": "150608",
+    "name": "Bonuslevel: Zeit von αWolf",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "Bounce",
+    "effect_text": "Abpraller",
+    "simple_desc": "Verursacht imaginären SCH, der mehrmals abprallt, wobei #5[i]-mal die „Top-Lootbox“ ausgelöst werden kann. Wenn allen Gegnern tödlicher SCH zugefügt wurde, bleiben die restlichen Effekte erhalten und werden auf neu im Kampf erscheinende Gegner weiter angewendet. Verursacht zuletzt imaginären SCH, der gleichmäßig unter allen Gegnern aufgeteilt wird.\nJedes Mal, wenn „Verstecktes MMR“ eine bestimmte Punktzahl erreicht wird, wird der SCH des verstärkten Standardangriffs zusätzlich erhöht.",
+    "desc": "Verursacht insgesamt imaginären SCH in Höhe von #1[i]% des ANG von Silberwolf St. 999, der gleichmäßig in #3[i] Abpraller aufgeteilt wird, die zufällige Gegner treffen. Nach einer bestimmten Anzahl an Abprallern pausiert das Abprallen und es wird 1-mal Top-Lootbox ausgelöst, bis zu #5[i]-mal.\nWenn allen Gegnern auf dem Kampffeld tödlicher SCH zugefügt wurde, endet diese Fähigkeit. Sobald ein angreifbarer Gegner vorhanden ist, wird 1 zusätzliche Runde gewährt, und die Fähigkeit basierend auf der verbleibenden Anzahl an Abprallern sowie der Auslösungsanzahl der Top-Lootbox erneut ausgeführt. Wird dieser Effekt zum ersten Mal in einer Runde ausgelöst, werden alle Buffs dieser Einheit um 1 Rd. verlängert.\nNachdem der gesamte oben genannte SCH berechnet wurde, wird ein letzter Schlag ausgeführt, der imaginären SCH in Höhe von #4[i]% des ANG von Silberwolf St. 999 verursacht und gleichmäßig auf alle Gegner aufgeteilt wird.\nDer verstärkte Standardangriff stellt keine Fertigkeitspunkte wieder her. Für jeweils #6[i] Pkt. „Verstecktes MMR“ wird der während des verstärkten Standardangriffs verursachte SCH um #8[i]% des ursprünglichen SCH erhöht. Dieser Effekt ist bis zu #7[i]-fach stapelbar.",
+    "params": [
+      [
+        1.2,
+        0,
+        100,
+        0.5,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.44,
+        0,
+        100,
+        0.6,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.68,
+        0,
+        100,
+        0.7,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.92,
+        0,
+        100,
+        0.8,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.16,
+        0,
+        100,
+        0.9,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.4,
+        0,
+        100,
+        1,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.64,
+        0,
+        100,
+        1.1,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.88,
+        0,
+        100,
+        1.2,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        3.12,
+        0,
+        100,
+        1.3,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        3.36,
+        0,
+        100,
+        1.4,
+        3,
+        60,
+        2,
+        0.15
+      ]
+    ],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_00.png"
+  },
+  "150610": {
+    "id": "150610",
+    "name": "Riesen-Riesenschwert",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Fügt allen Gegnern massiven imaginären Hochgefühl-SCH zu, der gleichmäßig unter allen Gegnern aufgeteilt wird. Fügt dem Ziel mit den höchsten LP basierend auf dem Gesamtschaden Tatsächlichen SCH zu.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_01.png"
+  },
+  "150612": {
+    "id": "150612",
+    "name": "Bumm-Bombenei",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Fügt allen Gegnern massiven imaginären Hochgefühl-SCH zu, der gleichmäßig unter allen Gegnern aufgeteilt wird. Stellt Fertigkeitspunkte wieder her.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_02.png"
+  },
+  "150618": {
+    "id": "150618",
+    "name": "Komisch-Knabberbohne",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Fügt allen Gegnern massiven imaginären Hochgefühl-SCH zu, der gleichmäßig unter allen Gegnern aufgeteilt wird. Erhält Lachpunkte.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_03.png"
+  },
+  "150620": {
+    "id": "150620",
+    "name": "Pro-Gamer-Spielzug",
+    "max_level": 15,
+    "element": "",
+    "type": "ElationDamage",
+    "type_text": "Fähigkeit des Hochgefühls",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Erhält „Verstecktes MMR“.",
+    "desc": "Erhält #1[i] Pkt. „Verstecktes MMR“.",
+    "params": [
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ]
+    ],
+    "icon": "icon/skill/1506_Elation.png"
+  },
+  "150621": {
+    "id": "150621",
+    "name": "Schadensdemo: Honkai-Niveau",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "ElationDamage",
+    "type_text": "Fähigkeit des Hochgefühls",
+    "effect": "Bounce",
+    "effect_text": "Abpraller",
+    "simple_desc": "Fügt einem Gegner massiven imaginären Hochgefühl-SCH zu, der insgesamt #2[i]-mal abprallt. Setzt die Auslösechance der „Top-Lootbox“ zurück.",
+    "desc": "Verursacht #2[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner #1[i]% imaginärer Hochgefühl-SCH zugefügt wird. Setzt die feste Chance zur Auslösung der „Top-Lootbox“ auf den Anfangswert zurück.",
+    "params": [
+      [
+        0.45,
+        6
+      ],
+      [
+        0.495,
+        6
+      ],
+      [
+        0.54,
+        6
+      ],
+      [
+        0.585,
+        6
+      ],
+      [
+        0.63,
+        6
+      ],
+      [
+        0.675,
+        6
+      ],
+      [
+        0.73125,
+        6
+      ],
+      [
+        0.7875,
+        6
+      ],
+      [
+        0.84375,
+        6
+      ],
+      [
+        0.9,
+        6
+      ],
+      [
+        0.945,
+        6
+      ],
+      [
+        0.99,
+        6
+      ],
+      [
+        1.035,
+        6
+      ],
+      [
+        1.08,
+        6
+      ],
+      [
+        1.125,
+        6
+      ]
+    ],
+    "icon": "icon/skill/1506_Elation02.png"
+  },
   "800101": {
     "id": "800101",
     "name": "Abschiedstreffer",
@@ -36046,6 +37799,1374 @@
     "params": [],
     "icon": "icon/skill/8007_skill.png"
   },
+  "800901": {
+    "id": "800901",
+    "name": "Hier ist meine Unterstützung",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem Gegner geringen Blitz-SCH zu.",
+    "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von #1[i]% des ANG {F#der Trailblazerin}{M#des Trailblazers} zu.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/8009_basic_atk.png"
+  },
+  "800902": {
+    "id": "800902",
+    "name": "Lass den Sturm toben",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Fügt allen Gegnern geringen Blitz-SCH zu und erhält Verdiente Leistung.",
+    "desc": "Fügt allen Gegnern Blitz-SCH in Höhe von #1[i]% des ANG {F#der Trailblazerin}{M#des Trailblazers} zu und erhält #2[i] Pkt. Verdiente Leistung.",
+    "params": [
+      [
+        0.3,
+        20
+      ],
+      [
+        0.33,
+        20
+      ],
+      [
+        0.36,
+        20
+      ],
+      [
+        0.39,
+        20
+      ],
+      [
+        0.42,
+        20
+      ],
+      [
+        0.45,
+        20
+      ],
+      [
+        0.4875,
+        20
+      ],
+      [
+        0.525,
+        20
+      ],
+      [
+        0.5625,
+        20
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.63,
+        20
+      ],
+      [
+        0.66,
+        20
+      ],
+      [
+        0.69,
+        20
+      ],
+      [
+        0.72,
+        20
+      ],
+      [
+        0.75,
+        20
+      ]
+    ],
+    "icon": "icon/skill/8009_skill.png"
+  },
+  "800903": {
+    "id": "800903",
+    "name": "Flieg ruhig, der Trailblaze ist an deiner Seite!",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultimate",
+    "effect": "Support",
+    "effect_text": "Unterstützung",
+    "simple_desc": "Erhält Lachpunkte. Erhöht den KRIT-SCH eines anvisierten Verbündeten und entfernt Mengenkontrolle-Debuffs von diesem Ziel. Wenn das Ziel über eine Hochgefühl-Fähigkeit verfügt, erhält es zusätzlich Verdiente Leistung und setzt seine Hochgefühl-Fähigkeit sofort ein. Andernfalls wird seine Aktion vorgezogen.",
+    "desc": "Erhält #6[i] Lachpunkte. Erhöht den KRIT-SCH eines anvisierten Verbündeten für #2[i] Rd. um #1[i]% und entfernt 1 Mengenkontrolle-Debuff von diesem Ziel.\nWenn das Ziel über eine Hochgefühl-Fähigkeit verfügt, erhält es zusätzlich #4[i] Pkt. Verdiente Leistung und setzt sofort 1-mal seine Hochgefühl-Fähigkeit ein, für die eine feste Anzahl von #5[i] Lachpunkten angerechnet wird. Wenn der Gegner vor dem Einsatz der Hochgefühl-Fähigkeit besiegt wird, wird diese gegen einen neu im Kampf erscheinenden Gegner eingesetzt.\nVerfügt das Ziel über keine Hochgefühl-Fähigkeit, erhält es einen Aktionsvorzug von #3[i]%.",
+    "params": [
+      [
+        0.3,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.32,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.34,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.36,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.38,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.4,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.425,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.45,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.475,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.5,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.52,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.54,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.56,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.58,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.6,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ]
+    ],
+    "icon": "icon/skill/8009_ultimate.png"
+  },
+  "800904": {
+    "id": "800904",
+    "name": "Der Held lächelt, das Leben hängt in der Schwebe",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Support",
+    "effect_text": "Unterstützung",
+    "simple_desc": "Stellt nach dem Ausführen eines Angriffs Energie wieder her und erhält Lachpunkte.\nWenn {F#die Trailblazerin}{M#der Trailblazer} Verdiente Leistung besitzt, fügt die Fertigkeit allen Gegnern zusätzlich geringen Hochgefühl-SCH vom Typ Blitz zu.",
+    "desc": "Stellt nach dem Ausführen eines Angriffs eine feste Menge von #1[i] Energie wieder her und erhält #2[i] Lachpunkte.\nWenn {F#die Trailblazerin}{M#der Trailblazer} Verdiente Leistung besitzt, fügt die Fertigkeit allen Gegnern zusätzlich #3[i]% Hochgefühl-SCH vom Typ Blitz zu. Dieser SCH wird anhand des höchsten Werts von Verdiente Leistung der Verbündeten berechnet.",
+    "params": [
+      [
+        10,
+        3,
+        0.15
+      ],
+      [
+        10,
+        3,
+        0.165
+      ],
+      [
+        10,
+        3,
+        0.18
+      ],
+      [
+        10,
+        3,
+        0.195
+      ],
+      [
+        10,
+        3,
+        0.21
+      ],
+      [
+        10,
+        3,
+        0.225
+      ],
+      [
+        10,
+        3,
+        0.24375
+      ],
+      [
+        10,
+        3,
+        0.2625
+      ],
+      [
+        10,
+        3,
+        0.28125
+      ],
+      [
+        10,
+        3,
+        0.3
+      ],
+      [
+        10,
+        3,
+        0.315
+      ],
+      [
+        10,
+        3,
+        0.33
+      ],
+      [
+        10,
+        3,
+        0.345
+      ],
+      [
+        10,
+        3,
+        0.36
+      ],
+      [
+        10,
+        3,
+        0.375
+      ]
+    ],
+    "icon": "icon/skill/8009_talent.png"
+  },
+  "800906": {
+    "id": "800906",
+    "name": "Angriff",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "params": [],
+    "icon": "icon/skill/8009_Maze02.png"
+  },
+  "800907": {
+    "id": "800907",
+    "name": "Jetzt geht’s richtig los!",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technik",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Erhöht nach dem Einsatz der Technik zu Beginn des nächsten Kampfes das Hochgefühl aller Verbündeten.",
+    "desc": "Nach dem Einsatz der Technik wird zufällig 1 der folgenden Effekte gewährt:\nGeringe Chance auf „Herzhaftes Gelächter“: Erhöht das Hochgefühl um #1[i]%.\nHohe Chance auf „Unhaltbares Lachen“: Erhöht das Hochgefühl um #3[i]%.\nErhöht zu Beginn des nächsten Kampfes das Hochgefühl aller Verbündeten für #5[i] Rd. um den entsprechenden Wert.",
+    "params": [
+      [
+        0.3,
+        0.1,
+        0.2,
+        0.1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/8009_technique.png"
+  },
+  "800920": {
+    "id": "800920",
+    "name": "Ich sagte Hochgefühl, bist du taub?",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "ElationDamage",
+    "type_text": "Fähigkeit des Hochgefühls",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Verursacht mehrmals SCH, wobei jedes Mal einem zufälligen Gegner geringer Hochgefühl-SCH vom Typ Blitz zugefügt wird. Verursacht zuletzt Hochgefühl-SCH vom Typ Blitz, der gleichmäßig auf alle Gegner aufgeteilt wird.",
+    "desc": "Verursacht #1[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner #2[i]% Hochgefühl-SCH vom Typ Blitz zugefügt wird. Verursacht zuletzt #3[i]% Hochgefühl-SCH vom Typ Blitz, der gleichmäßig auf alle Gegner aufgeteilt wird.",
+    "params": [
+      [
+        8,
+        0.1,
+        0.3
+      ],
+      [
+        8,
+        0.11,
+        0.33
+      ],
+      [
+        8,
+        0.12,
+        0.36
+      ],
+      [
+        8,
+        0.13,
+        0.39
+      ],
+      [
+        8,
+        0.14,
+        0.42
+      ],
+      [
+        8,
+        0.15,
+        0.45
+      ],
+      [
+        8,
+        0.1625,
+        0.4875
+      ],
+      [
+        8,
+        0.175,
+        0.525
+      ],
+      [
+        8,
+        0.1875,
+        0.5625
+      ],
+      [
+        8,
+        0.2,
+        0.6
+      ],
+      [
+        8,
+        0.21,
+        0.63
+      ],
+      [
+        8,
+        0.22,
+        0.66
+      ],
+      [
+        8,
+        0.23,
+        0.69
+      ],
+      [
+        8,
+        0.24,
+        0.72
+      ],
+      [
+        8,
+        0.25,
+        0.75
+      ]
+    ],
+    "icon": "icon/skill/8009_Elation.png"
+  },
+  "801001": {
+    "id": "801001",
+    "name": "Hier ist meine Unterstützung",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem Gegner geringen Blitz-SCH zu.",
+    "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von #1[i]% des ANG {F#der Trailblazerin}{M#des Trailblazers} zu.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/8009_basic_atk.png"
+  },
+  "801002": {
+    "id": "801002",
+    "name": "Lass den Sturm toben",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Fügt allen Gegnern geringen Blitz-SCH zu und erhält Verdiente Leistung.",
+    "desc": "Fügt allen Gegnern Blitz-SCH in Höhe von #1[i]% des ANG {F#der Trailblazerin}{M#des Trailblazers} zu und erhält #2[i] Pkt. Verdiente Leistung.",
+    "params": [
+      [
+        0.3,
+        20
+      ],
+      [
+        0.33,
+        20
+      ],
+      [
+        0.36,
+        20
+      ],
+      [
+        0.39,
+        20
+      ],
+      [
+        0.42,
+        20
+      ],
+      [
+        0.45,
+        20
+      ],
+      [
+        0.4875,
+        20
+      ],
+      [
+        0.525,
+        20
+      ],
+      [
+        0.5625,
+        20
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.63,
+        20
+      ],
+      [
+        0.66,
+        20
+      ],
+      [
+        0.69,
+        20
+      ],
+      [
+        0.72,
+        20
+      ],
+      [
+        0.75,
+        20
+      ]
+    ],
+    "icon": "icon/skill/8009_skill.png"
+  },
+  "801003": {
+    "id": "801003",
+    "name": "Flieg ruhig, der Trailblaze ist an deiner Seite!",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultimate",
+    "effect": "Support",
+    "effect_text": "Unterstützung",
+    "simple_desc": "Erhält Lachpunkte. Erhöht den KRIT-SCH eines anvisierten Verbündeten und entfernt Mengenkontrolle-Debuffs von diesem Ziel. Wenn das Ziel über eine Hochgefühl-Fähigkeit verfügt, erhält es zusätzlich Verdiente Leistung und setzt seine Hochgefühl-Fähigkeit sofort ein. Andernfalls wird seine Aktion vorgezogen.",
+    "desc": "Erhält #6[i] Lachpunkte. Erhöht den KRIT-SCH eines anvisierten Verbündeten für #2[i] Rd. um #1[i]% und entfernt 1 Mengenkontrolle-Debuff von diesem Ziel.\nWenn das Ziel über eine Hochgefühl-Fähigkeit verfügt, erhält es zusätzlich #4[i] Pkt. Verdiente Leistung und setzt sofort 1-mal seine Hochgefühl-Fähigkeit ein, für die eine feste Anzahl von #5[i] Lachpunkten angerechnet wird. Wenn der Gegner vor dem Einsatz der Hochgefühl-Fähigkeit besiegt wird, wird diese gegen einen neu im Kampf erscheinenden Gegner eingesetzt.\nVerfügt das Ziel über keine Hochgefühl-Fähigkeit, erhält es einen Aktionsvorzug von #3[i]%.",
+    "params": [
+      [
+        0.3,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.32,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.34,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.36,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.38,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.4,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.425,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.45,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.475,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.5,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.52,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.54,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.56,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.58,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.6,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ]
+    ],
+    "icon": "icon/skill/8009_ultimate.png"
+  },
+  "801004": {
+    "id": "801004",
+    "name": "Der Held lächelt, das Leben hängt in der Schwebe",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Support",
+    "effect_text": "Unterstützung",
+    "simple_desc": "Stellt nach dem Ausführen eines Angriffs Energie wieder her und erhält Lachpunkte.\nWenn {F#die Trailblazerin}{M#der Trailblazer} Verdiente Leistung besitzt, fügt die Fertigkeit allen Gegnern zusätzlich geringen Hochgefühl-SCH vom Typ Blitz zu.",
+    "desc": "Stellt nach dem Ausführen eines Angriffs eine feste Menge von #1[i] Energie wieder her und erhält #2[i] Lachpunkte.\nWenn {F#die Trailblazerin}{M#der Trailblazer} Verdiente Leistung besitzt, fügt die Fertigkeit allen Gegnern zusätzlich #3[i]% Hochgefühl-SCH vom Typ Blitz zu. Dieser SCH wird anhand des höchsten Werts von Verdiente Leistung der Verbündeten berechnet.",
+    "params": [
+      [
+        10,
+        3,
+        0.15
+      ],
+      [
+        10,
+        3,
+        0.165
+      ],
+      [
+        10,
+        3,
+        0.18
+      ],
+      [
+        10,
+        3,
+        0.195
+      ],
+      [
+        10,
+        3,
+        0.21
+      ],
+      [
+        10,
+        3,
+        0.225
+      ],
+      [
+        10,
+        3,
+        0.24375
+      ],
+      [
+        10,
+        3,
+        0.2625
+      ],
+      [
+        10,
+        3,
+        0.28125
+      ],
+      [
+        10,
+        3,
+        0.3
+      ],
+      [
+        10,
+        3,
+        0.315
+      ],
+      [
+        10,
+        3,
+        0.33
+      ],
+      [
+        10,
+        3,
+        0.345
+      ],
+      [
+        10,
+        3,
+        0.36
+      ],
+      [
+        10,
+        3,
+        0.375
+      ]
+    ],
+    "icon": "icon/skill/8009_talent.png"
+  },
+  "801006": {
+    "id": "801006",
+    "name": "Angriff",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "params": [],
+    "icon": "icon/skill/8009_Maze02.png"
+  },
+  "801007": {
+    "id": "801007",
+    "name": "Jetzt geht’s richtig los!",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technik",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Erhöht nach dem Einsatz der Technik zu Beginn des nächsten Kampfes das Hochgefühl aller Verbündeten.",
+    "desc": "Nach dem Einsatz der Technik wird zufällig 1 der folgenden Effekte gewährt:\nGeringe Chance auf „Herzhaftes Gelächter“: Erhöht das Hochgefühl um #1[i]%.\nHohe Chance auf „Unhaltbares Lachen“: Erhöht das Hochgefühl um #3[i]%.\nErhöht zu Beginn des nächsten Kampfes das Hochgefühl aller Verbündeten für #5[i] Rd. um den entsprechenden Wert.",
+    "params": [
+      [
+        0.3,
+        0.1,
+        0.2,
+        0.1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/8009_technique.png"
+  },
+  "801020": {
+    "id": "801020",
+    "name": "Ich sagte Hochgefühl, bist du taub?",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "ElationDamage",
+    "type_text": "Fähigkeit des Hochgefühls",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Verursacht mehrmals SCH, wobei jedes Mal einem zufälligen Gegner geringer Hochgefühl-SCH vom Typ Blitz zugefügt wird. Verursacht zuletzt Hochgefühl-SCH vom Typ Blitz, der gleichmäßig auf alle Gegner aufgeteilt wird.",
+    "desc": "Verursacht #1[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner #2[i]% Hochgefühl-SCH vom Typ Blitz zugefügt wird. Verursacht zuletzt #3[i]% Hochgefühl-SCH vom Typ Blitz, der gleichmäßig auf alle Gegner aufgeteilt wird.",
+    "params": [
+      [
+        8,
+        0.1,
+        0.3
+      ],
+      [
+        8,
+        0.11,
+        0.33
+      ],
+      [
+        8,
+        0.12,
+        0.36
+      ],
+      [
+        8,
+        0.13,
+        0.39
+      ],
+      [
+        8,
+        0.14,
+        0.42
+      ],
+      [
+        8,
+        0.15,
+        0.45
+      ],
+      [
+        8,
+        0.1625,
+        0.4875
+      ],
+      [
+        8,
+        0.175,
+        0.525
+      ],
+      [
+        8,
+        0.1875,
+        0.5625
+      ],
+      [
+        8,
+        0.2,
+        0.6
+      ],
+      [
+        8,
+        0.21,
+        0.63
+      ],
+      [
+        8,
+        0.22,
+        0.66
+      ],
+      [
+        8,
+        0.23,
+        0.69
+      ],
+      [
+        8,
+        0.24,
+        0.72
+      ],
+      [
+        8,
+        0.25,
+        0.75
+      ]
+    ],
+    "icon": "icon/skill/8009_Elation.png"
+  },
+  "1100401": {
+    "id": "1100401",
+    "name": "Schwerkraftunterdrückung",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem Gegner geringen imaginären SCH zu.",
+    "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von #1[i]% von Welts ANG zu.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1004_basic_atk.png"
+  },
+  "1100402": {
+    "id": "1100402",
+    "name": "Rand der Leere",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "Bounce",
+    "effect_text": "Abpraller",
+    "simple_desc": "Fügt einem Gegner geringen imaginären SCH zu, der 5-mal abprallt. Hat eine Chance, Ziele zu verlangsamen.",
+    "desc": "Fügt einem anvisierten Gegner imaginären SCH in Höhe von #1[i]% von Welts ANG zu und verursacht zusätzlich 4-mal SCH. Jedes Mal wird einem zufälligen Gegner imaginärer SCH in Höhe von #1[i]% von Welts ANG zugefügt. Hat bei Treffern eine Grundchance von #2[i]%, die GES des getroffenen Ziels für #4[i] Rd. um #3[i]% zu reduzieren.",
+    "params": [
+      [
+        0.36,
+        0.65,
+        0.1,
+        2
+      ],
+      [
+        0.396,
+        0.66,
+        0.1,
+        2
+      ],
+      [
+        0.432,
+        0.67,
+        0.1,
+        2
+      ],
+      [
+        0.468,
+        0.68,
+        0.1,
+        2
+      ],
+      [
+        0.504,
+        0.69,
+        0.1,
+        2
+      ],
+      [
+        0.54,
+        0.7,
+        0.1,
+        2
+      ],
+      [
+        0.585,
+        0.7125,
+        0.1,
+        2
+      ],
+      [
+        0.63,
+        0.725,
+        0.1,
+        2
+      ],
+      [
+        0.675,
+        0.7375,
+        0.1,
+        2
+      ],
+      [
+        0.72,
+        0.75,
+        0.1,
+        2
+      ],
+      [
+        0.756,
+        0.76,
+        0.1,
+        2
+      ],
+      [
+        0.792,
+        0.77,
+        0.1,
+        2
+      ],
+      [
+        0.828,
+        0.78,
+        0.1,
+        2
+      ],
+      [
+        0.864,
+        0.79,
+        0.1,
+        2
+      ],
+      [
+        0.9,
+        0.8,
+        0.1,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1004_skill.png"
+  },
+  "1100403": {
+    "id": "1100403",
+    "name": "Synthetisches Schwarzes Loch",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "Ultra",
+    "type_text": "Ultimate",
+    "effect": "AoEAttack",
+    "effect_text": "Flächenangriff",
+    "simple_desc": "Fügt allen Gegnern imaginären SCH zu und verursacht mit hoher Chance Gefangenschaft. Belegt alle Gegner mit „Schwerelosigkeit“: Bei einem erlittenen Angriff wird die Aktion verzögert.",
+    "desc": "Fügt allen Gegnern imaginären SCH in Höhe von #1[i]% von Welts ANG zu und verursacht bei getroffenen Gegnern mit einer Grundchance von #3[i]% den Status Gefangenschaft, der 1 Rd. anhält.\nDie Aktionen der Gegner im Status Gefangenschaft werden um #2[f1]% verzögert und ihre GES um #4[i]% reduziert. Nach dem Einsatz des Ultimates werden alle Gegner in den Status „Schwerelosigkeit“ versetzt. Wenn Gegner im Status Schwerelosigkeit angegriffen werden, wird ihre Aktion um #5[f1]% verzögert. Dieser Effekt kann pro Ziel und Runde bis zu #6[i]-mal ausgelöst werden. Schwerelosigkeit hält #7[i] Rd. an.",
+    "params": [
+      [
+        0.9,
+        0.06,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        0.96,
+        0.066,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.02,
+        0.072,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.08,
+        0.078,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.14,
+        0.084,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.2,
+        0.09,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.275,
+        0.0975,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.35,
+        0.105,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.425,
+        0.1125,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.5,
+        0.12,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.56,
+        0.126,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.62,
+        0.132,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.68,
+        0.138,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.74,
+        0.144,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.8,
+        0.15,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1004_ultimate.png"
+  },
+  "1100404": {
+    "id": "1100404",
+    "name": "Zeitverzerrung",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Reduziert die VTD und GES von Gegnern im Status „Schwerelosigkeit“. Wenn ein verlangsamter Gegner getroffen wird, wird noch geringer zusätzlicher imaginärer SCH verursacht.",
+    "desc": "Reduziert die VTD von Gegnern im Status „Schwerelosigkeit“ um #2[i]% und ihre GES um #3[i]%. Wenn Welt einen verlangsamten Gegner trifft, wird noch 1-mal zusätzlicher imaginärer SCH in Höhe von #1[i]% von Welts ANG verursacht.",
+    "params": [
+      [
+        0.5,
+        0.4,
+        0.05
+      ],
+      [
+        0.55,
+        0.4,
+        0.05
+      ],
+      [
+        0.6,
+        0.4,
+        0.05
+      ],
+      [
+        0.65,
+        0.4,
+        0.05
+      ],
+      [
+        0.7,
+        0.4,
+        0.05
+      ],
+      [
+        0.75,
+        0.4,
+        0.05
+      ],
+      [
+        0.8125,
+        0.4,
+        0.05
+      ],
+      [
+        0.875,
+        0.4,
+        0.05
+      ],
+      [
+        0.9375,
+        0.4,
+        0.05
+      ],
+      [
+        1,
+        0.4,
+        0.05
+      ],
+      [
+        1.05,
+        0.4,
+        0.05
+      ],
+      [
+        1.1,
+        0.4,
+        0.05
+      ],
+      [
+        1.15,
+        0.4,
+        0.05
+      ],
+      [
+        1.2,
+        0.4,
+        0.05
+      ],
+      [
+        1.25,
+        0.4,
+        0.05
+      ]
+    ],
+    "icon": "icon/skill/1004_talent.png"
+  },
+  "1100406": {
+    "id": "1100406",
+    "name": "Angriff",
+    "max_level": 1,
+    "element": "Imaginary",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "params": [],
+    "icon": "icon/skill/1004_basic_atk.png"
+  },
+  "1100407": {
+    "id": "1100407",
+    "name": "Gravitationsgefängnis",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technik",
+    "effect": "Impair",
+    "effect_text": "Beeinträchtigung",
+    "simple_desc": "Erzeugt eine spezielle Dimension. Gegner in dieser Dimension haben reduzierte Bewegungs-GES. Nach Kampfeintritt mit Gegnern in dieser Dimension besteht eine hohe Chance, dass sie in Gefangenschaft geraten.",
+    "desc": "Nach dem Einsatz von Welts Technik wird für #4[i] Sek. eine spezielle Dimension erzeugt. Die Bewegungs-GES der Gegner in dieser Dimension wird um #5[i]% reduziert. Nach Kampfeintritt mit Gegnern in der Dimension besteht eine Grundchance von #1[i]%, bei Gegnern für 1 Rd. den Status Gefangenschaft zu verursachen.\nDie Aktion von gefangenen Gegnern wird um #2[i]% verzögert und ihre GES um #3[i]% verringert. Es kann nur eine von Verbündeten erschaffene Dimension zur gleichen Zeit existieren.",
+    "params": [
+      [
+        1,
+        0.2,
+        0.1,
+        15,
+        0.5
+      ]
+    ],
+    "icon": "icon/skill/1004_technique.png"
+  },
   "1100501": {
     "id": "1100501",
     "name": "Mitternächtlicher Tumult",
@@ -36921,6 +40042,323 @@
       ]
     ],
     "icon": "icon/skill/1006_technique.png"
+  },
+  "1110201": {
+    "id": "1110201",
+    "name": "Prügel",
+    "max_level": 10,
+    "element": "Quantum",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem Gegner geringen Quanten-SCH zu.",
+    "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% von Seeles ANG zu.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1102_basic_atk.png"
+  },
+  "1110202": {
+    "id": "1110202",
+    "name": "Ungezückte Klinge",
+    "max_level": 15,
+    "element": "Quantum",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem Gegner massiven Quanten-SCH zu und erhöht die eigene GES. Wenn der aktuelle LP-Prozentsatz des Angriffsziels nach dem Angriff eines Verbündeten kleiner oder gleich #4[i]% ist, setzt Seele automatisch 1-mal ihre Fertigkeit gegen dieses Ziel ein.",
+    "desc": "Erhöht Seeles GES für #3[i] Rd. um #2[i]% und fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% von Seeles ANG zu.\nWenn der aktuelle LP-Prozentsatz des Angriffsziels nach dem Angriff eines Verbündeten kleiner oder gleich #4[i]% ist, setzt Seele automatisch 1-mal ihre Fertigkeit gegen dieses Ziel ein. Dieser Einsatz der Fertigkeit verbraucht keine Fertigkeitspunkte und stellt keine Energie wieder her. Dieser Effekt kann nur 1-mal pro Runde ausgelöst werden. Die Auslösungsanzahl wird zu Beginn von Seeles Runde zurückgesetzt. Wenn es kein angreifbares Ziel gibt, wird der Gegner mit den niedrigsten LP angegriffen.",
+    "params": [
+      [
+        1.8,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        1.98,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.16,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.34,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.52,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.7,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.925,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.15,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.375,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.6,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.78,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.96,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.14,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.32,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.5,
+        0.25,
+        3,
+        0.5
+      ]
+    ],
+    "icon": "icon/skill/1102_skill.png"
+  },
+  "1110203": {
+    "id": "1110203",
+    "name": "Schmetterlingssturm",
+    "max_level": 15,
+    "element": "Quantum",
+    "type": "Ultra",
+    "type_text": "Ultimate",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Tritt in den Verstärkten Zustand ein und fügt einem Gegner massiven Quanten-SCH zu.",
+    "desc": "Tritt in den Verstärkten Zustand ein und fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% von Seeles ANG zu.",
+    "params": [
+      [
+        3.6
+      ],
+      [
+        3.96
+      ],
+      [
+        4.32
+      ],
+      [
+        4.68
+      ],
+      [
+        5.04
+      ],
+      [
+        5.4
+      ],
+      [
+        5.85
+      ],
+      [
+        6.3
+      ],
+      [
+        6.75
+      ],
+      [
+        7.2
+      ],
+      [
+        7.56
+      ],
+      [
+        7.92
+      ],
+      [
+        8.28
+      ],
+      [
+        8.64
+      ],
+      [
+        9
+      ]
+    ],
+    "icon": "icon/skill/1102_ultimate.png"
+  },
+  "1110204": {
+    "id": "1110204",
+    "name": "Erneute Erscheinung",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Tritt beim Besiegen eines Gegners durch Standardangriff, Fertigkeit oder Ultimate in den Verstärkten Zustand ein und erhält eine zusätzliche Runde. Während des Verstärkten Zustands wird der verursachte SCH dieser Einheit erhöht.",
+    "desc": "Tritt beim Besiegen eines Gegners durch Standardangriff, Fertigkeit oder Ultimate in den Verstärkten Zustand ein und erhält sofort eine zusätzliche Runde. Während des Verstärkten Zustands wird Seeles verursachter SCH für #2[i] Rd. um #1[i]% erhöht.\nGegner, die in der zusätzlichen Runde des Talents „Erneute Erscheinung“ besiegt werden, lösen dieses Talent nicht aus.",
+    "params": [
+      [
+        0.4,
+        3
+      ],
+      [
+        0.44,
+        3
+      ],
+      [
+        0.48,
+        3
+      ],
+      [
+        0.52,
+        3
+      ],
+      [
+        0.56,
+        3
+      ],
+      [
+        0.6,
+        3
+      ],
+      [
+        0.65,
+        3
+      ],
+      [
+        0.7,
+        3
+      ],
+      [
+        0.75,
+        3
+      ],
+      [
+        0.8,
+        3
+      ],
+      [
+        0.84,
+        3
+      ],
+      [
+        0.88,
+        3
+      ],
+      [
+        0.92,
+        3
+      ],
+      [
+        0.96,
+        3
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/1102_talent.png"
+  },
+  "1110206": {
+    "id": "1110206",
+    "name": "Angriff",
+    "max_level": 1,
+    "element": "Quantum",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "params": [],
+    "icon": "icon/skill/1102_basic_atk.png"
+  },
+  "1110207": {
+    "id": "1110207",
+    "name": "Phantomillusion",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technik",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Tritt in den Status Tarnung ein. Nachdem diese Einheit durch einen Angriff auf Gegner in den Kampf eingetreten ist, tritt sie sofort in den Verstärkten Zustand ein und fügt einem zufälligen Ziel massiven Quanten-SCH zu, der garantiert ein Kritischer Treffer ist.",
+    "desc": "Nach dem Einsatz der Technik erhält Seele für #1[i] Sek. Tarnung. Während Tarnung aktiv ist, ist Seele für Gegner unsichtbar. Wenn sie durch einen aktiven Angriff auf Gegner in den Kampf eintritt, tritt Seele sofort in den verstärkten Zustand ein und fügt einem zufälligen Gegner 1-mal Quanten-SCH in Höhe des SCH-Multiplikators von Seeles Fertigkeits-SCH zu. Dieser SCH ist garantiert ein Kritischer Treffer.",
+    "params": [
+      [
+        20
+      ]
+    ],
+    "icon": "icon/skill/1102_technique.png"
   },
   "1120501": {
     "id": "1120501",
@@ -37977,6 +41415,446 @@
     ],
     "icon": "icon/skill/1212_skill.png"
   },
+  "1121701": {
+    "id": "1121701",
+    "name": "Banner: Durch Wind und Regen",
+    "max_level": 10,
+    "element": "Wind",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem Gegner geringen Wind-SCH zu.",
+    "desc": "Fügt einem anvisierten Gegner Wind-SCH in Höhe von #1[i]% von Huohuos max. LP zu.",
+    "params": [
+      [
+        0.25
+      ],
+      [
+        0.3
+      ],
+      [
+        0.35
+      ],
+      [
+        0.4
+      ],
+      [
+        0.45
+      ],
+      [
+        0.5
+      ],
+      [
+        0.55
+      ],
+      [
+        0.6
+      ],
+      [
+        0.65
+      ],
+      [
+        0.7
+      ]
+    ],
+    "icon": "icon/skill/1217_basic_atk.png"
+  },
+  "1121702": {
+    "id": "1121702",
+    "name": "Talisman: Schutz des Lebens",
+    "max_level": 15,
+    "element": "",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "Restore",
+    "effect_text": "Wiederherstellung",
+    "simple_desc": "Entfernt 1 Debuff von einem Verbündeten und stellt die LP dieses Verbündeten sowie angrenzender Einheiten wieder her.",
+    "desc": "Entfernt #5[i] Debuff von einem anvisierten Verbündeten und stellt bei ihm sofort LP in Höhe von #1[f1]% von Huohuos max. LP plus #2[i] wieder her. Stellt gleichzeitig bei angrenzenden Verbündeten LP in Höhe von #3[f1]% von Huohuos max. LP plus #4[i] wieder her.",
+    "params": [
+      [
+        0.16,
+        160,
+        0.128,
+        128,
+        1
+      ],
+      [
+        0.17,
+        256,
+        0.13599999,
+        204.8,
+        1
+      ],
+      [
+        0.18,
+        328,
+        0.144,
+        262.4,
+        1
+      ],
+      [
+        0.19,
+        400,
+        0.152,
+        320,
+        1
+      ],
+      [
+        0.2,
+        448,
+        0.16,
+        358.4,
+        1
+      ],
+      [
+        0.208,
+        496,
+        0.1664,
+        396.8,
+        1
+      ],
+      [
+        0.216,
+        532,
+        0.1728,
+        425.6,
+        1
+      ],
+      [
+        0.224,
+        568,
+        0.1792,
+        454.4,
+        1
+      ],
+      [
+        0.232,
+        604,
+        0.1856,
+        483.2,
+        1
+      ],
+      [
+        0.24,
+        640,
+        0.192,
+        512,
+        1
+      ],
+      [
+        0.248,
+        676,
+        0.1984,
+        540.8,
+        1
+      ],
+      [
+        0.256,
+        712,
+        0.2048,
+        569.6,
+        1
+      ],
+      [
+        0.264,
+        748,
+        0.2112,
+        598.4,
+        1
+      ],
+      [
+        0.272,
+        784,
+        0.2176,
+        627.2,
+        1
+      ],
+      [
+        0.28,
+        820,
+        0.224,
+        656,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1217_skill.png"
+  },
+  "1121703": {
+    "id": "1121703",
+    "name": "Schweif: Unterwerfung von Teufeln",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultimate",
+    "effect": "Support",
+    "effect_text": "Unterstützung",
+    "simple_desc": "Stellt bei allen Teammitgliedern außer dieser Einheit Energie wieder her und erhöht ihren ANG.",
+    "desc": "Stellt Energie für alle Teammitglieder außer dieser Einheit in Höhe von #1[f1]% ihrer jeweiligen max. Energie wieder her. Erhöht gleichzeitig ihren ANG für #3[i] Rd. um #2[f1]%.",
+    "params": [
+      [
+        0.15,
+        0.24,
+        2
+      ],
+      [
+        0.155,
+        0.256,
+        2
+      ],
+      [
+        0.16,
+        0.272,
+        2
+      ],
+      [
+        0.165,
+        0.288,
+        2
+      ],
+      [
+        0.17,
+        0.304,
+        2
+      ],
+      [
+        0.175,
+        0.32,
+        2
+      ],
+      [
+        0.18125,
+        0.34,
+        2
+      ],
+      [
+        0.1875,
+        0.36,
+        2
+      ],
+      [
+        0.19375,
+        0.38,
+        2
+      ],
+      [
+        0.2,
+        0.4,
+        2
+      ],
+      [
+        0.205,
+        0.416,
+        2
+      ],
+      [
+        0.21,
+        0.432,
+        2
+      ],
+      [
+        0.215,
+        0.448,
+        2
+      ],
+      [
+        0.22,
+        0.464,
+        2
+      ],
+      [
+        0.225,
+        0.48,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1217_ultimate.png"
+  },
+  "1121704": {
+    "id": "1121704",
+    "name": "Besessenheit: Metaphysische Verbindung",
+    "max_level": 15,
+    "element": "",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Restore",
+    "effect_text": "Wiederherstellung",
+    "simple_desc": "Nach dem Einsatz der Fertigkeit oder des Ultimates erhält Huohuo „Gesegnete Heilung“. Wenn Huohuo Gesegnete Heilung besitzt, werden zu Beginn der Runde eines Verbündeten oder beim Einsatz seines Ultimates dessen LP sowie die des Verbündeten mit dem niedrigsten LP-Prozentsatz wiederhergestellt und anschließend werden alle Verbündeten mit niedrigen LP 1-mal geheilt. Wird ein Verbündeter durch das Auslösen von Gesegnete Heilung geheilt, wird 1 Debuff von ihm entfernt.",
+    "desc": "Nach dem Einsatz der Fertigkeit oder des Ultimates erhält Huohuo für #1[i] Rd. „Gesegnete Heilung“. Diese Dauer wird zu Beginn jeder Runde von Huohuo um 1 verringert. Wenn Huohuo Gesegnete Heilung besitzt, werden zu Beginn der Runde eines Verbündeten oder beim Einsatz seines Ultimates dessen LP und die LP des Verbündeten mit dem niedrigsten LP-Prozentsatz um #3[f1]% von Huohuos max. LP plus #5[i] wiederhergestellt. Anschließend werden die LP aller Verbündeten, deren aktueller LP-Prozentsatz bei #6[i]% oder niedriger liegt, um #3[f1]% von Huohuos max. LP plus #5[i] wiederhergestellt.\nWird ein Verbündeter durch das Auslösen von Gesegnete Heilung geheilt, wird #2[i] Debuff von ihm entfernt. Dieser Effekt kann #7[i]-mal ausgelöst werden. Beim erneuten Erhalt von Gesegnete Heilung wird die Auslösungsanzahl zurückgesetzt.",
+    "params": [
+      [
+        3,
+        1,
+        0.03,
+        0,
+        30,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.031875,
+        0,
+        48,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.03375,
+        0,
+        61.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.035625,
+        0,
+        75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0375,
+        0,
+        84,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.039,
+        0,
+        93,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0405,
+        0,
+        99.75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.042,
+        0,
+        106.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0435,
+        0,
+        113.25,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.044999998,
+        0,
+        120,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0465,
+        0,
+        126.75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.048,
+        0,
+        133.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0495,
+        0,
+        140.25,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.051,
+        0,
+        147,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.052500002,
+        0,
+        153.75,
+        0.5,
+        6
+      ]
+    ],
+    "icon": "icon/skill/1217_talent.png"
+  },
+  "1121706": {
+    "id": "1121706",
+    "name": "Angriff",
+    "max_level": 1,
+    "element": "Wind",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "params": [],
+    "icon": "icon/skill/1217_basic_atk.png"
+  },
+  "1121707": {
+    "id": "1121707",
+    "name": "Unhold: Unterdrückung von Dämonen",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Technik",
+    "effect": "Impair",
+    "effect_text": "Beeinträchtigung",
+    "simple_desc": "Angrenzende Gegner werden von „Verängstigung“ gepackt. Nach Kampfbeginn gegen verängstigte Gegner besteht eine hohe Chance, bei Gegnern ANG-Reduktion zu verursachen.",
+    "desc": "Huohuo terrorisiert angrenzende Gegner und verursacht bei ihnen „Verängstigung“. Verängstigte Gegner fliehen vor Huohuo für #4[i] Sek. Falls ein Gegner bei Kampfbeginn verängstigt ist, besteht eine Grundchance von #1[i]%, dass der ANG jedes Gegners für #3[i] Rd. um #2[i]% gesenkt wird.",
+    "params": [
+      [
+        1,
+        0.25,
+        2,
+        10
+      ]
+    ],
+    "icon": "icon/skill/1217_technique.png"
+  },
   "1130601": {
     "id": "1130601",
     "name": "Monodrama",
@@ -38837,6 +42715,620 @@
       ]
     ],
     "icon": "icon/skill/1307_technique.png"
+  },
+  "1131001": {
+    "id": "1131001",
+    "name": "Befehl: Fackelantrieb",
+    "max_level": 10,
+    "element": "Fire",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Fügt einem Gegner geringen Feuer-SCH zu.",
+    "desc": "Fügt einem anvisierten Gegner Feuer-SCH in Höhe von #1[i]% von SAMs ANG zu.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1310_basic_atk.png"
+  },
+  "1131002": {
+    "id": "1131002",
+    "name": "Befehl: Luftbombardierung",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Verbraucht einen Teil der eigenen LP und stellt Energie wieder her, um einem Gegner Feuer-SCH zuzufügen. Die nächste Aktion wird vorgezogen.",
+    "desc": "Verbraucht #2[i]% der eigenen max. LP und stellt eine feste Menge Energie in Höhe von #3[i]% der eigenen max. Energie wieder her, um einem anvisierten Gegner Feuer-SCH in Höhe von #1[i]% von SAMs ANG zuzufügen. Wenn die aktuellen LP nicht ausreichen, werden SAMs LP beim Einsatz der Fertigkeit auf 1 reduziert. Die nächste Aktion wird um #4[i]% vorgezogen.",
+    "params": [
+      [
+        1,
+        0.4,
+        0.5,
+        0.25
+      ],
+      [
+        1.1,
+        0.4,
+        0.51,
+        0.25
+      ],
+      [
+        1.2,
+        0.4,
+        0.52,
+        0.25
+      ],
+      [
+        1.3,
+        0.4,
+        0.53,
+        0.25
+      ],
+      [
+        1.4,
+        0.4,
+        0.54,
+        0.25
+      ],
+      [
+        1.5,
+        0.4,
+        0.55,
+        0.25
+      ],
+      [
+        1.625,
+        0.4,
+        0.5625,
+        0.25
+      ],
+      [
+        1.75,
+        0.4,
+        0.575,
+        0.25
+      ],
+      [
+        1.875,
+        0.4,
+        0.5875,
+        0.25
+      ],
+      [
+        2,
+        0.4,
+        0.6,
+        0.25
+      ],
+      [
+        2.1,
+        0.4,
+        0.61,
+        0.25
+      ],
+      [
+        2.2,
+        0.4,
+        0.62,
+        0.25
+      ],
+      [
+        2.3,
+        0.4,
+        0.63,
+        0.25
+      ],
+      [
+        2.4,
+        0.4,
+        0.64,
+        0.25
+      ],
+      [
+        2.5,
+        0.4,
+        0.65,
+        0.25
+      ]
+    ],
+    "icon": "icon/skill/1310_skill.png"
+  },
+  "1131003": {
+    "id": "1131003",
+    "name": "PyroFly Typ IV: Vollständige Verbrennung",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Ultimate",
+    "effect": "Enhance",
+    "effect_text": "Verstärkung",
+    "simple_desc": "Tritt in den Status „Vollständige Verbrennung“ ein. Zieht die eigene Aktion um 100 % vor und erhält den verstärkten Standardangriff sowie die verstärkte Fertigkeit. Erhöht außerdem die GES, Schwächebruch-Effizienz und den von Gegnern erlittenen Bruch-SCH bis zum Ende des Countdowns.",
+    "desc": "Tritt in den Status „Vollständige Verbrennung“ ein. Zieht die eigene Aktion um 100 % vor und erhält den verstärkten Standardangriff sowie die verstärkte Fertigkeit. Erhöht im Status Vollständige Verbrennung die GES um #3[i] Pkt., beim Einsatz des verstärkten Standardangriffs oder der verstärkten Fertigkeit die eigene Schwächebruch-Effizienz um #2[i]% und den von Gegnern erlittenen Bruch-SCH durch SAM um #1[f1]%. Dies dauert bis zum Ende des Angriffs an.\nIn der Aktionsreihenfolge erscheint ein Countdown für Vollständige Verbrennung. Beginnt die Runde des Countdowns, verlässt SAM den Status Vollständige Verbrennung. Der Countdown hat eine feste GES von #4[i].\nIm Status Vollständige Verbrennung kann SAM den Ultimate nicht einsetzen.",
+    "params": [
+      [
+        0.1,
+        0.5,
+        30,
+        70
+      ],
+      [
+        0.11,
+        0.5,
+        33,
+        70
+      ],
+      [
+        0.12,
+        0.5,
+        36,
+        70
+      ],
+      [
+        0.13,
+        0.5,
+        39,
+        70
+      ],
+      [
+        0.14,
+        0.5,
+        42,
+        70
+      ],
+      [
+        0.15,
+        0.5,
+        45,
+        70
+      ],
+      [
+        0.1625,
+        0.5,
+        48.75,
+        70
+      ],
+      [
+        0.175,
+        0.5,
+        52.5,
+        70
+      ],
+      [
+        0.1875,
+        0.5,
+        56.25,
+        70
+      ],
+      [
+        0.2,
+        0.5,
+        60,
+        70
+      ],
+      [
+        0.21,
+        0.5,
+        63,
+        70
+      ],
+      [
+        0.22,
+        0.5,
+        66,
+        70
+      ],
+      [
+        0.23,
+        0.5,
+        69,
+        70
+      ],
+      [
+        0.24,
+        0.5,
+        72,
+        70
+      ],
+      [
+        0.25,
+        0.5,
+        75,
+        70
+      ]
+    ],
+    "icon": "icon/skill/1310_ultimate.png"
+  },
+  "1131004": {
+    "id": "1131004",
+    "name": "Kokon-Pyronexus",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "Talent",
+    "type_text": "Talent",
+    "effect": "Defence",
+    "effect_text": "Verteidigung",
+    "simple_desc": "Je niedriger die LP sind, desto geringer wird der erlittene SCH. Im Status „Vollständige Verbrennung“ ist die SCH-Reduktion stets maximal wirksam und der Effekt-WDS wird erhöht. Wenn die Energie beim Kampfbeginn unter #2[i]% liegt, wird sie auf #2[i]% wiederhergestellt. Sobald die Energie vollständig wiederhergestellt ist, werden alle Debuffs entfernt.",
+    "desc": "Je niedriger die LP sind, desto geringer wird der erlittene SCH. Wenn die LP #3[i]% oder weniger betragen, ist der Effekt maximal wirksam, wobei die max. SCH-Reduktion bei #1[i]% liegt. Im Status Vollständige Verbrennung ist die SCH-Reduktion stets maximal wirksam und der Effekt-WDS wird um #4[i]% erhöht.\nWenn die Energie beim Kampfbeginn unter #2[i]% liegt, wird sie auf #2[i]% wiederhergestellt. Sobald die Energie vollständig wiederhergestellt ist, werden alle Debuffs entfernt.",
+    "params": [
+      [
+        0.2,
+        0.5,
+        0.2,
+        0.1
+      ],
+      [
+        0.22,
+        0.5,
+        0.2,
+        0.12
+      ],
+      [
+        0.24,
+        0.5,
+        0.2,
+        0.14
+      ],
+      [
+        0.26,
+        0.5,
+        0.2,
+        0.16
+      ],
+      [
+        0.28,
+        0.5,
+        0.2,
+        0.18
+      ],
+      [
+        0.3,
+        0.5,
+        0.2,
+        0.2
+      ],
+      [
+        0.325,
+        0.5,
+        0.2,
+        0.225
+      ],
+      [
+        0.35,
+        0.5,
+        0.2,
+        0.25
+      ],
+      [
+        0.375,
+        0.5,
+        0.2,
+        0.275
+      ],
+      [
+        0.4,
+        0.5,
+        0.2,
+        0.3
+      ],
+      [
+        0.42,
+        0.5,
+        0.2,
+        0.32
+      ],
+      [
+        0.44,
+        0.5,
+        0.2,
+        0.34
+      ],
+      [
+        0.46,
+        0.5,
+        0.2,
+        0.36
+      ],
+      [
+        0.48,
+        0.5,
+        0.2,
+        0.38
+      ],
+      [
+        0.5,
+        0.5,
+        0.2,
+        0.4
+      ]
+    ],
+    "icon": "icon/skill/1310_talent.png"
+  },
+  "1131006": {
+    "id": "1131006",
+    "name": "Angriff",
+    "max_level": 1,
+    "element": "Fire",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+    "params": [],
+    "icon": "icon/skill/1310_Normal02.png"
+  },
+  "1131007": {
+    "id": "1131007",
+    "name": "Δ Befehl: Verbrannter Meteorit",
+    "max_level": 1,
+    "element": "Fire",
+    "type": "Maze",
+    "type_text": "Technik",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Springt in die Luft und bewegt sich ohne Einschränkungen. Steigt nach einigen Sekunden herab und greift alle Gegner im Wirkungsbereich der Bewegung an. Implantiert allen Gegnern zu Beginn jeder Kampfwelle Feuer-Schwäche und fügt ihnen dann Feuer-SCH zu.",
+    "desc": "Springt in die Luft und bewegt sich ohne Einschränkungen. Dies dauert #1[i] Sek. an und kann mit einem Sturzangriff vorzeitig beendet werden. Nach dem Ende der freien Bewegung steigt SAM herab und greift sofort alle Gegner in einem bestimmten Wirkungsbereich an. Implantiert allen Gegnern zu Beginn jeder Kampfwelle für #3[i] Rd. Feuer-Schwäche und fügt ihnen dann Feuer-SCH in Höhe von #2[i]% von SAMs ANG zu.",
+    "params": [
+      [
+        5,
+        2,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1310_technique.png"
+  },
+  "1131008": {
+    "id": "1131008",
+    "name": "PyroFly Typ IV: Pyrogene Dezimierung",
+    "max_level": 10,
+    "element": "Fire",
+    "type": "Normal",
+    "type_text": "Standardangriff",
+    "effect": "SingleAttack",
+    "effect_text": "Einzelangriff",
+    "simple_desc": "Stellt einen Teil der eigenen LP wieder her und fügt einem Gegner Feuer-SCH zu.",
+    "desc": "Stellt #2[i]% der eigenen max. LP wieder her. Fügt einem anvisierten Gegner Feuer-SCH in Höhe von #1[i]% von SAMs ANG zu.",
+    "params": [
+      [
+        1,
+        0.2
+      ],
+      [
+        1.2,
+        0.2
+      ],
+      [
+        1.4,
+        0.2
+      ],
+      [
+        1.6,
+        0.2
+      ],
+      [
+        1.8,
+        0.2
+      ],
+      [
+        2,
+        0.2
+      ],
+      [
+        2.2,
+        0.2
+      ],
+      [
+        2.4,
+        0.2
+      ],
+      [
+        2.6,
+        0.2
+      ],
+      [
+        2.8,
+        0.2
+      ]
+    ],
+    "icon": "icon/skill/1310_Normal02.png"
+  },
+  "1131009": {
+    "id": "1131009",
+    "name": "PyroFly Typ IV: Überladung eines sterbenden Sterns",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "BPSkill",
+    "type_text": "Fertigkeit",
+    "effect": "Blast",
+    "effect_text": "Ausdehnung",
+    "simple_desc": "Stellt einen Teil der eigenen LP wieder her. Implantiert einem Gegner sowie angrenzenden Einheiten Feuer-Schwäche. Fügt ihm massiven Feuer-SCH und angrenzenden Einheiten Feuer-SCH zu.",
+    "desc": "Stellt 25 % der eigenen max. LP wieder her. Implantiert einem anvisierten Gegner sowie angrenzenden Einheiten für 2 Rd. eine Feuer-Schwäche. Fügt dem Ziel Feuer-SCH in Höhe von #5[f1] × Brucheffekt + #1[f1]% von SAMs ANG und angrenzenden Einheiten Feuer-SCH in Höhe von #6[f1] × Brucheffekt + #2[f1]% von SAMs ANG zu. Dabei werden max. #7[i]% des Brucheffekts berechnet.",
+    "params": [
+      [
+        1,
+        0.5,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.1,
+        0.55,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.2,
+        0.6,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.3,
+        0.65,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.4,
+        0.7,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.5,
+        0.75,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.625,
+        0.8125,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.75,
+        0.875,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.875,
+        0.9375,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2,
+        1,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.1,
+        1.05,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.2,
+        1.1,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.3,
+        1.15,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.4,
+        1.2,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.5,
+        1.25,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ]
+    ],
+    "icon": "icon/skill/1310_skill.png"
   },
   "1140201": {
     "id": "1140201",

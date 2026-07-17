@@ -397,7 +397,7 @@
     "id": "100406",
     "name": "Prospect of Glory",
     "rank": 6,
-    "desc": "When using Skill, deals DMG for 1 extra time to a random enemy.",
+    "desc": "When using Skill, deals DMG for 1 extra time to one random enemy.",
     "materials": [
       {
         "id": "11004",
@@ -1231,7 +1231,7 @@
     "id": "110201",
     "name": "Extirpating Slash",
     "rank": 1,
-    "desc": "When dealing DMG to an enemy whose HP percentage is 80%% or lower, CRIT Rate increases by 15%%.",
+    "desc": "When dealing DMG to an enemy whose HP percentage is 80%% or lower, increases CRIT Rate by 15%%.",
     "materials": [
       {
         "id": "11102",
@@ -1319,7 +1319,7 @@
     "id": "110206",
     "name": "Shattering Shambles",
     "rank": 6,
-    "desc": "After Seele uses Ultimate, inflict the attacked enemy with \"Butterfly Flurry\" for 1 turn(s). Enemies in \"Butterfly Flurry\" will additionally take 1 instance of Quantum Additional DMG equal to 15%% of Seele's Ultimate DMG every time they are attacked. If the target is defeated by the \"Butterfly Flurry\" state's Additional DMG triggered by other allies' attacks, Seele's Talent will not be triggered.\nWhen Seele is knocked down, the \"Butterfly Flurry\" inflicted on the enemies will be removed.",
+    "desc": "After attacking with Ultimate, Seele inflicts \"Butterfly Flurry\" on the attacked enemy target for 1 turn(s). Enemies in \"Butterfly Flurry\" will additionally take 1 instance of Quantum Additional DMG equal to 15%% of Seele's Ultimate DMG every time they are attacked. If the target is defeated by the \"Butterfly Flurry\" state's Additional DMG triggered by other allies' attacks, Seele's Talent will not be triggered.\nWhen Seele is knocked down, the \"Butterfly Flurry\" inflicted on the enemies will be removed.",
     "materials": [
       {
         "id": "11102",
@@ -6527,7 +6527,7 @@
     "id": "140106",
     "name": "Sweet Lure of Answer",
     "rank": 6,
-    "desc": "The Herta's Ice RES PEN increases by 20%%. When the number of enemy targets on the field is 3 (or more)/2/1, Ultimate's DMG multiplier increases by 1.4%/2.5%/4% respectively.",
+    "desc": "The Herta's Ice RES PEN increases by 20%%. When the number of enemy targets on the field is (≥3)/2/1, Ultimate's DMG multiplier increases by 1.4%/2.5%/4% respectively.",
     "materials": [
       {
         "id": "11401",
@@ -7653,7 +7653,7 @@
     "id": "141301",
     "name": "Sleep Tight, the Night Dreams Long",
     "rank": 1,
-    "desc": "When Evernight is on the field, if there are (4 or more)/3/2/1 enemy targets on the field, ally memosprites deal DMG equal to 1.2%/1.25%/1.3%/1.5% of their original DMG respectively.",
+    "desc": "When Evernight is on the field, if there are (≥4)/3/2/1 enemy targets on the field, ally memosprites deal DMG equal to 1.2%/1.25%/1.3%/1.5% of their original DMG respectively.",
     "materials": [
       {
         "id": "11413",
@@ -8286,6 +8286,352 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/1502_rank6.png"
+  },
+  "150401": {
+    "id": "150401",
+    "name": "Beware: Venture Not at Full Moon",
+    "rank": 1,
+    "desc": "While Ashveil is on the field, increases DMG taken by all enemies by 24%%. When an enemy target's current HP percentage is 50%% or lower, the DMG they take increases to 36%%.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank1.png"
+  },
+  "150402": {
+    "id": "150402",
+    "name": "Knock: Where Snickers Echo",
+    "rank": 2,
+    "desc": "The max stack limit of \"Gluttony\" increases to 18. After each time Ashveil launches the enhanced Talent's Follow-Up ATK, refunds 35%% of the removed \"Gluttony\" stacks.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank2.png"
+  },
+  "150403": {
+    "id": "150403",
+    "name": "Hush: Unsaid Between Friends",
+    "rank": 3,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150403",
+        "num": 2
+      },
+      {
+        "id": "150401",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1504_ultra.png"
+  },
+  "150404": {
+    "id": "150404",
+    "name": "Heed: Swallow Truth Whole",
+    "rank": 4,
+    "desc": "When Ashveil uses Ultimate, increases ATK by 40%% for 3 turn(s).",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank4.png"
+  },
+  "150405": {
+    "id": "150405",
+    "name": "Caution: Sleuth Turns Slayer",
+    "rank": 5,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150402",
+        "num": 2
+      },
+      {
+        "id": "150404",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/1504_bp.png"
+  },
+  "150406": {
+    "id": "150406",
+    "name": "Finale: And Then There Were None",
+    "rank": 6,
+    "desc": "When the \"Bait\" exists on the field, reduces all enemies' All-Type RES by 20%%. For every 1 stack of \"Gluttony\" Ashveil has gained, the DMG dealt increases by 4%%. This effect can stack up to 30 time(s).",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank6.png"
+  },
+  "150501": {
+    "id": "150501",
+    "name": "Home: A Prayer in Dance",
+    "rank": 1,
+    "desc": "Increases All-Type RES PEN by 20%%. After \"Master Fox\" uses an attack, additionally triggers 1 instance of Elation Skill. Elation Skill additionally grants this unit 10 \"Certified Banger\" point(s).",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank1.png"
+  },
+  "150502": {
+    "id": "150502",
+    "name": "Voyage: A Wish for Everbloom",
+    "rank": 2,
+    "desc": "CRIT DMG increases by 36%%. When triggering the Certified Banger gain effect from the Trace \"Watch All Revels\"/\"Best All Blooms\", additionally gains \"Certified Banger\" equal to 50%%/1% of the \"Certified Banger\" gained this time.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank2.png"
+  },
+  "150503": {
+    "id": "150503",
+    "name": "Blade: A Feast on Evils",
+    "rank": 3,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150503",
+        "num": 2
+      },
+      {
+        "id": "150501",
+        "num": 1
+      },
+      {
+        "id": "150520",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1505_ultra.png"
+  },
+  "150504": {
+    "id": "150504",
+    "name": "Meadow: A Ruin by Vice",
+    "rank": 4,
+    "desc": "Evanescia's DMG dealt ignores 15%% of the enemy targets' DEF.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank4.png"
+  },
+  "150505": {
+    "id": "150505",
+    "name": "Arcadia: A Glimpse of Fates",
+    "rank": 5,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150502",
+        "num": 2
+      },
+      {
+        "id": "150504",
+        "num": 2
+      },
+      {
+        "id": "150520",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1505_bp.png"
+  },
+  "150506": {
+    "id": "150506",
+    "name": "Maiden: A Step into Dreams",
+    "rank": 6,
+    "desc": "The duration of Evanescia's \"Certified Banger\" increases by 1 turn(s). The Elation DMG dealt by Evanescia merrymakes by 15%%. For every 100 points of \"Certified Banger\" held, it additionally merrymakes by #3[f1]%. Up to 1000 points of \"Certified Banger\" can be taken into account. After using Ultimate for the first time upon entering combat, regenerates a fixed amount of 120 Energy for Evanescia. This effect can trigger 1 time for every 4 more instances of Ultimate used.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank6.png"
+  },
+  "150601": {
+    "id": "150601",
+    "name": "Aether Editing: Eidolon +1",
+    "rank": 1,
+    "desc": "Enemy targets in the Zone take 20%% increased DMG.\nWhen exiting the \"Godmode Player\" state, \"Hidden MMR\" will not be cleared. Instead, 20%% of \"Hidden MMR\" will be retained.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank1.png"
+  },
+  "150602": {
+    "id": "150602",
+    "name": "It's a Feature, Not a Bug",
+    "rank": 2,
+    "desc": "After entering the \"Godmode Player\" state, extends the duration of all buffs on this unit by 1 turn. In the current \"Godmode Player\" state, for every 120 point(s) of \"Hidden MMR\" increased (including the initial \"Hidden MMR\"), Silver Wolf LV.999 gains 1 extra turn and regains 1 use of Enhanced Basic ATK.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank2.png"
+  },
+  "150603": {
+    "id": "150603",
+    "name": "Max Lv. 15? Says who?",
+    "rank": 3,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150602",
+        "num": 2
+      },
+      {
+        "id": "150601",
+        "num": 1
+      },
+      {
+        "id": "150620",
+        "num": 1
+      },
+      {
+        "id": "150608",
+        "num": 1
+      },
+      {
+        "id": "150610",
+        "num": 1
+      },
+      {
+        "id": "150612",
+        "num": 1
+      },
+      {
+        "id": "150618",
+        "num": 1
+      },
+      {
+        "id": "150621",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1506_bp.png"
+  },
+  "150604": {
+    "id": "150604",
+    "name": "I Came. I Saw. I One-Shot.",
+    "rank": 4,
+    "desc": "Elation DMG dealt by \"Honkai-DMG Demo\" additionally takes into account Punchline, equal to the original amount multiplied by 5.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank4.png"
+  },
+  "150605": {
+    "id": "150605",
+    "name": "Basic ATK Is the New Ultimate",
+    "rank": 5,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150603",
+        "num": 2
+      },
+      {
+        "id": "150604",
+        "num": 2
+      },
+      {
+        "id": "150620",
+        "num": 1
+      },
+      {
+        "id": "150621",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1506_ultra.png"
+  },
+  "150606": {
+    "id": "150606",
+    "name": "Solo Maxxing!",
+    "rank": 6,
+    "desc": "Elation DMG dealt during Enhanced Basic ATK merrymakes by 50%%.\nWhen enemy targets enter combat, they are implanted with \"Absolute Weakness\": Has All-Type Weakness, and reduces their All-Type Base RES to 0. (If Base RES is already at 0, then the corresponding Type RES decreases by 20%% instead).",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank6.png"
   },
   "800101": {
     "id": "800101",
@@ -9183,6 +9529,328 @@
     "level_up_skills": [],
     "icon": "icon/skill/8007_rank6.png"
   },
+  "800901": {
+    "id": "800901",
+    "name": "Believe In the Light",
+    "rank": 1,
+    "desc": "After using Skill, the next Ultimate increases the amount of \"Certified Banger\" gained by ally targets by 2. This effect can stack up to 3 time(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank1.png"
+  },
+  "800902": {
+    "id": "800902",
+    "name": "History in the Making...",
+    "rank": 2,
+    "desc": "Ultimate additionally increases the Elation of one designated ally by 12%%, lasting for 2 turn(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank2.png"
+  },
+  "800903": {
+    "id": "800903",
+    "name": "Into the Spotlight",
+    "rank": 3,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "800902",
+        "num": 2
+      },
+      {
+        "id": "800904",
+        "num": 2
+      },
+      {
+        "id": "800920",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_bp.png"
+  },
+  "800904": {
+    "id": "800904",
+    "name": "Save the World. Just Because.",
+    "rank": 4,
+    "desc": "When using Elation Skill, increases the DMG taken by enemy targets by 10%%, lasting for 2 turn(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank4.png"
+  },
+  "800905": {
+    "id": "800905",
+    "name": "Love & Courage: Always in Style",
+    "rank": 5,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "800903",
+        "num": 2
+      },
+      {
+        "id": "800901",
+        "num": 1
+      },
+      {
+        "id": "800920",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_ultra.png"
+  },
+  "800906": {
+    "id": "800906",
+    "name": "The Cosmic Legend Cometh!",
+    "rank": 6,
+    "desc": "When using Elation Skill, increases this unit's CRIT DMG by 1% for 3 turns.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank6.png"
+  },
+  "801001": {
+    "id": "801001",
+    "name": "Believe In the Light",
+    "rank": 1,
+    "desc": "After using Skill, the next Ultimate increases the amount of \"Certified Banger\" gained by ally targets by 2. This effect can stack up to 3 time(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank1.png"
+  },
+  "801002": {
+    "id": "801002",
+    "name": "History in the Making...",
+    "rank": 2,
+    "desc": "Ultimate additionally increases the Elation of one designated ally by 12%%, lasting for 2 turn(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank2.png"
+  },
+  "801003": {
+    "id": "801003",
+    "name": "Into the Spotlight",
+    "rank": 3,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "801002",
+        "num": 2
+      },
+      {
+        "id": "801004",
+        "num": 2
+      },
+      {
+        "id": "801020",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_bp.png"
+  },
+  "801004": {
+    "id": "801004",
+    "name": "Save the World. Just Because.",
+    "rank": 4,
+    "desc": "When using Elation Skill, increases the DMG taken by enemy targets by 10%%, lasting for 2 turn(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank4.png"
+  },
+  "801005": {
+    "id": "801005",
+    "name": "Love & Courage: Always in Style",
+    "rank": 5,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "801003",
+        "num": 2
+      },
+      {
+        "id": "801001",
+        "num": 1
+      },
+      {
+        "id": "801020",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_ultra.png"
+  },
+  "801006": {
+    "id": "801006",
+    "name": "The Cosmic Legend Cometh!",
+    "rank": 6,
+    "desc": "When using Elation Skill, increases this unit's CRIT DMG by 1% for 3 turns.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank6.png"
+  },
+  "1100401": {
+    "id": "1100401",
+    "name": "Legacy of Honor",
+    "rank": 1,
+    "desc": "After using a Skill or Ultimate to hit a target in the \"Weightless\" state, additionally deals 1 instance of Imaginary Additional DMG equal to 40%% of the Ultimate's DMG multiplier. This effect can only be triggered once per target per attack.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank1.png"
+  },
+  "1100402": {
+    "id": "1100402",
+    "name": "Conflux of Stars",
+    "rank": 2,
+    "desc": "When his Talent is triggered, Welt regenerates 3 Energy.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank2.png"
+  },
+  "1100403": {
+    "id": "1100403",
+    "name": "Prayer of Peace",
+    "rank": 3,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1100402",
+        "num": 2
+      },
+      {
+        "id": "1100401",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11004_bp.png"
+  },
+  "1100404": {
+    "id": "1100404",
+    "name": "Appellation of Justice",
+    "rank": 4,
+    "desc": "Enemy targets in the \"Weightless\" state have their All-Type RES reduced by 30%%.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank4.png"
+  },
+  "1100405": {
+    "id": "1100405",
+    "name": "Power of Kindness",
+    "rank": 5,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1100403",
+        "num": 2
+      },
+      {
+        "id": "1100404",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11004_ultra.png"
+  },
+  "1100406": {
+    "id": "1100406",
+    "name": "Prospect of Glory",
+    "rank": 6,
+    "desc": "When using Skill or Ultimate to hit an enemy target in the Slow state, increases CRIT Rate by 30%% and CRIT DMG by 60%% for the DMG dealt.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank6.png"
+  },
   "1100501": {
     "id": "1100501",
     "name": "Da Capo",
@@ -9386,6 +10054,108 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/11006_rank6.png"
+  },
+  "1110201": {
+    "id": "1110201",
+    "name": "Extirpating Slash",
+    "rank": 1,
+    "desc": "When dealing DMG to an enemy whose HP percentage is 80%% or lower, increases CRIT Rate by 15%%, and ignores 20%% of target's DEF.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank1.png"
+  },
+  "1110202": {
+    "id": "1110202",
+    "name": "Dancing Butterfly",
+    "rank": 2,
+    "desc": "The SPD Boost effect of Seele's Skill can stack up to 2 time(s).",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank2.png"
+  },
+  "1110203": {
+    "id": "1110203",
+    "name": "Dazzling Tumult",
+    "rank": 3,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1110202",
+        "num": 2
+      },
+      {
+        "id": "1110204",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11102_bp.png"
+  },
+  "1110204": {
+    "id": "1110204",
+    "name": "Flitting Phantasm",
+    "rank": 4,
+    "desc": "Seele regenerates 15 Energy when she defeats an enemy.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank4.png"
+  },
+  "1110205": {
+    "id": "1110205",
+    "name": "Piercing Shards",
+    "rank": 5,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1110203",
+        "num": 2
+      },
+      {
+        "id": "1110201",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11102_ultra.png"
+  },
+  "1110206": {
+    "id": "1110206",
+    "name": "Shattering Shambles",
+    "rank": 6,
+    "desc": "After attacking with Ultimate, Seele inflicts \"Butterfly Flurry\" on the target for 3 turn(s). Enemy targets in \"Butterfly Flurry\" will additionally take 1 instance of True DMG equal to 30%% of Seele's Ultimate DMG after receiving an attack. When the target under the \"Butterfly Flurry\" state is defeated by any unit, Seele's Talent will also be triggered.\nWhen Seele is knocked down, the \"Butterfly Flurry\" inflicted on the enemies will be removed.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank6.png"
   },
   "1120501": {
     "id": "1120501",
@@ -9599,6 +10369,108 @@
     "level_up_skills": [],
     "icon": "icon/skill/11212_rank6.png"
   },
+  "1121701": {
+    "id": "1121701",
+    "name": "Anchored to Vessel, Specters Nestled",
+    "rank": 1,
+    "desc": "The duration of \"Divine Provision\" produced by the Talent is extended by 1 turn(s). When Huohuo possesses \"Divine Provision,\" her Outgoing Healing increases by 20%%, all allies' SPD increases by 12%%.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank1.png"
+  },
+  "1121702": {
+    "id": "1121702",
+    "name": "Sealed in Tail, Wraith Subdued",
+    "rank": 2,
+    "desc": "If Huohuo possesses \"Divine Provision\" when an ally target is struck by a killing blow, the ally will not be knocked down and their HP will immediately be restored by an amount equal to 50%% of their Max HP. This reduces the duration of \"Divine Provision\" by 1 turn. This effect can only be triggered 2 time(s) per battle.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank2.png"
+  },
+  "1121703": {
+    "id": "1121703",
+    "name": "Cursed by Fate, Moths to Flame",
+    "rank": 3,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1121703",
+        "num": 2
+      },
+      {
+        "id": "1121704",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11217_ultra.png"
+  },
+  "1121704": {
+    "id": "1121704",
+    "name": "Tied in Life, Bound to Strife",
+    "rank": 4,
+    "desc": "When healing an ally target via Skill or Talent, the less HP the target ally currently has, the higher the amount of healing they will receive. The maximum increase in healing provided by Huohuo is 80%%.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank4.png"
+  },
+  "1121705": {
+    "id": "1121705",
+    "name": "Mandated by Edict, Evils Evicted",
+    "rank": 5,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1121702",
+        "num": 2
+      },
+      {
+        "id": "1121701",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11217_bp.png"
+  },
+  "1121706": {
+    "id": "1121706",
+    "name": "Woven Together, Cohere Forever",
+    "rank": 6,
+    "desc": "When healing an ally target, increases the ally target's DMG dealt by 50%% for 2 turn(s).",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank6.png"
+  },
   "1130601": {
     "id": "1130601",
     "name": "Suspension of Disbelief",
@@ -9802,5 +10674,115 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/11307_rank6.png"
+  },
+  "1131001": {
+    "id": "1131001",
+    "name": "In Reddened Chrysalis, I Once Rest",
+    "rank": 1,
+    "desc": "When using the Enhanced Skill, ignores 15%% of the target's DEF. The Enhanced Skill does not consume Skill Points.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank1.png"
+  },
+  "1131002": {
+    "id": "1131002",
+    "name": "From Shattered Sky, I Free Fall",
+    "rank": 2,
+    "desc": "While in Complete Combustion, using the Enhanced Basic ATK or the Enhanced Skill to defeat an enemy target or to Break their Weakness allows SAM to immediately gain 1 extra turn. This effect can only trigger 1 time per turn, and the trigger count resets at the start of SAM's turn.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank2.png"
+  },
+  "1131003": {
+    "id": "1131003",
+    "name": "Amidst Silenced Stars, I Deep Sleep",
+    "rank": 3,
+    "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1131002",
+        "num": 2
+      },
+      {
+        "id": "1131001",
+        "num": 1
+      },
+      {
+        "id": "1131009",
+        "num": 2
+      },
+      {
+        "id": "1131008",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11310_bp.png"
+  },
+  "1131004": {
+    "id": "1131004",
+    "name": "Upon Lighted Fyrefly, I Soon Gaze",
+    "rank": 4,
+    "desc": "While in Complete Combustion, increases SAM's Effect RES by 50%%.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank4.png"
+  },
+  "1131005": {
+    "id": "1131005",
+    "name": "From Undreamt Night, I Thence Shine",
+    "rank": 5,
+    "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1131003",
+        "num": 2
+      },
+      {
+        "id": "1131004",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11310_ultra.png"
+  },
+  "1131006": {
+    "id": "1131006",
+    "name": "In Finalized Morrow, I Full Bloom",
+    "rank": 6,
+    "desc": "While in Complete Combustion, increases SAM's Fire RES PEN by 20%%. When using the Enhanced Basic ATK or Enhanced Skill, increases Weakness Break Efficiency by 50%%.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank6.png"
   }
 }

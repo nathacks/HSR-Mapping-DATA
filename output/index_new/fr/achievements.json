@@ -4,7 +4,7 @@
     "series_id": "1",
     "title": "Ambre incandescent",
     "desc": "Emprunter la Voie de la Préservation",
-    "hide_desc": "Suivre la Voie de la Préservation",
+    "hide_desc": "Emprunter la Voie de la Préservation",
     "hide": true
   },
   "4010102": {
@@ -155,16 +155,24 @@
     "id": "4013201",
     "series_id": "1",
     "title": "Nessun Dorma",
-    "desc": "Suivre la Voie de l'Harmonie",
-    "hide_desc": "Suivre la Voie de l'Harmonie",
+    "desc": "Emprunter la Voie de l'Harmonie",
+    "hide_desc": "Emprunter la Voie de l'Harmonie",
     "hide": true
   },
   "4014001": {
     "id": "4014001",
     "series_id": "1",
     "title": "À la rencontre d'hier",
-    "desc": "Suivre la Voie du Souvenir",
-    "hide_desc": "Suivre la Voie du Souvenir",
+    "desc": "Emprunter la Voie du Souvenir",
+    "hide_desc": "Emprunter la Voie du Souvenir",
+    "hide": true
+  },
+  "4015201": {
+    "id": "4015201",
+    "series_id": "1",
+    "title": "Que la rigolade soit",
+    "desc": "Emprunter la Voie de l'Allégresse",
+    "hide_desc": "",
     "hide": true
   },
   "4020201": {
@@ -1493,6 +1501,126 @@
     "title": "L'été, les étincelles et un corps",
     "desc": "Une audience avec un dieu exige toujours un sacrifice\n※ Assister à l'ouverture cruelle des Jeux fabulunaires.",
     "hide_desc": "Une audience avec un dieu exige toujours un sacrifice ※ Assister à l'ouverture cruelle des Jeux fabulunaires",
+    "hide": false
+  },
+  "4035101": {
+    "id": "4035101",
+    "series_id": "3",
+    "title": "La Gloire de mon père",
+    "desc": "Le pire cauchemar de tout enfant : expliquer son métier à ses parents\n※ Faire visiter l'Astral Express au père de Himeko",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035102": {
+    "id": "4035102",
+    "series_id": "3",
+    "title": "Arrête-moi si tu peux",
+    "desc": "L'identité sociale n'est qu'un des innombrables masques que nous portons\n※ Prendre une photo avec Nihilux",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035103": {
+    "id": "4035103",
+    "series_id": "3",
+    "title": "Je serai à la tête !",
+    "desc": "Admirez ce Mécanoïde se dressant fièrement !\n※ Assembler votre propre Mécanoïde géant et engager le combat contre l'Escadron Aurora",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035104": {
+    "id": "4035104",
+    "series_id": "3",
+    "title": "À la recherche du bonheur",
+    "desc": "Tout le monde recherche le bonheur, mais qui peut le définir ?\n※ Terminer l'enquête sur la Société de recherche des sourires heureux",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035105": {
+    "id": "4035105",
+    "series_id": "3",
+    "title": "Dévoreur de rêves",
+    "desc": "Les créateurs sont des créatures qui rêvent au grand jour\n※ Démasquer l'auteur de <i>Toudoux à travers les cieux</i> à la maison d'édition",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035106": {
+    "id": "4035106",
+    "series_id": "3",
+    "title": "Train express vers l'enfer",
+    "desc": "???\n※ Atteindre une station abandonnée cachée",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035107": {
+    "id": "4035107",
+    "series_id": "3",
+    "title": "Jeton porte-bonheur",
+    "desc": "Merci à l'ami qui m'a donné le jeton\n※ Revenir à la réalité avec l'aide de Perle",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035108": {
+    "id": "4035108",
+    "series_id": "3",
+    "title": "Fabulations de la Fabulune",
+    "desc": "Elle le dit ainsi, et c'est ainsi que vous l'entendez\n※ Écouter la délirante déclaration de la Fabulune",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035201": {
+    "id": "4035201",
+    "series_id": "3",
+    "title": "Chemin pittoresque vers le travail",
+    "desc": "Il n'y aurait pas un moyen plus cool de se déplacer ?\n※ Prendre le train pour sauver le monde",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035202": {
+    "id": "4035202",
+    "series_id": "3",
+    "title": "Verdict de l'arbitre",
+    "desc": "Symbole d'autorité de l'arbitre\n※ Evanescia récupère sa règlame",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035203": {
+    "id": "4035203",
+    "series_id": "3",
+    "title": "Psychopathe de l'Arcadia",
+    "desc": "Personne ne se soucie de ce que vous pensez... jusqu'à ce que vous décidiez de détruire le monde\n※ Entrer dans la faille au cœur d'Exosouhait",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035204": {
+    "id": "4035204",
+    "series_id": "3",
+    "title": "Amusement mortel",
+    "desc": "Rire ou mourir\n※ Assister à l'épidémie d'imagénèse « Ascension joyeuse »",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035205": {
+    "id": "4035205",
+    "series_id": "3",
+    "title": "N° 1 galactique",
+    "desc": "Mieux vaut mourir de la main d'un méchant que d'être honoré par un type pareil\n※ Cela dit, personne ne veut vraiment mourir de la main d'un méchant",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035206": {
+    "id": "4035206",
+    "series_id": "3",
+    "title": "Mort du Héraut de la mort",
+    "desc": "Ceux qui proclament la mort seront eux-mêmes réclamés par la mort\n※ Vaincre le nouveau Héraut de la mort",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035207": {
+    "id": "4035207",
+    "series_id": "3",
+    "title": "Zéphyr des fleurs",
+    "desc": "Emportée dans la brise fleurie\n※ Accepter la requête d'Evanescia",
+    "hide_desc": "",
     "hide": false
   },
   "4040101": {
@@ -3763,7 +3891,7 @@
     "id": "4045038",
     "series_id": "4",
     "title": "Ping-pong",
-    "desc": "Dans Saut interdimensionnel !, pendant l'heure du saut à la station Perdido, changer la gravité de manière répétée pour faire rebondir les Ætherae d'avant en arrière",
+    "desc": "Lors d'un Saut interdimensionnel ! à la station Perdido, changer la gravité de manière répétée pour faire rebondir les Ætherae d'avant en arrière",
     "hide_desc": "",
     "hide": true
   },
@@ -3902,6 +4030,254 @@
     "desc": "Écouter une mélodie envoûtante qui résonne depuis le bar karaoké au cœur de Duopolis ou au quartier de Colombeaux",
     "hide_desc": "",
     "hide": true
+  },
+  "4045101": {
+    "id": "4045101",
+    "series_id": "4",
+    "title": "Une terre nommée Arcadia",
+    "desc": "Récupérer les 6 pages restantes des <i>Chroniques des graisses flottantes</i> et accomplir tous les objectifs de collection dans le monde des Chroniques des graisses flottantes à Duopolis",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045102": {
+    "id": "4045102",
+    "series_id": "4",
+    "title": "Feu de cœur du lotus azur",
+    "desc": "Écraser tous les Héliobes à l'Heure du saut de Vigîlonuage",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045103": {
+    "id": "4045103",
+    "series_id": "4",
+    "title": "Puis vient la journée de travail",
+    "desc": "Vaincre à nouveau Septimus à l'Heure du saut à Vigîlonuage",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045104": {
+    "id": "4045104",
+    "series_id": "4",
+    "title": "« Entrée interdite »",
+    "desc": "S'infiltrer dans le bureau du personnel de la Tour Perluxe",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045105": {
+    "id": "4045105",
+    "series_id": "4",
+    "title": "Le pigeon de Skinner",
+    "desc": "Activer le bouton aux pièces d'or #1 fois de suite lors d'un Saut interdimensionnel !",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045106": {
+    "id": "4045106",
+    "series_id": "4",
+    "title": "Maintenant ! Assemblage !",
+    "desc": "Trouver le passage secret pour atteindre le coffre du Magiméca",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045107": {
+    "id": "4045107",
+    "series_id": "4",
+    "title": "Batterie de ciblage Perluxe",
+    "desc": "Vaincre le Hérissae géant lors d'un Saut interdimensionnel à la Tour Perluxe",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045108": {
+    "id": "4045108",
+    "series_id": "4",
+    "title": "La règle d'or d'un chat",
+    "desc": "Attraper tous les pixaillons lancés par le chat durant l'assemblage du Mécanoïde",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045109": {
+    "id": "4045109",
+    "series_id": "4",
+    "title": "Formation ultime du siècle du Méga-mécanoïde",
+    "desc": "Détruire toutes les structures destructibles dans le studio de combat de Mécanoïde",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045110": {
+    "id": "4045110",
+    "series_id": "4",
+    "title": "Dénicheur de Méga-mécanoïdes",
+    "desc": "Trouver quatre Mécanoïdes à l'apparence inhabituelle",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045111": {
+    "id": "4045111",
+    "series_id": "4",
+    "title": "Passion ardente",
+    "desc": "Terminer le défi « En avant, lance enflammée ! » pendant le Star Rail Fest",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045112": {
+    "id": "4045112",
+    "series_id": "4",
+    "title": "De l'abîme au ciel",
+    "desc": "Recréer « l'ouverture des flots » dans la salle d'exposition de Xianzhou lors du Star Rail Fest",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045113": {
+    "id": "4045113",
+    "series_id": "4",
+    "title": "Variations d'Arcadia : Boîte-de-conserve",
+    "desc": "Jouer une mélodie étrange et trouver la mystérieuse créature cachée à la Tour Perluxe",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045114": {
+    "id": "4045114",
+    "series_id": "4",
+    "title": "Variations d'Arcadia : Pandaroo métamorphe",
+    "desc": "Jouer une mélodie étrange et découvrir la mystérieuse créature cachée à Vigîlonuage",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045201": {
+    "id": "4045201",
+    "series_id": "4",
+    "title": "Vacances pour le reste de la vie",
+    "desc": "Récupérer un total de #1 Ætherae sans nom de Lapin stellaire",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045202": {
+    "id": "4045202",
+    "series_id": "4",
+    "title": "La bille de fer de Galilée",
+    "desc": "Terminer l'Heure du saut sur le toit de la station de télévision et sauter depuis le sommet jusqu'à la salle d'interview",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045203": {
+    "id": "4045203",
+    "series_id": "4",
+    "title": "La légende de la tour",
+    "desc": "Récupérer toutes les Mélodies dans l'Heure du saut sur le toit de la station de télévision",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045204": {
+    "id": "4045204",
+    "series_id": "4",
+    "title": "Pas d'assassin, pas de credo",
+    "desc": "Atteindre le sommet de la tour de télévision de Merchamps",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045205": {
+    "id": "4045205",
+    "series_id": "4",
+    "title": "Âmes liées par la gravité",
+    "desc": "Lors d'un Saut interdimensionnel !, rester dans les airs et toucher la ligne de gravité #1[i] fois d'affilée",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045206": {
+    "id": "4045206",
+    "series_id": "4",
+    "title": "Pro du bowling",
+    "desc": "Lors d'un Saut interdimensionnel !, utiliser un Bot pour envoyer voler un Hérissae ou un flotergeist",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045207": {
+    "id": "4045207",
+    "series_id": "4",
+    "title": "Un toast à tes yeux",
+    "desc": "Terminer la phase de préparation de cocktails lors d'un Saut interdimensionnel ! à la Tour de télévision de Merchamps.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045208": {
+    "id": "4045208",
+    "series_id": "4",
+    "title": "Au-delà de la mer, les voisins",
+    "desc": "Atteindre la zone résidentielle de l'autre côté de la mer lors d'un Saut interdimensionnel !",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045209": {
+    "id": "4045209",
+    "series_id": "4",
+    "title": "Lyre d'Orphée",
+    "desc": "Jouer de la musique lors d'un Saut interdimensionnel ! pour dissiper la brume qui enveloppe l'île mystérieuse",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045210": {
+    "id": "4045210",
+    "series_id": "4",
+    "title": "Flemmarder, c'est travailler",
+    "desc": "Traverser la surface de l'eau avec le Bot lors d'un Saut interdimensionnel !",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045211": {
+    "id": "4045211",
+    "series_id": "4",
+    "title": "Poids insoutenable",
+    "desc": "Perdre après avoir été écrasé{F#e} par des Waldunduns ou des PiPinTuns lors d'un Saut interdimensionnel !",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045212": {
+    "id": "4045212",
+    "series_id": "4",
+    "title": "Les Aventuriers de l'Île Perdue",
+    "desc": "Être {M#le premier}{F#la première} à atteindre le sommet de l'île mystérieuse lors de la course fantôme d'un Saut interdimensionnel ! à Merchamps",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045213": {
+    "id": "4045213",
+    "series_id": "4",
+    "title": "Boomerang",
+    "desc": "Tirer et se faire toucher par votre propre flèche lors d'un Saut interdimensionnel !",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045214": {
+    "id": "4045214",
+    "series_id": "4",
+    "title": "Machine de conduite ultime",
+    "desc": "Diriger le Bot à travers les obstacles épineux lors d'un Saut interdimensionnel !",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045215": {
+    "id": "4045215",
+    "series_id": "4",
+    "title": "Bot, évolution !",
+    "desc": "Débloquer la capacité exclusive du robot assistant lors d'un Saut interdimensionnel !",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045216": {
+    "id": "4045216",
+    "series_id": "4",
+    "title": "Variation Arcadia : Princesse de l'orbe",
+    "desc": "Jouer une mélodie étrange et trouver la mystérieuse créature cachée à la Tour de télévision de Merchamps",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045217": {
+    "id": "4045217",
+    "series_id": "4",
+    "title": "Variation Arcadia : Chanson du capybara",
+    "desc": "Jouer une mélodie étrange et découvrir la mystérieuse créature qui se cache à Merchamps",
+    "hide_desc": "",
+    "hide": false
   },
   "4051001": {
     "id": "4051001",
@@ -6891,7 +7267,7 @@
     "id": "4053704",
     "series_id": "5",
     "title": "Réflexion soudaine",
-    "desc": "Admirer l'ensemble de vos collections dans votre chambre",
+    "desc": "Placer #1 souvenirs dans l'espace dédié aux figurines commémoratives dans le Cabinet de collections",
     "hide_desc": "",
     "hide": true
   },
@@ -8842,16 +9218,16 @@
   "4055012": {
     "id": "4055012",
     "series_id": "5",
-    "title": "Le crime, c'est « d'aimer »",
-    "desc": "Enfin, les jours paisibles reviennent\n※ Faire en sorte que Sorren accepte une punition judiciaire",
+    "title": "Jugement du pissenlit",
+    "desc": "À la prochaine saison des ginkgos, les pissenlits ne dériveront plus\n※ Permettre à Sapone de réaliser son vœu",
     "hide_desc": "",
     "hide": true
   },
   "4055013": {
     "id": "4055013",
     "series_id": "5",
-    "title": "Jugement du pissenlit",
-    "desc": "À la prochaine saison des ginkgos, les pissenlits ne dériveront plus\n※ Permettre à Sapone de réaliser son vœu",
+    "title": "Le crime, c'est « d'aimer »",
+    "desc": "Enfin, les jours paisibles reviennent\n※ Faire en sorte que Sorren accepte une punition judiciaire",
     "hide_desc": "",
     "hide": true
   },
@@ -8922,7 +9298,7 @@
   "4055024": {
     "id": "4055024",
     "series_id": "5",
-    "title": "Ahalléluia !",
+    "title": "Porte-Partutticanti !",
     "desc": "Parler au portier à la Taverne",
     "hide_desc": "",
     "hide": false
@@ -9076,6 +9452,254 @@
     "series_id": "5",
     "title": "Découpage des rues",
     "desc": "Battre les Quatre Formidables dans Atout cosmique, à nous !",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055101": {
+    "id": "4055101",
+    "series_id": "5",
+    "title": "Du mensonge à la vérité",
+    "desc": "Faire preuve de respect envers Hanson en frappant de toutes vos forces dans la salle d'entraînement au combat",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055102": {
+    "id": "4055102",
+    "series_id": "5",
+    "title": "Faux semblants, vrais sentiments",
+    "desc": "Choisir de protéger le rêve de Hanson dans la salle d'entraînement au combat",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055103": {
+    "id": "4055103",
+    "series_id": "5",
+    "title": "Responsable de sa création",
+    "desc": "Ramener Nihilux qui se la coule douce pendant la séance de dédicace",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055104": {
+    "id": "4055104",
+    "series_id": "5",
+    "title": "Tout ça fait partie de la fiction",
+    "desc": "Laisser Pandarooporter assumer courageusement des responsabilités qui ne lui incombent pas lors de la séance de dédicace",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055105": {
+    "id": "4055105",
+    "series_id": "5",
+    "title": "L'habit fait le moine",
+    "desc": "Donner des conseils au Mécanoïde hésitant devant la salle de modification de Mécanoïdes",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055106": {
+    "id": "4055106",
+    "series_id": "5",
+    "title": "Un cauchemar pour les méchants",
+    "desc": "Parler à Cénée (Alt) et à Arche-tonnerre séparément",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055107": {
+    "id": "4055107",
+    "series_id": "5",
+    "title": "L'amour au temps d'Arcadia",
+    "desc": "Regarder les passants partager ce qu'ils ressentent dans la rue",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055108": {
+    "id": "4055108",
+    "series_id": "5",
+    "title": "Inégalé{F#e}",
+    "desc": "Vaincre tous vos adversaires lors du Combat des clubs",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055109": {
+    "id": "4055109",
+    "series_id": "5",
+    "title": "Toutes les unités, en position !",
+    "desc": "Débloquer toutes les capacités dans Renforcement du bataillon",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055110": {
+    "id": "4055110",
+    "series_id": "5",
+    "title": "Un ennemi venu d'en haut",
+    "desc": "Terminer le défi de la démone venue d'ailleurs",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055201": {
+    "id": "4055201",
+    "series_id": "5",
+    "title": "Chasse jusqu'au bout du monde",
+    "desc": "Livrer l'assassin de Skott à l'Alliance Xianzhou\n※ Il faut espérer que la nourriture de la Prison des enchaînés lui plaira",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055202": {
+    "id": "4055202",
+    "series_id": "5",
+    "title": "Principe territorial",
+    "desc": "Livrer l'assassin de Skott au Département des investissements stratégiques\n※ Comme si de rien n'était",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055203": {
+    "id": "4055203",
+    "series_id": "5",
+    "title": "Toile enchevêtrée d'inimitié",
+    "desc": "Traduire l'assassin de Skott en justice\n※ « Si elle se comporte mal, aide-la à bien se comporter. »",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055204": {
+    "id": "4055204",
+    "series_id": "5",
+    "title": "Souvenirs inconnus",
+    "desc": "Terminer l'enquête sur la plateforme flottante de l'Express",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055205": {
+    "id": "4055205",
+    "series_id": "5",
+    "title": "La Division Antimémétique n'existe pas",
+    "desc": "Inspecter l'ordinateur dans la réserve de la station de télévision",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055206": {
+    "id": "4055206",
+    "series_id": "5",
+    "title": "Ce qui fait un héros",
+    "desc": "Retrouver le guerrier Anthracendre à la station de télévision",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055207": {
+    "id": "4055207",
+    "series_id": "5",
+    "title": "Artiste en devenir",
+    "desc": "Terminer le dialogue de première rencontre avec la famille Cananar",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055208": {
+    "id": "4055208",
+    "series_id": "5",
+    "title": "L'amour dure trois ans",
+    "desc": "Écouter un passant inventer des excuses pour éviter de rencontrer ses beaux-parents",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055212": {
+    "id": "4055212",
+    "series_id": "5",
+    "title": "Pandaroo-cession",
+    "desc": "Regardez-nous ! Notre famille pandaroo s'agrandit !\n※ <i>Pandaroo Hebdo</i> compte officiellement #1 journalistes pandaroos permanents dans son équipe",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055213": {
+    "id": "4055213",
+    "series_id": "5",
+    "title": "Mon double dans ce monde",
+    "desc": "Rencontrer d'autres pionniers dans la Festi'Voiture multi",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055214": {
+    "id": "4055214",
+    "series_id": "5",
+    "title": "Club des pionniers de l'Astral Express",
+    "desc": "Visiter la Festi'Voiture multi de #1 autres pionniers",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055215": {
+    "id": "4055215",
+    "series_id": "5",
+    "title": "Miaou-gnifique Émanat{F#rice}{M#eur} du Pionnier",
+    "desc": "Recevoir le cadeau de Chakivili",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055216": {
+    "id": "4055216",
+    "series_id": "5",
+    "title": "Chasseu{M#r}{F#se} de fêtes",
+    "desc": "Attraper une création dans chaque cachette de la Festi'Voiture",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055217": {
+    "id": "4055217",
+    "series_id": "5",
+    "title": "La Cène",
+    "desc": "Placer #1 créations identiques dans la zone de placement des créations",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055218": {
+    "id": "4055218",
+    "series_id": "5",
+    "title": "Naturaliste",
+    "desc": "Rassembler #1 créations dans le Rapport d'observation des créations",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055220": {
+    "id": "4055220",
+    "series_id": "5",
+    "title": "Dé chanceux ! Départ chanceux !",
+    "desc": "Dans Atout cosmique, récupérer #1 dés prismatiques de l'Extension II au total",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055221": {
+    "id": "4055221",
+    "series_id": "5",
+    "title": "Vos dés me manquent",
+    "desc": "Dans Atout cosmique, à nous encore une fois !, échanger des dés #1 fois au total",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055222": {
+    "id": "4055222",
+    "series_id": "5",
+    "title": "Triple incantation",
+    "desc": "Dans Atout cosmique, à nous encore une fois !, utiliser #1 cartes tactiques à la suite en un seul tour",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055223": {
+    "id": "4055223",
+    "series_id": "5",
+    "title": "DGT (XL)",
+    "desc": "Infliger #1 de DGT en un seul tour dans Atout cosmique, à nous encore une fois !",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055224": {
+    "id": "4055224",
+    "series_id": "5",
+    "title": "Charge <i>Pandaroo Hebdo</i>",
+    "desc": "Dans Atout cosmique, à nous encore une fois !, représenter <i>Pandaroo Hebdo</i> et triompher des cinq premiers du classement de la rue commerçante de Merchamps : la Quinte de Merchamps",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055225": {
+    "id": "4055225",
+    "series_id": "5",
+    "title": "Dé cosmique ultime",
+    "desc": "Terminer l'affrontement final avec Louve d'argent Niv. 999 dans Atout cosmique, à nous encore une fois !",
     "hide_desc": "",
     "hide": false
   },
@@ -11654,6 +12278,150 @@
     "desc": "Aha utilise Que la rigolade soit pour vaincre #1 ennemis",
     "hide_desc": "",
     "hide": true
+  },
+  "4075015": {
+    "id": "4075015",
+    "series_id": "7",
+    "title": "Une journée délicieusement étrange",
+    "desc": "Remporter un combat avec une équipe composée de #1 personnages de l'Allégresse",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075101": {
+    "id": "4075101",
+    "series_id": "7",
+    "title": "Les Trois Mousquetaires",
+    "desc": "Remporter #1[i] combat avec une équipe composée d'Ashveil, de Rappa et du Fossoyeur",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075102": {
+    "id": "4075102",
+    "series_id": "7",
+    "title": "La justice tarde, mais ne faillit pas",
+    "desc": "Les coéquipiers alliés attaquent une cible définie comme Appât #1 fois sans déclencher l'ATQ de suivi d'Ashveil",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075103": {
+    "id": "4075103",
+    "series_id": "7",
+    "title": "Faire d'une pierre deux coups",
+    "desc": "Utiliser le personnage allié Ashveil pour vaincre #1 ennemis avec une seule ATQ de suivi",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075105": {
+    "id": "4075105",
+    "series_id": "7",
+    "title": "Et le soleil se lève",
+    "desc": "Durant le combat contre l'Escadron Aurora, touchez-les avec une attaque d'un type spécifique pendant qu'ils sont dans l'état Champ de force Aurora pour déclencher une action immédiate",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075106": {
+    "id": "4075106",
+    "series_id": "7",
+    "title": "La chance du débutant",
+    "desc": "Durant le combat contre le Mécanoïde civil SD, lui faire éliminer #1 cible ennemie",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075107": {
+    "id": "4075107",
+    "series_id": "7",
+    "title": "Chaque goutte compte",
+    "desc": "Dissiper l'état Lavage vapeur du Roi Pom-Pom en alliage en combat",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075108": {
+    "id": "4075108",
+    "series_id": "7",
+    "title": "Le surfeur d'écume",
+    "desc": "Déclencher au moins #1 fois l'effet Brillance du Savon super moussant au cours d'un même combat contre le Roi Pom-Pom en alliage",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075201": {
+    "id": "4075201",
+    "series_id": "7",
+    "title": "Interdiction de faire la tête",
+    "desc": "Au cours d'un même combat, utiliser l'ultime {M#du pionnier}{F#de la pionnière} (L'Allégresse) sur #1 coéquipiers différents une fois chacun",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075202": {
+    "id": "4075202",
+    "series_id": "7",
+    "title": "Merci pour le don",
+    "desc": "Au cours d'un même combat, utiliser l'ultime {M#du pionnier}{F#de la pionnière} (L'Allégresse) sur Sparxie #1 fois au total",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075203": {
+    "id": "4075203",
+    "series_id": "7",
+    "title": "Top 500 des donateurs",
+    "desc": "Au cours d'un même combat, le nombre total de cumuls de Banger absolu qu'Evanescia obtient des autres coéquipiers via son talent Jouvence : Sérénité éternelle dépasse #1",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075204": {
+    "id": "4075204",
+    "series_id": "7",
+    "title": "Impossible d'abuser des bonnes choses",
+    "desc": "Utiliser l'ultime du personnage allié Evanescia lorsque le nombre de cumuls de Banger absolu atteint #1",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075205": {
+    "id": "4075205",
+    "series_id": "7",
+    "title": "Et puis quoi encore, Kafka",
+    "desc": "Déclencher Louvast antivirus de Louve d'argent Niv. 999 pour dissiper l'état Dominé appliqué par Kafka, la Chasseuse de Stellaron",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075206": {
+    "id": "4075206",
+    "series_id": "7",
+    "title": "Liste d'équipement",
+    "desc": "En un seul tour, les coéquipiers déclenchent #1 types d'effets de Butin légendaire de Louve d'argent Niv. 999",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075207": {
+    "id": "4075207",
+    "series_id": "7",
+    "title": "Le loup de Finance Street",
+    "desc": "Utiliser la technique Ça, c'est meta ! de Louve d'argent Niv. 999 pour obtenir #1 pièces d'or d'un coup",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075208": {
+    "id": "4075208",
+    "series_id": "7",
+    "title": "Marionnette maléfique",
+    "desc": "Durant le combat contre Béatitude suprême inversée : Archilotus malfaisant, un personnage allié est converti en Marionnette du bonheur, puis inflige En plein dans le mille et bat n'importe quelle cible",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075209": {
+    "id": "4075209",
+    "series_id": "7",
+    "title": "Santé mentale maximale",
+    "desc": "Lors du combat contre Béatitude suprême inversée : Archilotus malfaisant, aucun personnage n'est transformé en Marionnette du bonheur lorsque Bonheur se déclenche",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075210": {
+    "id": "4075210",
+    "series_id": "7",
+    "title": "Les bons moments ont une fin",
+    "desc": "Dans le combat contre les Ascendantes de la joie, éliminez #1 Ascendante de la joie : Omega ou plus en une seule attaque",
+    "hide_desc": "",
+    "hide": false
   },
   "4080101": {
     "id": "4080101",

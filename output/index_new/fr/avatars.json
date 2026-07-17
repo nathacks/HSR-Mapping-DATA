@@ -1029,6 +1029,26 @@
     "name": "Machine publicitaire automatique « Lapin stellaire »",
     "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
   },
+  "218": {
+    "id": "218",
+    "name": "Ashveil",
+    "icon": "icon/avatar//1504.png"
+  },
+  "219": {
+    "id": "219",
+    "name": "Département de Défense contre les Aberrations",
+    "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+  },
+  "220": {
+    "id": "220",
+    "name": "Louve d'argent (Édition littéraire)",
+    "icon": "icon/avatar//1006.png"
+  },
+  "221": {
+    "id": "221",
+    "name": "Loftin",
+    "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+  },
   "1000": {
     "id": "1000",
     "name": "Pom-Pom",
@@ -1404,6 +1424,21 @@
     "name": "Yao Guang",
     "icon": "icon/avatar//1502.png"
   },
+  "1504": {
+    "id": "1504",
+    "name": "Ashveil",
+    "icon": "icon/avatar//1504.png"
+  },
+  "1505": {
+    "id": "1505",
+    "name": "Evanescia",
+    "icon": "icon/avatar//1505.png"
+  },
+  "1506": {
+    "id": "1506",
+    "name": "Louve d'argent Niv. 999",
+    "icon": "icon/avatar//1506.png"
+  },
   "200001": {
     "id": "200001",
     "name": "Aucun",
@@ -1721,6 +1756,30 @@
     "name": "Sparxie : Danse éthérée",
     "rarity": 5,
     "icon": "icon/avatar/IconHead_200152.png"
+  },
+  "200153": {
+    "id": "200153",
+    "name": "Ashveil : Galop",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200153.png"
+  },
+  "200154": {
+    "id": "200154",
+    "name": "Jade : Galop",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200154.png"
+  },
+  "200155": {
+    "id": "200155",
+    "name": "Louve d'argent Niv. 999 : Promenade au parc",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200155.png"
+  },
+  "200156": {
+    "id": "200156",
+    "name": "Evanescia : Promenade au parc",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_200156.png"
   },
   "201001": {
     "id": "201001",
@@ -2190,6 +2249,24 @@
     "rarity": 5,
     "icon": "icon/avatar/1502.png"
   },
+  "201504": {
+    "id": "201504",
+    "name": "Ashveil",
+    "rarity": 5,
+    "icon": "icon/avatar/1504.png"
+  },
+  "201505": {
+    "id": "201505",
+    "name": "Evanescia",
+    "rarity": 5,
+    "icon": "icon/avatar/1505.png"
+  },
+  "201506": {
+    "id": "201506",
+    "name": "Louve d'argent Niv. 999",
+    "rarity": 5,
+    "icon": "icon/avatar/1506.png"
+  },
   "202001": {
     "id": "202001",
     "name": "Wubbabou",
@@ -2454,6 +2531,30 @@
     "rarity": 4,
     "icon": "icon/avatar/IconHead_202048.png"
   },
+  "202049": {
+    "id": "202049",
+    "name": "Aha au travail",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202049.png"
+  },
+  "202050": {
+    "id": "202050",
+    "name": "Émotis au quoti",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202050.png"
+  },
+  "202051": {
+    "id": "202051",
+    "name": "Priorité à l'info",
+    "rarity": 4,
+    "icon": "icon/avatar/IconHead_202051.png"
+  },
+  "202060": {
+    "id": "202060",
+    "name": "Castorice : Banquet",
+    "rarity": 5,
+    "icon": "icon/avatar/IconHead_202060.png"
+  },
   "208001": {
     "id": "208001",
     "name": "{NICKNAME} : Destruction",
@@ -2501,5 +2602,17 @@
     "name": "{NICKNAME} : Le Souvenir",
     "rarity": 5,
     "icon": "icon/avatar/8008.png"
+  },
+  "208009": {
+    "id": "208009",
+    "name": "{NICKNAME} (L'Allégresse)",
+    "rarity": 5,
+    "icon": "icon/avatar/8009.png"
+  },
+  "208010": {
+    "id": "208010",
+    "name": "{NICKNAME} (L'Allégresse)",
+    "rarity": 5,
+    "icon": "icon/avatar/8010.png"
   }
 }

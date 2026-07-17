@@ -228,6 +228,15 @@
     "1502": [
       "Yao Guang"
     ],
+    "1504": [
+      "Ashveil"
+    ],
+    "1505": [
+      "Evanescia"
+    ],
+    "1506": [
+      "Loba Prateada Nv. 999"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -250,6 +259,12 @@
       "{NICKNAME}"
     ],
     "8008": [
+      "{NICKNAME}"
+    ],
+    "8009": [
+      "{NICKNAME}"
+    ],
+    "8010": [
       "{NICKNAME}"
     ],
     "1014": [
@@ -727,6 +742,21 @@
     ],
     "23054": [
       "Quando Ela Decidiu Ver"
+    ],
+    "23056": [
+      "O Fim de uma Mentira"
+    ],
+    "24006": [
+      "Euforia Repleta de Bênçãos"
+    ],
+    "23058": [
+      "Um Encontro na Próxima Primavera"
+    ],
+    "23057": [
+      "Bem-vindo à Cidade Cósmica"
+    ],
+    "22007": [
+      "Juntos no Futuro"
     ]
   },
   "relic_sets": {
@@ -891,6 +921,12 @@
     ],
     "324": [
       "Tengoku@Stream"
+    ],
+    "325": [
+      "Estágio Zero de Punklorde"
+    ],
+    "326": [
+      "Cidade da Convergência Estelar"
     ]
   }
 }

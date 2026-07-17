@@ -22,6 +22,7 @@
       "擬造花萼【工造司】",
       "擬造花萼【「白日夢」飯店-夢境】",
       "擬造花萼【「囈語密林」神悟樹庭】",
+      "擬造花萼【{TextID#FloorName_20503001}】",
       "任務獎勵",
       "委託獎勵",
       "餘燼兌換"
@@ -279,6 +280,7 @@
       "擬造花萼【流雲渡】",
       "擬造花萼【築夢邊境】",
       "擬造花萼【「神諭聖地」雅努薩波利斯】",
+      "擬造花萼【{TextID#FloorName_20501001}】",
       "委託獎勵"
     ]
   },
@@ -295,6 +297,7 @@
       "擬造花萼【流雲渡】",
       "擬造花萼【築夢邊境】",
       "擬造花萼【「神諭聖地」雅努薩波利斯】",
+      "擬造花萼【{TextID#FloorName_20501001}】",
       "每日實訓",
       "餘燼兌換"
     ]
@@ -312,6 +315,7 @@
       "擬造花萼【流雲渡】",
       "擬造花萼【築夢邊境】",
       "擬造花萼【「神諭聖地」雅努薩波利斯】",
+      "擬造花萼【{TextID#FloorName_20501001}】",
       "「忘卻之庭」"
     ]
   },
@@ -328,6 +332,7 @@
       "擬造花萼【太卜司】",
       "擬造花萼【稚子的夢】",
       "擬造花萼【「紛爭荒墟」懸鋒城】",
+      "擬造花萼【{TextID#FloorName_20503001}】",
       "委託獎勵"
     ]
   },
@@ -344,6 +349,7 @@
       "擬造花萼【太卜司】",
       "擬造花萼【稚子的夢】",
       "擬造花萼【「紛爭荒墟」懸鋒城】",
+      "擬造花萼【{TextID#FloorName_20503001}】",
       "餘燼兌換"
     ]
   },
@@ -360,6 +366,7 @@
       "擬造花萼【太卜司】",
       "擬造花萼【稚子的夢】",
       "擬造花萼【「紛爭荒墟」懸鋒城】",
+      "擬造花萼【{TextID#FloorName_20503001}】",
       "「忘卻之庭」"
     ]
   },
@@ -576,7 +583,6 @@
     "desc": "可在商店「聚靈鑄星」處兌換五星角色。",
     "come_from": [
       "千星旅伴",
-      "千星旅伴（本期已領取）",
       "重複獲得2次星魂已滿的五星角色時可兌換",
       "重複獲得2次星魂已滿的五星角色時可兌換"
     ]
@@ -613,10 +619,7 @@
     "rarity": 5,
     "icon": "icon/item/291.png",
     "desc": "在願望能化作力量的二相樂園之中，「高舉光芒，化身英雄」的願望回應了你，化作了實體繼續激勵著你的旅程。先收下它，可能它遲早會成為你獨一無二的助力。\n\n<i>「據不可靠統計，二相樂園每個人都曾有過變身成超級英雄的夢想。」</i>",
-    "come_from": [
-      "「狸狸通訊」福利等級獎勵獲得",
-      "開拓任務獎勵"
-    ]
+    "come_from": []
   },
   "503": {
     "id": "503",
@@ -669,6 +672,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "獻予逐火之人的祝福\n\n願你與神共舞，承英雄之火重燃暮落的巨人。\n願你推翻命運，以破曉之輝照拂天地與眾生。\n你在此間的行跡，終將載入亙古傳頌的詩篇。",
+    "come_from": []
+  },
+  "804": {
+    "id": "804",
+    "name": "幻樂的祝福",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/804.png",
+    "desc": "獻予主角之人的祝福\n\n願你斬落不義，無懼以自我擊碎虛妄的假面。\n願你承載眾願，以開拓為風帆與千星共進退。\n你在此間的行跡，將化作樂園的喜笑響徹寰宇。",
     "come_from": []
   },
   "821": {
@@ -3217,6 +3230,92 @@
       "「萬能合成機」- 遺器合成"
     ]
   },
+  "83251": {
+    "id": "83251",
+    "name": "零號關卡龐克洛德",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83252": {
+    "id": "83252",
+    "name": "零號關卡龐克洛德",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83253": {
+    "id": "83253",
+    "name": "零號關卡龐克洛德",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83254": {
+    "id": "83254",
+    "name": "零號關卡龐克洛德",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": [
+      "「差分宇宙」次元飾品提取",
+      "「萬能合成機」- 遺器合成"
+    ]
+  },
+  "83261": {
+    "id": "83261",
+    "name": "千星薈萃之城",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83262": {
+    "id": "83262",
+    "name": "千星薈萃之城",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83263": {
+    "id": "83263",
+    "name": "千星薈萃之城",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83264": {
+    "id": "83264",
+    "name": "千星薈萃之城",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": [
+      "「差分宇宙」次元飾品提取",
+      "「萬能合成機」- 遺器合成"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "次元飾品",
@@ -3933,7 +4032,6 @@
     "icon": "icon/item/110261.png",
     "desc": "正在分鏡稿階段的《蒼天航路絨絨號》。可小幅提升歡愉角色的命途行跡。",
     "come_from": [
-      "「萬能合成機」-等量置換",
       "擬造花萼【{TextID#FloorName_20502001}】",
       "餘燼兌換",
       "「萬能合成機」- 素材置換"
@@ -3948,7 +4046,6 @@
     "icon": "icon/item/110262.png",
     "desc": "正在雜誌連載中的《蒼天航路絨絨號》。可中幅提升歡愉角色的命途行跡。",
     "come_from": [
-      "「萬能合成機」-等量置換",
       "擬造花萼【{TextID#FloorName_20502001}】",
       "「萬能合成機」- 素材合成",
       "餘燼兌換",
@@ -3964,7 +4061,6 @@
     "icon": "icon/item/110263.png",
     "desc": "付梓印刷成單行本的《蒼天航路絨絨號》。可大幅提升歡愉角色的命途行跡。",
     "come_from": [
-      "「萬能合成機」-等量置換",
       "擬造花萼【{TextID#FloorName_20502001}】",
       "「萬能合成機」- 素材合成",
       "「萬能合成機」- 素材置換"
@@ -4009,6 +4105,49 @@
     "desc": "懸鋒城的匠人獻上生命與尊嚴鑄成的血色長矛。可大幅提升巡獵角色的命途行跡。",
     "come_from": [
       "擬造花萼【{TextID#FloorName_20481001}】",
+      "「萬能合成機」- 素材合成",
+      "「萬能合成機」- 素材置換"
+    ]
+  },
+  "110311": {
+    "id": "110311",
+    "name": "法吉娜之淚",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 2,
+    "icon": "icon/item/110311.png",
+    "desc": "如玻璃般凝結的水滴。可小幅提升虛無角色的命途行跡。",
+    "come_from": [
+      "擬造花萼【{TextID#FloorName_20461001}】",
+      "餘燼兌換",
+      "「萬能合成機」- 素材置換"
+    ]
+  },
+  "110312": {
+    "id": "110312",
+    "name": "法吉娜之酒",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 3,
+    "icon": "icon/item/110312.png",
+    "desc": "杯中滿溢而出的海浪。可中幅提升虛無角色的命途行跡。",
+    "come_from": [
+      "擬造花萼【{TextID#FloorName_20461001}】",
+      "「萬能合成機」- 素材合成",
+      "餘燼兌換",
+      "「萬能合成機」- 素材置換"
+    ]
+  },
+  "110313": {
+    "id": "110313",
+    "name": "法吉娜之心",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 4,
+    "icon": "icon/item/110313.png",
+    "desc": "由無數海浪交織而成的晶體。可大幅提升虛無角色的命途行跡。",
+    "come_from": [
+      "擬造花萼【{TextID#FloorName_20461001}】",
       "「萬能合成機」- 素材合成",
       "「萬能合成機」- 素材置換"
     ]
@@ -5220,6 +5359,16 @@
     "desc": "水晶般的記憶之花，有瑕而易碎。可用於疊影光錐「飛向粉紅色的明天」。",
     "come_from": []
   },
+  "121007": {
+    "id": "121007",
+    "name": "紀念卡帶",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121007.png",
+    "desc": "印有球棒浣熊頭像的遊戲卡帶，是超人氣實況主的證明。可用於疊影光錐「未來，有我們一起」。",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "艾迪恩代幣",
@@ -5254,6 +5403,18 @@
     "icon": "icon/item/123001.png",
     "desc": "",
     "come_from": []
+  },
+  "123002": {
+    "id": "123002",
+    "name": "權限卡",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "可用於開啟黑塔太空站神秘收藏庫中的「遺器寶箱」。",
+    "come_from": [
+      "「奇庫尋遺」活動獲得"
+    ]
   },
   "140000": {
     "id": "140000",
@@ -10489,6 +10650,36 @@
     "desc": "那是舊曆的新年。那一年年景不好，狐狸們開不起宴會，青蛙們不敢歌唱，猴子們不再討論飛行，白色的兔子們更是許久不曾路過。\n\n但牠來了。\n\n一隻黑色的兔子。\n\n與那些不在乎月亮的兔子不同，牠帶領著牠的夥伴，向這裡的小動物伸出了援手。\n\n……啊，應該說，圓手。",
     "come_from": []
   },
+  "140609": {
+    "id": "140609",
+    "name": "開拓妖精的圓腳（左）",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140609.png",
+    "desc": "黑色的兔子帶來了很多朋友：有長得像人的，也有看起來奇形怪狀的。\n\n他們並不像黑色的兔子那樣情緒穩定，爭吵辯論、面紅耳赤，那都是家常便飯。\n\n但如果遭遇敵人，他們總會立即放下爭端，全力以赴、相互信任，哪怕是自己並不滿意的指示也會相互服從。\n\n他們說，好人必須彼此團結。朋友不可能總是互相滿意，但朋友一定想幫助對方活得更好。",
+    "come_from": []
+  },
+  "140610": {
+    "id": "140610",
+    "name": "開拓妖精的圓手（左）",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140610.png",
+    "desc": "狐狸的預言應驗了。毀滅的戰火從邊境燃起，一直席捲到世界的中心。\n\n黑色兔子的朋友們，有許多都在戰場上犧牲。\n\n青蛙和猴子都非常愧疚，沒人再願意在夜間歌唱。\n\n……但黑色的兔子再次伸出了手。\n\n牠說，站起來，你們值得放聲歌唱。",
+    "come_from": []
+  },
+  "140611": {
+    "id": "140611",
+    "name": "「藍星守護者」獎盃",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 4,
+    "icon": "icon/item/140611.png",
+    "desc": "《幻月新遊戲》的獎盃將頒發給每一位獻出願力、守護藍星的英雄！\n\n<i>「這種皆大歡喜的結局，多適合獻給熱愛生活的讀者呀！」</i>",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "與三月七的合照",
@@ -11729,6 +11920,46 @@
     "rarity": 3,
     "icon": "icon/item/190002.png",
     "desc": "密密麻麻的合約書，讓人看一眼就眼皮打架。不管了，反正錢已經到手了，後面應該不會出什麼差錯……應該……",
+    "come_from": []
+  },
+  "150098": {
+    "id": "150098",
+    "name": "「星鐵FES」粉絲螢光棒",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150098.png",
+    "desc": "連通諸界的無名客、絨絨號上的小動物、拯救宇宙的大英雄，他們為了你們而來到這裡，揮舞著手中的螢光棒，帶著期待、憧憬與祝福。\n\n「廣闊的宇宙間，有許多人正默默支持著你，無論何時，唯有這點不要遺忘。」",
+    "come_from": []
+  },
+  "150099": {
+    "id": "150099",
+    "name": "耍花招的麵包切片",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150099.png",
+    "desc": "種類、形狀、大小、口味都完美符合經典作品橋段的麵包切片。無論是誰，只要叼著它有過路口，都會遭遇一場充滿戲劇性的奇遇，已經是一種因果律。\n\n「這就是你把我撞飛的理由？」\n「已經說對不起了，是還要我怎樣！」",
+    "come_from": []
+  },
+  "150100": {
+    "id": "150100",
+    "name": "帕姆王-合金武裝999",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150100.png",
+    "desc": "「帕姆王」玩具模型的開模原型，在《蒼天航路絨絨號》中，以超越眾多無名客的強悍姿態登場。其內部安裝了打掃清潔、衣物洗滌、殺菌消毒等全套家政系統，足以應對宇宙間99%的家務工作。\n\n「帕姆，少有地產生了危機感帕。」",
+    "come_from": []
+  },
+  "150101": {
+    "id": "150101",
+    "name": "《狸狸週刊》徽章",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 4,
+    "icon": "icon/item/150101.png",
+    "desc": "以某位知名漫畫家親筆繪製的設計圖製成的《狸狸週刊》徽章，慶祝《狸狸週刊》周邊快閃店贏得海原市商業街冠軍的紀念品。\n\n<i>「哎呀，這種眼角帶淚的小狸貓最美味了，你說是吧？」</i>",
     "come_from": []
   },
   "180001": {
@@ -21591,6 +21822,16 @@
     "desc": "界外天魔傳說",
     "come_from": []
   },
+  "191998": {
+    "id": "191998",
+    "name": "「風化詛咒」紀錄",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "「風化詛咒」紀錄",
+    "come_from": []
+  },
   "191999": {
     "id": "191999",
     "name": "學院靈異故事（特別篇）",
@@ -21859,6 +22100,646 @@
     "rarity": 1,
     "icon": "icon/item/190021.png",
     "desc": "通識讀本：你瞭解自己的起源嗎？",
+    "come_from": []
+  },
+  "192026": {
+    "id": "192026",
+    "name": "繪世家史",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "繪世家史",
+    "come_from": []
+  },
+  "192027": {
+    "id": "192027",
+    "name": "幸福手術須知",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "幸福手術須知",
+    "come_from": []
+  },
+  "192028": {
+    "id": "192028",
+    "name": "影山秘聞",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "影山秘聞",
+    "come_from": []
+  },
+  "192029": {
+    "id": "192029",
+    "name": "珠星財團發跡史",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "珠星財團發跡史",
+    "come_from": []
+  },
+  "192030": {
+    "id": "192030",
+    "name": "珠星娛樂機鎧實習生訪談",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "珠星娛樂機鎧實習生訪談",
+    "come_from": []
+  },
+  "192031": {
+    "id": "192031",
+    "name": "合金帕姆王共創計畫",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "合金帕姆王共創計畫",
+    "come_from": []
+  },
+  "192032": {
+    "id": "192032",
+    "name": "《破曉宇宙•環保俠》攝製劇本",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "《破曉宇宙•環保俠》攝製劇本",
+    "come_from": []
+  },
+  "192033": {
+    "id": "192033",
+    "name": "百變機獸之克拉拉歷險記",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "百變機獸之克拉拉歷險記",
+    "come_from": []
+  },
+  "192034": {
+    "id": "192034",
+    "name": "魔法少女可可利亞",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "魔法少女可可利亞",
+    "come_from": []
+  },
+  "192035": {
+    "id": "192035",
+    "name": "雲五戰隊實力榜單",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "雲五戰隊實力榜單",
+    "come_from": []
+  },
+  "192036": {
+    "id": "192036",
+    "name": "二相樂園災異危害等級",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "二相樂園災異危害等級",
+    "come_from": []
+  },
+  "192037": {
+    "id": "192037",
+    "name": "浮脂記事 猴之章 其十一",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "浮脂記事 猴之章 其十一",
+    "come_from": []
+  },
+  "192038": {
+    "id": "192038",
+    "name": "浮脂記事 兔之章 其五",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "浮脂記事 兔之章 其五",
+    "come_from": []
+  },
+  "192039": {
+    "id": "192039",
+    "name": "馬庫斯•安塔利檔案",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "馬庫斯•安塔利檔案",
+    "come_from": []
+  },
+  "192040": {
+    "id": "192040",
+    "name": "記一位老友",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "記一位老友",
+    "come_from": []
+  },
+  "192041": {
+    "id": "192041",
+    "name": "虛照的債務清單",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "虛照的債務清單",
+    "come_from": []
+  },
+  "192042": {
+    "id": "192042",
+    "name": "*模糊QR寇*猜想",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "*模糊QR寇*猜想",
+    "come_from": []
+  },
+  "192043": {
+    "id": "192043",
+    "name": "幻月遊戲秘傳紀錄",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "幻月遊戲秘傳紀錄",
+    "come_from": []
+  },
+  "192044": {
+    "id": "192044",
+    "name": "二相樂園超級英雄大圖鑑（節選）",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "二相樂園超級英雄大圖鑑（節選）",
+    "come_from": []
+  },
+  "192045": {
+    "id": "192045",
+    "name": "隆介作品鑑賞（上）",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "隆介作品鑑賞（上）",
+    "come_from": []
+  },
+  "192046": {
+    "id": "192046",
+    "name": "隆介作品鑑賞（下）",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "隆介作品鑑賞（下）",
+    "come_from": []
+  },
+  "192047": {
+    "id": "192047",
+    "name": "機鎧幻造指南",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "機鎧幻造指南",
+    "come_from": []
+  },
+  "192048": {
+    "id": "192048",
+    "name": "珠星財團尾牙獎品一覽",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "珠星財團尾牙獎品一覽",
+    "come_from": []
+  },
+  "192049": {
+    "id": "192049",
+    "name": "滿願電視台頻道導覽",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "滿願電視台頻道導覽",
+    "come_from": []
+  },
+  "192050": {
+    "id": "192050",
+    "name": "「曉小灰」貼文摘要",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "「曉小灰」貼文摘要",
+    "come_from": []
+  },
+  "192051": {
+    "id": "192051",
+    "name": "隔壁座的幻朧同學",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "隔壁座的幻朧同學",
+    "come_from": []
+  },
+  "192052": {
+    "id": "192052",
+    "name": "來歷不明的飲料最好別碰",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "來歷不明的飲料最好別碰",
+    "come_from": []
+  },
+  "192054": {
+    "id": "192054",
+    "name": "星鐵FES現場巡邏日誌",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "星鐵FES現場巡邏日誌",
+    "come_from": []
+  },
+  "192055": {
+    "id": "192055",
+    "name": "《鴿川時訊》新聞剪報",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "《鴿川時訊》新聞剪報",
+    "come_from": []
+  },
+  "192056": {
+    "id": "192056",
+    "name": "幸福微笑研究會互助宣講會啟事",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "幸福微笑研究會互助宣講會啟事",
+    "come_from": []
+  },
+  "192057": {
+    "id": "192057",
+    "name": "無名客「阿哈」的債務清單",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "無名客「阿哈」的債務清單",
+    "come_from": []
+  },
+  "192058": {
+    "id": "192058",
+    "name": "謁者面具的三兩事",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "謁者面具的三兩事",
+    "come_from": []
+  },
+  "192059": {
+    "id": "192059",
+    "name": "「血塗遊戲」資料集",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "「血塗遊戲」資料集",
+    "come_from": []
+  },
+  "192060": {
+    "id": "192060",
+    "name": "通靈報紙使用說明",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "通靈報紙使用說明",
+    "come_from": []
+  },
+  "192061": {
+    "id": "192061",
+    "name": "關於幻月遊戲機制的合理猜想",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "關於幻月遊戲機制的合理猜想",
+    "come_from": []
+  },
+  "192062": {
+    "id": "192062",
+    "name": "噗嚕興業簡介",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "噗嚕興業簡介",
+    "come_from": []
+  },
+  "192063": {
+    "id": "192063",
+    "name": "雷虯工況觀測手冊",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "雷虯工況觀測手冊",
+    "come_from": []
+  },
+  "192064": {
+    "id": "192064",
+    "name": "基礎願力學序說",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "基礎願力學序說",
+    "come_from": []
+  },
+  "192065": {
+    "id": "192065",
+    "name": "關於恢復海原市畫中形態的聯合請願書",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "關於恢復海原市畫中形態的聯合請願書",
+    "come_from": []
+  },
+  "192066": {
+    "id": "192066",
+    "name": "實驗體A培育紀錄",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "實驗體A培育紀錄",
+    "come_from": []
+  },
+  "192067": {
+    "id": "192067",
+    "name": "1984屆校友紀念冊•滿願",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "1984屆校友紀念冊•滿願",
+    "come_from": []
+  },
+  "192068": {
+    "id": "192068",
+    "name": "關於滿願的綜藝計畫",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "關於滿願的綜藝計畫",
+    "come_from": []
+  },
+  "192069": {
+    "id": "192069",
+    "name": "花火娃娃上的標籤",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190005.png",
+    "desc": "花火娃娃上的標籤",
+    "come_from": []
+  },
+  "192070": {
+    "id": "192070",
+    "name": "群眾演員須知",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190005.png",
+    "desc": "群眾演員須知",
+    "come_from": []
+  },
+  "192071": {
+    "id": "192071",
+    "name": "術前心理診療紀錄",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "術前心理診療紀錄",
+    "come_from": []
+  },
+  "192072": {
+    "id": "192072",
+    "name": "洋流異動報告",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "洋流異動報告",
+    "come_from": []
+  },
+  "192073": {
+    "id": "192073",
+    "name": "海原電視台大事記",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "海原電視台大事記",
+    "come_from": []
+  },
+  "192074": {
+    "id": "192074",
+    "name": "寄給偵探的信箋",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190003.png",
+    "desc": "寄給偵探的信箋",
+    "come_from": []
+  },
+  "192075": {
+    "id": "192075",
+    "name": "史上最佳卡帶",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "史上最佳卡帶",
+    "come_from": []
+  },
+  "192076": {
+    "id": "192076",
+    "name": "未抵故事集",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "未抵故事集",
+    "come_from": []
+  },
+  "192077": {
+    "id": "192077",
+    "name": "很不抱歉以這種方式通知你",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "很不抱歉以這種方式通知你",
+    "come_from": []
+  },
+  "192078": {
+    "id": "192078",
+    "name": "滿願電視台內部全體信",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "滿願電視台內部全體信",
+    "come_from": []
+  },
+  "192079": {
+    "id": "192079",
+    "name": "聊聊幸研會",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "聊聊幸研會",
+    "come_from": []
+  },
+  "192080": {
+    "id": "192080",
+    "name": "悠悠的信",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190003.png",
+    "desc": "悠悠的信",
+    "come_from": []
+  },
+  "192081": {
+    "id": "192081",
+    "name": "走近科學：神秘的黑域",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "走近科學：神秘的黑域",
+    "come_from": []
+  },
+  "192082": {
+    "id": "192082",
+    "name": "尋找「克拉肯」",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "尋找「克拉肯」",
+    "come_from": []
+  },
+  "192083": {
+    "id": "192083",
+    "name": "這麼近、那麼美，週末到海原",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190002.png",
+    "desc": "這麼近、那麼美，週末到海原",
+    "come_from": []
+  },
+  "192084": {
+    "id": "192084",
+    "name": "港口公告欄",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190002.png",
+    "desc": "港口公告欄",
+    "come_from": []
+  },
+  "192085": {
+    "id": "192085",
+    "name": "飛島神木傳說",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "飛島神木傳說",
+    "come_from": []
+  },
+  "192086": {
+    "id": "192086",
+    "name": "海原幸福約定",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "海原幸福約定",
+    "come_from": []
+  },
+  "192087": {
+    "id": "192087",
+    "name": "深夜電台播音稿",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "深夜電台播音稿",
+    "come_from": []
+  },
+  "192088": {
+    "id": "192088",
+    "name": "「無量塔」文化考",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "「無量塔」文化考",
+    "come_from": []
+  },
+  "192089": {
+    "id": "192089",
+    "name": "浮脂記事 蛙之章 其三",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "浮脂記事 蛙之章 其三",
+    "come_from": []
+  },
+  "192090": {
+    "id": "192090",
+    "name": "浮脂記事 狐之章 其七",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "浮脂記事 狐之章 其七",
     "come_from": []
   },
   "210001": {
@@ -23871,6 +24752,196 @@
     "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《歡笑合成樂》。",
     "come_from": []
   },
+  "210451": {
+    "id": "210451",
+    "name": "《快樂的終點》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《快樂的終點》。",
+    "come_from": []
+  },
+  "210452": {
+    "id": "210452",
+    "name": "《瑞雪》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《瑞雪》。",
+    "come_from": []
+  },
+  "210453": {
+    "id": "210453",
+    "name": "《盛會約定》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《盛會約定》。",
+    "come_from": []
+  },
+  "210454": {
+    "id": "210454",
+    "name": "《銀河泛舟》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《銀河泛舟》。",
+    "come_from": []
+  },
+  "210455": {
+    "id": "210455",
+    "name": "《龍遊寒淵》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《龍遊寒淵》。",
+    "come_from": []
+  },
+  "210456": {
+    "id": "210456",
+    "name": "《正義間的對決》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《正義間的對決》。",
+    "come_from": []
+  },
+  "210457": {
+    "id": "210457",
+    "name": "《遺忘之地》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《遺忘之地》。",
+    "come_from": []
+  },
+  "210458": {
+    "id": "210458",
+    "name": "《鋼鐵與決心》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《鋼鐵與決心》。",
+    "come_from": []
+  },
+  "210459": {
+    "id": "210459",
+    "name": "《英雄集合》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《英雄集結》。",
+    "come_from": []
+  },
+  "210460": {
+    "id": "210460",
+    "name": "《含珠》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《含珠》。",
+    "come_from": []
+  },
+  "210461": {
+    "id": "210461",
+    "name": "《聽！引擎在轟鳴》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《聽！引擎在轟鳴》。",
+    "come_from": []
+  },
+  "210462": {
+    "id": "210462",
+    "name": "《空洞電波》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《空洞電波》。",
+    "come_from": []
+  },
+  "210463": {
+    "id": "210463",
+    "name": "《娛樂至死》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《娛樂至死》。",
+    "come_from": []
+  },
+  "210464": {
+    "id": "210464",
+    "name": "《大傳媒時代》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《大傳媒時代》。",
+    "come_from": []
+  },
+  "210465": {
+    "id": "210465",
+    "name": "《居高臨下》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《居高臨下》。",
+    "come_from": []
+  },
+  "210466": {
+    "id": "210466",
+    "name": "《海濱小城》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《海濱小城》。",
+    "come_from": []
+  },
+  "210467": {
+    "id": "210467",
+    "name": "《飄浮》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《飄浮》。",
+    "come_from": []
+  },
+  "210468": {
+    "id": "210468",
+    "name": "《肆意生長》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《肆意生長》。",
+    "come_from": []
+  },
+  "210469": {
+    "id": "210469",
+    "name": "《死與新生》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "能以列車留聲機播放的唱片，是偶然所得，亦是他人饋贈。音律飛旋時，那些笑容、擦肩、觸碰，還有戰鬥時激盪的心緒，都一一湧上心頭。或許這就是時代飛速發展向前，卻依然有人在蒐集唱片的原因。\n這張唱片中燒錄著《死與新生》。",
+    "come_from": []
+  },
   "215001": {
     "id": "215001",
     "name": "《淅瀝》",
@@ -23909,6 +24980,16 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "宇宙中有億萬種聲音，每一種都有獨特的美，願這些美常伴你的耳，滋潤你的心。\n這張唱片中燒錄著《呢喃》。",
+    "come_from": []
+  },
+  "215008": {
+    "id": "215008",
+    "name": "《樹語》",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "宇宙中有億萬種聲音，每一種都有獨特的美，願這些美常伴你的耳，滋潤你的心。\n這張唱片中燒錄著《樹語》。",
     "come_from": []
   },
   "220000": {
@@ -24030,6 +25111,18 @@
     "desc": "訊息對話方塊，獲得後可在訊息及聊天中更換",
     "come_from": [
       "「嗷嗚黃金大師賽」活動獲得的聊天氣泡"
+    ]
+  },
+  "220010": {
+    "id": "220010",
+    "name": "亂世見真章",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220010.png",
+    "desc": "訊息對話方塊，獲得後可在訊息及聊天中更換",
+    "come_from": [
+      "「塵靈亂世錄」活動獲得的聊天氣泡"
     ]
   },
   "221000": {
@@ -26933,7 +28026,7 @@
     "icon": "icon/item/227007.png",
     "desc": "系統裡常見的「讀取中」符號，搭載了動態燈效。",
     "come_from": [
-      "「新潮頭飾」禮盒"
+      "商店「時尚單品」處獲得"
     ]
   },
   "227008": {
@@ -26946,6 +28039,55 @@
     "desc": "浣熊樣式的摺紙面具，需要輕拿輕放。",
     "come_from": [
       "「狸狸通訊」暢銷等級獎勵獲得的開拓穿搭"
+    ]
+  },
+  "227009": {
+    "id": "227009",
+    "name": "寰宇頂流•霓虹貓耳耳機",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227009.png",
+    "desc": "造型前衛可愛的電子貓耳耳機，閃爍著標誌性的粉紅色霓虹光效，是你成為人氣大實況主的絕佳證明。",
+    "come_from": [
+      "商店「星塵之禮」處獲得"
+    ]
+  },
+  "227010": {
+    "id": "227010",
+    "name": "浣熊熊爆改緋緋狐",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227010.png",
+    "desc": "一副高聳細長的粉色狐耳髮箍，耳廓邊緣點綴著精緻的銀色金屬配飾，作工十分考究。",
+    "come_from": [
+      "「狐狐緋影」禮盒",
+      "商店「時尚單品」處獲得"
+    ]
+  },
+  "227012": {
+    "id": "227012",
+    "name": "狸狸眼鏡",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227012.png",
+    "desc": "「狸狸通訊」特製護目鏡，鏡框寬大，配有醒目的橙色半透明鏡片，非常適合在兵荒馬亂的突發新聞現場保護雙眼。",
+    "come_from": [
+      "商店「星塵之禮」處獲得"
+    ]
+  },
+  "227013": {
+    "id": "227013",
+    "name": "酷酷酷目鏡",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227013.png",
+    "desc": "復古街機風格的半透明彩色眼鏡，外緣燃起粉藍雙色的火焰特效。單論外觀簡直是原版的忠實復刻款。",
+    "come_from": [
+      "「銀河速通」禮盒"
     ]
   },
   "229001": {
@@ -29140,6 +30282,26 @@
     "desc": "於機率藝術館佈置後，在差分宇宙中，戰鬥勝利後獲得的宇宙碎片數量提高1。",
     "come_from": []
   },
+  "250609": {
+    "id": "250609",
+    "name": "真珠•限量版",
+    "type": "Usable",
+    "sub_type": "RogueMedal",
+    "rarity": 4,
+    "icon": "icon/item/IconRogueTournCollection_PearlPigeon.png",
+    "desc": "於機率藝術館佈置後，在差分宇宙的【商店】區域中，祝福商店會增加1個可購買的祝福。",
+    "come_from": []
+  },
+  "250610": {
+    "id": "250610",
+    "name": "放聲大笑吧",
+    "type": "Usable",
+    "sub_type": "RogueMedal",
+    "rarity": 4,
+    "icon": "icon/item/IconRogueTournCollection_TournPersonaMedal.png",
+    "desc": "差分宇宙中角色歡愉度提高3%。",
+    "come_from": []
+  },
   "250700": {
     "id": "250700",
     "name": "戰術秘籍•聲東擊西",
@@ -29294,6 +30456,16 @@
     "desc": "生命花園登記在案的小奇美拉，比起認真工作，更熱衷於對身邊的事發表自己的意見。",
     "come_from": []
   },
+  "251004": {
+    "id": "251004",
+    "name": "狸狸記者團",
+    "type": "Pet",
+    "sub_type": "NormalPet",
+    "rarity": 5,
+    "icon": "icon/item/251004.png",
+    "desc": "普狸策帶領的狸狸記者團，你手下最心腹、最多話、最懂勞逸結合的員工",
+    "come_from": []
+  },
   "252000": {
     "id": "252000",
     "name": "莊嚴深紅！車掌制服",
@@ -29323,6 +30495,30 @@
     "sub_type": "PamSkin",
     "rarity": 4,
     "icon": "icon/item/252002.png",
+    "desc": "列車長的服裝。可在派對車廂的「帕姆衣帽間」中更換。",
+    "come_from": [
+      "商店「星塵之禮」處獲得"
+    ]
+  },
+  "252003": {
+    "id": "252003",
+    "name": "開拓歲月！禮服套裝",
+    "type": "Usable",
+    "sub_type": "PamSkin",
+    "rarity": 4,
+    "icon": "icon/item/252003.png",
+    "desc": "列車長的服裝。可在派對車廂的「帕姆衣帽間」中更換。",
+    "come_from": [
+      "在「帕姆幫幫」中與帕姆對話獲得"
+    ]
+  },
+  "252004": {
+    "id": "252004",
+    "name": "黃金美夢！禮服套裝",
+    "type": "Usable",
+    "sub_type": "PamSkin",
+    "rarity": 5,
+    "icon": "icon/item/252004.png",
     "desc": "列車長的服裝。可在派對車廂的「帕姆衣帽間」中更換。",
     "come_from": [
       "商店「星塵之禮」處獲得"
@@ -31168,6 +32364,18 @@
     "desc": "只是在吹綵帶的幻月。",
     "come_from": []
   },
+  "253004": {
+    "id": "253004",
+    "name": "樂園衝衝衝",
+    "type": "Usable",
+    "sub_type": "PersonalCard",
+    "rarity": 5,
+    "icon": "icon/item/253004.png",
+    "desc": "某位一級玩家正在迷你城市間穿梭，不將所有金幣納入囊中誓不罷休。不如一起猜猜，她究竟能不能抵達關卡盡頭？",
+    "come_from": [
+      "「銀河速通」禮盒"
+    ]
+  },
   "254000": {
     "id": "254000",
     "name": "{NICKNAME}的自由意志",
@@ -32024,6 +33232,126 @@
       "在銀河戰力黨商店的「擴展包•1」中購買"
     ]
   },
+  "264026": {
+    "id": "264026",
+    "name": "銀狼LV.999",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264027": {
+    "id": "264027",
+    "name": "緋英",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264028": {
+    "id": "264028",
+    "name": "{NICKNAME}",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264029": {
+    "id": "264029",
+    "name": "不死途",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264030": {
+    "id": "264030",
+    "name": "星期日",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264031": {
+    "id": "264031",
+    "name": "刃",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264032": {
+    "id": "264032",
+    "name": "海瑟音",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264033": {
+    "id": "264033",
+    "name": "緹寶",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264034": {
+    "id": "264034",
+    "name": "阮•梅",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264035": {
+    "id": "264035",
+    "name": "姬子",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/264035.png",
+    "desc": "《銀河戰力黨》對局中所使用的卡牌，出自「擴展包2」。",
+    "come_from": [
+      "完成任務「孤狼之血」"
+    ]
+  },
   "264101": {
     "id": "264101",
     "name": "",
@@ -32106,7 +33434,7 @@
     "type": "Material",
     "sub_type": "DiceCombatDice",
     "rarity": 3,
-    "icon": "icon/item/264405.png",
+    "icon": "icon/item/264428.png",
     "desc": "深邃而燦爛的曜彩骰，可以在《銀河戰力黨》對局中使用。",
     "come_from": [
       "在銀河戰力黨商店的「擴展包•1」中購買"
@@ -32292,6 +33620,78 @@
       "在銀河戰力黨商店的「擴展包•1」中購買"
     ]
   },
+  "264423": {
+    "id": "264423",
+    "name": "「真•毒液」",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264423.png",
+    "desc": "深邃而燦爛的曜彩骰，可以在《銀河戰力黨》對局中使用。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264424": {
+    "id": "264424",
+    "name": "「真•蓄力」",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264426.png",
+    "desc": "深邃而燦爛的曜彩骰，可以在《銀河戰力黨》對局中使用。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264425": {
+    "id": "264425",
+    "name": "「真•幸運」",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264425.png",
+    "desc": "深邃而燦爛的曜彩骰，可以在《銀河戰力黨》對局中使用。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264426": {
+    "id": "264426",
+    "name": "「真•猛攻」",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264424.png",
+    "desc": "深邃而燦爛的曜彩骰，可以在《銀河戰力黨》對局中使用。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264427": {
+    "id": "264427",
+    "name": "「真•固守」",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264427.png",
+    "desc": "深邃而燦爛的曜彩骰，可以在《銀河戰力黨》對局中使用。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
+  "264428": {
+    "id": "264428",
+    "name": "「真•忍耐」",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264428.png",
+    "desc": "深邃而燦爛的曜彩骰，可以在《銀河戰力黨》對局中使用。",
+    "come_from": [
+      "在銀河戰力黨商店的「擴展包•2」中購買"
+    ]
+  },
   "264502": {
     "id": "264502",
     "name": "",
@@ -32328,7 +33728,7 @@
     "type": "Material",
     "sub_type": "DiceCombatDice",
     "rarity": 3,
-    "icon": "icon/item/264405.png",
+    "icon": "icon/item/264428.png",
     "desc": "",
     "come_from": []
   },
@@ -32482,6 +33882,26 @@
     "desc": "",
     "come_from": []
   },
+  "264523": {
+    "id": "264523",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264426.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264524": {
+    "id": "264524",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264423.png",
+    "desc": "",
+    "come_from": []
+  },
   "264996": {
     "id": "264996",
     "name": "戰力幣",
@@ -32502,7 +33922,7 @@
     "sub_type": "Material",
     "rarity": 3,
     "icon": "icon/item/264997.png",
-    "desc": "「銀河戰力黨」商店所使用的特殊兌換代幣，在活動期間發行，用於兌換「擴展包•1」的內容。",
+    "desc": "《銀河戰力黨》商店所使用的特殊兌換代幣，在活動期間發行，用於兌換「擴展包•1」的內容。",
     "come_from": [
       "參與「擲骰吧！戰力黨！」活動獲得"
     ]
@@ -32516,6 +33936,7 @@
     "icon": "icon/item/264998.png",
     "desc": "《銀河戰力黨》對局後飄揚的晶瑩粉塵，據稱是骰手的意志彼此衝突時留下的痕跡。蒐集一定數量能夠讓擁有的卡牌煥發出新的光彩。",
     "come_from": [
+      "參與「繼續擲骰！戰力黨！」活動獲得",
       "參與「擲骰吧！戰力黨！」活動獲得",
       "在二相樂園探索時，與牌手們對局後獲得"
     ]
@@ -32529,6 +33950,7 @@
     "icon": "icon/item/264999.png",
     "desc": "用於提升《銀河戰力黨》的「資歷等級」。它代表著一名骰手在《銀河戰力黨》世界裡征戰的經驗。資歷越高，越容易贏得其他人的尊敬——至少骰手圈是如此流傳的。",
     "come_from": [
+      "參與「繼續擲骰！戰力黨！」活動獲得",
       "參與「擲骰吧！戰力黨！」活動獲得",
       "在二相樂園探索時，與牌手們對局後獲得"
     ]
@@ -33013,6 +34435,56 @@
     "desc": "",
     "come_from": []
   },
+  "266001": {
+    "id": "266001",
+    "name": "金幣",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266001.png",
+    "desc": "這次遊戲直播的特殊代幣，可用於升級遊戲內的角色欄位。",
+    "come_from": []
+  },
+  "266002": {
+    "id": "266002",
+    "name": "天賦點",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266002.png",
+    "desc": "這次遊戲直播的特殊代幣，可用於解鎖遊戲內的天賦節點。",
+    "come_from": []
+  },
+  "266003": {
+    "id": "266003",
+    "name": "驚喜寶箱",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266003.png",
+    "desc": "這次遊戲直播的特殊道具，打開可在遊戲內獲得大量裝備。",
+    "come_from": []
+  },
+  "266004": {
+    "id": "266004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/300103.png",
+    "desc": "",
+    "come_from": []
+  },
+  "266005": {
+    "id": "266005",
+    "name": "鑽石",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266005.png",
+    "desc": "這次遊戲直播的特殊代幣，可用於抽取遊戲內的新角色。",
+    "come_from": []
+  },
   "267001": {
     "id": "267001",
     "name": "",
@@ -33022,6 +34494,18 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "",
     "come_from": []
+  },
+  "269001": {
+    "id": "269001",
+    "name": "繪彩戰力幣",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/269001.png",
+    "desc": "《銀河戰力黨》商店所使用的特殊兌換代幣，在活動期間發行，用於兌換「擴展包•2」的內容。",
+    "come_from": [
+      "參與「繼續擲骰！戰力黨！」活動獲得"
+    ]
   },
   "270000": {
     "id": "270000",
@@ -33089,6 +34573,26 @@
     "rarity": 4,
     "icon": "icon/item/270005.png",
     "desc": "阿波菲斯手工製作的「豹幣」，每一枚都有著獨一無二的痕跡。可用於在小海豹商店中購買小海豹。",
+    "come_from": []
+  },
+  "270006": {
+    "id": "270006",
+    "name": "願力結晶",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/281038.png",
+    "desc": "些微願力匯聚而成的結晶，對塵靈來說是至高的養分",
+    "come_from": []
+  },
+  "270007": {
+    "id": "270007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/270005.png",
+    "desc": "",
     "come_from": []
   },
   "281001": {
@@ -33311,6 +34815,16 @@
     "rarity": 3,
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "",
+    "come_from": []
+  },
+  "281030": {
+    "id": "281030",
+    "name": "「卡帶」",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281030.png",
+    "desc": "一捲獨特的遊戲卡帶，用於解鎖「樂園漫記」的道具和強化",
     "come_from": []
   },
   "281031": {
@@ -33911,6 +35425,16 @@
     "rarity": 5,
     "icon": "icon/item/310013.png",
     "desc": "黑塔與列車簽署的互助協議。她將為列車提供力所能及的援助，以換取開拓之路上尋獲的珍貴之物。",
+    "come_from": []
+  },
+  "310014": {
+    "id": "310014",
+    "name": "「銀河速通」禮盒",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "可獲得開拓穿搭「酷酷酷目鏡」和名片「樂園衝衝衝」",
     "come_from": []
   },
   "311000": {

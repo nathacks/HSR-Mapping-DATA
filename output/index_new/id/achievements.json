@@ -167,6 +167,14 @@
     "hide_desc": "Trailblazer melangkah ke Path \"Remembrance\"",
     "hide": true
   },
+  "4015201": {
+    "id": "4015201",
+    "series_id": "1",
+    "title": "Maka, Jadilah Tawa",
+    "desc": "Trailblazer melangkah ke Path \"Elation\"",
+    "hide_desc": "",
+    "hide": true
+  },
   "4020201": {
     "id": "4020201",
     "series_id": "2",
@@ -1493,6 +1501,126 @@
     "title": "Musim Panas, Sparkle, Mayat Seseorang",
     "desc": "Setiap upacara untuk menghadap dewa mengharuskan adanya pengorbanan\n※ Saksikan awal permainan Bulan Imajinasi yang kejam",
     "hide_desc": "Setiap upacara untuk menghadap dewa mengharuskan adanya pengorbanan ※ Saksikan awal Permainan Bulan Imajinasi yang kejam",
+    "hide": false
+  },
+  "4035101": {
+    "id": "4035101",
+    "series_id": "3",
+    "title": "Kemuliaan Ayah",
+    "desc": "Mimpi buruk setiap anak: Menjelaskan pekerjaannya kepada ayah\n※ Memandu ayah Himeko berkeliling Express",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035102": {
+    "id": "4035102",
+    "series_id": "3",
+    "title": "Kucing dan Tikus",
+    "desc": "Identitas sosial hanyalah salah satu dari banyaknya topeng yang dikenakan manusia\n※ Foto bersama Nona Nihilux",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035103": {
+    "id": "4035103",
+    "series_id": "3",
+    "title": "Aku Jadi Kepalanya!",
+    "desc": "Mechatron yang perkasa berdiri tegak di atas Bumi\n※ Rakit Mechatron besar milikmu sendiri, dan bertarunglah melawan Daybreak Squadron",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035104": {
+    "id": "4035104",
+    "series_id": "3",
+    "title": "Saat Kebahagiaan Mengetuk Pintu",
+    "desc": "Semua orang mengejar kebahagiaan, tapi siapa yang mendefinisikan kebahagiaan?\n※ Selesaikan investigasi terhadap organisasi amal \"Asosiasi Penelitian Senyum Bahagia\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035105": {
+    "id": "4035105",
+    "series_id": "3",
+    "title": "Pemakan Mimpi",
+    "desc": "Pencipta adalah makhluk yang menciptakan mimpi saat terjaga\n※ Ungkap identitas asli pengarang \"Bululu Melintasi Biru Angkasa\" di kantor redaksi",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035106": {
+    "id": "4035106",
+    "series_id": "3",
+    "title": "Kereta Ekspres Neraka",
+    "desc": "???\n※ Tiba di ruang stasiun yang terbengkalai dan tak dikenal",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035107": {
+    "id": "4035107",
+    "series_id": "3",
+    "title": "Chip Keberuntungan",
+    "desc": "Terima kasih kepada teman yang memberikan chip itu\n※ Kembali ke dunia nyata berkat bantuan Pearl",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035108": {
+    "id": "4035108",
+    "series_id": "3",
+    "title": "Ocehan Bulan Imajinasi",
+    "desc": "Saat \"Dia\" berbicara, dengarkan saja\n※ Mendengarkan ocehan gila Bulan Imajinasi",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035201": {
+    "id": "4035201",
+    "series_id": "3",
+    "title": "Perjalanan Komuter",
+    "desc": "Apakah tidak ada cara bepergian yang lebih keren?\n※ Naik kereta untuk menyelamatkan dunia",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035202": {
+    "id": "4035202",
+    "series_id": "3",
+    "title": "Vonis Arbiter",
+    "desc": "Simbol identitas sang arbiter\n※ Evanescia telah mengambil kembali bilah penggarisnya",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035203": {
+    "id": "4035203",
+    "series_id": "3",
+    "title": "Pasien Gangguan Jiwa Utopia",
+    "desc": "Tidak ada yang peduli dengan apa yang kamu pikirkan, sampai kamu memutuskan untuk menghancurkan dunia\n※ Melangkah ke dalam \"retakan\" hati Fulwish",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035204": {
+    "id": "4035204",
+    "series_id": "3",
+    "title": "Menghibur Sampai Ajal",
+    "desc": "Tertawalah, atau mati\n※ Saksikan pecahnya wabah imagenesis \"Joy Ascendant\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035205": {
+    "id": "4035205",
+    "series_id": "3",
+    "title": "Pemain Nomor Satu Galaksi",
+    "desc": "Daripada dipuji oleh si Bajingan, lebih baik gugur di tangannya\n※ Sebenarnya, tidak ada juga yang mau gugur di tangan si Bajingan",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035206": {
+    "id": "4035206",
+    "series_id": "3",
+    "title": "Kematian Pengantar Maut",
+    "desc": "Dia yang menyerukan kematian, kematian juga akan menyerukan namanya\n※ Kalahkan \"Pengantar Maut\" baru",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035207": {
+    "id": "4035207",
+    "series_id": "3",
+    "title": "Angin Pembawa Kabar Bunga Berlalu",
+    "desc": "Dia berlalu bagaikan bunga tertiup angin\n※ Menerima permintaan Evanescia",
+    "hide_desc": "",
     "hide": false
   },
   "4040101": {
@@ -3763,7 +3891,7 @@
     "id": "4045038",
     "series_id": "4",
     "title": "Pingpong",
-    "desc": "Dalam \"Momen Jump\" di Stasiun Perdido \"Jump 2D!\", ubah gravitasi berulang kali agar wispae dapat melompat bolak-balik",
+    "desc": "Di \"Jump 2D!\" Stasiun Perdido, ubah gravitasi berulang kali agar wispae dapat melompat bolak-balik",
     "hide_desc": "",
     "hide": true
   },
@@ -3902,6 +4030,254 @@
     "desc": "Menguping suara nyanyian merdu di depan tempat karaoke di Kota Dua Dimensi atau Distrik Dovebrook",
     "hide_desc": "",
     "hide": true
+  },
+  "4045101": {
+    "id": "4045101",
+    "series_id": "4",
+    "title": "Tanah Bernama Utopia",
+    "desc": "Kumpulkan enam halaman berisi konten \"Kisah Lemak Melayang\" yang ada dan selesaikan semua objek koleksi di dunia \"Kisah Lemak Melayang\" di Kota Dua Dimensi.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045102": {
+    "id": "4045102",
+    "series_id": "4",
+    "title": "Api Teratai Biru dari Inti Bumi",
+    "desc": "Hancurkan semua Heliobus dengan cara menabraknya selama \"Momen Jump\" di Awan Panorama",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045103": {
+    "id": "4045103",
+    "series_id": "4",
+    "title": "Kemudian, Tibalah Hari Kerja",
+    "desc": "\"Kalahkan\" The Great Septimus lagi selama \"Momen Jump\" di Awan Panorama",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045104": {
+    "id": "4045104",
+    "series_id": "4",
+    "title": "\"Dilarang Masuk\"",
+    "desc": "Menyelinap masuk ke ruang karyawan di Gedung Pearluxe",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045105": {
+    "id": "4045105",
+    "series_id": "4",
+    "title": "Merpati Skinner",
+    "desc": "Di \"Jump 2D!\", picu tombol yang mengeluarkan Koin Emas sebanyak #1 kali berturut-turut",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045106": {
+    "id": "4045106",
+    "series_id": "4",
+    "title": "Bergabung! Sekarang!",
+    "desc": "Buka jalan tersembunyi dan capai bagian dada mechatron tenaga magis",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045107": {
+    "id": "4045107",
+    "series_id": "4",
+    "title": "Sistem Kendali Tembak Pearluxe",
+    "desc": "Kalahkan Hedgehogae raksasa di \"Jump 2D!\" Gedung Pearluxe",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045108": {
+    "id": "4045108",
+    "series_id": "4",
+    "title": "Aturan Emas Kucing",
+    "desc": "Tangkap semua Koin Piksel yang dijatuhkan kucing saat merakit mechatron",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045109": {
+    "id": "4045109",
+    "series_id": "4",
+    "title": "Formasi Maut Era Mechatron Super",
+    "desc": "Di studio pertempuran mechatron, hancurkan semua bangunan yang dapat dihancurkan",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045110": {
+    "id": "4045110",
+    "series_id": "4",
+    "title": "Pencari Bakat Mechatron Super",
+    "desc": "Temukan 4 mechatron yang \"berpenampilan unik\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045111": {
+    "id": "4045111",
+    "series_id": "4",
+    "title": "Semangat yang Menggelora",
+    "desc": "Selesaikan tantangan \"Tombak Berapi, Maju!\" selama \"Festival Star Rail\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045112": {
+    "id": "4045112",
+    "series_id": "4",
+    "title": "Mengatur Strategi",
+    "desc": "Reka ulang \"Membelah Lautan\" di area pameran Xianzhou selama \"Festival Star Rail\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045113": {
+    "id": "4045113",
+    "series_id": "4",
+    "title": "Variasi Utopia: Manusia Besi",
+    "desc": "Mainkan Simfoni Aneh dan temukan makhluk misterius yang bersembunyi di Gedung Pearluxe",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045114": {
+    "id": "4045114",
+    "series_id": "4",
+    "title": "Variasi Utopia: Anjing Rakun Seribu Wajah",
+    "desc": "Mainkan Simfoni Aneh dan temukan makhluk misterius yang bersembunyi di Awan Panorama",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045201": {
+    "id": "4045201",
+    "series_id": "4",
+    "title": "Sisa Hidup adalah Liburan",
+    "desc": "Kumpulkan total #1 wispae tanpa nama \"Kelinci Rel Bintang\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045202": {
+    "id": "4045202",
+    "series_id": "4",
+    "title": "Bola Besi Galileo",
+    "desc": "Selesaikan \"Momen Jump\" di atap stasiun TV, lompat dari lantai teratas ke aula wawancara",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045203": {
+    "id": "4045203",
+    "series_id": "4",
+    "title": "Pianis di Atas Menara",
+    "desc": "Dapatkan semua Music Notes dalam \"Momen Jump\" di atap stasiun TV",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045204": {
+    "id": "4045204",
+    "series_id": "4",
+    "title": "Bukan Pembunuh, Bukan Keyakinan",
+    "desc": "Tiba di puncak Menara TV Seafeld",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045205": {
+    "id": "4045205",
+    "series_id": "4",
+    "title": "Jiwa yang Terbelenggu oleh Gravitasi",
+    "desc": "Di \"Jump 2D!\", sentuh Garis Gravitasi #1[i] kali berturut-turut tanpa menyentuh tanah",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045206": {
+    "id": "4045206",
+    "series_id": "4",
+    "title": "Master Bowling",
+    "desc": "Di \"Jump 2D!\", gunakan asisten mekanis untuk menabrak Hedgehogae atau Floatspirit hingga terpental",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045207": {
+    "id": "4045207",
+    "series_id": "4",
+    "title": "Bersulang untuk Matamu",
+    "desc": "Selesaikan stage meracik minuman di \"Jump 2D!\" Menara TV Seafeld",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045208": {
+    "id": "4045208",
+    "series_id": "4",
+    "title": "Tetangga di Seberang Lautan",
+    "desc": "Tiba di area perumahan di seberang laut dalam \"Jump 2D!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045209": {
+    "id": "4045209",
+    "series_id": "4",
+    "title": "Senandung Dawai Orpheus",
+    "desc": "Mainkan melodi di \"Jump 2D!\" untuk menghalau kabut di pulau kecil misterius",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045210": {
+    "id": "4045210",
+    "series_id": "4",
+    "title": "Bermalas-malasan Itu Bekerja",
+    "desc": "Di \"Jump 2D!\", naiki asisten mekanis untuk meluncur di atas permukaan air",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045211": {
+    "id": "4045211",
+    "series_id": "4",
+    "title": "Beban Tak Terhingga",
+    "desc": "Kalah game karena tergencet Waldundun atau PiPinTun di \"Jump 2D!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045212": {
+    "id": "4045212",
+    "series_id": "4",
+    "title": "Penyerbu Pulau",
+    "desc": "Jadi yang pertama mencapai puncak pulau misterius dalam Lomba Bayangan di \"Jump 2D!\" Kota Seafeld",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045213": {
+    "id": "4045213",
+    "series_id": "4",
+    "title": "Bumerang",
+    "desc": "Di \"Jump 2D!\", tembakkan panah dan kenai diri sendiri",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045214": {
+    "id": "4045214",
+    "series_id": "4",
+    "title": "Mesin Berkendara Ultimate",
+    "desc": "Di \"Jump 2D!\", naiki asisten mekanis untuk melewati rintangan berduri",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045215": {
+    "id": "4045215",
+    "series_id": "4",
+    "title": "Asisten Mekanis, Evolusi!",
+    "desc": "Buka kemampuan eksklusif asisten mekanis di \"Jump 2D!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045216": {
+    "id": "4045216",
+    "series_id": "4",
+    "title": "Variasi Utopia: Putri Bola",
+    "desc": "Mainkan Simfoni Aneh dan temukan makhluk misterius yang bersembunyi di Menara TV Seafeld",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045217": {
+    "id": "4045217",
+    "series_id": "4",
+    "title": "Variasi Utopia: Lagu Kapibara",
+    "desc": "Mainkan Simfoni Aneh dan temukan makhluk misterius yang bersembunyi di Kota Seafeld",
+    "hide_desc": "",
+    "hide": false
   },
   "4051001": {
     "id": "4051001",
@@ -6891,7 +7267,7 @@
     "id": "4053704",
     "series_id": "5",
     "title": "Kilas Balik yang Tiba-tiba",
-    "desc": "Menikmati semua koleksi di kamarmu",
+    "desc": "Pajang #1 suvenir di area \"Figurin Peringatan\" pada Lemari Pajangan Koleksi",
     "hide_desc": "",
     "hide": true
   },
@@ -8842,16 +9218,16 @@
   "4055012": {
     "id": "4055012",
     "series_id": "5",
-    "title": "Kejahatan Bernama \"Cinta\"",
-    "desc": "Akhirnya, keseharian yang damai kembali tenang\n※ Biarkan Sorren menerima sanksi hukum",
+    "title": "Penghakiman Dandelion",
+    "desc": "Di musim gingko berikutnya, tidak akan ada lagi dandelion yang beterbangan\n※ Biarkan Sapone memenuhi keinginan mereka",
     "hide_desc": "",
     "hide": true
   },
   "4055013": {
     "id": "4055013",
     "series_id": "5",
-    "title": "Penghakiman Dandelion",
-    "desc": "Di musim gingko berikutnya, tidak akan ada lagi dandelion yang beterbangan\n※ Biarkan Sapone memenuhi keinginan mereka",
+    "title": "Kejahatan Bernama \"Cinta\"",
+    "desc": "Akhirnya, keseharian yang damai kembali tenang\n※ Biarkan Sorren menerima sanksi hukum",
     "hide_desc": "",
     "hide": true
   },
@@ -9076,6 +9452,254 @@
     "series_id": "5",
     "title": "Pelempar Dadu Jalanan",
     "desc": "Kalahkan \"Empat Jagoan\" dalam \"Kekuatan Galaksi, Lempar Dadu!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055101": {
+    "id": "4055101",
+    "series_id": "5",
+    "title": "Sepenuh Hati",
+    "desc": "Tunjukkan rasa hormatmu kepada Silas dengan satu pukulan berkekuatan penuh di zona uji tempur",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055102": {
+    "id": "4055102",
+    "series_id": "5",
+    "title": "Bersandiwara",
+    "desc": "Pilih melindungi impian Silas di zona uji tempur",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055103": {
+    "id": "4055103",
+    "series_id": "5",
+    "title": "Bertanggung Jawablah atas Kreasimu",
+    "desc": "Di tengah kericuhan sesi tanda tangan, tangkap dan bawa kembali Nihilux yang sedang bermalas-malasan",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055104": {
+    "id": "4055104",
+    "series_id": "5",
+    "title": "Ini Juga Bagian dari Fiksi",
+    "desc": "Di tengah kericuhan sesi tanda tangan, minta Pulitzkun dengan berani memikul tanggung jawab yang bukan miliknya",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055105": {
+    "id": "4055105",
+    "series_id": "5",
+    "title": "Manusia Mengandalkan Pakaian, Kuda Mengandalkan Pelana",
+    "desc": "Berikan saran kepada mechatron yang ragu di depan ruang modifikasi mechatron",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055106": {
+    "id": "4055106",
+    "series_id": "5",
+    "title": "Orang Jahat Pasti akan Ada yang Hajar",
+    "desc": "Bicara dengan Caenis (Alt) dan Thunderarch secara terpisah",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055107": {
+    "id": "4055107",
+    "series_id": "5",
+    "title": "Cinta di Era Utopia",
+    "desc": "Saksikan pejalan kaki saling menyampaikan perasaan mereka di jalan",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055108": {
+    "id": "4055108",
+    "series_id": "5",
+    "title": "Tak Tertandingi",
+    "desc": "Kalahkan semua lawan di \"Duel Klub\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055109": {
+    "id": "4055109",
+    "series_id": "5",
+    "title": "Para Pasukan, Dengarkan Perintah!",
+    "desc": "Telah membuka semua kemampuan di \"Persiapan\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055110": {
+    "id": "4055110",
+    "series_id": "5",
+    "title": "Musuh dari Langit",
+    "desc": "Selesaikan \"Tantangan Raja Iblis\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055201": {
+    "id": "4055201",
+    "series_id": "5",
+    "title": "Sekalipun Jauh, Tetap Habisi",
+    "desc": "Serahkan pembunuh Skott kepada Xianzhou Alliance\n※Semoga dia bisa terbiasa dengan makanan di Shackling Prison",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055202": {
+    "id": "4055202",
+    "series_id": "5",
+    "title": "Prinsip Teritorial",
+    "desc": "Serahkan pembunuh Skott kepada Departemen Investasi Strategis\n※ Seolah tidak terjadi apa-apa",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055203": {
+    "id": "4055203",
+    "series_id": "5",
+    "title": "Hutang Budi dan Dendam",
+    "desc": "Serahkan pembunuh Skott ke keadilan\n※ \"Jika dia tidak bisa bersikap terhormat, bantulah dia.\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055204": {
+    "id": "4055204",
+    "series_id": "5",
+    "title": "Memori Tak Dikenal",
+    "desc": "Selesaikan penyelidikan di peron Express Air",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055205": {
+    "id": "4055205",
+    "series_id": "5",
+    "title": "Departemen Antimeme Tidak Ada",
+    "desc": "Periksa komputer di ruang penyimpanan stasiun TV",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055206": {
+    "id": "4055206",
+    "series_id": "5",
+    "title": "Apa Itu Pahlawan",
+    "desc": "Bertemu kembali dengan Prajurit Cinderborne di stasiun TV",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055207": {
+    "id": "4055207",
+    "series_id": "5",
+    "title": "Persiapan Seorang Aktor",
+    "desc": "Selesaikan dialog pertemuan pertama keluarga Ploo",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055208": {
+    "id": "4055208",
+    "series_id": "5",
+    "title": "Jadi Cinta Bisa Menghilang, kan?",
+    "desc": "Dengarkan alasan yang dikarang pejalan kaki untuk menghindari bertemu orang tua",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055212": {
+    "id": "4055212",
+    "series_id": "5",
+    "title": "Era Jurnalis Rakun",
+    "desc": "Populasi rakun kita benar-benar makin bertambah banyak ya!\n※\"Mingguan Rakun\" resmi memiliki #1 Furbo Journalist tetap",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055213": {
+    "id": "4055213",
+    "series_id": "5",
+    "title": "Diriku yang Lain",
+    "desc": "Bertemu dengan Trailblazer lain di Party Car Multipemain",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055214": {
+    "id": "4055214",
+    "series_id": "5",
+    "title": "Klub Express Perintisan",
+    "desc": "Kunjungi Party Car Multipemain milik #1 Trailblazer lain",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055215": {
+    "id": "4055215",
+    "series_id": "5",
+    "title": "Emanator \"Perintisan\" Meongmi",
+    "desc": "Memperoleh Hadiah \"Akivimeow\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055216": {
+    "id": "4055216",
+    "series_id": "5",
+    "title": "Pemburu Pesta",
+    "desc": "Menangkap ciptaan dari setiap tempat persembunyian di Party Car",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055217": {
+    "id": "4055217",
+    "series_id": "5",
+    "title": "Perjamuan Terakhir",
+    "desc": "Tempatkan #1 ciptaan yang sama di Area Penempatan Ciptaan",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055218": {
+    "id": "4055218",
+    "series_id": "5",
+    "title": "Naturalis",
+    "desc": "Kumpulkan #1 ciptaan dalam \"Catatan Observasi Ciptaan\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055220": {
+    "id": "4055220",
+    "series_id": "5",
+    "title": "Dadu Keberuntungan! Pertanda Baik!",
+    "desc": "Dalam gameplay Kekuatan Galaksi, mengumpulkan total #1 Dadu Prismatik di \"Paket Ekspansi 2\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055221": {
+    "id": "4055221",
+    "series_id": "5",
+    "title": "Dadumu ingin Datang ke Rumahku",
+    "desc": "Di \"Kekuatan Galaksi, Lempar Dadu Lagi!\", tukar dadu sebanyak total #1 kali",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055222": {
+    "id": "4055222",
+    "series_id": "5",
+    "title": "Satu Klik Tiga Combo",
+    "desc": "Gunakan #1 Kartu Taktik secara berturut-turut dalam satu giliran di \"Kekuatan Galaksi, Lempar Dadu Lagi!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055223": {
+    "id": "4055223",
+    "series_id": "5",
+    "title": "Damage Super Jumbo",
+    "desc": "Dalam \"Kekuatan Galaksi, Lempar Dadu Lagi!\", akibatkan #1 poin DMG dalam satu giliran",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055224": {
+    "id": "4055224",
+    "series_id": "5",
+    "title": "\"Mingguan Rakun\" Maju Terus",
+    "desc": "Dalam \"Kekuatan Galaksi, Lempar Dadu Lagi!\", mewakili \"Mingguan Rakun\" mengalahkan 5 peringkat teratas di papan peringkat pusat bisnis Kota Seafeld: \"Lima Jagoan Seafeld\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055225": {
+    "id": "4055225",
+    "series_id": "5",
+    "title": "Dadu Nomor Satu di Galaksi",
+    "desc": "Selesaikan pertarungan terakhir dengan Silver Wolf LV.999 di \"Kekuatan Galaksi, Lempar Dadu Lagi!\"",
     "hide_desc": "",
     "hide": false
   },
@@ -11654,6 +12278,150 @@
     "desc": "Aha melancarkan \"Let There Be Laughter\" dan mengalahkan #1 musuh",
     "hide_desc": "",
     "hide": true
+  },
+  "4075015": {
+    "id": "4075015",
+    "series_id": "7",
+    "title": "Hari Aneh yang Menyenangkan",
+    "desc": "Memenangkan pertempuran dengan mengerahkan #1 karakter Path Elation",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075101": {
+    "id": "4075101",
+    "series_id": "7",
+    "title": "Tiga Musketeer",
+    "desc": "Memenangkan #1[i] pertempuran dengan tim yang terdiri dari Ashveil, Rappa, dan Boothill",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075102": {
+    "id": "4075102",
+    "series_id": "7",
+    "title": "Balasan Pasti Datang, Hanya Soal Waktu",
+    "desc": "Rekan Tim menyerang target \"Bait\" total #1 kali tanpa memicu Serangan Lanjutan Ashveil",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075103": {
+    "id": "4075103",
+    "series_id": "7",
+    "title": "Sekali Dayung, Dua Tiga Pulau Terlampaui",
+    "desc": "Gunakan karakter tim Ashveil untuk mengalahkan#1 musuh sekaligus dalam satu Serangan Lanjutan",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075105": {
+    "id": "4075105",
+    "series_id": "7",
+    "title": "Matahari Terbit Seketika",
+    "desc": "Dalam pertempuran melawan \"Daybreak Squadron\" dan saat berstatus \"Daybreak Forcefield\", \"Daybreak Squadron\" menerima serangan Tipe tertentu dan memicu \"segera beraksi\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075106": {
+    "id": "4075106",
+    "series_id": "7",
+    "title": "Keberuntungan Noob",
+    "desc": "Dalam pertempuran melawan \"SD Civilian Mechatron\", buat ia mengalahkan #1 target musuh",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075107": {
+    "id": "4075107",
+    "series_id": "7",
+    "title": "Hemat Air",
+    "desc": "Dalam pertempuran melawan \"Alloy Mechatron: King Pom-Pom\", hilangkan status \"Steam Wash\"-nya",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075108": {
+    "id": "4075108",
+    "series_id": "7",
+    "title": "Pelopor Tren Buih",
+    "desc": "Dalam satu pertempuran melawan \"Alloy Mechatron: King Pom-Pom\", picu efek \"Shiny\" dari \"Potent Foam Soap\" setidaknya #1 kali",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075201": {
+    "id": "4075201",
+    "series_id": "7",
+    "title": "Jangan Ada yang Cemberut",
+    "desc": "Dalam 1 pertempuran, gunakan Trailblazer dengan Path \"Elation\" untuk melancarkan Ultimate pada #1 rekan berbeda masing-masing 1 kali.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075202": {
+    "id": "4075202",
+    "series_id": "7",
+    "title": "Terima Kasih Buat Tipnya",
+    "desc": "Dalam satu pertempuran, gunakan Trailblazer Path \"Elation\" untuk melancarkan Ultimate pada Sparxie sebanyak total #1 kali",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075203": {
+    "id": "4075203",
+    "series_id": "7",
+    "title": "Top 500 Urun Dana",
+    "desc": "Dalam 1 pertempuran, total \"Certified Banger\" yang diperoleh Evanescia dari rekan lainnya melalui Talent \"Youth: Halcyon Evermore\" lebih dari #1.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075204": {
+    "id": "4075204",
+    "series_id": "7",
+    "title": "Hal Bagus Tak Pernah Cukup",
+    "desc": "Gunakan karakter tim Evanescia untuk melancarkan Ultimate saat jumlah \"Certified Banger\" mencapai #1",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075205": {
+    "id": "4075205",
+    "series_id": "7",
+    "title": "Jangan Bercanda, Nona Kafka",
+    "desc": "Memicu \"McAwolfee 999\" milik Silver Wolf LV.999, menghapus status \"Dominated\" yang diberikan oleh \"Stellaron Hunter: Kafka\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075206": {
+    "id": "4075206",
+    "series_id": "7",
+    "title": "Daftar Equipment",
+    "desc": "Dalam satu giliran, rekan memicu #1 jenis \"Top Loot Box\" berbeda milik Silver Wolf LV.999",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075207": {
+    "id": "4075207",
+    "series_id": "7",
+    "title": "Serigala Jalan Finansial",
+    "desc": "Gunakan Technique \"This? Absolute Meta!\" milik Silver Wolf LV.999 untuk mendapatkan #1 Koin Emas sekaligus",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075208": {
+    "id": "4075208",
+    "series_id": "7",
+    "title": "Krisis Biokimia",
+    "desc": "Di pertempuran \"Paramount Bliss Inverted: Illwish Archlotus\", setelah karakter tim diubah menjadi \"Happiness Puppet\", mengakibatkan \"Serangan Vital\" dan mengalahkan target mana pun",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075209": {
+    "id": "4075209",
+    "series_id": "7",
+    "title": "SAN Penuh",
+    "desc": "Di pertempuran \"Paramount Bliss Inverted: Illwish Archlotus\", tidak ada karakter yang diubah menjadi \"Happiness Puppet\" karena memicu \"Happiness\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075210": {
+    "id": "4075210",
+    "series_id": "7",
+    "title": "Akhir dari Kesenangan",
+    "desc": "Di pertempuran \"Joy Ascendant\", kalahkan #1 \"Joy Ascendant: Finale\" atau lebih sekaligus dalam satu serangan",
+    "hide_desc": "",
+    "hide": false
   },
   "4080101": {
     "id": "4080101",

@@ -1139,6 +1139,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22007": {
+    "id": "22007",
+    "name": "L'avenir nous verra réunis",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "Un cadeau grandiose débarque sur le stream.\n<i>C'est un gâteau d'anniversaire personnalisé pour fêter le troisième anniversaire, offert par les fans !</i>\n\nChaque précieux souvenir devient une force motrice qui fédère le monde en cet instant.\n<i>Que tout le monde avance joyeusement et en toute sécurité vers la nouvelle année !</i>\n<i>Ne t'inquiète pas, conducteur ! Lapine de mars va immortaliser cet instant. </i>\n\nDans cette atmosphère chaleureuse, tout le monde lève son verre ensemble, et les éclats de rire résonnent partout sans exceptions.\n<i>En ce jour de célébration, levons nos verres.</i>\n<i>À un lendemain rempli d'étoiles...</i>\n<i>Santé !</i>",
+    "icon": "icon/light_cone/22007.png",
+    "preview": "image/light_cone_preview/22007.png",
+    "portrait": "image/light_cone_portrait/22007.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "Nuit sur la voie lactée",
@@ -1360,7 +1372,7 @@
     "name": "Moment de grâce",
     "rarity": 5,
     "path": "Mage",
-    "desc": "Un jour, il avait entendu une ballade qui faisait l'éloge de cette lueur :\nLes roses fleurissent pour répondre à SON sourire.\nL'aube éclate pour illuminer SON visage.\nLes mélodies résonnent pour tromper SA fatigue.\n\nCependant, la lueur était partie, pour ne jamais revenir, et il file toujours au grand galop vers un lointain devenir.\nQu'y a-t-il à faire, sinon attendre, avoir la foi et prêcher la Beauté partout dans le cosmos.\nMême si tout n'était qu'un bref instant gravé à jamais dans son esprit, il avait déjà trouvé la réponse qu'il cherchait.",
+    "desc": "Un jour, il avait entendu une ballade qui faisait l'éloge de cette lueur :\nLes roses fleurissent pour répondre à son sourire.\nL'aube éclate pour illuminer son visage.\nLes mélodies résonnent pour tromper sa fatigue.\n\nCependant, la lueur était partie, pour ne jamais revenir, et il file toujours au grand galop vers un lointain devenir.\nQu'y a-t-il à faire, sinon attendre, avoir la foi et prêcher la Beauté partout dans le cosmos.\nMême si tout n'était qu'un bref instant gravé à jamais dans son esprit, il avait déjà trouvé la réponse qu'il cherchait.",
     "icon": "icon/light_cone/23018.png",
     "preview": "image/light_cone_preview/23018.png",
     "portrait": "image/light_cone_portrait/23018.png",
@@ -1799,6 +1811,42 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "23056": {
+    "id": "23056",
+    "name": "Bas les masques",
+    "rarity": 5,
+    "path": "Rogue",
+    "desc": "<i>« Que disait </i>Introduction à la déduction<i> déjà ? Sauf en cas d'absolue nécessité... »</i>\nDes crocs de rouge et de noir montent doucement le long de son épaule.\n\nLà où la nuit se noie, les doutes surgissent. Dans la forêt obscure, les fauves bestiaux se terrent.\n<i>« Ce jeu du chat et de la souris doit prendre fin. »</i>\nLe pourpre s'efface. Au firmament, la lune conserve son éclat immaculé et les étoiles dorment paisiblement.\n\nC'est une nouvelle quête de vérité, mais les ombres du passé lui tapotent l'épaule avant de s'évanouir.\nLe face-à-face se poursuit, jusqu'à...\n\n<i>« Jusqu'au jour... où le châtiment s'abattra sur le crime. »</i>",
+    "icon": "icon/light_cone/23056.png",
+    "preview": "image/light_cone_preview/23056.png",
+    "portrait": "image/light_cone_portrait/23056.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23057": {
+    "id": "23057",
+    "name": "Terrain de jeu universel",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Au-dessus de la ville, une silhouette flamboyante jaillit du téléporteur.\nDes flux de circulation sans fin, d'innombrables silhouettes... l'agitation continue comme à son habitude.\n<i>Ça a l'air vivant, mais...</i>\n\nL'écran devant elle s'illumine tandis que les joies et les peines des gens se transforment en points lumineux affluant.\n<i>Même les jauges de fatigue des PNJ sont presque au max...</i>\n<i>Hors de question que je fasse un raid aussi ennuyeux.</i>\n\nD'un geste du doigt, les lumières de la ville clignotent.\nDepuis un recoin perdu s'élève un cri de surprise, suivi d'acclamations tonitruantes résonnant dans le ciel.\n<i>Chance de tous les joueurs doublée, talents spéciaux aléatoires, récompenses au max...</i>\n<i>Jeu chargé avec succès ! C'est l'heure du show !</i>\n\nLa fille saute dans le vide tandis que des sons familiers des notifications résonnent à ses oreilles.\nSon temps de jeu a commencé.",
+    "icon": "icon/light_cone/23057.png",
+    "preview": "image/light_cone_preview/23057.png",
+    "portrait": "image/light_cone_portrait/23057.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23058": {
+    "id": "23058",
+    "name": "Printemps des retrouvailles",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Une douce brise fait danser les voiles blancs, s'emparant des pensées de la jeune fille.\nAlors qu'elle contemple la foule bavarde à sa fenêtre, son trait de crayon s'arrête inconsciemment.\n<i>« Combien de fois me suis-je assise ici ? »</i>\n\nEn cet instant fugace, un pétale effleure son nez, comme pour lui répondre, ou lui faire un rappel.\nUn grand jeu, une rencontre unique, des journées et des soirées où les fleurs s'épanouissent et se fanent...\nElle se remémore son histoire sur cette terre, qui commence par une toile vierge et se termine avec de resplendissantes couleurs. À chaque fois qu'elle se couchait, elle attendait avec impatience l'arrivée du lendemain.\n\n<i>« Oh, la suite de la bande dessinée est parue ! Je la lirai après avoir fini de dessiner ces petits choux... »</i>\nLa fille reçoit une notification, ses oreilles se dressent tandis que son crayon, jusqu'alors immobile, reprend vie.\n\n<i>« J'espère... qu'à la prochaine saison des fleurs, j'aurai rattrapé toutes les nouveautés qui ont été les mieux reçues ! »</i>",
+    "icon": "icon/light_cone/23058.png",
+    "preview": "image/light_cone_preview/23058.png",
+    "portrait": "image/light_cone_portrait/23058.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "24000": {
     "id": "24000",
     "name": "La chute d'un Aiôn",
@@ -1868,6 +1916,18 @@
     "icon": "icon/light_cone/24005.png",
     "preview": "image/light_cone_preview/24005.png",
     "portrait": "image/light_cone_portrait/24005.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "24006": {
+    "id": "24006",
+    "name": "Eau bénite de l'Allégresse",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Sous les doigts des génies, une infinité de données défile.\nDes masques se cachent dans les interstices entre les événements pour observer toutes les possibilités qui s'offrent à eux.\n\nAnalyse, extrapolation, réponses, questions. N'est-ce pas là une scène parfaite pour les génies ?\nAcclamations, larmes, cris, gémissements... l'éventail de sentiments de l'expérience humaine se déploie pleinement.\n\nLe bruit gagne la pièce silencieuse, et les bénédictions remplissent à ras bord la jauge d'allégresse. Est-ce là l'acte le plus captivant ?\nLa réponse reste la même : imprévisible à souhait !",
+    "icon": "icon/light_cone/24006.png",
+    "preview": "image/light_cone_preview/24006.png",
+    "portrait": "image/light_cone_portrait/24006.png",
     "max_rank": 5,
     "max_promotion": 6
   }

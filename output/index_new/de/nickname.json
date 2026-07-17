@@ -228,6 +228,15 @@
     "1502": [
       "Yao Guang"
     ],
+    "1504": [
+      "Ashveil"
+    ],
+    "1505": [
+      "Evanescia"
+    ],
+    "1506": [
+      "Silberwolf St. 999"
+    ],
     "8001": [
       "{NICKNAME}"
     ],
@@ -250,6 +259,12 @@
       "{NICKNAME}"
     ],
     "8008": [
+      "{NICKNAME}"
+    ],
+    "8009": [
+      "{NICKNAME}"
+    ],
+    "8010": [
       "{NICKNAME}"
     ],
     "1014": [
@@ -727,6 +742,21 @@
     ],
     "23054": [
       "Der Entschluss zu sehen"
+    ],
+    "23056": [
+      "Das Finale einer Lüge"
+    ],
+    "24006": [
+      "Hochgefühl voller Segen"
+    ],
+    "23058": [
+      "Begegnung in der nächsten Blütezeit"
+    ],
+    "23057": [
+      "Willkommen in der kosmischen Stadt"
+    ],
+    "22007": [
+      "Gemeinsam in die Zukunft"
     ]
   },
   "relic_sets": {
@@ -891,6 +921,12 @@
     ],
     "324": [
       "Tengoku@Livestream"
+    ],
+    "325": [
+      "Etappe Nr. Null von Punklorde"
+    ],
+    "326": [
+      "Stadt der unzähligen Sterne"
     ]
   }
 }

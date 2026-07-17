@@ -16887,7 +16887,7 @@
     "type_text": "Habilidad básica",
     "effect": "Support",
     "effect_text": "Apoyo",
-    "simple_desc": "Designa a un aliado como Maestro. Al infligir daño el ATQ básico o ATQ básico potenciado, activa uno de los siguientes efectos según sea la Vía del Maestro:\nErudición, Destrucción, Cacería o Reminiscencia: inflige daño adicional extra del mismo tipo que el Maestro.\nArmonía, Nihilidad, Conservación o Abundancia: aumenta la Reducción de Firmeza.",
+    "simple_desc": "Designa a un aliado como Maestro. Al infligir daño el ATQ básico o ATQ básico potenciado, activa uno de los siguientes efectos según sea la Vía del Maestro:\nErudición, Destrucción, Cacería, Reminiscencia o Exultación: inflige daño adicional extra del mismo tipo que el Maestro.\nArmonía, Nihilidad, Conservación o Abundancia: aumenta la Reducción de Firmeza.",
     "desc": "Hace que otro aliado distinto a sí misma se convierta en Maestro. La VEL del Maestro aumenta en un #1[f1]%. Solo el último aliado que haya sido objetivo de la habilidad básica de Siete de Marzo se considera su \"Maestro\".\nCuando usa su ATQ básico o inflige daño 1 vez con su ATQ básico potenciado, se activa uno de los siguientes efectos en función de la Vía del Maestro que haya presente en el campo de batalla:\nErudición, Destrucción, Cacería, Reminiscencia o Exultación: inflige un daño adicional del mismo tipo que el Maestro equivalente al #2[i]% del ATQ de Siete de Marzo.\nArmonía, Nihilidad, Conservación o Abundancia: la Reducción de Firmeza del daño infligido esta vez aumenta en un #3[i]%.",
     "params": [
       [
@@ -31429,7 +31429,7 @@
     "effect": "Enhance",
     "effect_text": "Potenciación",
     "simple_desc": "Al comenzar la batalla o después de que Cirene actúe, los compañeros de equipo y sus mnemoduendes obtienen Futuro. Cuando un aliado con Futuro actúa, Cirene obtiene Remembranza. Cuando Cirene está en el campo de batalla, el daño que infligen todos los aliados aumenta.",
-    "desc": "Al comenzar la batalla o después de que Cirene actúe, los demás personajes del equipo y sus mnemoduendes obtienen Futuro, independientemente del estado en que estén. Cuando un aliado con Futuro actúa, consume Futuro y otorga #1[i] punto de Remembranza a Cirene. Cirene activa su habilidad definitiva y disipa todos sus estados negativos cuando tiene #4[i] puntos de Remembranza. Si está en el estado de Ondas del pasado, Cirene puede activar su habilidad definitiva con #5[i] puntos de Remembranza. Tras alcanzar el límite, los puntos pueden seguir acumulándose hasta llegar a #3[i]. Cuando Cirene está en el campo de batalla, el daño que infligen todos los aliados aumenta en un #2[f1]%.",
+    "desc": "Al comenzar la batalla o después de que Cirene actúe, otros personajes del equipo con cualquier estado y sus mnemoduendes obtienen Futuro, independientemente del estado en que estén. Cuando un aliado con Futuro actúa, consume Futuro y otorga #1[i] punto de Remembranza a Cirene. Cirene activa su habilidad definitiva y disipa todos sus estados negativos cuando tiene #4[i] puntos de Remembranza. Si está en el estado de Ondas del pasado, Cirene puede activar su habilidad definitiva con #5[i] puntos de Remembranza. Tras alcanzar el límite, los puntos pueden seguir acumulándose hasta llegar a #3[i]. Cuando Cirene está en el campo de batalla, el daño que infligen todos los aliados aumenta en un #2[f1]%.",
     "params": [
       [
         1,
@@ -31563,7 +31563,7 @@
     "effect": "Support",
     "effect_text": "Apoyo",
     "simple_desc": "Crea una zona especial a su alrededor. Dentro de esta zona, los enemigos son afectados con el estado Momento eterno, y los personajes aliados aumentan su VEL de movimiento. Despliega el campo de la habilidad básica al entrar en combate.",
-    "desc": "Tras usar la técnica, crea una zona especial a su alrededor que dura #1[i] segundos. Dentro de esta zona especial, los enemigos son afectados con el estado Momento eterno, con lo que detienen todas sus acciones, y los personajes aliados aumentan su VEL de movimiento en un #2[i]%. Tras entrar en combate mientras la zona está activa, despliega el campo de la habilidad básica. Solo puede haber una zona especial creada por los aliados a la vez.",
+    "desc": "Tras usar la técnica, crea una zona especial a su alrededor que dura #1[i] s. Dentro de esta zona especial, los enemigos son afectados con el estado Momento eterno, con lo que detienen todas sus acciones, y los personajes aliados aumentan su VEL de movimiento en un #2[i]%. Tras entrar en combate mientras la zona está activa, despliega el campo de la habilidad básica. Solo puede haber una zona especial creada por los aliados a la vez.",
     "params": [
       [
         30,
@@ -32931,6 +32931,1759 @@
       ]
     ],
     "icon": "icon/skill/1502_Elation.png"
+  },
+  "150401": {
+    "id": "150401",
+    "name": "Garra para enseñar modales",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una pequeña cantidad de Daño de Rayo a un enemigo.",
+    "desc": "Inflige un #1[i]% del ATQ de Ashveil como Daño de Rayo a un enemigo.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1504_basic_atk.png"
+  },
+  "150402": {
+    "id": "150402",
+    "name": "Latigazo para subyugar el mal",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Marca a un enemigo como Cebo y le inflige una gran cantidad de Daño de Rayo. Si el objetivo ya está marcado como Cebo, le inflige adicionalmente una pequeña cantidad de Daño de Rayo y recupera #5[i] pt. de habilidad básica. Mientras haya un Cebo en el campo de batalla, se reduce la DEF de todos los enemigos.",
+    "desc": "Marca a un enemigo como Cebo y le inflige un #1[i]% del ATQ de Ashveil como Daño de Rayo. Si el objetivo ya está marcado como Cebo, le inflige adicionalmente un #3[i]% del ATQ de Ashveil como Daño de Rayo y recupera #5[i] pt. de habilidad básica. Cuando hay un Cebo en el campo de batalla, la DEF de todos los enemigos se reduce en un #4[i]%.\nSi no hay ningún Cebo en el campo de batalla, Ashveil marca inmediatamente como Cebo al enemigo con menos PV actuales en el campo de batalla. El estado de Cebo solo tiene efecto sobre el último objetivo al que se le aplicó.",
+    "params": [
+      [
+        1,
+        1,
+        0.5,
+        0.2,
+        1
+      ],
+      [
+        1.1,
+        1,
+        0.55,
+        0.22,
+        1
+      ],
+      [
+        1.2,
+        1,
+        0.6,
+        0.24,
+        1
+      ],
+      [
+        1.3,
+        1,
+        0.65,
+        0.26,
+        1
+      ],
+      [
+        1.4,
+        1,
+        0.7,
+        0.28,
+        1
+      ],
+      [
+        1.5,
+        1,
+        0.75,
+        0.3,
+        1
+      ],
+      [
+        1.625,
+        1,
+        0.8125,
+        0.325,
+        1
+      ],
+      [
+        1.75,
+        1,
+        0.875,
+        0.35,
+        1
+      ],
+      [
+        1.875,
+        1,
+        0.9375,
+        0.375,
+        1
+      ],
+      [
+        2,
+        1,
+        1,
+        0.4,
+        1
+      ],
+      [
+        2.1,
+        1,
+        1.05,
+        0.42,
+        1
+      ],
+      [
+        2.2,
+        1,
+        1.1,
+        0.44,
+        1
+      ],
+      [
+        2.3,
+        1,
+        1.15,
+        0.46,
+        1
+      ],
+      [
+        2.4,
+        1,
+        1.2,
+        0.48,
+        1
+      ],
+      [
+        2.5,
+        1,
+        1.25,
+        0.5,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1504_skill.png"
+  },
+  "150403": {
+    "id": "150403",
+    "name": "Banquete para un hambre insaciable",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "Ultra",
+    "type_text": "Habilidad definitiva",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Marca a un enemigo como Cebo y le inflige una gran cantidad de Daño de Rayo. A continuación, lanza inmediatamente una vez una versión potenciada del ataque adicional del talento contra el Cebo y Ashveil obtiene carga.\nEste ataque adicional potenciado del talento no consume carga. Cada vez que tenga #3[i] o más acumulaciones de Gula, consume #3[i] acumulaciones de Gula para infligir adicionalmente una gran cantidad de Daño de Rayo. Si asesta un golpe letal al objetivo durante este ataque adicional, seguirá infligiendo daño a un nuevo Cebo hasta que tenga menos de #3[i] acumulaciones de Gula.",
+    "desc": "Marca a un enemigo como Cebo y le inflige un #1[i]% del ATQ de Ashveil como Daño de Rayo. A continuación, lanza inmediatamente una vez una versión potenciada del ataque adicional del talento contra el Cebo y Ashveil obtiene #2[i] pts. de carga.\nEste ataque adicional potenciado del talento no consume carga. Cada vez que tenga #3[i] o más acumulaciones de Gula, consume #3[i] acumulaciones de Gula para infligir adicionalmente una vez un #4[i]% del ATQ de Ashveil como Daño de Rayo. Si inflige un golpe letal al objetivo durante este ataque adicional, seguirá infligiendo daño a un nuevo Cebo hasta que tenga menos de #3[i] acumulaciones de Gula. Si todos los enemigos actualmente en el campo de batalla reciben un golpe letal, el ataque adicional potenciado del talento finaliza inmediatamente.",
+    "params": [
+      [
+        2,
+        3,
+        4,
+        1
+      ],
+      [
+        2.2,
+        3,
+        4,
+        1.1
+      ],
+      [
+        2.4,
+        3,
+        4,
+        1.2
+      ],
+      [
+        2.6,
+        3,
+        4,
+        1.3
+      ],
+      [
+        2.8,
+        3,
+        4,
+        1.4
+      ],
+      [
+        3,
+        3,
+        4,
+        1.5
+      ],
+      [
+        3.25,
+        3,
+        4,
+        1.625
+      ],
+      [
+        3.5,
+        3,
+        4,
+        1.75
+      ],
+      [
+        3.75,
+        3,
+        4,
+        1.875
+      ],
+      [
+        4,
+        3,
+        4,
+        2
+      ],
+      [
+        4.2,
+        3,
+        4,
+        2.1
+      ],
+      [
+        4.4,
+        3,
+        4,
+        2.2
+      ],
+      [
+        4.6,
+        3,
+        4,
+        2.3
+      ],
+      [
+        4.8,
+        3,
+        4,
+        2.4
+      ],
+      [
+        5,
+        3,
+        4,
+        2.5
+      ]
+    ],
+    "icon": "icon/skill/1504_ultimate.png"
+  },
+  "150404": {
+    "id": "150404",
+    "name": "Colmillo para cobrar venganza",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "Talento",
+    "type_text": "Talento",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Después de que el Cebo sea atacado por otro aliado, Ashveil recupera una cantidad fija de energía, luego consume carga para lanzar contra el Cebo un ataque adicional que le inflige una gran cantidad de Daño de Rayo, y obtiene #5[i] acumulaciones de Gula.",
+    "desc": "Ashveil inicialmente tiene #1[i] pts. de carga y puede tener hasta #2[i] pts. como máximo. Después de que el Cebo sea atacado por otro aliado, Ashveil recupera #7[i] pts. fijos de energía, consume #3[i] pt. de carga para lanzar un ataque adicional contra el Cebo que le inflige un #4[i]% del ATQ de Ashveil como Daño de Rayo, y a continuación obtiene #5[i] acumulaciones de Gula, que se puede acumular hasta #6[i] veces.",
+    "params": [
+      [
+        2,
+        3,
+        1,
+        1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.3,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.4,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.5,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.625,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.75,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        1.875,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.1,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.2,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.3,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.4,
+        2,
+        12,
+        8
+      ],
+      [
+        2,
+        3,
+        1,
+        2.5,
+        2,
+        12,
+        8
+      ]
+    ],
+    "icon": "icon/skill/1504_talent.png"
+  },
+  "150406": {
+    "id": "150406",
+    "name": "Garra para enseñar modales",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "params": [],
+    "icon": "icon/skill/1504_basic_atk.png"
+  },
+  "150407": {
+    "id": "150407",
+    "name": "Mano para devorarlo todo",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Técnica",
+    "effect": "Impair",
+    "effect_text": "Alteración",
+    "simple_desc": "Afecta con Mareo a los enemigos de una zona. Al atacar a un enemigo mareado y entrar en combate, inflige una pequeña cantidad de Daño de Rayo a todos los enemigos y Ashveil obtiene #3[i] pt. de carga.",
+    "desc": "Tras usar la técnica, los enemigos de una zona determinada quedan afectados por Mareo durante #1[i] s, lo que les impide atacar activamente a los aliados.\nAl entrar en combate tras atacar a un enemigo mareado, inflige a todos los enemigos un Daño de Rayo equivalente al #2[i]% del ATQ de Ashveil y Ashveil obtiene #3[i] pt. de carga.",
+    "params": [
+      [
+        10,
+        1,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1504_technique.png"
+  },
+  "150501": {
+    "id": "150501",
+    "name": "Tarea: inspección sorpresa",
+    "max_level": 10,
+    "element": "Physical",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una pequeña cantidad de Daño Físico a un enemigo.",
+    "desc": "Inflige un #1[i]% del ATQ de Evanescia como Daño Físico a un enemigo.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1505_basic_atk.png"
+  },
+  "150502": {
+    "id": "150502",
+    "name": "Disciplina: veredicto final",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "Blast",
+    "effect_text": "Ráfaga",
+    "simple_desc": "Inflige una gran cantidad de Daño Físico a un enemigo y Daño Físico a los objetivos adyacentes, y obtiene adicionalmente Chiste.",
+    "desc": "Evanescia inflige un #2[i]% de su ATQ como Daño Físico a un enemigo y un #3[i]% de su ATQ como Daño Físico a los objetivos adyacentes, y obtiene #4[i] pts. adicionales de Chiste.",
+    "params": [
+      [
+        1,
+        1.5,
+        0.75,
+        10
+      ],
+      [
+        1,
+        1.65,
+        0.825,
+        10
+      ],
+      [
+        1,
+        1.8,
+        0.9,
+        10
+      ],
+      [
+        1,
+        1.95,
+        0.975,
+        10
+      ],
+      [
+        1,
+        2.1,
+        1.05,
+        10
+      ],
+      [
+        1,
+        2.25,
+        1.125,
+        10
+      ],
+      [
+        1,
+        2.4375,
+        1.21875,
+        10
+      ],
+      [
+        1,
+        2.625,
+        1.3125,
+        10
+      ],
+      [
+        1,
+        2.8125,
+        1.40625,
+        10
+      ],
+      [
+        1,
+        3,
+        1.5,
+        10
+      ],
+      [
+        1,
+        3.15,
+        1.575,
+        10
+      ],
+      [
+        1,
+        3.3,
+        1.65,
+        10
+      ],
+      [
+        1,
+        3.45,
+        1.725,
+        10
+      ],
+      [
+        1,
+        3.6,
+        1.8,
+        10
+      ],
+      [
+        1,
+        3.75,
+        1.875,
+        10
+      ]
+    ],
+    "icon": "icon/skill/1505_skill.png"
+  },
+  "150503": {
+    "id": "150503",
+    "name": "Cantafilos: castigo implacable",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "Ultra",
+    "type_text": "Habilidad definitiva",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige Daño Físico a todos los enemigos y, a continuación, inflige Daño Físico a enemigos al azar 5 veces.",
+    "desc": "Inflige un #1[i]% del ATQ de Evanescia como Daño Físico a todos los enemigos. A continuación, inflige daño 5 veces. Cada vez, inflige un #3[i]% del ATQ de Evanescia como Daño Físico a un enemigo al azar.",
+    "params": [
+      [
+        0.8,
+        5,
+        0.72,
+        88
+      ],
+      [
+        0.88,
+        5,
+        0.768,
+        88
+      ],
+      [
+        0.96,
+        5,
+        0.816,
+        88
+      ],
+      [
+        1.04,
+        5,
+        0.864,
+        88
+      ],
+      [
+        1.12,
+        5,
+        0.912,
+        88
+      ],
+      [
+        1.2,
+        5,
+        0.96,
+        88
+      ],
+      [
+        1.3,
+        5,
+        1.02,
+        88
+      ],
+      [
+        1.4,
+        5,
+        1.08,
+        88
+      ],
+      [
+        1.5,
+        5,
+        1.14,
+        88
+      ],
+      [
+        1.6,
+        5,
+        1.2,
+        88
+      ],
+      [
+        1.68,
+        5,
+        1.248,
+        88
+      ],
+      [
+        1.76,
+        5,
+        1.296,
+        88
+      ],
+      [
+        1.84,
+        5,
+        1.344,
+        88
+      ],
+      [
+        1.92,
+        5,
+        1.392,
+        88
+      ],
+      [
+        2,
+        5,
+        1.44,
+        88
+      ]
+    ],
+    "icon": "icon/skill/1505_ultimate.png"
+  },
+  "150504": {
+    "id": "150504",
+    "name": "Juventud: primavera eterna",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "Talento",
+    "type_text": "Talento",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Cuando Evanescia obtiene energía, a la vez obtiene la misma cantidad de ¡Bien hecho!; cuando Evanescia obtiene ¡Bien hecho!, a la vez obtiene la misma cantidad de energía. Cuando acumula cierta cantidad de energía, el maestro zorro lanza un ataque adicional que inflige una pequeña cantidad de Daño Físico a todos los enemigos y recupera la energía de Evanescia. Cuando Evanescia tiene ¡Bien hecho!, lanzar la habilidad básica, la habilidad definitiva o el ataque adicional del maestro zorro inflige una pequeña cantidad de Daño de Exultación Físico a los enemigos.",
+    "desc": "Evanescia obtiene una Exultación equivalente al #5[i]% de su Daño CRIT. Cuando Evanescia obtiene energía, obtiene a la vez la misma cantidad de ¡Bien hecho!; cuando Evanescia obtiene ¡Bien hecho!, obtiene a la vez la misma cantidad de energía. La cantidad de ¡Bien hecho! calculada cada vez de esta forma no puede superar 100 pts.\nCuando acumula #3[i] pts. de energía, consume #3[i] pts. del valor acumulado para que el maestro zorro lance un ataque adicional que inflige un Daño Físico equivalente al #1[i]% del ATQ de Evanescia a todos los enemigos y recupera #4[i] pts. de energía para Evanescia. Cada vez que recupera energía, puede obtener hasta #3[i] pts. del valor acumulado. Cuando Evanescia tiene ¡Bien hecho!:\nLanzar la habilidad básica inflige un #7[f1]% de Daño de Exultación Físico al enemigo atacado.\nLanzar la habilidad definitiva inflige un #6[i]% de Daño de Exultación Físico a todos los enemigos, y un #8[i]% de Daño de Exultación Físico a los enemigos que reciben daño aleatoriamente de la habilidad definitiva. Cuando la habilidad definitiva inflige Daño de Exultación, se cuenta un mínimo de ¡Bien hecho! equivalente a la energía máxima.\nEl ataque adicional del maestro zorro inflige un #2[i]% de Daño de Exultación Físico a todos los enemigos.",
+    "params": [
+      [
+        0.5,
+        0.125,
+        240,
+        10,
+        0.2,
+        0.12,
+        0.08,
+        0.14
+      ],
+      [
+        0.55,
+        0.1375,
+        240,
+        10,
+        0.2,
+        0.132,
+        0.088,
+        0.154
+      ],
+      [
+        0.6,
+        0.15,
+        240,
+        10,
+        0.2,
+        0.144,
+        0.096,
+        0.168
+      ],
+      [
+        0.65,
+        0.1625,
+        240,
+        10,
+        0.2,
+        0.156,
+        0.104,
+        0.182
+      ],
+      [
+        0.7,
+        0.175,
+        240,
+        10,
+        0.2,
+        0.168,
+        0.112,
+        0.196
+      ],
+      [
+        0.75,
+        0.1875,
+        240,
+        10,
+        0.2,
+        0.18,
+        0.12,
+        0.21
+      ],
+      [
+        0.8125,
+        0.203125,
+        240,
+        10,
+        0.2,
+        0.195,
+        0.13,
+        0.2275
+      ],
+      [
+        0.875,
+        0.21875,
+        240,
+        10,
+        0.2,
+        0.21,
+        0.14,
+        0.245
+      ],
+      [
+        0.9375,
+        0.234375,
+        240,
+        10,
+        0.2,
+        0.225,
+        0.15,
+        0.2625
+      ],
+      [
+        1,
+        0.25,
+        240,
+        10,
+        0.2,
+        0.24,
+        0.16,
+        0.28
+      ],
+      [
+        1.05,
+        0.2625,
+        240,
+        10,
+        0.2,
+        0.252,
+        0.168,
+        0.294
+      ],
+      [
+        1.1,
+        0.275,
+        240,
+        10,
+        0.2,
+        0.264,
+        0.176,
+        0.308
+      ],
+      [
+        1.15,
+        0.2875,
+        240,
+        10,
+        0.2,
+        0.276,
+        0.184,
+        0.322
+      ],
+      [
+        1.2,
+        0.3,
+        240,
+        10,
+        0.2,
+        0.288,
+        0.192,
+        0.336
+      ],
+      [
+        1.25,
+        0.3125,
+        240,
+        10,
+        0.2,
+        0.3,
+        0.2,
+        0.35
+      ]
+    ],
+    "icon": "icon/skill/1505_talent.png"
+  },
+  "150506": {
+    "id": "150506",
+    "name": "Ataque",
+    "max_level": 1,
+    "element": "Physical",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "params": [],
+    "icon": "icon/skill/1505_basic_atk.png"
+  },
+  "150507": {
+    "id": "150507",
+    "name": "Pétalos: recuerdos esparcidos",
+    "max_level": 1,
+    "element": "Physical",
+    "type": "Maze",
+    "type_text": "Técnica",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Ataca inmediatamente a todos los enemigos en un área determinada y entra en combate. Inflige una pequeña cantidad de Daño Físico a todos los enemigos y obtiene ¡Bien hecho!",
+    "desc": "Ataca inmediatamente a todos los enemigos en un área determinada y entra en combate. Inflige a todos los enemigos un #1[i]% del ATQ de Evanescia como Daño Físico y obtiene #2[i] pts. de ¡Bien hecho!",
+    "params": [
+      [
+        1,
+        20
+      ]
+    ],
+    "icon": "icon/skill/1505_technique.png"
+  },
+  "150510": {
+    "id": "150510",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1205_Ultra_on.png"
+  },
+  "150512": {
+    "id": "150512",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "Blast",
+    "effect_text": "Ráfaga",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1112_Ultra_on.png"
+  },
+  "150518": {
+    "id": "150518",
+    "name": "",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "",
+    "desc": "",
+    "params": [],
+    "icon": "icon/skill/1212_Ultra_on.png"
+  },
+  "150520": {
+    "id": "150520",
+    "name": "Carmesí: antes muerta que aburrida",
+    "max_level": 15,
+    "element": "Physical",
+    "type": "ElationDamage",
+    "type_text": "Habilidad de Exultación",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige una gran cantidad de Daño de Exultación Físico a todos los enemigos y obtiene ¡Bien hecho! de forma adicional.",
+    "desc": "Inflige un #2[i]% de Daño de Exultación Físico a todos los enemigos y obtiene adicionalmente #1[i] pts. de ¡Bien hecho!",
+    "params": [
+      [
+        5,
+        0.55
+      ],
+      [
+        5,
+        0.605
+      ],
+      [
+        5,
+        0.66
+      ],
+      [
+        5,
+        0.715
+      ],
+      [
+        5,
+        0.77
+      ],
+      [
+        5,
+        0.825
+      ],
+      [
+        5,
+        0.89375
+      ],
+      [
+        5,
+        0.9625
+      ],
+      [
+        5,
+        1.03125
+      ],
+      [
+        5,
+        1.1
+      ],
+      [
+        5,
+        1.155
+      ],
+      [
+        5,
+        1.21
+      ],
+      [
+        5,
+        1.265
+      ],
+      [
+        5,
+        1.32
+      ],
+      [
+        5,
+        1.375
+      ]
+    ],
+    "icon": "icon/skill/1505_Elation.png"
+  },
+  "150601": {
+    "id": "150601",
+    "name": "¡Come nudillos!",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una pequeña cantidad de Daño Imaginario a un enemigo.",
+    "desc": "Inflige un #1[i]% del ATQ de Silver Wolf Niv. 999 como Daño Imaginario a un enemigo.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1506_basic_atk.png"
+  },
+  "150602": {
+    "id": "150602",
+    "name": "Disparo explosivo",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Obtiene Chiste e inflige Daño Imaginario a todos los enemigos.",
+    "desc": "Obtiene #2[i] puntos de Chiste e inflige un #1[i]% del ATQ de Silver Wolf Niv. 999 como Daño Imaginario a todos los enemigos.",
+    "params": [
+      [
+        0.8,
+        5
+      ],
+      [
+        0.88,
+        5
+      ],
+      [
+        0.96,
+        5
+      ],
+      [
+        1.04,
+        5
+      ],
+      [
+        1.12,
+        5
+      ],
+      [
+        1.2,
+        5
+      ],
+      [
+        1.3,
+        5
+      ],
+      [
+        1.4,
+        5
+      ],
+      [
+        1.5,
+        5
+      ],
+      [
+        1.6,
+        5
+      ],
+      [
+        1.68,
+        5
+      ],
+      [
+        1.76,
+        5
+      ],
+      [
+        1.84,
+        5
+      ],
+      [
+        1.92,
+        5
+      ],
+      [
+        2,
+        5
+      ]
+    ],
+    "icon": "icon/skill/1506_skill.png"
+  },
+  "150603": {
+    "id": "150603",
+    "name": "¡Modo Dios activado!",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Habilidad definitiva",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Se transforma y adelanta su acción un 100%.\nDurante la transformación, despliega un campo. Mientras tenga ¡Bien hecho!, cada vez que los aliados consumen 1 pt. de habilidad básica, hay una gran probabilidad de activar una vez Caja de botín premium, la cual inflige una gran cantidad de Daño de Exultación Imaginario que se reparte equitativamente entre todos los enemigos, y activa uno de los siguientes efectos al azar:\nInflige Daño verdadero al objetivo con más PV en proporción al daño total.\nRecupera pts. de habilidad básica.\nObtiene Chiste.\nTras cada activación, la probabilidad se reduce proporcionalmente.",
+    "desc": "Entra en el estado de Jugadora imbatible y adelanta su acción un 100%.\nEn el estado de Jugadora imbatible, despliega un campo. Mientras Silver Wolf Niv. 999 tenga ¡Bien hecho!, cada vez que un aliado dentro del campo consume 1 pt. de habilidad básica, hay una probabilidad de activar una vez la Caja de botín premium de Silver Wolf Niv. 999, que inflige un #3[i]% de Daño de Exultación Imaginario que se reparte equitativamente entre todos los enemigos y activa uno de los siguientes efectos al azar:\nMegaespadón: inflige adicionalmente al enemigo con más PV un Daño verdadero equivalente al #5[i]% del daño total infligido esta vez.\nHuevobomba: recupera #7[i] pts. de habilidad básica.\nZampacocos: obtiene #6[i] puntos de Chiste.\nLa probabilidad fija inicial de activar este efecto es del 100%. Tras activarlo, la probabilidad fija de la siguiente activación se reduce al #4[i]% de la probabilidad actual. Si el objetivo es eliminado antes de la activación, se activa contra un nuevo enemigo que entre en combate.",
+    "params": [
+      [
+        60,
+        0,
+        0.45,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.495,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.54,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.585,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.63,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.675,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.73125,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.7875,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.84375,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.9,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.945,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        0.99,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.035,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.08,
+        0.2,
+        0.2,
+        3,
+        2
+      ],
+      [
+        60,
+        0,
+        1.125,
+        0.2,
+        0.2,
+        3,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1506_ultimate.png"
+  },
+  "150604": {
+    "id": "150604",
+    "name": "Aquí quien carrea soy yo",
+    "max_level": 15,
+    "element": "",
+    "type": "Talento",
+    "type_text": "Talento",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Tras alcanzar #1[i] pts. de MMR oculto, se puede activar la habilidad definitiva. Cuando obtiene Chiste, obtiene la misma cantidad de MMR oculto. Cuanto mayor es el MMR oculto, mayor es la Prob. CRIT. Cuando la Prob. CRIT alcanza el 100%, el Daño CRIT aumenta en su lugar.\nDurante su transformación, Silver Wolf Niv. 999 es inmune a los estados negativos de Control, y su ATQ básico y habilidad de Exultación se potencian. Tras lanzar el ATQ básico potenciado #5[i] veces, sale de la transformación.\nMientras tiene ¡Bien hecho!, inflige adicionalmente Daño de Exultación Imaginario al lanzar el ATQ básico o la habilidad básica, y el daño de habilidad del ATQ básico potenciado se convierte en Daño de Exultación.",
+    "desc": "Tras alcanzar #1[i] pts. de MMR oculto, se puede activar la habilidad definitiva. Puede haber un excedente de #2[i] pts. de MMR oculto tras alcanzar el máximo.\nAl obtenerse Chiste, Silver Wolf Niv. 999 obtiene la misma cantidad de MMR oculto. Cada pt. de MMR oculto aumenta la Prob. CRIT en un #4[f2]%. Una vez que la Prob. CRIT alcanza el 100%, cada pt. del MMR oculto restante pasa a aumentar el Daño CRIT en un #6[f2]%.\nEn el estado de Jugadora imbatible, Silver Wolf Niv. 999 es inmune a los estados negativos de Control, no puede lanzar la habilidad definitiva y posee un ATQ básico potenciado y una habilidad de Exultación potenciada. Sale del estado de Jugadora imbatible tras terminar de lanzar #5[i] veces el ATQ básico potenciado. Al salir del estado de Jugadora imbatible, el MMR oculto se restablece.\nMientras tiene ¡Bien hecho!, al lanzar el ATQ básico o la habilidad básica, inflige a los enemigos atacados un #3[i]% de Daño de Exultación Imaginario, y el daño de habilidad del ATQ básico potenciado se convierte en Daño de Exultación con el mismo multiplicador.",
+    "params": [
+      [
+        60,
+        240,
+        0.2,
+        0.0019999999,
+        3,
+        0.0039999997
+      ],
+      [
+        60,
+        240,
+        0.22,
+        0.0022,
+        3,
+        0.0044
+      ],
+      [
+        60,
+        240,
+        0.24,
+        0.0024,
+        3,
+        0.0048
+      ],
+      [
+        60,
+        240,
+        0.26,
+        0.0026000002,
+        3,
+        0.0051999995
+      ],
+      [
+        60,
+        240,
+        0.28,
+        0.0028000004,
+        3,
+        0.0056
+      ],
+      [
+        60,
+        240,
+        0.3,
+        0.0029999998,
+        3,
+        0.0059999996
+      ],
+      [
+        60,
+        240,
+        0.325,
+        0.0032500003,
+        3,
+        0.0065
+      ],
+      [
+        60,
+        240,
+        0.35,
+        0.0035,
+        3,
+        0.0069999993
+      ],
+      [
+        60,
+        240,
+        0.375,
+        0.0037500006,
+        3,
+        0.0075
+      ],
+      [
+        60,
+        240,
+        0.4,
+        0.0039999997,
+        3,
+        0.007999999
+      ],
+      [
+        60,
+        240,
+        0.42,
+        0.0042,
+        3,
+        0.0084
+      ],
+      [
+        60,
+        240,
+        0.44,
+        0.0044,
+        3,
+        0.0088
+      ],
+      [
+        60,
+        240,
+        0.46,
+        0.0046,
+        3,
+        0.009199999
+      ],
+      [
+        60,
+        240,
+        0.48,
+        0.0048,
+        3,
+        0.0095999995
+      ],
+      [
+        60,
+        240,
+        0.5,
+        0.005,
+        3,
+        0.01
+      ]
+    ],
+    "icon": "icon/skill/1506_talent.png"
+  },
+  "150606": {
+    "id": "150606",
+    "name": "Ataque",
+    "max_level": 1,
+    "element": "Imaginary",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "params": [],
+    "icon": "icon/skill/1506_basic_atk.png"
+  },
+  "150607": {
+    "id": "150607",
+    "name": "Esto sí es meta",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Técnica",
+    "effect": "Summon",
+    "effect_text": "Invocación",
+    "simple_desc": "Invoca a Zampacocos. Si se usa de nuevo, se disipa la invocación. Su uso no consume puntos de técnica.\nZampacocos busca y ataca automáticamente a los enemigos normales, y consume 1 punto de técnica para eliminarlos de inmediato sin entrar en combate.\nTras entrar en combate, al comienzo de cada oleada se activa la Caja de botín premium correspondiente a Zampacocos.",
+    "desc": "Invoca a Zampacocos. Si se usa de nuevo, se disipa la invocación. Usar la técnica no consume puntos de técnica. Cuando los puntos de técnica llegan a 0, la invocación se disipa y no se puede usar la técnica.\nZampacocos afecta con el estado de Aterrorizado a los enemigos normales en un área determinada. A su vez, busca y ataca automáticamente a los enemigos normales, y consume 1 punto de técnica para eliminarlos de inmediato sin entrar en combate.\nTras entrar en combate mientras Zampacocos está en la escena, al comenzar cada oleada se activa una vez la Caja de botín premium correspondiente a Zampacocos. El Daño de Exultación infligido esta vez cuenta como #1[i] pts. fijos de ¡Bien hecho!",
+    "params": [
+      [
+        99
+      ]
+    ],
+    "icon": "icon/skill/1506_technique.png"
+  },
+  "150608": {
+    "id": "150608",
+    "name": "Etapa de recompensa: Momento Loba Insigne",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "Bounce",
+    "effect_text": "Rebote",
+    "simple_desc": "Inflige Daño Imaginario que rebota muchas veces, durante las cuales Caja de botín premium se puede activar #5[i] veces. Si se inflige daño letal a todos los enemigos, se conserva el efecto restante y se sigue lanzando contra los nuevos enemigos que entren en combate. Por último, inflige Daño Imaginario que se reparte equitativamente entre todos los enemigos.\nCada vez que el MMR oculto alcanza cierta cantidad de puntos, aumenta adicionalmente el daño del ATQ básico potenciado.",
+    "desc": "Inflige en total un #1[i]% del ATQ de Silver Wolf Niv. 999 como Daño Imaginario, que se divide equitativamente en #3[i] rebotes contra enemigos al azar. Cada cierta cantidad de rebotes, estos se pausan y se activa Caja de botín premium una vez. Se puede activar hasta #5[i] veces en total.\nSi se inflige daño letal a todos los enemigos en el campo de batalla, esta habilidad finaliza. Cuando vuelve a haber enemigos a los que se puede atacar, obtiene un turno adicional y la habilidad se vuelve a lanzar en función de los rebotes y las activaciones de Caja de botín premium restantes. La primera vez que se activa este efecto en cada turno, todos los efectos positivos de esta unidad prolongan su duración un turno.\nUna vez infligido todo el daño antes mencionado, lanza un último golpe que inflige un #4[i]% del ATQ de Silver Wolf Niv. 999 como Daño Imaginario, el cual se reparte equitativamente entre todos los enemigos.\nEl ATQ básico potenciado no recupera pts. de habilidad básica. Por cada #6[i] pts. de MMR oculto, el daño infligido durante el ATQ básico potenciado aumenta en un #8[i]% del daño original. Se puede acumular hasta #7[i] veces.",
+    "params": [
+      [
+        1.2,
+        0,
+        100,
+        0.5,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.44,
+        0,
+        100,
+        0.6,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.68,
+        0,
+        100,
+        0.7,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        1.92,
+        0,
+        100,
+        0.8,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.16,
+        0,
+        100,
+        0.9,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.4,
+        0,
+        100,
+        1,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.64,
+        0,
+        100,
+        1.1,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        2.88,
+        0,
+        100,
+        1.2,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        3.12,
+        0,
+        100,
+        1.3,
+        3,
+        60,
+        2,
+        0.15
+      ],
+      [
+        3.36,
+        0,
+        100,
+        1.4,
+        3,
+        60,
+        2,
+        0.15
+      ]
+    ],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_00.png"
+  },
+  "150610": {
+    "id": "150610",
+    "name": "Megaespadón",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige una gran cantidad de Daño de Exultación Imaginario a todos los enemigos, que se reparte a partes iguales entre ellos. Inflige Daño verdadero al objetivo con más PV en función del daño total.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_01.png"
+  },
+  "150612": {
+    "id": "150612",
+    "name": "Huevobomba",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige una gran cantidad de Daño de Exultación Imaginario que se reparte equitativamente entre todos los enemigos y recupera pts. de habilidad básica.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_02.png"
+  },
+  "150618": {
+    "id": "150618",
+    "name": "Zampacocos",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige una gran cantidad de Daño de Exultación Imaginario que se reparte equitativamente entre todos los enemigos y obtiene Chiste.",
+    "desc": "",
+    "params": [],
+    "icon": "SpriteOutput/Battle/SpecialUltraSP/1506/UltraItem/Icon/UltraItem_1506_03.png"
+  },
+  "150620": {
+    "id": "150620",
+    "name": "Replay de jugada pro",
+    "max_level": 15,
+    "element": "",
+    "type": "ElationDamage",
+    "type_text": "Habilidad de Exultación",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Obtiene MMR oculto.",
+    "desc": "Obtiene #1[i] pts. de MMR oculto.",
+    "params": [
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ],
+      [
+        15
+      ]
+    ],
+    "icon": "icon/skill/1506_Elation.png"
+  },
+  "150621": {
+    "id": "150621",
+    "name": "Demostración de daño Honkai",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "ElationDamage",
+    "type_text": "Habilidad de Exultación",
+    "effect": "Bounce",
+    "effect_text": "Rebote",
+    "simple_desc": "Inflige una gran cantidad de Daño de Exultación Imaginario a un enemigo. Se dispara #2[i] veces. Restablece la probabilidad de activación de Caja de botín premium.",
+    "desc": "Inflige daño #2[i] veces. Cada vez, inflige un #1[i]% de Daño de Exultación Imaginario a un enemigo al azar. Luego, restablece la probabilidad fija de activar la Caja de botín premium a su valor inicial.",
+    "params": [
+      [
+        0.45,
+        6
+      ],
+      [
+        0.495,
+        6
+      ],
+      [
+        0.54,
+        6
+      ],
+      [
+        0.585,
+        6
+      ],
+      [
+        0.63,
+        6
+      ],
+      [
+        0.675,
+        6
+      ],
+      [
+        0.73125,
+        6
+      ],
+      [
+        0.7875,
+        6
+      ],
+      [
+        0.84375,
+        6
+      ],
+      [
+        0.9,
+        6
+      ],
+      [
+        0.945,
+        6
+      ],
+      [
+        0.99,
+        6
+      ],
+      [
+        1.035,
+        6
+      ],
+      [
+        1.08,
+        6
+      ],
+      [
+        1.125,
+        6
+      ]
+    ],
+    "icon": "icon/skill/1506_Elation02.png"
   },
   "800101": {
     "id": "800101",
@@ -36046,6 +37799,1374 @@
     "params": [],
     "icon": "icon/skill/8007_skill.png"
   },
+  "800901": {
+    "id": "800901",
+    "name": "Aquí está mi apoyo",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una pequeña cantidad de Daño de Rayo a un enemigo.",
+    "desc": "Inflige un #1[i]% del ATQ {F#de la}{M#del} Trazacaminos como Daño de Rayo a un enemigo.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/8009_basic_atk.png"
+  },
+  "800902": {
+    "id": "800902",
+    "name": "La tormenta suena agitada",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige una pequeña cantidad de Daño de Rayo a todos los enemigos y obtiene ¡Bien hecho!",
+    "desc": "Inflige un #1[i]% del ATQ {F#de la}{M#del} Trazacaminos como Daño de Rayo a todos los enemigos y obtiene #2[i] pts. de ¡Bien hecho!",
+    "params": [
+      [
+        0.3,
+        20
+      ],
+      [
+        0.33,
+        20
+      ],
+      [
+        0.36,
+        20
+      ],
+      [
+        0.39,
+        20
+      ],
+      [
+        0.42,
+        20
+      ],
+      [
+        0.45,
+        20
+      ],
+      [
+        0.4875,
+        20
+      ],
+      [
+        0.525,
+        20
+      ],
+      [
+        0.5625,
+        20
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.63,
+        20
+      ],
+      [
+        0.66,
+        20
+      ],
+      [
+        0.69,
+        20
+      ],
+      [
+        0.72,
+        20
+      ],
+      [
+        0.75,
+        20
+      ]
+    ],
+    "icon": "icon/skill/8009_skill.png"
+  },
+  "800903": {
+    "id": "800903",
+    "name": "Trazacaminos, ¡siempre contigo!",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Habilidad definitiva",
+    "effect": "Support",
+    "effect_text": "Apoyo",
+    "simple_desc": "Obtiene Chiste, aumenta el Daño CRIT de un aliado y disipa los estados negativos de Control de ese aliado. Si ese aliado tiene una habilidad de Exultación, obtiene ¡Bien hecho! adicionalmente y lanza inmediatamente su habilidad de Exultación. De lo contrario, su acción se adelanta.",
+    "desc": "Obtiene #6[i] puntos de Chiste, aumenta el Daño CRIT de un aliado en un #1[i]% durante #2[i] turnos y disipa los estados negativos de Control de ese aliado.\nSi ese aliado tiene una habilidad de Exultación, obtiene adicionalmente #4[i] pts. de ¡Bien hecho! y lanza inmediatamente una vez su habilidad de Exultación, que cuenta como #5[i] puntos fijos de Chiste. Si el enemigo es eliminado antes de lanzar la habilidad de Exultación, esta se lanza contra un nuevo enemigo que entre en combate.\nSi ese aliado no tiene una habilidad de Exultación, adelanta su acción un #3[i]%.",
+    "params": [
+      [
+        0.3,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.32,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.34,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.36,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.38,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.4,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.425,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.45,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.475,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.5,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.52,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.54,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.56,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.58,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.6,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ]
+    ],
+    "icon": "icon/skill/8009_ultimate.png"
+  },
+  "800904": {
+    "id": "800904",
+    "name": "Sonrisa matadora",
+    "max_level": 15,
+    "element": "",
+    "type": "Talento",
+    "type_text": "Talento",
+    "effect": "Support",
+    "effect_text": "Apoyo",
+    "simple_desc": "Después de atacar, recupera energía y obtiene Chiste.\nCuando {F#la}{M#el} Trazacaminos tiene ¡Bien hecho!, la habilidad básica inflige adicionalmente una pequeña cantidad de Daño de Exultación de Rayo a todos los enemigos.",
+    "desc": "Después de atacar, recupera #1[i] pts. de energía fijos y obtiene #2[i] puntos de Chiste.\nCuando {F#la}{M#el} Trazacaminos tiene ¡Bien hecho!, la habilidad básica inflige adicionalmente un #3[i]% de Daño de Exultación de Rayo a todos los enemigos. Este daño se calcula con el valor de ¡Bien hecho! más alto de los aliados.",
+    "params": [
+      [
+        10,
+        3,
+        0.15
+      ],
+      [
+        10,
+        3,
+        0.165
+      ],
+      [
+        10,
+        3,
+        0.18
+      ],
+      [
+        10,
+        3,
+        0.195
+      ],
+      [
+        10,
+        3,
+        0.21
+      ],
+      [
+        10,
+        3,
+        0.225
+      ],
+      [
+        10,
+        3,
+        0.24375
+      ],
+      [
+        10,
+        3,
+        0.2625
+      ],
+      [
+        10,
+        3,
+        0.28125
+      ],
+      [
+        10,
+        3,
+        0.3
+      ],
+      [
+        10,
+        3,
+        0.315
+      ],
+      [
+        10,
+        3,
+        0.33
+      ],
+      [
+        10,
+        3,
+        0.345
+      ],
+      [
+        10,
+        3,
+        0.36
+      ],
+      [
+        10,
+        3,
+        0.375
+      ]
+    ],
+    "icon": "icon/skill/8009_talent.png"
+  },
+  "800906": {
+    "id": "800906",
+    "name": "Ataque",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "params": [],
+    "icon": "icon/skill/8009_Maze02.png"
+  },
+  "800907": {
+    "id": "800907",
+    "name": "¡Esto está que arde!",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Técnica",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Al entrar en combate tras usar la técnica, aumenta la Exultación de todos los aliados.",
+    "desc": "Tras usar la técnica, se obtiene al azar uno de los dos siguientes efectos:\nBaja probabilidad de obtener A mandíbula batiente: la Exultación aumenta en un #1[i]%.\nGran probabilidad de obtener Para partirse de risa: la Exultación aumenta en un #3[i]%.\nAl comenzar la siguiente batalla, aumenta la Exultación de todos los aliados en la cantidad correspondiente durante #5[i] turnos.",
+    "params": [
+      [
+        0.3,
+        0.1,
+        0.2,
+        0.1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/8009_technique.png"
+  },
+  "800920": {
+    "id": "800920",
+    "name": "Exultación, ¿estás sorda o qué?",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "ElationDamage",
+    "type_text": "Habilidad de Exultación",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige daño varias veces. Cada vez inflige una pequeña cantidad de Daño de Exultación de Rayo a un enemigo al azar y, al final, inflige un Daño de Exultación de Rayo que se reparte equitativamente entre todos los enemigos.",
+    "desc": "Inflige daño #1[i] veces. Cada vez inflige un #2[i]% de Daño de Exultación de Rayo a un enemigo al azar. Al final, inflige un #3[i]% de Daño de Exultación de Rayo que se reparte equitativamente entre todos los enemigos.",
+    "params": [
+      [
+        8,
+        0.1,
+        0.3
+      ],
+      [
+        8,
+        0.11,
+        0.33
+      ],
+      [
+        8,
+        0.12,
+        0.36
+      ],
+      [
+        8,
+        0.13,
+        0.39
+      ],
+      [
+        8,
+        0.14,
+        0.42
+      ],
+      [
+        8,
+        0.15,
+        0.45
+      ],
+      [
+        8,
+        0.1625,
+        0.4875
+      ],
+      [
+        8,
+        0.175,
+        0.525
+      ],
+      [
+        8,
+        0.1875,
+        0.5625
+      ],
+      [
+        8,
+        0.2,
+        0.6
+      ],
+      [
+        8,
+        0.21,
+        0.63
+      ],
+      [
+        8,
+        0.22,
+        0.66
+      ],
+      [
+        8,
+        0.23,
+        0.69
+      ],
+      [
+        8,
+        0.24,
+        0.72
+      ],
+      [
+        8,
+        0.25,
+        0.75
+      ]
+    ],
+    "icon": "icon/skill/8009_Elation.png"
+  },
+  "801001": {
+    "id": "801001",
+    "name": "Aquí está mi apoyo",
+    "max_level": 10,
+    "element": "Thunder",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una pequeña cantidad de Daño de Rayo a un enemigo.",
+    "desc": "Inflige un #1[i]% del ATQ {F#de la}{M#del} Trazacaminos como Daño de Rayo a un enemigo.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/8009_basic_atk.png"
+  },
+  "801002": {
+    "id": "801002",
+    "name": "La tormenta suena agitada",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige una pequeña cantidad de Daño de Rayo a todos los enemigos y obtiene ¡Bien hecho!",
+    "desc": "Inflige un #1[i]% del ATQ {F#de la}{M#del} Trazacaminos como Daño de Rayo a todos los enemigos y obtiene #2[i] pts. de ¡Bien hecho!",
+    "params": [
+      [
+        0.3,
+        20
+      ],
+      [
+        0.33,
+        20
+      ],
+      [
+        0.36,
+        20
+      ],
+      [
+        0.39,
+        20
+      ],
+      [
+        0.42,
+        20
+      ],
+      [
+        0.45,
+        20
+      ],
+      [
+        0.4875,
+        20
+      ],
+      [
+        0.525,
+        20
+      ],
+      [
+        0.5625,
+        20
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.63,
+        20
+      ],
+      [
+        0.66,
+        20
+      ],
+      [
+        0.69,
+        20
+      ],
+      [
+        0.72,
+        20
+      ],
+      [
+        0.75,
+        20
+      ]
+    ],
+    "icon": "icon/skill/8009_skill.png"
+  },
+  "801003": {
+    "id": "801003",
+    "name": "Trazacaminos, ¡siempre contigo!",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Habilidad definitiva",
+    "effect": "Support",
+    "effect_text": "Apoyo",
+    "simple_desc": "Obtiene Chiste, aumenta el Daño CRIT de un aliado y disipa los estados negativos de Control de ese aliado. Si ese aliado tiene una habilidad de Exultación, obtiene ¡Bien hecho! adicionalmente y lanza inmediatamente su habilidad de Exultación. De lo contrario, su acción se adelanta.",
+    "desc": "Obtiene #6[i] puntos de Chiste, aumenta el Daño CRIT de un aliado en un #1[i]% durante #2[i] turnos y disipa los estados negativos de Control de ese aliado.\nSi ese aliado tiene una habilidad de Exultación, obtiene adicionalmente #4[i] pts. de ¡Bien hecho! y lanza inmediatamente una vez su habilidad de Exultación, que cuenta como #5[i] puntos fijos de Chiste. Si el enemigo es eliminado antes de lanzar la habilidad de Exultación, esta se lanza contra un nuevo enemigo que entre en combate.\nSi ese aliado no tiene una habilidad de Exultación, adelanta su acción un #3[i]%.",
+    "params": [
+      [
+        0.3,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.32,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.34,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.36,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.38,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.4,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.425,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.45,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.475,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.5,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.52,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.54,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.56,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.58,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ],
+      [
+        0.6,
+        3,
+        0.5,
+        10,
+        20,
+        5
+      ]
+    ],
+    "icon": "icon/skill/8009_ultimate.png"
+  },
+  "801004": {
+    "id": "801004",
+    "name": "Sonrisa matadora",
+    "max_level": 15,
+    "element": "",
+    "type": "Talento",
+    "type_text": "Talento",
+    "effect": "Support",
+    "effect_text": "Apoyo",
+    "simple_desc": "Después de atacar, recupera energía y obtiene Chiste.\nCuando {F#la}{M#el} Trazacaminos tiene ¡Bien hecho!, la habilidad básica inflige adicionalmente una pequeña cantidad de Daño de Exultación de Rayo a todos los enemigos.",
+    "desc": "Después de atacar, recupera #1[i] pts. de energía fijos y obtiene #2[i] puntos de Chiste.\nCuando {F#la}{M#el} Trazacaminos tiene ¡Bien hecho!, la habilidad básica inflige adicionalmente un #3[i]% de Daño de Exultación de Rayo a todos los enemigos. Este daño se calcula con el valor de ¡Bien hecho! más alto de los aliados.",
+    "params": [
+      [
+        10,
+        3,
+        0.15
+      ],
+      [
+        10,
+        3,
+        0.165
+      ],
+      [
+        10,
+        3,
+        0.18
+      ],
+      [
+        10,
+        3,
+        0.195
+      ],
+      [
+        10,
+        3,
+        0.21
+      ],
+      [
+        10,
+        3,
+        0.225
+      ],
+      [
+        10,
+        3,
+        0.24375
+      ],
+      [
+        10,
+        3,
+        0.2625
+      ],
+      [
+        10,
+        3,
+        0.28125
+      ],
+      [
+        10,
+        3,
+        0.3
+      ],
+      [
+        10,
+        3,
+        0.315
+      ],
+      [
+        10,
+        3,
+        0.33
+      ],
+      [
+        10,
+        3,
+        0.345
+      ],
+      [
+        10,
+        3,
+        0.36
+      ],
+      [
+        10,
+        3,
+        0.375
+      ]
+    ],
+    "icon": "icon/skill/8009_talent.png"
+  },
+  "801006": {
+    "id": "801006",
+    "name": "Ataque",
+    "max_level": 1,
+    "element": "Thunder",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "params": [],
+    "icon": "icon/skill/8009_Maze02.png"
+  },
+  "801007": {
+    "id": "801007",
+    "name": "¡Esto está que arde!",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Técnica",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Al entrar en combate tras usar la técnica, aumenta la Exultación de todos los aliados.",
+    "desc": "Tras usar la técnica, se obtiene al azar uno de los dos siguientes efectos:\nBaja probabilidad de obtener A mandíbula batiente: la Exultación aumenta en un #1[i]%.\nGran probabilidad de obtener Para partirse de risa: la Exultación aumenta en un #3[i]%.\nAl comenzar la siguiente batalla, aumenta la Exultación de todos los aliados en la cantidad correspondiente durante #5[i] turnos.",
+    "params": [
+      [
+        0.3,
+        0.1,
+        0.2,
+        0.1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/8009_technique.png"
+  },
+  "801020": {
+    "id": "801020",
+    "name": "Exultación, ¿estás sorda o qué?",
+    "max_level": 15,
+    "element": "Thunder",
+    "type": "ElationDamage",
+    "type_text": "Habilidad de Exultación",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige daño varias veces. Cada vez inflige una pequeña cantidad de Daño de Exultación de Rayo a un enemigo al azar y, al final, inflige un Daño de Exultación de Rayo que se reparte equitativamente entre todos los enemigos.",
+    "desc": "Inflige daño #1[i] veces. Cada vez inflige un #2[i]% de Daño de Exultación de Rayo a un enemigo al azar. Al final, inflige un #3[i]% de Daño de Exultación de Rayo que se reparte equitativamente entre todos los enemigos.",
+    "params": [
+      [
+        8,
+        0.1,
+        0.3
+      ],
+      [
+        8,
+        0.11,
+        0.33
+      ],
+      [
+        8,
+        0.12,
+        0.36
+      ],
+      [
+        8,
+        0.13,
+        0.39
+      ],
+      [
+        8,
+        0.14,
+        0.42
+      ],
+      [
+        8,
+        0.15,
+        0.45
+      ],
+      [
+        8,
+        0.1625,
+        0.4875
+      ],
+      [
+        8,
+        0.175,
+        0.525
+      ],
+      [
+        8,
+        0.1875,
+        0.5625
+      ],
+      [
+        8,
+        0.2,
+        0.6
+      ],
+      [
+        8,
+        0.21,
+        0.63
+      ],
+      [
+        8,
+        0.22,
+        0.66
+      ],
+      [
+        8,
+        0.23,
+        0.69
+      ],
+      [
+        8,
+        0.24,
+        0.72
+      ],
+      [
+        8,
+        0.25,
+        0.75
+      ]
+    ],
+    "icon": "icon/skill/8009_Elation.png"
+  },
+  "1100401": {
+    "id": "1100401",
+    "name": "Supresión de la gravedad",
+    "max_level": 10,
+    "element": "Imaginary",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una pequeña cantidad de Daño Imaginario a un enemigo.",
+    "desc": "Inflige un #1[i]% del ATQ de Welt como Daño Imaginario a un enemigo.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1004_basic_atk.png"
+  },
+  "1100402": {
+    "id": "1100402",
+    "name": "Filo del vacío",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "Bounce",
+    "effect_text": "Rebote",
+    "simple_desc": "Inflige una pequeña cantidad de Daño Imaginario a un enemigo. Se dispara 5 veces y tiene una probabilidad de causar Ralentización al objetivo.",
+    "desc": "Inflige un #1[i]% del ATQ de Welt como Daño Imaginario a un enemigo e inflige daño 4 veces más. Cada golpe inflige un #1[i]% del ATQ de Welt como Daño Imaginario a un enemigo al azar. Al acertar a un enemigo, hay una probabilidad base del #2[i]% de reducir la VEL del objetivo atacado en un #3[i]% durante #4[i] turnos.",
+    "params": [
+      [
+        0.36,
+        0.65,
+        0.1,
+        2
+      ],
+      [
+        0.396,
+        0.66,
+        0.1,
+        2
+      ],
+      [
+        0.432,
+        0.67,
+        0.1,
+        2
+      ],
+      [
+        0.468,
+        0.68,
+        0.1,
+        2
+      ],
+      [
+        0.504,
+        0.69,
+        0.1,
+        2
+      ],
+      [
+        0.54,
+        0.7,
+        0.1,
+        2
+      ],
+      [
+        0.585,
+        0.7125,
+        0.1,
+        2
+      ],
+      [
+        0.63,
+        0.725,
+        0.1,
+        2
+      ],
+      [
+        0.675,
+        0.7375,
+        0.1,
+        2
+      ],
+      [
+        0.72,
+        0.75,
+        0.1,
+        2
+      ],
+      [
+        0.756,
+        0.76,
+        0.1,
+        2
+      ],
+      [
+        0.792,
+        0.77,
+        0.1,
+        2
+      ],
+      [
+        0.828,
+        0.78,
+        0.1,
+        2
+      ],
+      [
+        0.864,
+        0.79,
+        0.1,
+        2
+      ],
+      [
+        0.9,
+        0.8,
+        0.1,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1004_skill.png"
+  },
+  "1100403": {
+    "id": "1100403",
+    "name": "Agujero negro artificial",
+    "max_level": 15,
+    "element": "Imaginary",
+    "type": "Ultra",
+    "type_text": "Habilidad definitiva",
+    "effect": "AoEAttack",
+    "effect_text": "ATQ AdE",
+    "simple_desc": "Inflige Daño Imaginario a todos los enemigos y tiene una gran probabilidad de aplicar el efecto Prisión. Afecta a todos los enemigos con el estado de Ingravidez, lo que retrasa su acción al ser atacados.",
+    "desc": "Inflige un #1[i]% del ATQ de Welt como Daño Imaginario a todos los enemigos y tiene una probabilidad base del #3[i]% de afectar con Prisión a los enemigos atacados durante 1 turno.\nLos enemigos aprisionados retrasan su acción un #2[f1]% y su VEL se reduce en un #4[i]%. Tras lanzar la habilidad definitiva, afecta con Ingravidez a todos los enemigos. Cuando un enemigo con Ingravidez es atacado, su acción se retrasa un #5[f1]%. Este efecto se puede activar hasta #6[i] veces por turno para cada objetivo. El estado de Ingravidez dura #7[i] turnos.",
+    "params": [
+      [
+        0.9,
+        0.06,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        0.96,
+        0.066,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.02,
+        0.072,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.08,
+        0.078,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.14,
+        0.084,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.2,
+        0.09,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.275,
+        0.0975,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.35,
+        0.105,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.425,
+        0.1125,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.5,
+        0.12,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.56,
+        0.126,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.62,
+        0.132,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.68,
+        0.138,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.74,
+        0.144,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ],
+      [
+        1.8,
+        0.15,
+        1,
+        0.1,
+        0.04,
+        8,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1004_ultimate.png"
+  },
+  "1100404": {
+    "id": "1100404",
+    "name": "Distorsión temporal",
+    "max_level": 15,
+    "element": "",
+    "type": "Talento",
+    "type_text": "Talento",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Se reduce la DEF y la VEL de los enemigos en estado de Ingravidez. Al golpear a un enemigo afectado por Ralentización, inflige adicionalmente una pequeña cantidad de Daño Imaginario adicional.",
+    "desc": "La DEF y la VEL de los enemigos en el estado de Ingravidez se reducen en un #2[i]% y un #3[i]% respectivamente. Al golpear a un objetivo ya afectado por Ralentización, inflige un #1[i]% del ATQ de Welt como Daño Imaginario adicional.",
+    "params": [
+      [
+        0.5,
+        0.4,
+        0.05
+      ],
+      [
+        0.55,
+        0.4,
+        0.05
+      ],
+      [
+        0.6,
+        0.4,
+        0.05
+      ],
+      [
+        0.65,
+        0.4,
+        0.05
+      ],
+      [
+        0.7,
+        0.4,
+        0.05
+      ],
+      [
+        0.75,
+        0.4,
+        0.05
+      ],
+      [
+        0.8125,
+        0.4,
+        0.05
+      ],
+      [
+        0.875,
+        0.4,
+        0.05
+      ],
+      [
+        0.9375,
+        0.4,
+        0.05
+      ],
+      [
+        1,
+        0.4,
+        0.05
+      ],
+      [
+        1.05,
+        0.4,
+        0.05
+      ],
+      [
+        1.1,
+        0.4,
+        0.05
+      ],
+      [
+        1.15,
+        0.4,
+        0.05
+      ],
+      [
+        1.2,
+        0.4,
+        0.05
+      ],
+      [
+        1.25,
+        0.4,
+        0.05
+      ]
+    ],
+    "icon": "icon/skill/1004_talent.png"
+  },
+  "1100406": {
+    "id": "1100406",
+    "name": "Ataque",
+    "max_level": 1,
+    "element": "Imaginary",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "params": [],
+    "icon": "icon/skill/1004_basic_atk.png"
+  },
+  "1100407": {
+    "id": "1100407",
+    "name": "Prisión gravitacional",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Técnica",
+    "effect": "Impair",
+    "effect_text": "Alteración",
+    "simple_desc": "Crea una zona especial. La VEL de movimiento de los enemigos que estén en la zona se reduce. Al entrar en combate contra los enemigos en la zona, tiene una gran probabilidad de afectarlos con Prisión.",
+    "desc": "Tras usar la técnica, crea una zona especial que dura #4[i] s. La VEL de movimiento de los enemigos que estén en la zona especial se reduce en un #5[i]%. Tras entrar en combate con enemigos en la zona especial, tiene una probabilidad base del #1[i]% de afectarlos con Prisión durante 1 turno.\nLas acciones de los enemigos aprisionados se retrasan un #2[i]% y su VEL se reduce en un #3[i]%. Solo puede haber una zona especial creada por los aliados a la vez.",
+    "params": [
+      [
+        1,
+        0.2,
+        0.1,
+        15,
+        0.5
+      ]
+    ],
+    "icon": "icon/skill/1004_technique.png"
+  },
   "1100501": {
     "id": "1100501",
     "name": "Tumulto a medianoche",
@@ -36921,6 +40042,323 @@
       ]
     ],
     "icon": "icon/skill/1006_technique.png"
+  },
+  "1110201": {
+    "id": "1110201",
+    "name": "Trancazo",
+    "max_level": 10,
+    "element": "Quantum",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una pequeña cantidad de Daño Cuántico a un enemigo.",
+    "desc": "Inflige un #1[i]% del ATQ de Seele como Daño Cuántico a un enemigo.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1102_basic_atk.png"
+  },
+  "1110202": {
+    "id": "1110202",
+    "name": "Hoja envainada",
+    "max_level": 15,
+    "element": "Quantum",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una gran cantidad de Daño Cuántico a un enemigo y aumenta su VEL. Después de que un aliado ataque, si el porcentaje de PV actual del objetivo atacado es igual o inferior al #4[i]%, Seele le lanza automáticamente una vez la habilidad básica.",
+    "desc": "Seele aumenta su VEL en un #2[i]% durante #3[i] turnos e inflige un #1[i]% de su ATQ como Daño Cuántico a un enemigo.\nDespués de que un aliado ataque, si el porcentaje de PV actual del objetivo atacado es igual o inferior al #4[i]%, Seele le lanza automáticamente una vez la habilidad básica. Este uso de la habilidad básica no consume pts. de habilidad básica ni recupera energía. Este efecto se puede activar hasta una vez por turno, y el contador de activaciones se restablece al comenzar el turno de Seele. Si no hay ningún objetivo válido al que atacar, ataca al enemigo con los PV más bajos.",
+    "params": [
+      [
+        1.8,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        1.98,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.16,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.34,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.52,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.7,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        2.925,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.15,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.375,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.6,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.78,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        3.96,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.14,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.32,
+        0.25,
+        3,
+        0.5
+      ],
+      [
+        4.5,
+        0.25,
+        3,
+        0.5
+      ]
+    ],
+    "icon": "icon/skill/1102_skill.png"
+  },
+  "1110203": {
+    "id": "1110203",
+    "name": "Mariposa desbocada",
+    "max_level": 15,
+    "element": "Quantum",
+    "type": "Ultra",
+    "type_text": "Habilidad definitiva",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Entra en un estado potenciado e inflige una gran cantidad de Daño Cuántico a un enemigo.",
+    "desc": "Seele entra en un estado potenciado e inflige un #1[i]% de su ATQ como Daño Cuántico a un enemigo.",
+    "params": [
+      [
+        3.6
+      ],
+      [
+        3.96
+      ],
+      [
+        4.32
+      ],
+      [
+        4.68
+      ],
+      [
+        5.04
+      ],
+      [
+        5.4
+      ],
+      [
+        5.85
+      ],
+      [
+        6.3
+      ],
+      [
+        6.75
+      ],
+      [
+        7.2
+      ],
+      [
+        7.56
+      ],
+      [
+        7.92
+      ],
+      [
+        8.28
+      ],
+      [
+        8.64
+      ],
+      [
+        9
+      ]
+    ],
+    "icon": "icon/skill/1102_ultimate.png"
+  },
+  "1110204": {
+    "id": "1110204",
+    "name": "Reaparición",
+    "max_level": 15,
+    "element": "",
+    "type": "Talento",
+    "type_text": "Talento",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Al eliminar a un enemigo con el ATQ básico, la habilidad básica o la habilidad definitiva, obtiene un turno adicional y entra en un estado potenciado en el que aumenta el daño que inflige.",
+    "desc": "Al eliminar a un objetivo enemigo usando su ATQ básico, habilidad básica o habilidad definitiva, obtiene inmediatamente un turno adicional y entra en un estado potenciado. Este estado hace que el daño que inflige Seele aumente en un #1[i]% durante #2[i] turnos.\nLos enemigos eliminados durante el turno adicional obtenido con su talento Reaparición no activarán el talento otra vez.",
+    "params": [
+      [
+        0.4,
+        3
+      ],
+      [
+        0.44,
+        3
+      ],
+      [
+        0.48,
+        3
+      ],
+      [
+        0.52,
+        3
+      ],
+      [
+        0.56,
+        3
+      ],
+      [
+        0.6,
+        3
+      ],
+      [
+        0.65,
+        3
+      ],
+      [
+        0.7,
+        3
+      ],
+      [
+        0.75,
+        3
+      ],
+      [
+        0.8,
+        3
+      ],
+      [
+        0.84,
+        3
+      ],
+      [
+        0.88,
+        3
+      ],
+      [
+        0.92,
+        3
+      ],
+      [
+        0.96,
+        3
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "icon": "icon/skill/1102_talent.png"
+  },
+  "1110206": {
+    "id": "1110206",
+    "name": "Ataque",
+    "max_level": 1,
+    "element": "Quantum",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "params": [],
+    "icon": "icon/skill/1102_basic_atk.png"
+  },
+  "1110207": {
+    "id": "1110207",
+    "name": "Ilusión fantasmal",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Técnica",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Entra en el estado de Invisibilidad. Tras atacar a un enemigo y entrar en combate, entra de inmediato en el estado potenciado e inflige a un objetivo al azar una gran cantidad de Daño Cuántico con Golpe CRIT garantizado.",
+    "desc": "Tras usar la técnica, entra en el estado de Invisibilidad durante #1[i] s. En el estado de Invisibilidad, los enemigos no pueden detectarla. Al entrar en combate tras atacar a un enemigo, Seele entra en el estado potenciado inmediatamente e inflige una vez a un enemigo al azar un Daño Cuántico equivalente al multiplicador de daño de la habilidad básica de Seele. Este daño resultará en un Golpe CRIT de forma garantizada.",
+    "params": [
+      [
+        20
+      ]
+    ],
+    "icon": "icon/skill/1102_technique.png"
   },
   "1120501": {
     "id": "1120501",
@@ -37977,6 +41415,446 @@
     ],
     "icon": "icon/skill/1212_skill.png"
   },
+  "1121701": {
+    "id": "1121701",
+    "name": "Estandarte: Llamatormentas",
+    "max_level": 10,
+    "element": "Wind",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una pequeña cantidad de Daño de Viento a un enemigo.",
+    "desc": "Inflige un #1[i]% de los PV máx. de Huohuo como Daño de Viento a un enemigo.",
+    "params": [
+      [
+        0.25
+      ],
+      [
+        0.3
+      ],
+      [
+        0.35
+      ],
+      [
+        0.4
+      ],
+      [
+        0.45
+      ],
+      [
+        0.5
+      ],
+      [
+        0.55
+      ],
+      [
+        0.6
+      ],
+      [
+        0.65
+      ],
+      [
+        0.7
+      ]
+    ],
+    "icon": "icon/skill/1217_basic_atk.png"
+  },
+  "1121702": {
+    "id": "1121702",
+    "name": "Talismán: Protección",
+    "max_level": 15,
+    "element": "",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "Restore",
+    "effect_text": "Regeneración",
+    "simple_desc": "Elimina 1 estado negativo de un aliado y regenera los PV de un aliado y los aliados adyacentes.",
+    "desc": "Elimina #5[i] estado negativo de un aliado y regenera inmediatamente una cantidad de PV equivalente al #1[f1]% de los PV máx. de Huohuo + #2[i] para ese aliado. Al mismo tiempo, regenera a los aliados adyacentes una cantidad de PV equivalente al #3[f1]% de los PV máx. de Huohuo + #4[i].",
+    "params": [
+      [
+        0.16,
+        160,
+        0.128,
+        128,
+        1
+      ],
+      [
+        0.17,
+        256,
+        0.13599999,
+        204.8,
+        1
+      ],
+      [
+        0.18,
+        328,
+        0.144,
+        262.4,
+        1
+      ],
+      [
+        0.19,
+        400,
+        0.152,
+        320,
+        1
+      ],
+      [
+        0.2,
+        448,
+        0.16,
+        358.4,
+        1
+      ],
+      [
+        0.208,
+        496,
+        0.1664,
+        396.8,
+        1
+      ],
+      [
+        0.216,
+        532,
+        0.1728,
+        425.6,
+        1
+      ],
+      [
+        0.224,
+        568,
+        0.1792,
+        454.4,
+        1
+      ],
+      [
+        0.232,
+        604,
+        0.1856,
+        483.2,
+        1
+      ],
+      [
+        0.24,
+        640,
+        0.192,
+        512,
+        1
+      ],
+      [
+        0.248,
+        676,
+        0.1984,
+        540.8,
+        1
+      ],
+      [
+        0.256,
+        712,
+        0.2048,
+        569.6,
+        1
+      ],
+      [
+        0.264,
+        748,
+        0.2112,
+        598.4,
+        1
+      ],
+      [
+        0.272,
+        784,
+        0.2176,
+        627.2,
+        1
+      ],
+      [
+        0.28,
+        820,
+        0.224,
+        656,
+        1
+      ]
+    ],
+    "icon": "icon/skill/1217_skill.png"
+  },
+  "1121703": {
+    "id": "1121703",
+    "name": "Cola: Dominación espiritual",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Habilidad definitiva",
+    "effect": "Support",
+    "effect_text": "Apoyo",
+    "simple_desc": "Recupera energía para todos los demás aliados y aumenta su ATQ.",
+    "desc": "Recupera para todos los demás aliados (excepto Huohuo) una cantidad de energía equivalente al #1[f1]% de su respectiva energía máx. y aumenta su ATQ en un #2[f1]% durante #3[i] turnos.",
+    "params": [
+      [
+        0.15,
+        0.24,
+        2
+      ],
+      [
+        0.155,
+        0.256,
+        2
+      ],
+      [
+        0.16,
+        0.272,
+        2
+      ],
+      [
+        0.165,
+        0.288,
+        2
+      ],
+      [
+        0.17,
+        0.304,
+        2
+      ],
+      [
+        0.175,
+        0.32,
+        2
+      ],
+      [
+        0.18125,
+        0.34,
+        2
+      ],
+      [
+        0.1875,
+        0.36,
+        2
+      ],
+      [
+        0.19375,
+        0.38,
+        2
+      ],
+      [
+        0.2,
+        0.4,
+        2
+      ],
+      [
+        0.205,
+        0.416,
+        2
+      ],
+      [
+        0.21,
+        0.432,
+        2
+      ],
+      [
+        0.215,
+        0.448,
+        2
+      ],
+      [
+        0.22,
+        0.464,
+        2
+      ],
+      [
+        0.225,
+        0.48,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1217_ultimate.png"
+  },
+  "1121704": {
+    "id": "1121704",
+    "name": "Posesión: Conexión metafísica",
+    "max_level": 15,
+    "element": "",
+    "type": "Talento",
+    "type_text": "Talento",
+    "effect": "Restore",
+    "effect_text": "Regeneración",
+    "simple_desc": "Tras lanzar su habilidad básica o su habilidad definitiva, Huohuo obtiene Vida sacrificada. Mientras Huohuo tenga Vida sacrificada, cuando un aliado inicia su turno o lanza la habilidad definitiva, se regeneran los PV de ese aliado y del aliado con el menor porcentaje de PV. A continuación, todos los aliados que tengan pocos PV regeneran PV una vez. Cuando Vida sacrificada se activa para regenerar los PV de un aliado, se disipa 1 estado negativo de ese objetivo.",
+    "desc": "Tras lanzar su habilidad básica o su habilidad definitiva, Huohuo obtiene Vida sacrificada durante #1[i] turnos y, al comenzar cada turno, la duración se reduce en 1 turno. Mientras Huohuo tenga Vida sacrificada, cuando un aliado inicia su turno o lanza la habilidad definitiva, ese aliado y el aliado con el menor porcentaje de PV regeneran una cantidad de PV equivalente al #3[f1]% de los PV máx. de Huohuo + #5[i]. A continuación, todos los aliados que tengan un porcentaje de PV del #6[i]% o menos regeneran una cantidad de PV equivalente al #3[f1]% de los PV máx. de Huohuo + #5[i].\nCuando Vida sacrificada se activa para regenerar los PV de un aliado, se disipa #2[i] estado negativo de ese objetivo. Este efecto se puede activar #7[i] veces y el contador de activaciones se reinicia tras volver a obtener Vida sacrificada.",
+    "params": [
+      [
+        3,
+        1,
+        0.03,
+        0,
+        30,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.031875,
+        0,
+        48,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.03375,
+        0,
+        61.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.035625,
+        0,
+        75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0375,
+        0,
+        84,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.039,
+        0,
+        93,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0405,
+        0,
+        99.75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.042,
+        0,
+        106.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0435,
+        0,
+        113.25,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.044999998,
+        0,
+        120,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0465,
+        0,
+        126.75,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.048,
+        0,
+        133.5,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.0495,
+        0,
+        140.25,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.051,
+        0,
+        147,
+        0.5,
+        6
+      ],
+      [
+        3,
+        1,
+        0.052500002,
+        0,
+        153.75,
+        0.5,
+        6
+      ]
+    ],
+    "icon": "icon/skill/1217_talent.png"
+  },
+  "1121706": {
+    "id": "1121706",
+    "name": "Ataque",
+    "max_level": 1,
+    "element": "Wind",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "params": [],
+    "icon": "icon/skill/1217_basic_atk.png"
+  },
+  "1121707": {
+    "id": "1121707",
+    "name": "Demonio: Destitución del mal",
+    "max_level": 1,
+    "element": "",
+    "type": "Maze",
+    "type_text": "Técnica",
+    "effect": "Impair",
+    "effect_text": "Alteración",
+    "simple_desc": "Afecta a los enemigos cercanos con Terror. Al entrar en combate con enemigos afectados por Terror, hay una gran probabilidad de aplicar una reducción de ATQ a los objetivos.",
+    "desc": "Huohuo asusta a los enemigos cercanos y los afecta con Terror. Los enemigos aterrorizados huirán de Huohuo durante #4[i] s. Al entrar en combate con enemigos afectados por Terror, hay un #1[i]% de probabilidad base de reducir el ATQ de cada enemigo en un #2[i]% durante #3[i] turnos.",
+    "params": [
+      [
+        1,
+        0.25,
+        2,
+        10
+      ]
+    ],
+    "icon": "icon/skill/1217_technique.png"
+  },
   "1130601": {
     "id": "1130601",
     "name": "Espectáculo en solitario",
@@ -38837,6 +42715,620 @@
       ]
     ],
     "icon": "icon/skill/1307_technique.png"
+  },
+  "1131001": {
+    "id": "1131001",
+    "name": "Orden: propulsión fulgurante",
+    "max_level": 10,
+    "element": "Fire",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Inflige una pequeña cantidad de Daño de Fuego a un enemigo.",
+    "desc": "Inflige un #1[i]% del ATQ de SAM como Daño de Fuego a un enemigo.",
+    "params": [
+      [
+        0.5
+      ],
+      [
+        0.6
+      ],
+      [
+        0.7
+      ],
+      [
+        0.8
+      ],
+      [
+        0.9
+      ],
+      [
+        1
+      ],
+      [
+        1.1
+      ],
+      [
+        1.2
+      ],
+      [
+        1.3
+      ],
+      [
+        1.4
+      ]
+    ],
+    "icon": "icon/skill/1310_basic_atk.png"
+  },
+  "1131002": {
+    "id": "1131002",
+    "name": "Orden: Bombardeo aéreo",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Consume una parte de sus PV para recuperar energía e infligir Daño de Fuego a un enemigo. Su próxima acción se adelanta.",
+    "desc": "Consume una cantidad de PV equivalente al #2[i]% de sus PV máx., recupera una cantidad fija de energía equivalente al #3[i]% de su energía máxima e inflige un #1[i]% del ATQ de SAM como Daño de Fuego a un enemigo. Si no hay suficientes PV, al usar la habilidad básica los PV actuales de SAM se reducen a 1. Su próxima acción se adelanta un #4[i]%.",
+    "params": [
+      [
+        1,
+        0.4,
+        0.5,
+        0.25
+      ],
+      [
+        1.1,
+        0.4,
+        0.51,
+        0.25
+      ],
+      [
+        1.2,
+        0.4,
+        0.52,
+        0.25
+      ],
+      [
+        1.3,
+        0.4,
+        0.53,
+        0.25
+      ],
+      [
+        1.4,
+        0.4,
+        0.54,
+        0.25
+      ],
+      [
+        1.5,
+        0.4,
+        0.55,
+        0.25
+      ],
+      [
+        1.625,
+        0.4,
+        0.5625,
+        0.25
+      ],
+      [
+        1.75,
+        0.4,
+        0.575,
+        0.25
+      ],
+      [
+        1.875,
+        0.4,
+        0.5875,
+        0.25
+      ],
+      [
+        2,
+        0.4,
+        0.6,
+        0.25
+      ],
+      [
+        2.1,
+        0.4,
+        0.61,
+        0.25
+      ],
+      [
+        2.2,
+        0.4,
+        0.62,
+        0.25
+      ],
+      [
+        2.3,
+        0.4,
+        0.63,
+        0.25
+      ],
+      [
+        2.4,
+        0.4,
+        0.64,
+        0.25
+      ],
+      [
+        2.5,
+        0.4,
+        0.65,
+        0.25
+      ]
+    ],
+    "icon": "icon/skill/1310_skill.png"
+  },
+  "1131003": {
+    "id": "1131003",
+    "name": "Luciérnaga tipo IV: Combustión completa",
+    "max_level": 15,
+    "element": "",
+    "type": "Ultra",
+    "type_text": "Habilidad definitiva",
+    "effect": "Enhance",
+    "effect_text": "Potenciación",
+    "simple_desc": "Entra en el estado de Combustión completa y su acción se adelanta un 100%. Su ATQ básico y su habilidad básica se potencian. Su VEL, su eficiencia de la Ruptura de Debilidad, y el Daño de Ruptura que reciben los enemigos aumentan. Dura hasta que termine la cuenta regresiva.",
+    "desc": "Entra en el estado de Combustión completa, su acción se adelanta un 100% y su ATQ básico y su habilidad básica se potencian. En el estado de Combustión completa, su VEL aumenta en #3[i] pts. y, al usar su ATQ básico potenciado o habilidad básica potenciada, su eficiencia de la Ruptura de Debilidad aumenta en un #2[i]% y el Daño de Ruptura infligido por SAM que reciben los enemigos aumenta en un #1[f1]% hasta que termine el ataque actual.\nEn el orden de acción aparece una cuenta regresiva de Combustión completa. Cuando comience el turno de la cuenta regresiva, SAM saldrá del estado de Combustión completa. La cuenta regresiva tiene una VEL fija de #4[i].\nEn el estado de Combustión completa, SAM no puede usar la habilidad definitiva.",
+    "params": [
+      [
+        0.1,
+        0.5,
+        30,
+        70
+      ],
+      [
+        0.11,
+        0.5,
+        33,
+        70
+      ],
+      [
+        0.12,
+        0.5,
+        36,
+        70
+      ],
+      [
+        0.13,
+        0.5,
+        39,
+        70
+      ],
+      [
+        0.14,
+        0.5,
+        42,
+        70
+      ],
+      [
+        0.15,
+        0.5,
+        45,
+        70
+      ],
+      [
+        0.1625,
+        0.5,
+        48.75,
+        70
+      ],
+      [
+        0.175,
+        0.5,
+        52.5,
+        70
+      ],
+      [
+        0.1875,
+        0.5,
+        56.25,
+        70
+      ],
+      [
+        0.2,
+        0.5,
+        60,
+        70
+      ],
+      [
+        0.21,
+        0.5,
+        63,
+        70
+      ],
+      [
+        0.22,
+        0.5,
+        66,
+        70
+      ],
+      [
+        0.23,
+        0.5,
+        69,
+        70
+      ],
+      [
+        0.24,
+        0.5,
+        72,
+        70
+      ],
+      [
+        0.25,
+        0.5,
+        75,
+        70
+      ]
+    ],
+    "icon": "icon/skill/1310_ultimate.png"
+  },
+  "1131004": {
+    "id": "1131004",
+    "name": "Núcleo ígneo de crisálida",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "Talento",
+    "type_text": "Talento",
+    "effect": "Defence",
+    "effect_text": "Defensa",
+    "simple_desc": "Cuantos menos PV tenga, menos daño recibe. Mientras esté en el estado de Combustión completa, el efecto de reducción de daño se mantiene al máximo y aumenta su RES a efecto. Al comenzar la batalla, si su energía no llega al #2[i]%, recupera energía hasta alcanzar el #2[i]%. Cuando la energía se recupera al máximo, se disipan todos los estados negativos que tenga.",
+    "desc": "Cuantos menos PV tenga, menos daño recibe. Cuando tenga un #3[i]% o menos de PV, alcanza el máximo efecto de reducción de daño, hasta una reducción máxima del #1[i]%. Mientras esté en el estado de Combustión completa, el efecto de reducción de daño se mantiene al máximo y su RES a efecto aumenta en un #4[i]%.\nAl comenzar la batalla, si su energía no llega al #2[i]%, recupera energía hasta alcanzar el #2[i]%. Cuando la energía se recupera al máximo, se disipan todos los estados negativos que tenga.",
+    "params": [
+      [
+        0.2,
+        0.5,
+        0.2,
+        0.1
+      ],
+      [
+        0.22,
+        0.5,
+        0.2,
+        0.12
+      ],
+      [
+        0.24,
+        0.5,
+        0.2,
+        0.14
+      ],
+      [
+        0.26,
+        0.5,
+        0.2,
+        0.16
+      ],
+      [
+        0.28,
+        0.5,
+        0.2,
+        0.18
+      ],
+      [
+        0.3,
+        0.5,
+        0.2,
+        0.2
+      ],
+      [
+        0.325,
+        0.5,
+        0.2,
+        0.225
+      ],
+      [
+        0.35,
+        0.5,
+        0.2,
+        0.25
+      ],
+      [
+        0.375,
+        0.5,
+        0.2,
+        0.275
+      ],
+      [
+        0.4,
+        0.5,
+        0.2,
+        0.3
+      ],
+      [
+        0.42,
+        0.5,
+        0.2,
+        0.32
+      ],
+      [
+        0.44,
+        0.5,
+        0.2,
+        0.34
+      ],
+      [
+        0.46,
+        0.5,
+        0.2,
+        0.36
+      ],
+      [
+        0.48,
+        0.5,
+        0.2,
+        0.38
+      ],
+      [
+        0.5,
+        0.5,
+        0.2,
+        0.4
+      ]
+    ],
+    "icon": "icon/skill/1310_talent.png"
+  },
+  "1131006": {
+    "id": "1131006",
+    "name": "Ataque",
+    "max_level": 1,
+    "element": "Fire",
+    "type": "MazeNormal",
+    "type_text": "",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "",
+    "desc": "Ataca a un enemigo y, tras entrar en combate, consume la Firmeza del tipo correspondiente del enemigo.",
+    "params": [],
+    "icon": "icon/skill/1310_Normal02.png"
+  },
+  "1131007": {
+    "id": "1131007",
+    "name": "Orden Δ: Calcinación meteórica",
+    "max_level": 1,
+    "element": "Fire",
+    "type": "Maze",
+    "type_text": "Técnica",
+    "effect": "MazeAttack",
+    "effect_text": "",
+    "simple_desc": "Salta en el aire y se mueve libremente. Desciende tras unos segundos para golpear a todos los enemigos en el área de efecto determinada. Al comenzar cada oleada, aplica Debilidad de Fuego a todos los enemigos y les inflige Daño de Fuego.",
+    "desc": "Salta en el aire y se mueve libremente durante #1[i] s. Puede usar el ataque en picado para terminar antes este vuelo. Cuando termina este movimiento, SAM cae y ataca inmediatamente a todos los enemigos en un área determinada. Al comenzar cada oleada, aplica Debilidad de Fuego a todos los enemigos durante #3[i] turnos, e inflige un #2[i]% del ATQ de SAM como Daño de Fuego a todos los enemigos.",
+    "params": [
+      [
+        5,
+        2,
+        2
+      ]
+    ],
+    "icon": "icon/skill/1310_technique.png"
+  },
+  "1131008": {
+    "id": "1131008",
+    "name": "Luciérnaga tipo IV: Corte pirotécnico",
+    "max_level": 10,
+    "element": "Fire",
+    "type": "Normal",
+    "type_text": "ATQ básico",
+    "effect": "SingleAttack",
+    "effect_text": "ATQ individual",
+    "simple_desc": "Regenera una parte de sus PV e inflige Daño de Fuego a un enemigo.",
+    "desc": "Regenera una cantidad de PV equivalente al #2[i]% de sus PV máx. e inflige un #1[i]% del ATQ de SAM como Daño de Fuego a un enemigo.",
+    "params": [
+      [
+        1,
+        0.2
+      ],
+      [
+        1.2,
+        0.2
+      ],
+      [
+        1.4,
+        0.2
+      ],
+      [
+        1.6,
+        0.2
+      ],
+      [
+        1.8,
+        0.2
+      ],
+      [
+        2,
+        0.2
+      ],
+      [
+        2.2,
+        0.2
+      ],
+      [
+        2.4,
+        0.2
+      ],
+      [
+        2.6,
+        0.2
+      ],
+      [
+        2.8,
+        0.2
+      ]
+    ],
+    "icon": "icon/skill/1310_Normal02.png"
+  },
+  "1131009": {
+    "id": "1131009",
+    "name": "Luciérnaga tipo IV: Sobrecarga de estrella moribunda",
+    "max_level": 15,
+    "element": "Fire",
+    "type": "BPSkill",
+    "type_text": "Habilidad básica",
+    "effect": "Blast",
+    "effect_text": "Ráfaga",
+    "simple_desc": "Regenera una parte de sus PV. Implanta Debilidad de Fuego a un enemigo y a los objetivos adyacentes, y le inflige una gran cantidad de Daño de Fuego a él y Daño de Fuego a los objetivos adyacentes.",
+    "desc": "Regenera una cantidad de PV equivalente al 25% de sus PV máx. Implanta Debilidad de Fuego a un enemigo y a los objetivos adyacentes durante 2 turnos. Inflige a ese enemigo un Daño de Fuego equivalente al (efecto de Ruptura de SAM × #5[f1] + el #1[f1]% del ATQ de SAM). También inflige un Daño de Fuego equivalente al (efecto de Ruptura de SAM × #6[f1] + el #2[f1]% del ATQ de SAM) a los objetivos adyacentes. En el cálculo se puede incluir hasta un máximo del #7[i]% del efecto de Ruptura.",
+    "params": [
+      [
+        1,
+        0.5,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.1,
+        0.55,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.2,
+        0.6,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.3,
+        0.65,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.4,
+        0.7,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.5,
+        0.75,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.625,
+        0.8125,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.75,
+        0.875,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        1.875,
+        0.9375,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2,
+        1,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.1,
+        1.05,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.2,
+        1.1,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.3,
+        1.15,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.4,
+        1.2,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ],
+      [
+        2.5,
+        1.25,
+        0,
+        0,
+        0.2,
+        0.1,
+        3.6,
+        0
+      ]
+    ],
+    "icon": "icon/skill/1310_skill.png"
   },
   "1140201": {
     "id": "1140201",

@@ -1139,6 +1139,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22007": {
+    "id": "22007",
+    "name": "Tương Lai, Có Chúng Ta Cùng Nhau",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "Một món quà lớn bất ngờ hạ cánh xuống phòng livestream.\n<i>\"Là chiếc bánh kem kỷ niệm 3 năm do các fan đặc biệt đặt làm riêng cho mọi người!\"</i>\n\nTừng chút kỷ niệm quá khứ lúc này đều hóa thành động lực, dẫn dắt tất cả mọi người cùng nhau bước tới tương lai.\n<i>\"Mong rằng trong năm mới, mọi người có thể vui vẻ, bình an tiến bước nhé, pom!\"</i>\n<i>\"Yên tâm đi tàu trưởng, Thỏ March sẽ ghi lại khoảnh khắc này~\"</i>\n\nTrong bầu không khí ấm áp, mọi người cùng nhau nâng ly, tiếng nói cười tràn ngập mọi ngóc ngách.\n<i>\"Trong ngày đáng ăn mừng này, chúng ta hãy cùng nâng ly.\"</i>\n<i>\"Vì ngày mai trăng sao đầy trời...\"</i>\n<i>\"Cạn ly!\"</i>",
+    "icon": "icon/light_cone/22007.png",
+    "preview": "image/light_cone_preview/22007.png",
+    "portrait": "image/light_cone_portrait/22007.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà",
@@ -1792,10 +1804,46 @@
     "name": "Khi Cô Ấy Quyết Định Nhìn Thấy",
     "rarity": 5,
     "path": "Elation",
-    "desc": "Một lần nữa, trong Thập Phương Quang Ánh Pháp Giới, cô nhìn thấy vận mệnh như một mạng lưới trân châu lấp lánh, chồng chéo phản chiếu, nhân quả vô cùng vô tận.\n\n<i>\"Con nhìn thấy gì?\"</i>\nSư phụ đã từng hỏi cô như thế.\n\nCó những Nhà Chiêm Tinh nhìn thấy sự nhỏ bé của bản thân, không còn tin rằng sức người có thể thay đổi vận mệnh.\nCũng có người nhìn thấy đại cục của tương lai, và tìm ra giải pháp tối ưu thuận theo thời cuộc.\n\nVào lúc đó, cô gái đăm chiêu nhìn vào pháp giới, cô nhìn thấy bóng tối vô biên, đó là tương lai đã được định sẵn.\nCô cũng nhìn thấy \"ánh sao\" - những khả năng mong manh chưa bị ánh mắt của thần linh nuốt chửng.\n\nTia sáng ấy đã từng tuột khỏi tay cô, để lại cho Fanghu một màn đêm vĩnh hằng.\nCô cũng đã từng nắm bắt được những biến số thoáng qua, xoay chuyển Cát - Hung của Yuque.\n\n<i>\"Cái chết được gọi là cái chết, chỉ vì không ai muốn đi ngược lại số mệnh.\"</i>\nCô muốn tìm ra câu trả lời cho riêng mình, dù phải bước vào vùng đất hung hiểm đã được định sẵn...\n\n<i>\"Tôi nhìn thấy gì không quan trọng, quan trọng là tôi có thể làm được gì.\"</i>",
+    "desc": "Một lần nữa, trong Thập Phương Quang Ánh Pháp Giới, cô nhìn thấy vận mệnh như một mạng lưới trân châu lấp lánh, chồng chéo phản chiếu, nhân quả vô cùng vô tận.\n\n<i>\"Con nhìn thấy gì?\"</i>\nSư phụ đã từng hỏi cô như thế.\n\nCó những Nhà Chiêm Tinh nhìn thấy sự nhỏ bé của bản thân, không còn tin rằng sức người có thể thay đổi vận mệnh.\nCũng có người nhìn thấy đại cục của tương lai, và tìm ra giải pháp tối ưu thuận theo thời cuộc.\n\nVào lúc đó, cô gái đăm chiêu nhìn vào pháp giới, cô nhìn thấy bóng tối vô biên, đó là tương lai đã được định sẵn.\nCô cũng nhìn thấy \"ánh sao\" - những khả năng mong manh chưa bị ánh mắt của thần linh nuốt chửng.\n\nTia sáng ấy đã từng tuột khỏi tay cô, để lại cho Fanghu một màn đêm vĩnh hằng.\nCô cũng đã từng nắm bắt được những biến số thoáng qua, xoay chuyển Cát - Hung của Yuque.\n\n<i>\"Tử cục được gọi là tử cục, chỉ vì không ai muốn đi ngược lại số mệnh.\"</i>\nCô muốn tìm ra câu trả lời cho riêng mình, dù phải bước vào vùng đất hung hiểm đã được định sẵn...\n\n<i>\"Tôi nhìn thấy gì không quan trọng, quan trọng là tôi có thể làm được gì.\"</i>",
     "icon": "icon/light_cone/23054.png",
     "preview": "image/light_cone_preview/23054.png",
     "portrait": "image/light_cone_portrait/23054.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23056": {
+    "id": "23056",
+    "name": "Màn Kết Của Một Lời Nói Dối",
+    "rarity": 5,
+    "path": "Rogue",
+    "desc": "<i>\"Nhập Môn Suy Luận Thám Tử nói thế nào nhỉ? Trừ khi đến lúc bất đắc dĩ...\"</i>\nRăng nanh đan xen sắc đỏ và đen, đang từng tấc leo lên bờ vai.\n\nNơi chìm trong màn đêm, đám mây nghi ngờ dâng lên. Trong khu rừng u ám, ác thú ẩn mình.\n<i>\"Trò chơi rượt đuổi, nên kết thúc rồi.\"</i>\nSắc máu phai dần, ánh trăng trên bầu trời vẫn sáng tỏ, những vì sao an giấc.\n\nĐây là thêm một lần anh tìm kiếm chân tướng, nhưng cái bóng quá khứ vỗ nhẹ vai anh, rồi tan biến đi.\nSự giằng co ngay lúc này vẫn tiếp diễn, cho đến...\n\n<i>\"Cho đến... ngày trừng phạt giáng xuống tội ác.\"</i>",
+    "icon": "icon/light_cone/23056.png",
+    "preview": "image/light_cone_preview/23056.png",
+    "portrait": "image/light_cone_portrait/23056.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23057": {
+    "id": "23057",
+    "name": "Chào Mừng Đến Với Thành Phố Vũ Trụ",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Trên bầu trời thành phố, bóng dáng kiêu hãnh của thiếu nữ thoát ra từ cổng dịch chuyển.\nDòng xe cộ cuồn cuộn, bóng người tấp nập, ồn ào náo nhiệt như thường lệ.\n<i>\"Nhìn thì náo nhiệt thật đấy, nhưng mà...\"</i>\n\nMàn hình trước mặt bật sáng, hỉ nộ ái ố của con người hóa thành những đốm sáng li ti chảy vào trong đó.\n<i>\"Đến cả độ mệt mỏi của NPC cũng sắp chạm đỉnh rồi...\"</i>\n<i>\"Phó bản chán phèo thế này, tôi không thèm chơi đâu.\"</i>\n\nTheo từng cú lướt ngón tay, ánh đèn thành phố chợt sáng chợt tắt.\nTừ một góc khuất không ai hay vang lên tiếng kêu kinh ngạc, ngay sau đó, tiếng hò reo chấn động khắp bầu trời.\n<i>\"Chỉ số may mắn của tất cả người chơi nhân đôi, Thiên Phú đặc biệt ngẫu nhiên, phần thưởng tối đa...\"</i>\n<i>\"Tải game thành công! Ngay bây giờ, quẩy tung sân khấu thôi!\"</i>\n\nThiếu nữ tung người nhảy xuống, âm nhắc nhở quen thuộc vang vọng bên tai.\nMột thời khắc chơi game thuộc về cô, đã chính thức bắt đầu.",
+    "icon": "icon/light_cone/23057.png",
+    "preview": "image/light_cone_preview/23057.png",
+    "portrait": "image/light_cone_portrait/23057.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23058": {
+    "id": "23058",
+    "name": "Hẹn Gặp Mùa Hoa Tới",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Cơn gió nhẹ thổi qua rèm cửa trắng muốt, lay động tâm tư thiếu nữ.\nCô nhìn đám đông đang cười nói vui vẻ ngoài cửa sổ, cây bút đang vẽ vời bất giác dừng lại.\n<i>\"Đây là... lần thứ mấy ngồi ở đây rồi nhỉ?\"</i>\n\nBất chợt, những cánh hoa rơi lướt qua chóp mũi cô, tựa như hồi đáp, tựa như nhắc nhở.\nMột trò chơi hoành tráng, một duyên kỳ ngộ chỉ một lần trong đời, những ngày đêm hoa nở hoa tàn...\nCô hồi tưởng câu chuyện giữa mình và mảnh đất này, từ một khoảng trống, cho đến muôn màu muôn vẻ, mỗi khi chìm vào giấc ngủ, cô đều mong chờ ngày mai đến.\n\n<i>\"A, truyện tranh cập nhật rồi, vẽ xong mấy bé cưng thì đi xem thôi...\"</i>\nThiếu nữ nhận được thông báo, khẽ rung đôi tai, ngòi bút đang tĩnh lặng lại tiếp tục lướt đi.\n\n<i>\"Ước nguyện... mùa hoa tiếp theo, mình phải cày xong tất cả tác phẩm mới có điểm đánh giá cao!\"</i>",
+    "icon": "icon/light_cone/23058.png",
+    "preview": "image/light_cone_preview/23058.png",
+    "portrait": "image/light_cone_portrait/23058.png",
     "max_rank": 5,
     "max_promotion": 6
   },
@@ -1868,6 +1916,18 @@
     "icon": "icon/light_cone/24005.png",
     "preview": "image/light_cone_preview/24005.png",
     "portrait": "image/light_cone_portrait/24005.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "24006": {
+    "id": "24006",
+    "name": "Chúc Phúc Tràn Đầy Vui Vẻ",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Dưới đầu ngón tay của các thiên tài, dữ liệu vận hành ổn định, không bao giờ ngừng nghỉ.\nMặt nạ ẩn nấp trong khe hở của \"Sự Kiện\", quan sát từng khả năng đang chờ đợi phát triển.\n\nPhân tích, tính toán, giải đáp, đặt câu hỏi, đây chẳng phải là sân khấu của các thiên tài sao?\nReo hò, nước mắt, gầm thét, than khóc... hỉ nộ ái ố của sinh mệnh đều bung nở.\n\nKịch câm trở nên ồn ào, Vui Vẻ tràn đầy chúc phúc. Đây có phải là màn hấp dẫn nhất không?\nCâu trả lời vẫn là: Không thể đoán trước!",
+    "icon": "icon/light_cone/24006.png",
+    "preview": "image/light_cone_preview/24006.png",
+    "portrait": "image/light_cone_portrait/24006.png",
     "max_rank": 5,
     "max_promotion": 6
   }

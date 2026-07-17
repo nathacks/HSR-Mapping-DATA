@@ -259,11 +259,6 @@
     "title": "Xianzhou Alliance",
     "desc": "Aliansi kuno yang terdiri dari banyak ras cerdas.\nMereka memimpin Xianzhou untuk melenyapkan Abominations of Abundance di alam semesta."
   },
-  "10053": {
-    "id": "10053",
-    "title": "Stellaron Hunter",
-    "desc": "Sebuah organisasi yang melakukan perjalanan antar dunia untuk berburu Stellaron.\nEntah Aeon mana yang menganugerahkan kekuatannya."
-  },
   "10054": {
     "id": "10054",
     "title": "Denizens of Abundance",
@@ -1584,6 +1579,51 @@
     "title": "Ryusuke",
     "desc": "Kepala sekolah Akademi Graphia saat ini.\nSekaligus kepala keluarga Graphia saat ini, yang mengaku sebagai ayah Himeko."
   },
+  "10421": {
+    "id": "10421",
+    "title": "Ruang \"Gulungan Robek\"",
+    "desc": "Pecahan ruang yang terkelupas dari \"Dunia dalam Lukisan\" saat Planarcadia kembali ke dunia nyata.\nPerbatasan antara realitas dan lukisan, rel kereta yang terbengkalai mengarah ke jurang yang tak terselami."
+  },
+  "10422": {
+    "id": "10422",
+    "title": "Asosiasi Penelitian Senyum Bahagia",
+    "desc": "Organisasi amal berskala besar, yang sebelumnya merupakan perkumpulan gotong royong untuk korban insiden Pengantar Maut.\nBerdedikasi membuat Planarcadia mendapatkan kembali kebahagiaan dan senyuman melalui metode pengobatan seperti \"Bedah Kebahagiaan\"."
+  },
+  "10423": {
+    "id": "10423",
+    "title": "Fulwish",
+    "desc": "Ketua \"Asosiasi Penelitian Senyum Bahagia\" sekaligus kepala stasiun \"TV Penuh Harapan\". Anak yatim piatu dari Permainan Berlumur Darah.\nKini dia adalah dermawan ternama dan taipan media, serta mengemban misi untuk meluruskan jalan Elation."
+  },
+  "10424": {
+    "id": "10424",
+    "title": "Festival Star Rail",
+    "desc": "Pameran yang bertemakan Astral Express, panggung yang didirikan Pearl khusus untuk para The Nameless.\nKehadiran The Nameless memicu kehebohan dan menarik perhatian jutaan Wishpower dari seluruh Planarcadia."
+  },
+  "10425": {
+    "id": "10425",
+    "title": "Perusahaan Pearluxe",
+    "desc": "Konglomerat hiburan antarbintang milik Pearl. Bisnis utamanya mencakup produksi dan penjualan \"mechatron\".\nKantor pusatnya yang megah, Gedung Pearluxe, adalah istana dambaan bagi banyaknya pencari kerja."
+  },
+  "10426": {
+    "id": "10426",
+    "title": "Fulwish",
+    "desc": "Ketua \"Asosiasi Penelitian Senyum Bahagia\" sekaligus Direktur \"TV Penuh Harapan\". Yatim piatu dari Permainan Berlumur Darah.\nDemi melakukan pembalasan pada \"Elation\" di Planarcadia, dia menjelma menjadi musuhnya sendiri, memberikan penghakiman bagi utopia tersebut dalam wujud Pengantar Maut."
+  },
+  "10427": {
+    "id": "10427",
+    "title": "Asosiasi Penelitian Senyum Bahagia",
+    "desc": "Organisasi amal berskala besar, yang sebelumnya merupakan Asosiasi Bantuan Mandiri Korban Insiden Pengantar Maut.\nMelalui metode seperti \"Bedah Kebahagiaan\", mereka mengubah warga kota menjadi monster buas yang hanya mengenal rasa kebahagiaan."
+  },
+  "10428": {
+    "id": "10428",
+    "title": "Pengantar Maut",
+    "desc": "Dalang utama Permainan Berlumur Darah, monster yang menikmati pembantaian.\nKini dimanfaatkan oleh Fulwish sebagai simbol \"ketakutan\" untuk mengguncang arus pemikiran Planarcadia."
+  },
+  "10429": {
+    "id": "10429",
+    "title": "Stellaron Hunter",
+    "desc": "Organisasi yang berkelana di antara berbagai dunia untuk memburu Stellaron.\nDemi suatu tujuan, mereka menelusuri hulu di dalam Path \"Finality\"."
+  },
   "20000": {
     "id": "20000",
     "title": "Sedang kembali ke sudut pandang Trailblazer ....",
@@ -1933,5 +1973,30 @@
     "id": "20098",
     "title": "Sedang berganti ke sudut pandang \"Silver Wolf\" ....",
     "desc": "Tingyun berhasil merampas topeng. Tak lama kemudian, seorang korban malang yang kehilangan topengnya juga tiba di Distrik Dovebrook ...."
+  },
+  "20099": {
+    "id": "20099",
+    "title": "Sedang berganti ke sudut pandang \"Ashveil\" ....",
+    "desc": "Saat menelusuri jejak pelaku, Ashveil berdiri di tepi jembatan dan teringat pada masa lalunya ...."
+  },
+  "20102": {
+    "id": "20102",
+    "title": "Sedang berganti ke sudut pandang \"Evanescia\" ....",
+    "desc": "Sementara itu, saat {NICKNAME} sedang melakukan penyelidikan di sekolah, Evanescia dan Yao Guang juga telah tiba di Kota Seafeld ...."
+  },
+  "20103": {
+    "id": "20103",
+    "title": "Sedang berganti ke sudut pandang \"Sparxie\" ....",
+    "desc": "Di sisi lain, Sparxie sedang asyik mengobrol dan bersenda gurau dengan orang-orang di \"bar\" ...."
+  },
+  "20104": {
+    "id": "20104",
+    "title": "Sedang berganti ke sudut pandang \"Evanescia\" ....",
+    "desc": "Evanescia mengeluarkan pedangnya, bersiap untuk menjalankan misinya ...."
+  },
+  "20105": {
+    "id": "20105",
+    "title": "Sedang berganti ke sudut pandang \"Silver Wolf\" ....",
+    "desc": "Saat ini, di Studio Lukis Pearl, Silver Wolf juga bersiap untuk memulai aksinya ...."
   }
 }

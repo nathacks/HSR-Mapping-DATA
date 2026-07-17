@@ -22,6 +22,7 @@
       "Blütenkelch: Kunsthandwerkskommission",
       "Blütenkelch: Hotel Reverie (Traumlandschaft)",
       "Blütenkelch: „Murmelnder Wald“ Hain der Erleuchtung",
+      "Blütenkelch: {TextID#FloorName_20503001}",
       "Missionsbelohnungen",
       "Auftragsbelohnungen",
       "Glut-Tausch"
@@ -279,6 +280,7 @@
       "Blütenkelch: Wolkenfurt",
       "Blütenkelch: Traumgrenze",
       "Blütenkelch: „Heiligtum der Prophezeiung“ Janusopolis",
+      "Blütenkelch: {TextID#FloorName_20501001}",
       "Auftragsbelohnungen"
     ]
   },
@@ -295,6 +297,7 @@
       "Blütenkelch: Wolkenfurt",
       "Blütenkelch: Traumgrenze",
       "Blütenkelch: „Heiligtum der Prophezeiung“ Janusopolis",
+      "Blütenkelch: {TextID#FloorName_20501001}",
       "Tägliches Training",
       "Glut-Tausch"
     ]
@@ -312,6 +315,7 @@
       "Blütenkelch: Wolkenfurt",
       "Blütenkelch: Traumgrenze",
       "Blütenkelch: „Heiligtum der Prophezeiung“ Janusopolis",
+      "Blütenkelch: {TextID#FloorName_20501001}",
       "Vergessene Halle"
     ]
   },
@@ -328,6 +332,7 @@
       "Blütenkelch: Wahrsagekommission",
       "Blütenkelch: Der Traum eines Kindes",
       "Blütenkelch: „Ruinen des Zwists“ Castrum Kremnos",
+      "Blütenkelch: {TextID#FloorName_20503001}",
       "Auftragsbelohnungen"
     ]
   },
@@ -344,6 +349,7 @@
       "Blütenkelch: Wahrsagekommission",
       "Blütenkelch: Der Traum eines Kindes",
       "Blütenkelch: „Ruinen des Zwists“ Castrum Kremnos",
+      "Blütenkelch: {TextID#FloorName_20503001}",
       "Glut-Tausch"
     ]
   },
@@ -360,6 +366,7 @@
       "Blütenkelch: Wahrsagekommission",
       "Blütenkelch: Der Traum eines Kindes",
       "Blütenkelch: „Ruinen des Zwists“ Castrum Kremnos",
+      "Blütenkelch: {TextID#FloorName_20503001}",
       "Vergessene Halle"
     ]
   },
@@ -576,7 +583,6 @@
     "desc": "Kann im Laden „Sternenkonvergenz“ gegen eine 5-Sterne-Figur eingetauscht werden.",
     "come_from": [
       "Stellare Gefährten",
-      "Stellare Gefährten (in dieser Saison schon abgeholt)",
       "Nach dem Erhalt von 2 Duplikaten einer 5-Sterne-Figur mit max. Eidola einlösbar",
       "Nach dem Erhalt von 2 Duplikaten einer 5-Sterne-Figur mit max. Eidola einlösbar"
     ]
@@ -613,10 +619,7 @@
     "rarity": 5,
     "icon": "icon/item/291.png",
     "desc": "In Planarcadia, wo Wünsche zu Kraft werden, hat der Wunsch, das Licht emporzuheben und zum Helden zu werden, auf dich reagiert und Gestalt angenommen, um dich auf deiner Reise weiter anzuspornen. Nimm ihn erst einmal an. Früher oder später wird er dir eine einzigartige Hilfe sein.\n\n<i>„Laut unzuverlässigen Statistiken hat jeder in Planarcadia schon einmal davon geträumt, sich in einen Superhelden zu verwandeln.“</i>",
-    "come_from": [
-      "Erhalten durch Vorteil-Stufenbelohnungen von Furbokom",
-      "Belohnungen von Trailblaze-Missionen"
-    ]
+    "come_from": []
   },
   "503": {
     "id": "503",
@@ -669,6 +672,16 @@
     "rarity": 5,
     "icon": "icon/item/803.png",
     "desc": "Ein Segen für alle, die sich auf die Flammenjagd begeben.\n\nMögest du mit den Göttern tanzen und den gefallenen Riesen mit dem Feuer der Helden neu entfachen.\nMögest du das Schicksal besiegen und die Welt und alle Lebewesen mit dem Licht der Morgendämmerung erhellen.\nDeine Reise hierher wird für immer in die alten Balladen der Legende eingehen.",
+    "come_from": []
+  },
+  "804": {
+    "id": "804",
+    "name": "Segen der Freudenillusion",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 5,
+    "icon": "icon/item/804.png",
+    "desc": "Ein Segen für den Protagonisten\n\nMögest du Ungerechtigkeit bekämpfen und dich nicht scheuen, falsche Masken mit deinem wahren Selbst zu zerschlagen.\nMögest du die Hoffnungen aller tragen und das Segel des Trailblaze unter tausend Sternen hissen.\nDeine Spuren in diesem Reich werden in der ganzen Galaxie als die Freude von Arcadia widerhallen.",
     "come_from": []
   },
   "821": {
@@ -3217,6 +3230,92 @@
       "Omni-Synthesemaschine – Reliktsynthese"
     ]
   },
+  "83251": {
+    "id": "83251",
+    "name": "Etappe Nr. Null von Punklorde",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83252": {
+    "id": "83252",
+    "name": "Etappe Nr. Null von Punklorde",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83253": {
+    "id": "83253",
+    "name": "Etappe Nr. Null von Punklorde",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83254": {
+    "id": "83254",
+    "name": "Etappe Nr. Null von Punklorde",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71054.png",
+    "desc": "",
+    "come_from": [
+      "Divergentes Universum: Planarornamente extrahieren",
+      "Omni-Synthesemaschine – Reliktsynthese"
+    ]
+  },
+  "83261": {
+    "id": "83261",
+    "name": "Stadt der unzähligen Sterne",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 2,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83262": {
+    "id": "83262",
+    "name": "Stadt der unzähligen Sterne",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 3,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83263": {
+    "id": "83263",
+    "name": "Stadt der unzähligen Sterne",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 4,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": []
+  },
+  "83264": {
+    "id": "83264",
+    "name": "Stadt der unzähligen Sterne",
+    "type": "Display",
+    "sub_type": "RelicSetShowOnly",
+    "rarity": 5,
+    "icon": "icon/item/71055.png",
+    "desc": "",
+    "come_from": [
+      "Divergentes Universum: Planarornamente extrahieren",
+      "Omni-Synthesemaschine – Reliktsynthese"
+    ]
+  },
   "89001": {
     "id": "89001",
     "name": "Planarornament",
@@ -3933,7 +4032,6 @@
     "icon": "icon/item/110261.png",
     "desc": "„Flauschis himmlische Reise“ in der Storyboard-Phase. Kann die Spuren für Figuren auf dem Pfad des Hochgefühls leicht erhöhen.",
     "come_from": [
-      "Omni-Synthesemaschine – Äquivalenter Austausch",
       "Blütenkelch: {TextID#FloorName_20502001}",
       "Glut-Tausch",
       "Omni-Synthesemaschine – Materialtausch"
@@ -3948,7 +4046,6 @@
     "icon": "icon/item/110262.png",
     "desc": "„Flauschis himmlische Reise“ erscheint derzeit als Zeitschriftenserie. Kann die Spuren für Figuren auf dem Pfad des Hochgefühls mäßig erhöhen.",
     "come_from": [
-      "Omni-Synthesemaschine – Äquivalenter Austausch",
       "Blütenkelch: {TextID#FloorName_20502001}",
       "Omni-Synthesemaschine – Materialsynthese",
       "Glut-Tausch",
@@ -3964,7 +4061,6 @@
     "icon": "icon/item/110263.png",
     "desc": "„Flauschis himmlische Reise“, jetzt als eigenständige Bände erhältlich. Kann die Spuren für Figuren auf dem Pfad des Hochgefühls stark erhöhen.",
     "come_from": [
-      "Omni-Synthesemaschine – Äquivalenter Austausch",
       "Blütenkelch: {TextID#FloorName_20502001}",
       "Omni-Synthesemaschine – Materialsynthese",
       "Omni-Synthesemaschine – Materialtausch"
@@ -4009,6 +4105,49 @@
     "desc": "Ein karmesinroter Speer, geschmiedet aus dem Leben und der Würde der Handwerker von Castrum Kremnos. Kann die Spuren für Figuren auf dem Pfad der Jagd stark erhöhen.",
     "come_from": [
       "Blütenkelch: {TextID#FloorName_20481001}",
+      "Omni-Synthesemaschine – Materialsynthese",
+      "Omni-Synthesemaschine – Materialtausch"
+    ]
+  },
+  "110311": {
+    "id": "110311",
+    "name": "Phagousas Träne",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 2,
+    "icon": "icon/item/110311.png",
+    "desc": "Ein wie Glas erstarrter Wassertropfen. Kann die Spuren für Figuren auf dem Pfad der Nichtigkeit leicht erhöhen.",
+    "come_from": [
+      "Blütenkelch: {TextID#FloorName_20461001}",
+      "Glut-Tausch",
+      "Omni-Synthesemaschine – Materialtausch"
+    ]
+  },
+  "110312": {
+    "id": "110312",
+    "name": "Phagousas Wein",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 3,
+    "icon": "icon/item/110312.png",
+    "desc": "Aus dem Kelch überlaufende Meereswellen. Kann die Spuren für Figuren auf dem Pfad der Nichtigkeit mäßig erhöhen.",
+    "come_from": [
+      "Blütenkelch: {TextID#FloorName_20461001}",
+      "Omni-Synthesemaschine – Materialsynthese",
+      "Glut-Tausch",
+      "Omni-Synthesemaschine – Materialtausch"
+    ]
+  },
+  "110313": {
+    "id": "110313",
+    "name": "Phagousas Herz",
+    "type": "Material",
+    "sub_type": "TracePath",
+    "rarity": 4,
+    "icon": "icon/item/110313.png",
+    "desc": "Ein Kristall, der aus unzähligen miteinander verwobenen Meereswellen besteht. Kann die Spuren für Figuren auf dem Pfad der Nichtigkeit stark erhöhen.",
+    "come_from": [
+      "Blütenkelch: {TextID#FloorName_20461001}",
       "Omni-Synthesemaschine – Materialsynthese",
       "Omni-Synthesemaschine – Materialtausch"
     ]
@@ -5220,6 +5359,16 @@
     "desc": "Eine kristalline Blume des Gedenkens, makelbehaftet und zerbrechlich. Kann zur Bündelung des Lichtkegels „Flug in einen rosaroten Morgen“ verwendet werden.",
     "come_from": []
   },
+  "121007": {
+    "id": "121007",
+    "name": "Gedenkkassette",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 4,
+    "icon": "icon/item/121007.png",
+    "desc": "Eine mit dem Baseball-Waschbär-Profilbild bedruckte Spielkassette, der Beweis für einen extrem beliebten Streamer. Kann zur Bündelung des Lichtkegels „Gemeinsam in die Zukunft“ verwendet werden.",
+    "come_from": []
+  },
   "122000": {
     "id": "122000",
     "name": "Aideen-Marken",
@@ -5240,7 +5389,7 @@
     "sub_type": "Material",
     "rarity": 3,
     "icon": "icon/item/123000.png",
-    "desc": "Kann verwendet werden, um die Reliktentruhe im geheimnisvollen Sammlungs-Tresorraum der Herta-Raumstation zu öffnen.",
+    "desc": "Kann verwendet werden, um die Relikttruhe im geheimnisvollen Sammlungs-Tresorraum der Herta-Raumstation zu öffnen.",
     "come_from": [
       "Erhalten bei der Aktion „Schatzsuche im Lager“"
     ]
@@ -5254,6 +5403,18 @@
     "icon": "icon/item/123001.png",
     "desc": "",
     "come_from": []
+  },
+  "123002": {
+    "id": "123002",
+    "name": "Zugangskarte",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/123000.png",
+    "desc": "Kann verwendet werden, um die Relikttruhe im geheimnisvollen Sammlungs-Tresorraum der Herta-Raumstation zu öffnen.",
+    "come_from": [
+      "Erhalten bei der Aktion „Schatzsuche im Lager“"
+    ]
   },
   "140000": {
     "id": "140000",
@@ -10489,6 +10650,36 @@
     "desc": "Es war das Neujahr nach dem alten Kalender. Die Zeiten waren hart: Die Füchse konnten sich keine Bankette leisten, die Frösche wagten es nicht zu singen, die Affen diskutierten nicht mehr über das Fliegen und weiße Kaninchen kamen schon lange nicht mehr vorbei.\n\nDoch es kam.\n\nEin schwarzes Kaninchen.\n\nAnders als jene Kaninchen, denen der Mond egal ist, leitete es seine Gefährten an und reichte den kleinen Tieren hier eine helfende Hand.\n\n... Ah, ich sollte sagen, eine runde Hand.",
     "come_from": []
   },
+  "140609": {
+    "id": "140609",
+    "name": "Runder Fuß der Trailblaze-Fee (links)",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140609.png",
+    "desc": "Der schwarze Hase brachte viele Freunde mit: Manche sehen aus wie Menschen, andere wirken bizarr.\n\nSie sind emotional nicht so stabil wie der schwarze Hase. Streitgespräche und hochrote Köpfe sind bei ihnen an der Tagesordnung.\n\nDoch wenn sie auf Feinde treffen, legen sie ihren Zwist sofort bei, geben alles und vertrauen einander. Sie befolgen Anweisungen, selbst wenn sie eigentlich unzufrieden damit sind.\n\nSie sagen, dass die Guten zusammenhalten müssen. Man kann mit Freunden nicht immer zufrieden sein, aber Freunde wollen dem anderen immer helfen, ein besseres Leben zu führen.",
+    "come_from": []
+  },
+  "140610": {
+    "id": "140610",
+    "name": "Runde Pfote der Trailblaze-Fee (links)",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/140610.png",
+    "desc": "Die Prophezeiung der Furbos ging in Erfüllung. Die Flammen der Zerstörung entzündeten sich in den Grenzgebieten und fegten bis ins Zentrum der Welt.\n\nViele der Freunde des schwarzen Kaninchens wurden auf dem Schlachtfeld geopfert.\n\nDie Frösche und Affen wurden von Schuldgefühlen übermannt und niemand wollte nachts mehr singen.\n\n... Aber das schwarze Kaninchen streckte erneut seine Pfote aus.\n\nEs sagte: „Steht auf. Ihr seid es wert, aus vollem Herzen zu singen.“",
+    "come_from": []
+  },
+  "140611": {
+    "id": "140611",
+    "name": "Trophäe „Wächter des Blaus“",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 4,
+    "icon": "icon/item/140611.png",
+    "desc": "Die Trophäe von „Neues Phantasmond-Spiel“ wird jedem Helden verliehen, der seine Wunschkraft geopfert und Blau beschützt hat!\n\n<i>„Ein solches glückliches Ende ist doch perfekt, um es Lesern zu widmen, die das Leben lieben!“</i>",
+    "come_from": []
+  },
   "149957": {
     "id": "149957",
     "name": "Foto mit 7. März",
@@ -11729,6 +11920,46 @@
     "rarity": 3,
     "icon": "icon/item/190002.png",
     "desc": "Ein Vertrag, der so dicht geschrieben ist, dass man schon beim ersten Blick darauf müde wird. Egal, das Geld habe ich sowieso schon bekommen. Es wird später wohl keine Probleme geben. ... Oder?",
+    "come_from": []
+  },
+  "150098": {
+    "id": "150098",
+    "name": "Fan-Leuchtstab vom Star-Rail-FEST",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150098.png",
+    "desc": "Von den Namenlosen, die die Sterne überbrücken, über die niedlichen Tiere auf dem Flauschi-Express bis hin zu den Helden, die das Universum gerettet haben – sie alle haben sich hier für dich versammelt und winken mit ihren Leuchtstäben voller Hoffnung und Jubel.\n\n„In diesem riesigen Universum gibt es immer Menschen, die dich anfeuern. Vergiss das nie, egal wo du hingehst.“",
+    "come_from": []
+  },
+  "150099": {
+    "id": "150099",
+    "name": "Klischee-Toast",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150099.png",
+    "desc": "Eine Scheibe Toast, die die perfekte Art, Form, Größe und den perfekten Geschmack hat, um diesen klassischen Gag nachzumachen. Nimm sie einfach in den Mund und laufe über eine Kreuzung, um eine dramatische Begegnung auszulösen. Das ist praktisch ein Gesetz des Universums.\n\n„Das ist also deine Entschuldigung dafür, dass du mich angefahren hast?“\n„Ich habe mich doch entschuldigt!“",
+    "come_from": []
+  },
+  "150100": {
+    "id": "150100",
+    "name": "König Pom-Pom: Legierungsrüstung 999",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 3,
+    "icon": "icon/item/150100.png",
+    "desc": "Der ursprüngliche Prototyp für die Figur von König Pom-Pom. In „Flauschis himmlische Reise“ ist er ein Kraftpaket, das die meisten Namenlosen in den Schatten stellt. Er verfügt über ein komplettes Reinigungs-, Wasch- und Desinfektionssystem, mit dem er 99 % der Hausarbeit im Kosmos bewältigen kann.\n\n„Pom-Pom fühlt sich tatsächlich leicht bedroht!“",
+    "come_from": []
+  },
+  "150101": {
+    "id": "150101",
+    "name": "Abzeichen: Furbobo-Wochenblatt",
+    "type": "Mission",
+    "sub_type": "Mission",
+    "rarity": 4,
+    "icon": "icon/item/150101.png",
+    "desc": "Ein Abzeichen des Furbobo-Wochenblatts mit einem persönlich von einem berühmten Manga-Zeichner gezeichneten Motiv, das den Sieg des Pop-up-Store des Furbobo-Wochenblatts als Champion des Geschäftsviertels von Seafeld City feiert.\n\n<i>„Aww, diese kleinen Furbos mit den tränenden Augen sind einfach am süßesten, findest du nicht?“</i>",
     "come_from": []
   },
   "180001": {
@@ -21591,6 +21822,16 @@
     "desc": "Legende der Dämonen jenseits der Grenze",
     "come_from": []
   },
+  "191998": {
+    "id": "191998",
+    "name": "Aufzeichnungen zum Verwitterungsfluch",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Aufzeichnungen zum Verwitterungsfluch",
+    "come_from": []
+  },
   "191999": {
     "id": "191999",
     "name": "Geistergeschichten der Akademie (Spezialausgabe)",
@@ -21859,6 +22100,646 @@
     "rarity": 1,
     "icon": "icon/item/190021.png",
     "desc": "Lehrbuch zum Allgemeinwissen: Kennst du deinen eigenen Ursprung?",
+    "come_from": []
+  },
+  "192026": {
+    "id": "192026",
+    "name": "Geschichte der Familie Graphia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Geschichte der Familie Graphia",
+    "come_from": []
+  },
+  "192027": {
+    "id": "192027",
+    "name": "Hinweise zur Glücksoperation",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Hinweise zur Glücksoperation",
+    "come_from": []
+  },
+  "192028": {
+    "id": "192028",
+    "name": "Silhoumonts Geheimnisse",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Silhoumonts Geheimnisse",
+    "come_from": []
+  },
+  "192029": {
+    "id": "192029",
+    "name": "Der Aufstieg der Pearluxe Corp",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Der Aufstieg der Pearluxe Corp",
+    "come_from": []
+  },
+  "192030": {
+    "id": "192030",
+    "name": "Interview mit einem Mechatron-Praktikanten von Pearluxe Entertainment",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Interview mit einem Mechatron-Praktikanten von Pearluxe Entertainment",
+    "come_from": []
+  },
+  "192031": {
+    "id": "192031",
+    "name": "Legierungskönig Pom-Pom Mitgestaltungsprojekt",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Legierungskönig Pom-Pom Mitgestaltungsprojekt",
+    "come_from": []
+  },
+  "192032": {
+    "id": "192032",
+    "name": "„Kosmische Morgendämmerung: Öko-Mann“ – Drehbuch",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "„Kosmische Morgendämmerung: Öko-Mann“ – Drehbuch",
+    "come_from": []
+  },
+  "192033": {
+    "id": "192033",
+    "name": "Claras Abenteuer in der Mecha-Welt",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Claras Abenteuer in der Mecha-Welt",
+    "come_from": []
+  },
+  "192034": {
+    "id": "192034",
+    "name": "Magisches Mädchen Cocolia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Magisches Mädchen Cocolia",
+    "come_from": []
+  },
+  "192035": {
+    "id": "192035",
+    "name": "Stärkerangliste des Hohen Wolkentrupps",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Stärkerangliste des Hohen Wolkentrupps",
+    "come_from": []
+  },
+  "192036": {
+    "id": "192036",
+    "name": "Bedrohungsstufen der Aberrationen in Planarcadia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Bedrohungsstufen der Aberrationen in Planarcadia",
+    "come_from": []
+  },
+  "192037": {
+    "id": "192037",
+    "name": "Chroniken des schwimmenden Schmieröls: Kapitel des Affen (XI)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Chroniken des schwimmenden Schmieröls: Kapitel des Affen (XI)",
+    "come_from": []
+  },
+  "192038": {
+    "id": "192038",
+    "name": "Chroniken des schwimmenden Schmieröls: Kapitel des Kaninchens (V)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Chroniken des schwimmenden Schmieröls: Kapitel des Kaninchens (V)",
+    "come_from": []
+  },
+  "192039": {
+    "id": "192039",
+    "name": "Marcus Antalis Akte",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Marcus Antalis Akte",
+    "come_from": []
+  },
+  "192040": {
+    "id": "192040",
+    "name": "In Erinnerung an einen alten Freund",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "In Erinnerung an einen alten Freund",
+    "come_from": []
+  },
+  "192041": {
+    "id": "192041",
+    "name": "Nihilux’ Schuldenliste",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Nihilux’ Schuldenliste",
+    "come_from": []
+  },
+  "192042": {
+    "id": "192042",
+    "name": "*Blurry_QR_Colt*-Vermutung",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "*Blurry_QR_Colt*-Vermutung",
+    "come_from": []
+  },
+  "192043": {
+    "id": "192043",
+    "name": "Geheime Aufzeichnungen der Phantasmond-Spiele",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Geheime Aufzeichnungen der Phantasmond-Spiele",
+    "come_from": []
+  },
+  "192044": {
+    "id": "192044",
+    "name": "Superhelden-Index von Planarcadia (Auszug)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Superhelden-Index von Planarcadia (Auszug)",
+    "come_from": []
+  },
+  "192045": {
+    "id": "192045",
+    "name": "Ryusuke – Werke im Fokus (Teil 1)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Ryusuke – Werke im Fokus (Teil 1)",
+    "come_from": []
+  },
+  "192046": {
+    "id": "192046",
+    "name": "Ryusuke – Werke im Fokus (Teil 2)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Ryusuke – Werke im Fokus (Teil 2)",
+    "come_from": []
+  },
+  "192047": {
+    "id": "192047",
+    "name": "Handbuch zur Mechatron-Imagenasis",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Handbuch zur Mechatron-Imagenasis",
+    "come_from": []
+  },
+  "192048": {
+    "id": "192048",
+    "name": "Preisliste der Jahresgala der Pearluxe Corp",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Preisliste der Jahresgala der Pearluxe Corp",
+    "come_from": []
+  },
+  "192049": {
+    "id": "192049",
+    "name": "Programmführer für Wunscherfüllungs-TV",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Programmführer für Wunscherfüllungs-TV",
+    "come_from": []
+  },
+  "192050": {
+    "id": "192050",
+    "name": "Auszüge aus Beiträgen von „Dämmerungsgrau“",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Auszüge aus Beiträgen von „Dämmerungsgrau“",
+    "come_from": []
+  },
+  "192051": {
+    "id": "192051",
+    "name": "Meine Sitznachbarin Phantylia",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Meine Sitznachbarin Phantylia",
+    "come_from": []
+  },
+  "192052": {
+    "id": "192052",
+    "name": "Nimm besser keine Getränke unbekannter Herkunft zu dir",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Nimm besser keine Getränke unbekannter Herkunft zu dir",
+    "come_from": []
+  },
+  "192054": {
+    "id": "192054",
+    "name": "Star-Rail-FEST – Vor-Ort-Patrouillenprotokoll",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Star-Rail-FEST – Vor-Ort-Patrouillenprotokoll",
+    "come_from": []
+  },
+  "192055": {
+    "id": "192055",
+    "name": "Zeitungsausschnitt der „Dovebrook Times“",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Zeitungsausschnitt der „Dovebrook Times“",
+    "come_from": []
+  },
+  "192056": {
+    "id": "192056",
+    "name": "Ankündigung zum Seminar zur gegenseitigen Hilfe der Forschungsgesellschaft für glückliches Lächeln",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Ankündigung zum Seminar zur gegenseitigen Hilfe der Forschungsgesellschaft für glückliches Lächeln",
+    "come_from": []
+  },
+  "192057": {
+    "id": "192057",
+    "name": "Die Schuldenliste des namenlosen Aha",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Die Schuldenliste des namenlosen Aha",
+    "come_from": []
+  },
+  "192058": {
+    "id": "192058",
+    "name": "Geschichten und Geheimnisse der Supplikantenmaske",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Geschichten und Geheimnisse der Supplikantenmaske",
+    "come_from": []
+  },
+  "192059": {
+    "id": "192059",
+    "name": "Archiv der „Blutdürstigen Spiele“",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Archiv der „Blutdürstigen Spiele“",
+    "come_from": []
+  },
+  "192060": {
+    "id": "192060",
+    "name": "Anleitung der Séance-Zeitung",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Anleitung der Séance-Zeitung",
+    "come_from": []
+  },
+  "192061": {
+    "id": "192061",
+    "name": "Vernünftige Vermutungen zum Mechanismus von Phantasmond-Spielen",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Vernünftige Vermutungen zum Mechanismus von Phantasmond-Spielen",
+    "come_from": []
+  },
+  "192062": {
+    "id": "192062",
+    "name": "Übersicht über Ploo Industries",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Übersicht über Ploo Industries",
+    "come_from": []
+  },
+  "192063": {
+    "id": "192063",
+    "name": "Handbuch zur Betriebsbeobachtung des Donnerdrachen",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Handbuch zur Betriebsbeobachtung des Donnerdrachen",
+    "come_from": []
+  },
+  "192064": {
+    "id": "192064",
+    "name": "Vorwort zu den Grundlagenstudien der Wunschkraft",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Vorwort zu den Grundlagenstudien der Wunschkraft",
+    "come_from": []
+  },
+  "192065": {
+    "id": "192065",
+    "name": "Gemeinsame Petition zur Wiederherstellung des bemalten Zustands von Seafeld City",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Gemeinsame Petition zur Wiederherstellung des bemalten Zustands von Seafeld City",
+    "come_from": []
+  },
+  "192066": {
+    "id": "192066",
+    "name": "Aufzeichnungen zur Kultivierung von Versuchsobjekt A",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Aufzeichnungen zur Kultivierung von Versuchsobjekt A",
+    "come_from": []
+  },
+  "192067": {
+    "id": "192067",
+    "name": "Jahrbuch der Absolventen der Klasse von 1984: Füllwunsch",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Jahrbuch der Absolventen der Klasse von 1984: Füllwunsch",
+    "come_from": []
+  },
+  "192068": {
+    "id": "192068",
+    "name": "Über Füllwunschs Pläne für eine Varieté-Show",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Über Füllwunschs Pläne für eine Varieté-Show",
+    "come_from": []
+  },
+  "192069": {
+    "id": "192069",
+    "name": "Etikett auf der Sparkle-Puppe",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190005.png",
+    "desc": "Etikett auf der Sparkle-Puppe",
+    "come_from": []
+  },
+  "192070": {
+    "id": "192070",
+    "name": "Statisten-Handbuch",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190005.png",
+    "desc": "Statisten-Handbuch",
+    "come_from": []
+  },
+  "192071": {
+    "id": "192071",
+    "name": "Präoperative psychologische Bewertungsaufzeichnung",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Präoperative psychologische Bewertungsaufzeichnung",
+    "come_from": []
+  },
+  "192072": {
+    "id": "192072",
+    "name": "Ozeanischer Anomaliebericht",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Ozeanischer Anomaliebericht",
+    "come_from": []
+  },
+  "192073": {
+    "id": "192073",
+    "name": "TV-Chroniken von Seafeld",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "TV-Chroniken von Seafeld",
+    "come_from": []
+  },
+  "192074": {
+    "id": "192074",
+    "name": "Briefe an den Detektiv",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190003.png",
+    "desc": "Briefe an den Detektiv",
+    "come_from": []
+  },
+  "192075": {
+    "id": "192075",
+    "name": "Die besten Kassetten aller Zeiten",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Die besten Kassetten aller Zeiten",
+    "come_from": []
+  },
+  "192076": {
+    "id": "192076",
+    "name": "Geschichten über Absenti",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Geschichten über Absenti",
+    "come_from": []
+  },
+  "192077": {
+    "id": "192077",
+    "name": "Tut mir nicht leid, dir das mitteilen zu müssen",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Tut mir nicht leid, dir das mitteilen zu müssen",
+    "come_from": []
+  },
+  "192078": {
+    "id": "192078",
+    "name": "Interne Petition von Wunscherfüllungs-TV",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Interne Petition von Wunscherfüllungs-TV",
+    "come_from": []
+  },
+  "192079": {
+    "id": "192079",
+    "name": "Beobachtungen der Forschungsgesellschaft für glückliches Lächeln",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Beobachtungen der Forschungsgesellschaft für glückliches Lächeln",
+    "come_from": []
+  },
+  "192080": {
+    "id": "192080",
+    "name": "Yoyos Briefe",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190003.png",
+    "desc": "Yoyos Briefe",
+    "come_from": []
+  },
+  "192081": {
+    "id": "192081",
+    "name": "Annäherung an die Wissenschaft: Die geheimnisvolle Dunkle Zone",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Annäherung an die Wissenschaft: Die geheimnisvolle Dunkle Zone",
+    "come_from": []
+  },
+  "192082": {
+    "id": "192082",
+    "name": "Finde den „Kraken“",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190023.png",
+    "desc": "Finde den „Kraken“",
+    "come_from": []
+  },
+  "192083": {
+    "id": "192083",
+    "name": "So nah, so schön. Verbring dein Wochenende in Seafeld City.",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190002.png",
+    "desc": "So nah, so schön. Verbring dein Wochenende in Seafeld City.",
+    "come_from": []
+  },
+  "192084": {
+    "id": "192084",
+    "name": "Schwarzes Brett am Hafen",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190002.png",
+    "desc": "Schwarzes Brett am Hafen",
+    "come_from": []
+  },
+  "192085": {
+    "id": "192085",
+    "name": "Legende vom heiligen Baum der schwebenden Insel",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Legende vom heiligen Baum der schwebenden Insel",
+    "come_from": []
+  },
+  "192086": {
+    "id": "192086",
+    "name": "Glücksversprechen von Seafeld",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Glücksversprechen von Seafeld",
+    "come_from": []
+  },
+  "192087": {
+    "id": "192087",
+    "name": "Skript der Late-Night-Radiosendung",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "Skript der Late-Night-Radiosendung",
+    "come_from": []
+  },
+  "192088": {
+    "id": "192088",
+    "name": "„Murata“ – Kulturstudie",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190022.png",
+    "desc": "„Murata“ – Kulturstudie",
+    "come_from": []
+  },
+  "192089": {
+    "id": "192089",
+    "name": "Chroniken des schwimmenden Schmieröls: Kapitel des Frosches (III)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Chroniken des schwimmenden Schmieröls: Kapitel des Frosches (III)",
+    "come_from": []
+  },
+  "192090": {
+    "id": "192090",
+    "name": "Chroniken des schwimmenden Schmieröls: Kapitel des Fuchses (VII)",
+    "type": "Usable",
+    "sub_type": "Book",
+    "rarity": 1,
+    "icon": "icon/item/190021.png",
+    "desc": "Chroniken des schwimmenden Schmieröls: Kapitel des Fuchses (VII)",
     "come_from": []
   },
   "210001": {
@@ -23871,6 +24752,196 @@
     "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Komische Sinfonie“.",
     "come_from": []
   },
+  "210451": {
+    "id": "210451",
+    "name": "„Endstation Freude“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Endstation Freude“.",
+    "come_from": []
+  },
+  "210452": {
+    "id": "210452",
+    "name": "„Glücksverheißender Schnee“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Glücksverheißender Schnee“.",
+    "come_from": []
+  },
+  "210453": {
+    "id": "210453",
+    "name": "„Versprechen der Festlichkeit“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Versprechen der Festlichkeit“.",
+    "come_from": []
+  },
+  "210454": {
+    "id": "210454",
+    "name": "„Kosmische Bootsfahrt“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Kosmische Bootsfahrt“.",
+    "come_from": []
+  },
+  "210455": {
+    "id": "210455",
+    "name": "„Der Drache streift durch kalte Tiefen“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Der Drache streift durch kalte Tiefen“.",
+    "come_from": []
+  },
+  "210456": {
+    "id": "210456",
+    "name": "„Duell der Gerechtigkeit“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Duell der Gerechtigkeit“.",
+    "come_from": []
+  },
+  "210457": {
+    "id": "210457",
+    "name": "„Land der Vergessenheit“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Land der Vergessenheit“.",
+    "come_from": []
+  },
+  "210458": {
+    "id": "210458",
+    "name": "„Stahl und Entschlossenheit“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Stahl und Entschlossenheit“.",
+    "come_from": []
+  },
+  "210459": {
+    "id": "210459",
+    "name": "„Versammlung der Helden“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Versammlung der Helden“.",
+    "come_from": []
+  },
+  "210460": {
+    "id": "210460",
+    "name": "„Verborgene Perle“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Verborgene Perle“.",
+    "come_from": []
+  },
+  "210461": {
+    "id": "210461",
+    "name": "„Hör mal! Der Motor brummt“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Hör mal! Der Motor brummt“.",
+    "come_from": []
+  },
+  "210462": {
+    "id": "210462",
+    "name": "„Leere Radiowellen“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Leere Radiowellen“.",
+    "come_from": []
+  },
+  "210463": {
+    "id": "210463",
+    "name": "„Wir amüsieren uns zu Tode“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Wir amüsieren uns zu Tode“.",
+    "come_from": []
+  },
+  "210464": {
+    "id": "210464",
+    "name": "„Das Zeitalter der Massenmedien“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Das Zeitalter der Massenmedien“.",
+    "come_from": []
+  },
+  "210465": {
+    "id": "210465",
+    "name": "„Von oben herab“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Von oben herab“.",
+    "come_from": []
+  },
+  "210466": {
+    "id": "210466",
+    "name": "„Küstenstädtchen“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Küstenstädtchen“.",
+    "come_from": []
+  },
+  "210467": {
+    "id": "210467",
+    "name": "„Schweben“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Schweben“.",
+    "come_from": []
+  },
+  "210468": {
+    "id": "210468",
+    "name": "„Wucherndes Wachstum“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Wucherndes Wachstum“.",
+    "come_from": []
+  },
+  "210469": {
+    "id": "210469",
+    "name": "„Tod und Wiedergeburt“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Eine Schallplatte, die auf dem Grammofon des Expresses abgespielt werden kann. Sie könnte ein Gelegenheitskauf oder ein Geschenk von jemandem gewesen sein. Alle möglichen Erinnerungen kommen hoch, wenn die Musik spielt – das Lächeln, die Begegnungen, die Berührungen und die Aufregung der Schlacht. Vielleicht ist das der Grund, warum Menschen immer noch Schallplatten sammeln, auch wenn sich die Gesellschaft rasant weiterentwickelt.\nDie aktuelle Platte enthält den Titel „Tod und Wiedergeburt“.",
+    "come_from": []
+  },
   "215001": {
     "id": "215001",
     "name": "„Plätschern“",
@@ -23909,6 +24980,16 @@
     "rarity": 3,
     "icon": "icon/item/210001.png",
     "desc": "Im Universum gibt es unzählige Klänge, jeder von einzigartiger Schönheit. Möge diese Schönheit stets deine Ohren begleiten und dein Herz erquicken.\nDie aktuelle Scheibe enthält „Flüstern“.",
+    "come_from": []
+  },
+  "215008": {
+    "id": "215008",
+    "name": "„Die Sprache der Bäume“",
+    "type": "Usable",
+    "sub_type": "MusicAlbum",
+    "rarity": 3,
+    "icon": "icon/item/210001.png",
+    "desc": "Im Universum gibt es unzählige Klänge, jeder von einzigartiger Schönheit. Möge diese Schönheit stets deine Ohren begleiten und dein Herz erquicken.\nDie aktuelle Scheibe enthält „Die Sprache der Bäume“.",
     "come_from": []
   },
   "220000": {
@@ -24030,6 +25111,18 @@
     "desc": "Nachrichten- und Chatfenster. Nach dem Erhalt können sie in den Nachrichten- und Chat-Funktionen ausgewählt werden.",
     "come_from": [
       "Chatfenster, erhältlich bei der Aktion „Awuuh-Meisterschaft von Chrysos“"
+    ]
+  },
+  "220010": {
+    "id": "220010",
+    "name": "Wahrheit im Aufruhr",
+    "type": "Usable",
+    "sub_type": "ChatBubble",
+    "rarity": 4,
+    "icon": "icon/item/220010.png",
+    "desc": "Nachrichten- und Chatfenster. Nach dem Erhalt können sie in den Nachrichten- und Chat-Funktionen ausgewählt werden.",
+    "come_from": [
+      "Chatfenster, erhältlich bei der Aktion „Kriegssaga der Wispaes“"
     ]
   },
   "221000": {
@@ -26933,7 +28026,7 @@
     "icon": "icon/item/227007.png",
     "desc": "Das im System oft gesehene Symbol „Wird geladen ...“, ausgestattet mit dynamischen Lichteffekten.",
     "come_from": [
-      "Geschenkbox „Modischer Kopfschmuck“"
+      "Erhältlich im Shop „Modeaccessoires“"
     ]
   },
   "227008": {
@@ -26946,6 +28039,55 @@
     "desc": "Eine Origami-Maske im Waschbärenstil, die vorsichtig behandelt werden muss.",
     "come_from": [
       "Trailblaze-Mode, erhalten durch die Bestseller-Stufenbelohnung von „Furbokom“"
+    ]
+  },
+  "227009": {
+    "id": "227009",
+    "name": "Universaler Spitzentrend: Neon-Katzenohr-Kopfhörer",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227009.png",
+    "desc": "Ein Paar futuristische Katzenohr-Kopfhörer mit einem auffälligen, niedlichen Design, die in einem unverkennbaren rosa Neonlicht leuchten. Der perfekte Beweis dafür, dass du es {F#zur Top-Streamerin}{M#zum Top-Streamer} geschafft hast.",
+    "come_from": [
+      "Erhältlich im Shop „Geschenk des Sternenstaubs“"
+    ]
+  },
+  "227010": {
+    "id": "227010",
+    "name": "Große Verwandlung des Waschbären zu Evanefuchs",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227010.png",
+    "desc": "Ein Paar lange, schmale, rosafarbene Fuchsohren an einem Haarreif, deren Ränder mit feinen, silbernen Metallakzenten verziert sind und die mit außergewöhnlicher Sorgfalt gefertigt wurden.",
+    "come_from": [
+      "Geschenkbox „Flüchtiger Fuchsschatten“",
+      "Erhältlich im Shop „Modeaccessoires“"
+    ]
+  },
+  "227012": {
+    "id": "227012",
+    "name": "Furbobo-Brille",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 4,
+    "icon": "icon/item/227012.png",
+    "desc": "Mit ihrem breiten Gestell und den auffälligen, orange getönten Gläsern ist diese Furbokom-Spezialschutzbrille dafür gemacht, deine Augen im Chaos von Eilmeldungen vor Ort zu schützen.",
+    "come_from": [
+      "Erhältlich im Shop „Geschenk des Sternenstaubs“"
+    ]
+  },
+  "227013": {
+    "id": "227013",
+    "name": "Ultracoole Schutzbrille",
+    "type": "Usable",
+    "sub_type": "PlayerOutfit",
+    "rarity": 5,
+    "icon": "icon/item/227013.png",
+    "desc": "Mit halbtransparenten, mehrfarbigen Gläsern und blau-rosa Flammeneffekten an den Rändern ist diese Brille im Retro-Arcade-Stil rein optisch eine fast perfekte 1:1-Nachbildung des Originals.",
+    "come_from": [
+      "Geschenkbox „Kosmischer Schnelldurchlauf“"
     ]
   },
   "229001": {
@@ -29140,6 +30282,26 @@
     "desc": "Nach dem Platzieren im Museum der Wahrscheinlichkeit wird die Anzahl der erhaltenen Kosmischen Fragmente nach einem Kampfsieg in Divergentes Universum um 1 erhöht.",
     "come_from": []
   },
+  "250609": {
+    "id": "250609",
+    "name": "Pearl: Limitierte Edition",
+    "type": "Usable",
+    "sub_type": "RogueMedal",
+    "rarity": 4,
+    "icon": "icon/item/IconRogueTournCollection_PearlPigeon.png",
+    "desc": "Nach dem Platzieren im Museum der Wahrscheinlichkeit wird die Anzahl der kaufbaren Segen im Segensladen in Divergentes Universum um 1 erhöht.",
+    "come_from": []
+  },
+  "250610": {
+    "id": "250610",
+    "name": "Lautes Lachen",
+    "type": "Usable",
+    "sub_type": "RogueMedal",
+    "rarity": 4,
+    "icon": "icon/item/IconRogueTournCollection_TournPersonaMedal.png",
+    "desc": "Erhöht das Hochgefühl von Figuren in Divergentes Universum um 3 %.",
+    "come_from": []
+  },
   "250700": {
     "id": "250700",
     "name": "Taktisches Geheimnis: Fintenangriff",
@@ -29294,6 +30456,16 @@
     "desc": "Diese im Garten des Lebens registrierte kleine Chimäre widmet sich weniger ernsthaft ihrer Arbeit, sondern äußert lieber ihre Meinung zu allem, was um sie herum geschieht.",
     "come_from": []
   },
+  "251004": {
+    "id": "251004",
+    "name": "Furbobo-Pressekorps",
+    "type": "Pet",
+    "sub_type": "NormalPet",
+    "rarity": 5,
+    "icon": "icon/item/251004.png",
+    "desc": "Das Furbobo-Pressekorps, angeführt von Furbulitzer, deine vertrauenswürdigsten, gesprächigsten Mitarbeiter mit der besten Work-Life-Balance.",
+    "come_from": []
+  },
   "252000": {
     "id": "252000",
     "name": "Ehrwürdiges Rot! Schaffneruniform",
@@ -29326,6 +30498,30 @@
     "desc": "Die Uniform des Schaffners. Du kannst das Outfit in „Pom-Poms Kleiderschrank“ im Partywagen anprobieren.",
     "come_from": [
       "Erhältlich im Laden „Geschenk des Sternenstaubs“"
+    ]
+  },
+  "252003": {
+    "id": "252003",
+    "name": "Festkleidung „Zeit des Trailblaze“",
+    "type": "Usable",
+    "sub_type": "PamSkin",
+    "rarity": 4,
+    "icon": "icon/item/252003.png",
+    "desc": "Die Uniform des Schaffners. Du kannst das Outfit in „Pom-Poms Kleiderschrank“ im Partywagen anprobieren.",
+    "come_from": [
+      "Erhältlich nach dem Gespräch mit Pom-Pom in „Pom-Pom-Helfer“"
+    ]
+  },
+  "252004": {
+    "id": "252004",
+    "name": "Goldener Traum! Festkleidung",
+    "type": "Usable",
+    "sub_type": "PamSkin",
+    "rarity": 5,
+    "icon": "icon/item/252004.png",
+    "desc": "Die Uniform des Schaffners. Du kannst das Outfit in „Pom-Poms Kleiderschrank“ im Partywagen anprobieren.",
+    "come_from": [
+      "Erhältlich im Shop „Geschenk des Sternenstaubs“"
     ]
   },
   "252100": {
@@ -31168,6 +32364,18 @@
     "desc": "Nur ein Phantasmond, der in Konfettirollen bläst.",
     "come_from": []
   },
+  "253004": {
+    "id": "253004",
+    "name": "Arcadia-Rush",
+    "type": "Usable",
+    "sub_type": "PersonalCard",
+    "rarity": 5,
+    "icon": "icon/item/253004.png",
+    "desc": "Eine Top-Spielerin flitzt durch eine Miniaturstadt, fest entschlossen, keine einzige Goldmünze zurückzulassen. Was meinst du? Schafft sie es bis ganz ans Ende?",
+    "come_from": [
+      "Geschenkbox „Kosmischer Schnelldurchlauf“"
+    ]
+  },
   "254000": {
     "id": "254000",
     "name": "{NICKNAME}s freier Wille",
@@ -32024,6 +33232,126 @@
       "Erhältlich im Erweiterungsset 1 im Shop des Kosmikon-Kollektivs"
     ]
   },
+  "264026": {
+    "id": "264026",
+    "name": "Silberwolf St. 999",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264027": {
+    "id": "264027",
+    "name": "Evanescia",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264028": {
+    "id": "264028",
+    "name": "{NICKNAME}",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264029": {
+    "id": "264029",
+    "name": "Ashveil",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264030": {
+    "id": "264030",
+    "name": "Sonntag",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264031": {
+    "id": "264031",
+    "name": "Blade",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264032": {
+    "id": "264032",
+    "name": "Hysilens",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264033": {
+    "id": "264033",
+    "name": "Tribbie",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264034": {
+    "id": "264034",
+    "name": "Ruan Mei",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264035": {
+    "id": "264035",
+    "name": "Himeko",
+    "type": "Material",
+    "sub_type": "DiceCombatAvatar",
+    "rarity": 3,
+    "icon": "icon/item/264035.png",
+    "desc": "Eine in Kosmikon-Kollektiv-Partien verwendete Karte. Sie stammt aus dem Erweiterungsset 2.",
+    "come_from": [
+      "Schließe die Mission „Blut des einsamen Wolfs“ ab."
+    ]
+  },
   "264101": {
     "id": "264101",
     "name": "",
@@ -32106,7 +33434,7 @@
     "type": "Material",
     "sub_type": "DiceCombatDice",
     "rarity": 3,
-    "icon": "icon/item/264405.png",
+    "icon": "icon/item/264428.png",
     "desc": "Ein tiefgründiger, strahlender Glanzfarbenwürfel, der in Kosmikon-Kollektiv-Partien verwendet werden kann.",
     "come_from": [
       "Erhältlich im Erweiterungsset 1 im Shop des Kosmikon-Kollektivs"
@@ -32292,6 +33620,78 @@
       "Erhältlich im Erweiterungsset 1 im Shop des Kosmikon-Kollektivs"
     ]
   },
+  "264423": {
+    "id": "264423",
+    "name": "Echt: Giftsekret",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264423.png",
+    "desc": "Ein tiefgründiger, strahlender Glanzfarbenwürfel, der in Kosmikon-Kollektiv-Partien verwendet werden kann.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264424": {
+    "id": "264424",
+    "name": "Echt: Aufladen",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264426.png",
+    "desc": "Ein tiefgründiger, strahlender Glanzfarbenwürfel, der in Kosmikon-Kollektiv-Partien verwendet werden kann.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264425": {
+    "id": "264425",
+    "name": "Echt: Glück",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264425.png",
+    "desc": "Ein tiefgründiger, strahlender Glanzfarbenwürfel, der in Kosmikon-Kollektiv-Partien verwendet werden kann.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264426": {
+    "id": "264426",
+    "name": "Echt: Ansturm",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264424.png",
+    "desc": "Ein tiefgründiger, strahlender Glanzfarbenwürfel, der in Kosmikon-Kollektiv-Partien verwendet werden kann.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264427": {
+    "id": "264427",
+    "name": "Echt: Verteidigung",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264427.png",
+    "desc": "Ein tiefgründiger, strahlender Glanzfarbenwürfel, der in Kosmikon-Kollektiv-Partien verwendet werden kann.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
+  "264428": {
+    "id": "264428",
+    "name": "Echt: Ausdauer",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264428.png",
+    "desc": "Ein tiefgründiger, strahlender Glanzfarbenwürfel, der in Kosmikon-Kollektiv-Partien verwendet werden kann.",
+    "come_from": [
+      "Erhältlich im Erweiterungsset 2 im Shop des Kosmikon-Kollektivs"
+    ]
+  },
   "264502": {
     "id": "264502",
     "name": "",
@@ -32328,7 +33728,7 @@
     "type": "Material",
     "sub_type": "DiceCombatDice",
     "rarity": 3,
-    "icon": "icon/item/264405.png",
+    "icon": "icon/item/264428.png",
     "desc": "",
     "come_from": []
   },
@@ -32482,6 +33882,26 @@
     "desc": "",
     "come_from": []
   },
+  "264523": {
+    "id": "264523",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264426.png",
+    "desc": "",
+    "come_from": []
+  },
+  "264524": {
+    "id": "264524",
+    "name": "",
+    "type": "Material",
+    "sub_type": "DiceCombatDice",
+    "rarity": 3,
+    "icon": "icon/item/264423.png",
+    "desc": "",
+    "come_from": []
+  },
   "264996": {
     "id": "264996",
     "name": "Kraftmünze",
@@ -32516,6 +33936,7 @@
     "icon": "icon/item/264998.png",
     "desc": "Der glitzernde Staub, der nach einer Partie Kosmikon-Kollektiv aufsteigt. Er soll die Spur sein, die der Zusammenprall der Willen der Würfelspieler hinterlässt. Wenn man eine bestimmte Menge davon sammelt, können die eigenen Karten in neuem Glanz erstrahlen.",
     "come_from": [
+      "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel erneut fallen! Kollektiv!“",
       "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel fallen! Kollektiv!“",
       "Erhalten durch Partien gegen Kartenspieler bei der Erkundung von Planarcadia"
     ]
@@ -32529,6 +33950,7 @@
     "icon": "icon/item/264999.png",
     "desc": "Kann verwendet werden, um die Erfahrungsstufe im Kosmikon-Kollektiv zu erhöhen. Sie repräsentiert die Kampferfahrung eines Würfelspielers in der Welt des Kosmikon-Kollektivs. Je höher die Erfahrung, desto leichter gewinnt man den Respekt anderer – zumindest wird das in Würfelspielerkreisen so erzählt.",
     "come_from": [
+      "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel erneut fallen! Kollektiv!“",
       "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel fallen! Kollektiv!“",
       "Erhalten durch Partien gegen Kartenspieler bei der Erkundung von Planarcadia"
     ]
@@ -33013,6 +34435,56 @@
     "desc": "",
     "come_from": []
   },
+  "266001": {
+    "id": "266001",
+    "name": "Goldmünze",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266001.png",
+    "desc": "Ein spezieller Token dieses Gaming-Livestreams, der verwendet werden kann, um Figurenplätze im Spiel hochzustufen.",
+    "come_from": []
+  },
+  "266002": {
+    "id": "266002",
+    "name": "Talentpunkt",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266002.png",
+    "desc": "Ein spezieller Token dieses Gaming-Livestreams, mit denen Talentknoten im Spiel freigeschaltet werden können.",
+    "come_from": []
+  },
+  "266003": {
+    "id": "266003",
+    "name": "Überraschungstruhe",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266003.png",
+    "desc": "Ein spezieller Gegenstand für diesen Gaming-Livestream. Beim Öffnen erhältst du im Spiel eine große Menge Ausrüstung.",
+    "come_from": []
+  },
+  "266004": {
+    "id": "266004",
+    "name": "",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/300103.png",
+    "desc": "",
+    "come_from": []
+  },
+  "266005": {
+    "id": "266005",
+    "name": "Diamant",
+    "type": "Material",
+    "sub_type": "IdleLiveItem",
+    "rarity": 4,
+    "icon": "icon/item/266005.png",
+    "desc": "Ein spezieller Token dieses Gaming-Livestreams, der zum Ziehen neuer Figuren im Spiel verwendet werden kann.",
+    "come_from": []
+  },
   "267001": {
     "id": "267001",
     "name": "",
@@ -33022,6 +34494,18 @@
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "",
     "come_from": []
+  },
+  "269001": {
+    "id": "269001",
+    "name": "Bemalte Kraftmünze",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/269001.png",
+    "desc": "Eine spezielle Währung, die im Laden des Kosmikon-Kollektivs verwendet werden. Sie wird während der Aktion ausgegeben und kann gegen Inhalte aus dem Erweiterungsset 2 eingetauscht werden.",
+    "come_from": [
+      "Erhalten durch die Teilnahme an der Aktion „Lasst die Würfel erneut fallen! Kollektiv!“"
+    ]
   },
   "270000": {
     "id": "270000",
@@ -33089,6 +34573,26 @@
     "rarity": 4,
     "icon": "icon/item/270005.png",
     "desc": "Die von Apophis handgefertigten Seehund-Marken. Jede davon ist einzigartig. Damit kannst du im Seehündchen-Laden Seehündchen kaufen.",
+    "come_from": []
+  },
+  "270006": {
+    "id": "270006",
+    "name": "Wunschkraftkristall",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/281038.png",
+    "desc": "Ein kristallines Körnchen, geformt aus Spuren von Wunschkraft – der ultimative Nährstoff für Wispaes.",
+    "come_from": []
+  },
+  "270007": {
+    "id": "270007",
+    "name": "",
+    "type": "Material",
+    "sub_type": "Material",
+    "rarity": 3,
+    "icon": "icon/item/270005.png",
+    "desc": "",
     "come_from": []
   },
   "281001": {
@@ -33311,6 +34815,16 @@
     "rarity": 3,
     "icon": "icon/item/Icon_Testmaterial01.png",
     "desc": "",
+    "come_from": []
+  },
+  "281030": {
+    "id": "281030",
+    "name": "Kassette",
+    "type": "Virtual",
+    "sub_type": "Virtual",
+    "rarity": 3,
+    "icon": "icon/item/281030.png",
+    "desc": "Eine einzigartige Spielkassette zum Freischalten und Verstärken von Gegenständen in „Chroniken von Arcadia“.",
     "come_from": []
   },
   "281031": {
@@ -33911,6 +35425,16 @@
     "rarity": 5,
     "icon": "icon/item/310013.png",
     "desc": "Ein Abkommen über gegenseitige Hilfe zwischen Herta und dem Express. Im Austausch gegen Schätze, die während des Trailblaze gefunden werden, unterstützt sie den Express, wann immer sie kann.",
+    "come_from": []
+  },
+  "310014": {
+    "id": "310014",
+    "name": "Geschenkbox „Kosmischer Schnelldurchlauf“",
+    "type": "Usable",
+    "sub_type": "Gift",
+    "rarity": 5,
+    "icon": "icon/item/Icon_Testmaterial01.png",
+    "desc": "Kann die Trailblaze-Mode „Ultracoole Schutzbrille“ und die Namenskarte „Arcadia-Rush“ erhalten.",
     "come_from": []
   },
   "311000": {

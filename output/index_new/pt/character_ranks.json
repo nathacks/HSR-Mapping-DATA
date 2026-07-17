@@ -1231,7 +1231,7 @@
     "id": "110201",
     "name": "Golpe Extirpador",
     "rank": 1,
-    "desc": "Ao causar Dano a um inimigo com 80%% ou menos de PV, a Chance de CRIT aumenta em 15%%.",
+    "desc": "Ao causar Dano a um inimigo com 80%% ou menos de PV, aumenta a Chance de CRIT em 15%%.",
     "materials": [
       {
         "id": "11102",
@@ -1319,7 +1319,7 @@
     "id": "110206",
     "name": "Confusão Devastadora",
     "rank": 6,
-    "desc": "Após Seele usar sua Perícia Suprema, inflige \"Enxurrada de Borboletas\" ao inimigo atacado por 1 rodada(s). Inimigos no estado de \"Enxurrada de Borboletas\" recebem adicionalmente 1 instância de Dano Quântico Adicional igual a 15%% do Dano da Perícia Suprema de Seele cada vez que forem atacados. Se o inimigo-alvo for derrotado pelo Dano Adicional de \"Enxurrada de Borboletas\" ativado pelo ataque de outros aliados, o Talento de Seele não poderá ser ativado.\nQuando Seele é derrubada, a \"Enxurrada de Borboletas\" infligida aos inimigos é removida.",
+    "desc": "Após atacar com sua Perícia Suprema, Seele inflige \"Enxurrada de Borboletas\" no inimigo-alvo por 1 rodada(s). Inimigos no estado de \"Enxurrada de Borboletas\" recebem adicionalmente 1 instância de Dano Quântico Adicional igual a 15%% do Dano da Perícia Suprema de Seele sempre que forem atacados. Se o inimigo-alvo for derrotado pelo Dano Adicional de \"Enxurrada de Borboletas\" ativado pelo ataque de outros aliados, o Talento de Seele não poderá ser ativado.\nQuando Seele é derrubada, a \"Enxurrada de Borboletas\" infligida aos inimigos é removida.",
     "materials": [
       {
         "id": "11102",
@@ -8287,6 +8287,352 @@
     "level_up_skills": [],
     "icon": "icon/skill/1502_rank6.png"
   },
+  "150401": {
+    "id": "150401",
+    "name": "Atenção: Não se Aventure na Lua Cheia",
+    "rank": 1,
+    "desc": "Enquanto Ashveil está em campo, aumenta o Dano recebido por todos os inimigos em 24%%. Quando a porcentagem de PV atual de um inimigo-alvo for 50%% ou menor, o Dano recebido por ele aumenta para 36%%.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank1.png"
+  },
+  "150402": {
+    "id": "150402",
+    "name": "Batidas: Onde os Risos Ecoam",
+    "rank": 2,
+    "desc": "O limite máximo de acúmulos de \"Gula\" aumenta para 18. Sempre que Ashveil realizar o Ataque Extra do Talento aprimorado, restaura 35%% dos acúmulos de \"Gula\" removidos.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank2.png"
+  },
+  "150403": {
+    "id": "150403",
+    "name": "Silêncio: Subentendido Entre Amigos",
+    "rank": 3,
+    "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150403",
+        "num": 2
+      },
+      {
+        "id": "150401",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1504_ultra.png"
+  },
+  "150404": {
+    "id": "150404",
+    "name": "Atenção: Engolir a Verdade por Inteira",
+    "rank": 4,
+    "desc": "Quando Ashveil usa a sua Perícia Suprema, aumenta o ATQ em 40%% por 3 rodada(s).",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank4.png"
+  },
+  "150405": {
+    "id": "150405",
+    "name": "Cuidado: O Detetive Se Torna o Assassino",
+    "rank": 5,
+    "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150402",
+        "num": 2
+      },
+      {
+        "id": "150404",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/1504_bp.png"
+  },
+  "150406": {
+    "id": "150406",
+    "name": "Final: E Então Não Restou Nenhum",
+    "rank": 6,
+    "desc": "Quando a \"Isca\" existir no campo, reduz a RES a Todos os Tipos de todos os inimigos em 20%%. Para cada 1 acúmulo de \"Gula\" que Ashveil ganhou, o Dano causado aumenta em 4%%. Esse efeito pode acumular até 30 vez(es).",
+    "materials": [
+      {
+        "id": "11504",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1504_rank6.png"
+  },
+  "150501": {
+    "id": "150501",
+    "name": "Lar: Uma Prece em Dança",
+    "rank": 1,
+    "desc": "Aumenta a PEN de RES a Todos os Tipos em 20%%. Depois que a \"Mestre Raposinha\" usa um ataque, aciona adicionalmente 1 instância de Perícia da Euforia. A Perícia da Euforia concede adicionalmente a essa unidade 10 ponto(s) de \"Mandou Bem\".",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank1.png"
+  },
+  "150502": {
+    "id": "150502",
+    "name": "Viagem: Um Desejo Pelo Desabrochar",
+    "rank": 2,
+    "desc": "O Dano CRIT aumenta em 36%%. Ao ativar o efeito de ganho de \"Mandou Bem\" do Rastro \"Contemplação do Alvoroço\"/\"Florescimento Perene\", ganha adicionalmente \"Mandou Bem\" equivalente a 50%%/1% do \"Mandou Bem\" obtido desta vez.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank2.png"
+  },
+  "150503": {
+    "id": "150503",
+    "name": "Lâmina: Um Banquete de Maldades",
+    "rank": 3,
+    "desc": "Nv. da Perícia Suprema +2, até um máximo de Nv. 15.\nNv. do ATQ Básico +1, até um máximo de Nv. 10.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150503",
+        "num": 2
+      },
+      {
+        "id": "150501",
+        "num": 1
+      },
+      {
+        "id": "150520",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1505_ultra.png"
+  },
+  "150504": {
+    "id": "150504",
+    "name": "Prado: Uma Destruição Pelo Vício",
+    "rank": 4,
+    "desc": "O Dano causado por Evanescia ignora 15%% da DEF do inimigo-alvo.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank4.png"
+  },
+  "150505": {
+    "id": "150505",
+    "name": "Arcádia: Um Vislumbre dos Destinos",
+    "rank": 5,
+    "desc": "Nv. da Perícia +2, até um máximo de Nv. 15.\nNv. do Talento +2, até um máximo de Nv. 15.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150502",
+        "num": 2
+      },
+      {
+        "id": "150504",
+        "num": 2
+      },
+      {
+        "id": "150520",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1505_bp.png"
+  },
+  "150506": {
+    "id": "150506",
+    "name": "Donzela: Um Passo Rumo aos Sonhos",
+    "rank": 6,
+    "desc": "A duração do \"Mandou Bem\" de Evanescia aumenta em 1 rodada(s). O Dano de Euforia causado por Evanescia fica 15%% mais \"galhofa\". Para cada 100 pontos de \"Mandou Bem\" mantidos, fica mais \"galhofa\" adicionalmente em #3[f1]%. Até 1.000 pontos de \"Mandou Bem\" podem ser levados em conta. Após usar a Perícia Suprema pela primeira vez ao entrar em combate, regenera uma quantidade fixa de 120 de Energia para Evanescia. Esse efeito pode ser ativado 1 vez a cada 4 usos adicionais da Perícia Suprema.",
+    "materials": [
+      {
+        "id": "11505",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1505_rank6.png"
+  },
+  "150601": {
+    "id": "150601",
+    "name": "Edição de Éter: Eidolon +1",
+    "rank": 1,
+    "desc": "Os inimigos-alvo no Campo recebem 20%% a mais de Dano.\nAo sair do estado de \"Jogadora Imbatível\", o \"MMR Oculto\" não será zerado. Em vez disso, 20%% do \"MMR Oculto\" será retido.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank1.png"
+  },
+  "150602": {
+    "id": "150602",
+    "name": "É Uma Função, Não Um Bug",
+    "rank": 2,
+    "desc": "Após entrar no estado de \"Jogadora Imbatível\", estende a duração de todas as melhorias nesta unidade por 1 rodada. No estado de \"Jogadora Imbatível\" atual, para cada 120 ponto(s) de \"MMR Oculto\" aumentado(s) (incluindo o \"MMR Oculto\" inicial), Loba Prateada Nv. 999 ganha 1 rodada extra e recupera 1 uso de ATQ Básico Aprimorado.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank2.png"
+  },
+  "150603": {
+    "id": "150603",
+    "name": "Quem Disse que o Nv. 15 é o Máximo?",
+    "rank": 3,
+    "desc": "Nv. da Perícia +2, até um máximo de Nv. 15.\nNv. do ATQ Básico +1, até um máximo de Nv. 10.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150602",
+        "num": 2
+      },
+      {
+        "id": "150601",
+        "num": 1
+      },
+      {
+        "id": "150620",
+        "num": 1
+      },
+      {
+        "id": "150608",
+        "num": 1
+      },
+      {
+        "id": "150610",
+        "num": 1
+      },
+      {
+        "id": "150612",
+        "num": 1
+      },
+      {
+        "id": "150618",
+        "num": 1
+      },
+      {
+        "id": "150621",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1506_bp.png"
+  },
+  "150604": {
+    "id": "150604",
+    "name": "Eu vim. Eu vi. Eu... Derrotei!",
+    "rank": 4,
+    "desc": "O Dano de Euforia causado por \"Demonstração de Dano do Honkai\" adicionalmente leva em consideração \"Piada\", igual ao valor original multiplicado por 5.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank4.png"
+  },
+  "150605": {
+    "id": "150605",
+    "name": "ATQ Básico É a Nova Perícia Suprema",
+    "rank": 5,
+    "desc": "Nv. da Perícia Suprema +2, até um máximo de Nv. 15.\nNv. do Talento +2, até um máximo de Nv. 15.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "150603",
+        "num": 2
+      },
+      {
+        "id": "150604",
+        "num": 2
+      },
+      {
+        "id": "150620",
+        "num": 1
+      },
+      {
+        "id": "150621",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/1506_ultra.png"
+  },
+  "150606": {
+    "id": "150606",
+    "name": "Eu Upei Sozinha!",
+    "rank": 6,
+    "desc": "O Dano de Euforia causado durante o ATQ Básico Aprimorado fica 50%% mais \"galhofa\".\nQuando inimigos-alvo entram em combate, eles são implantados com \"Fraqueza Absoluta\": possui Fraqueza contra Todos os Tipos, e reduz a RES Base de Todos os Tipos deles para 0. (Se a RES Base já estiver em 0, então a RES do Tipo correspondente diminui em 20%% em vez disso).",
+    "materials": [
+      {
+        "id": "11506",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/1506_rank6.png"
+  },
   "800101": {
     "id": "800101",
     "name": "Uma Estrela Cadente",
@@ -9183,6 +9529,328 @@
     "level_up_skills": [],
     "icon": "icon/skill/8007_rank6.png"
   },
+  "800901": {
+    "id": "800901",
+    "name": "Acredite na Luz",
+    "rank": 1,
+    "desc": "Após usar a Perícia, a próxima Perícia Suprema aumenta a quantidade de \"Mandou Bem\" obtida pelos aliados-alvo em 2. Esse efeito pode acumular até 3 vez(es).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank1.png"
+  },
+  "800902": {
+    "id": "800902",
+    "name": "Fazendo História...",
+    "rank": 2,
+    "desc": "A Perícia Suprema aumenta adicionalmente a \"Euforia\" de um aliado designado em 12%%, durando por 2 rodada(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank2.png"
+  },
+  "800903": {
+    "id": "800903",
+    "name": "Nos Holofotes",
+    "rank": 3,
+    "desc": "Nv. da Perícia +2, até um máximo de Nv. 15.\nNv. do Talento +2, até um máximo de Nv. 15.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "800902",
+        "num": 2
+      },
+      {
+        "id": "800904",
+        "num": 2
+      },
+      {
+        "id": "800920",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_bp.png"
+  },
+  "800904": {
+    "id": "800904",
+    "name": "Salvar o Mundo. Só Porque Sim.",
+    "rank": 4,
+    "desc": "Ao usar a Perícia da Euforia, aumenta o Dano recebido pelos inimigos-alvo em 10%%, durando por 2 rodada(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank4.png"
+  },
+  "800905": {
+    "id": "800905",
+    "name": "Amor e Coragem: Sempre Estilosos",
+    "rank": 5,
+    "desc": "Nv. da Perícia Suprema +2, até um máximo de Nv. 15.\nNv. do ATQ Básico +1, até um máximo de Nv. 10.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "800903",
+        "num": 2
+      },
+      {
+        "id": "800901",
+        "num": 1
+      },
+      {
+        "id": "800920",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_ultra.png"
+  },
+  "800906": {
+    "id": "800906",
+    "name": "Eis que Chega Uma Lenda Cósmica!",
+    "rank": 6,
+    "desc": "Ao usar a Perícia da Euforia, aumenta o Dano CRIT desta unidade em 1% por 3 rodadas.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank6.png"
+  },
+  "801001": {
+    "id": "801001",
+    "name": "Acredite na Luz",
+    "rank": 1,
+    "desc": "Após usar a Perícia, a próxima Perícia Suprema aumenta a quantidade de \"Mandou Bem\" obtida pelos aliados-alvo em 2. Esse efeito pode acumular até 3 vez(es).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank1.png"
+  },
+  "801002": {
+    "id": "801002",
+    "name": "Fazendo História...",
+    "rank": 2,
+    "desc": "A Perícia Suprema aumenta adicionalmente a \"Euforia\" de um aliado designado em 12%%, durando por 2 rodada(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank2.png"
+  },
+  "801003": {
+    "id": "801003",
+    "name": "Nos Holofotes",
+    "rank": 3,
+    "desc": "Nv. da Perícia +2, até um máximo de Nv. 15.\nNv. do Talento +2, até um máximo de Nv. 15.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "801002",
+        "num": 2
+      },
+      {
+        "id": "801004",
+        "num": 2
+      },
+      {
+        "id": "801020",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_bp.png"
+  },
+  "801004": {
+    "id": "801004",
+    "name": "Salvar o Mundo. Só Porque Sim.",
+    "rank": 4,
+    "desc": "Ao usar a Perícia da Euforia, aumenta o Dano recebido pelos inimigos-alvo em 10%%, durando por 2 rodada(s).",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank4.png"
+  },
+  "801005": {
+    "id": "801005",
+    "name": "Amor e Coragem: Sempre Estilosos",
+    "rank": 5,
+    "desc": "Nv. da Perícia Suprema +2, até um máximo de Nv. 15.\nNv. do ATQ Básico +1, até um máximo de Nv. 10.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "801003",
+        "num": 2
+      },
+      {
+        "id": "801001",
+        "num": 1
+      },
+      {
+        "id": "801020",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/8009_ultra.png"
+  },
+  "801006": {
+    "id": "801006",
+    "name": "Eis que Chega Uma Lenda Cósmica!",
+    "rank": 6,
+    "desc": "Ao usar a Perícia da Euforia, aumenta o Dano CRIT desta unidade em 1% por 3 rodadas.",
+    "materials": [
+      {
+        "id": "18009",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/8009_rank6.png"
+  },
+  "1100401": {
+    "id": "1100401",
+    "name": "Legado de Honra",
+    "rank": 1,
+    "desc": "Ao usar uma Perícia ou Perícia Suprema para atingir um alvo no estado de \"Sem Peso\", causa adicionalmente 1 instância de Dano Adicional Imaginário igual a 40%% do multiplicador de Dano da Perícia Suprema. Esse efeito só pode ser ativado uma vez por alvo por ataque.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank1.png"
+  },
+  "1100402": {
+    "id": "1100402",
+    "name": "Confluência Estelar",
+    "rank": 2,
+    "desc": "Quando seu Talento é ativado, Welt regenera 3 de Energia.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank2.png"
+  },
+  "1100403": {
+    "id": "1100403",
+    "name": "Prece da Paz",
+    "rank": 3,
+    "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1100402",
+        "num": 2
+      },
+      {
+        "id": "1100401",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11004_bp.png"
+  },
+  "1100404": {
+    "id": "1100404",
+    "name": "Apelação da Justiça",
+    "rank": 4,
+    "desc": "Inimigos-alvo no estado de \"Sem Peso\" têm sua RES a Todos os Tipos reduzida em 30%%.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank4.png"
+  },
+  "1100405": {
+    "id": "1100405",
+    "name": "Poder da Bondade",
+    "rank": 5,
+    "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1100403",
+        "num": 2
+      },
+      {
+        "id": "1100404",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11004_ultra.png"
+  },
+  "1100406": {
+    "id": "1100406",
+    "name": "Perspectiva Brilhante",
+    "rank": 6,
+    "desc": "Ao usar uma Perícia ou Perícia Suprema para atingir um inimigo-alvo no estado de \"Lentidão\", aumenta a Chance de CRIT em 30%% e o Dano CRIT em 60%% para o Dano causado.",
+    "materials": [
+      {
+        "id": "11004",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11004_rank6.png"
+  },
   "1100501": {
     "id": "1100501",
     "name": "Da Capo",
@@ -9386,6 +10054,108 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/11006_rank6.png"
+  },
+  "1110201": {
+    "id": "1110201",
+    "name": "Golpe Extirpador",
+    "rank": 1,
+    "desc": "Ao causar Dano a um inimigo com 80%% ou menos de PV, aumenta a Chance de CRIT em 15%% e ignora 20%% da DEF do alvo.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank1.png"
+  },
+  "1110202": {
+    "id": "1110202",
+    "name": "Borboleta Dançarina",
+    "rank": 2,
+    "desc": "O Bônus de VEL da Perícia de Seele pode acumular até 2 vez(es).",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank2.png"
+  },
+  "1110203": {
+    "id": "1110203",
+    "name": "Tumulto Deslumbrante",
+    "rank": 3,
+    "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1110202",
+        "num": 2
+      },
+      {
+        "id": "1110204",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11102_bp.png"
+  },
+  "1110204": {
+    "id": "1110204",
+    "name": "Fantasma Esvoaçante",
+    "rank": 4,
+    "desc": "Seele regenera 15 de Energia quando derrota um inimigo.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank4.png"
+  },
+  "1110205": {
+    "id": "1110205",
+    "name": "Estilhaços Perfurantes",
+    "rank": 5,
+    "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1110203",
+        "num": 2
+      },
+      {
+        "id": "1110201",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11102_ultra.png"
+  },
+  "1110206": {
+    "id": "1110206",
+    "name": "Confusão Devastadora",
+    "rank": 6,
+    "desc": "Após atacar com sua Perícia Suprema, Seele inflige \"Enxurrada de Borboletas\" no alvo por 3 rodada(s). Inimigos-alvo no estado de \"Enxurrada de Borboletas\" recebem adicionalmente 1 instância de Dano Verdadeiro igual a 30%% do Dano da Perícia Suprema de Seele após receberem um ataque. Quando o alvo sob o estado de \"Enxurrada de Borboletas\" é derrotado por qualquer unidade, o Talento de Seele também será ativado.\nQuando Seele é derrubada, a \"Enxurrada de Borboletas\" infligida aos inimigos é removida.",
+    "materials": [
+      {
+        "id": "11102",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11102_rank6.png"
   },
   "1120501": {
     "id": "1120501",
@@ -9599,6 +10369,108 @@
     "level_up_skills": [],
     "icon": "icon/skill/11212_rank6.png"
   },
+  "1121701": {
+    "id": "1121701",
+    "name": "Ancorada ao Receptáculo, Espectros Aninhados",
+    "rank": 1,
+    "desc": "A duração da \"Provisão Divina\" produzida pelo Talento é estendida em 1 rodada(s). Quando Huohuo possui \"Provisão Divina\", sua Cura Realizada aumenta em 20%%, a VEL de todos os aliados aumenta em 12%%.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank1.png"
+  },
+  "1121702": {
+    "id": "1121702",
+    "name": "Selado no Rabin, Espectro Subjugado",
+    "rank": 2,
+    "desc": "Se Huohuo possuir \"Provisão Divina\" quando um aliado-alvo for atingido por um golpe fatal, o aliado não será derrubado, e seus PV serão imediatamente restaurados em uma quantidade igual a 50%% dos seus PV máximos. Isso reduz a duração da \"Provisão Divina\" em 1 rodada. Este efeito só pode ser ativado 2 vez(es) por batalha.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank2.png"
+  },
+  "1121703": {
+    "id": "1121703",
+    "name": "Amaldiçoada pelo Destino, Mariposas às Chamas",
+    "rank": 3,
+    "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1121703",
+        "num": 2
+      },
+      {
+        "id": "1121704",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11217_ultra.png"
+  },
+  "1121704": {
+    "id": "1121704",
+    "name": "Presa à Vida, Atada à Contenda",
+    "rank": 4,
+    "desc": "Ao Curar um aliado-alvo com a Perícia ou o Talento, quanto menos PV o aliado-alvo tiver no momento, maior a Cura que ele receberá. O aumento máximo de Cura fornecido por Huohuo é 80%%.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank4.png"
+  },
+  "1121705": {
+    "id": "1121705",
+    "name": "Exigido pelo Decreto, Males Expulsos",
+    "rank": 5,
+    "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1121702",
+        "num": 2
+      },
+      {
+        "id": "1121701",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11217_bp.png"
+  },
+  "1121706": {
+    "id": "1121706",
+    "name": "Tecido em Conjunto, Adesão Eterna",
+    "rank": 6,
+    "desc": "Ao Curar um aliado-alvo, aumenta o Dano causado pelo aliado-alvo em 50%% por 2 rodada(s).",
+    "materials": [
+      {
+        "id": "11217",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11217_rank6.png"
+  },
   "1130601": {
     "id": "1130601",
     "name": "Suspensão de Descrença",
@@ -9802,5 +10674,115 @@
     ],
     "level_up_skills": [],
     "icon": "icon/skill/11307_rank6.png"
+  },
+  "1131001": {
+    "id": "1131001",
+    "name": "Em Crisálidas Avermelhadas, Já Tive Meu Descanso",
+    "rank": 1,
+    "desc": "Ao usar a Perícia Aprimorada, ignora 15%% da DEF do alvo. A Perícia Aprimorada não consome Pontos de Perícia.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank1.png"
+  },
+  "1131002": {
+    "id": "1131002",
+    "name": "Em Queda Livre no Céu Estilhaçado",
+    "rank": 2,
+    "desc": "Enquanto está em \"Combustão Completa\", usar o ATQ Básico Aprimorado ou a Perícia Aprimorada para derrotar um inimigo-alvo ou aplicar Quebra de Fraqueza a ele faz com que SAM ganhe imediatamente 1 rodada extra. Esse efeito só pode ser ativado 1 vez por rodada, e a contagem de ativação é reiniciada no início da rodada de SAM.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank2.png"
+  },
+  "1131003": {
+    "id": "1131003",
+    "name": "Sono Profundo Entre os Astros",
+    "rank": 3,
+    "desc": "Nv. da Perícia +2, até no máximo Nv. 15.\nNv. do ATQ Básico +1, até no máximo Nv. 10.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1131002",
+        "num": 2
+      },
+      {
+        "id": "1131001",
+        "num": 1
+      },
+      {
+        "id": "1131009",
+        "num": 2
+      },
+      {
+        "id": "1131008",
+        "num": 1
+      }
+    ],
+    "icon": "icon/skill/11310_bp.png"
+  },
+  "1131004": {
+    "id": "1131004",
+    "name": "Sobre os Vaga-lumes Iluminados, Eu Logo Olho",
+    "rank": 4,
+    "desc": "Enquanto está no estado de \"Combustão Completa\", aumenta a RES a Efeito de SAM em 50%%.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank4.png"
+  },
+  "1131005": {
+    "id": "1131005",
+    "name": "Das Noites Sem Sonhos, Eu Então Brilho",
+    "rank": 5,
+    "desc": "Nv. da Perícia Suprema +2, até no máximo Nv. 15.\nNv. do Talento +2, até no máximo Nv. 15.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [
+      {
+        "id": "1131003",
+        "num": 2
+      },
+      {
+        "id": "1131004",
+        "num": 2
+      }
+    ],
+    "icon": "icon/skill/11310_ultra.png"
+  },
+  "1131006": {
+    "id": "1131006",
+    "name": "No Amanhã Findado, Eu Floresço",
+    "rank": 6,
+    "desc": "Enquanto estiver em \"Combustão Completa\", aumenta a PEN de RES a Fogo em 20%%. Ao usar o ATQ Básico Aprimorado ou a Perícia Aprimorada, aumenta a eficiência da Quebra de Fraqueza em 50%%.",
+    "materials": [
+      {
+        "id": "11310",
+        "num": 1
+      }
+    ],
+    "level_up_skills": [],
+    "icon": "icon/skill/11310_rank6.png"
   }
 }

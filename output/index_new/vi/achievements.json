@@ -167,6 +167,14 @@
     "hide_desc": "Nhà Khai Phá bước lên Vận Mệnh Ký Ức",
     "hide": true
   },
+  "4015201": {
+    "id": "4015201",
+    "series_id": "1",
+    "title": "Thế Là, Phải Có Tiếng Cười",
+    "desc": "Nhà Khai Phá bước lên Vận Mệnh \"Vui Vẻ\"",
+    "hide_desc": "",
+    "hide": true
+  },
   "4020201": {
     "id": "4020201",
     "series_id": "2",
@@ -1493,6 +1501,126 @@
     "title": "Mùa hè, pháo hoa, thi thể của ai đó",
     "desc": "Nghi thức yết kiến thần linh luôn cần có lễ vật\n※Chứng kiến màn mở đầu tàn khốc của Trò Chơi Ảo Nguyệt",
     "hide_desc": "Nghi thức yết kiến thần linh luôn cần có lễ vật※Chứng kiến màn mở đầu tàn khốc của Trò Chơi Ảo Nguyệt",
+    "hide": false
+  },
+  "4035101": {
+    "id": "4035101",
+    "series_id": "3",
+    "title": "Vinh Quang Của Cha",
+    "desc": "Ác mộng của mọi đứa trẻ: Giới thiệu công việc của mình với bậc phụ huynh\n※ Dẫn cha của Himeko tham quan Đội Tàu",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035102": {
+    "id": "4035102",
+    "series_id": "3",
+    "title": "Trò Chơi Mèo Chuột",
+    "desc": "Thân phận xã hội, chẳng qua là một trong vô số chiếc mặt nạ mà nhân loại đeo lên\n※ Chụp ảnh chung với cô Nihilux",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035103": {
+    "id": "4035103",
+    "series_id": "3",
+    "title": "Để Tôi Làm Phần Đầu!",
+    "desc": "Giáp Máy, sừng sững trên mặt đất\n※ Lắp ráp Giáp Máy cỡ lớn của riêng mình, và giao đấu với Biệt Đội Bình Minh",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035104": {
+    "id": "4035104",
+    "series_id": "3",
+    "title": "Khi Hạnh Phúc Gõ Cửa",
+    "desc": "Ai cũng theo đuổi hạnh phúc, nhưng ai định nghĩa hạnh phúc?\n※ Hoàn thành điều tra tổ chức từ thiện \"Hội Nghiên Cứu Nụ Cười Hạnh Phúc\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035105": {
+    "id": "4035105",
+    "series_id": "3",
+    "title": "Kẻ Ăn Giấc Mơ",
+    "desc": "Người sáng tạo là loài sinh vật mơ mộng khi đang tỉnh thức\n※ Tại tòa soạn tạp chí công bố bộ mặt thật của tác giả \"Tàu Bông Xuyên Trời Xanh\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035106": {
+    "id": "4035106",
+    "series_id": "3",
+    "title": "Đội Tàu Hướng Đến Địa Ngục",
+    "desc": "???\n※ Đến không gian trạm hoang phế bí ẩn",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035107": {
+    "id": "4035107",
+    "series_id": "3",
+    "title": "Xu Đặt Cược May Mắn",
+    "desc": "Cảm ơn người bạn đã tặng Xu Đặt Cược\n※ Trở về hiện thực nhờ sự giúp đỡ của Pearl",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035108": {
+    "id": "4035108",
+    "series_id": "3",
+    "title": "Cuồng Ngôn Của Ảo Nguyệt",
+    "desc": "Ngài nói thế, bạn nghe vậy\n※ Lắng nghe Ảo Nguyệt phát biểu tuyên ngôn cuồng loạn",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035201": {
+    "id": "4035201",
+    "series_id": "3",
+    "title": "Hành Trình Công Sở",
+    "desc": "Không có cách di chuyển nào đặc biệt sao?\n※Đi tàu điện giải cứu thế giới",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035202": {
+    "id": "4035202",
+    "series_id": "3",
+    "title": "Lời Tuyên Án Của Người Phán Quyết",
+    "desc": "Tượng trưng cho thân phận của người phán quyết\n※Evanescia đã lấy lại thước đao của cô ấy",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035203": {
+    "id": "4035203",
+    "series_id": "3",
+    "title": "Người Bệnh Tâm Thần Thiên Đường Vui Vẻ",
+    "desc": "Không ai quan tâm bạn nghĩ gì, cho đến khi bạn quyết định hủy diệt thế giới\n※Bước vào \"vết nứt\" trong lòng Fulwish.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035204": {
+    "id": "4035204",
+    "series_id": "3",
+    "title": "Vui Vẻ Đến Chết",
+    "desc": "Hoặc vui vẻ, hoặc là chết\n※Chứng kiến Bệnh Dịch Huyễn Tạo \"Lạc Biến Thiên Nhân\" bùng phát",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035205": {
+    "id": "4035205",
+    "series_id": "3",
+    "title": "Người Chơi Hàng Đầu Vũ Trụ",
+    "desc": "Thà tử trận dưới tay kẻ khốn, còn hơn được chúng ngợi ca\n※Thực ra, cũng không ai muốn tử trận dưới tay kẻ khốn cả",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035206": {
+    "id": "4035206",
+    "series_id": "3",
+    "title": "Cái Chết Của Ma Báo Tử",
+    "desc": "Kẻ tuyên bố cái chết, cái chết cũng tuyên bố tên hắn\n※Đánh bại \"Ma Báo Tử\" mới",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4035207": {
+    "id": "4035207",
+    "series_id": "3",
+    "title": "Gió Báo Hoa Nở",
+    "desc": "Cô ấy lướt qua tựa cánh hoa trong gió\n※Nhận ủy thác của Evanescia",
+    "hide_desc": "",
     "hide": false
   },
   "4040101": {
@@ -3763,7 +3891,7 @@
     "id": "4045038",
     "series_id": "4",
     "title": "Ping Pong",
-    "desc": "Trong \"Thời Khắc Jump\" của \"JUMP Không Gian 2D!\" tại Ga Perdido, liên tục thay đổi trọng lực, khiến Bụi Linh nhảy qua nhảy lại",
+    "desc": "Trong \"JUMP Không Gian 2D!\" tại Ga Perdido, liên tục thay đổi trọng lực, khiến Bụi Linh nhảy qua nhảy lại",
     "hide_desc": "",
     "hide": true
   },
@@ -3902,6 +4030,254 @@
     "desc": "Trước tiệm karaoke tại Thành Phố Duomension hoặc Quận Dovebrook, nghe lén giọng hát tuyệt vời vọng ra từ bên trong",
     "hide_desc": "",
     "hide": true
+  },
+  "4045101": {
+    "id": "4045101",
+    "series_id": "4",
+    "title": "Vùng Đất Mang Tên Thiên Đường Vui Vẻ",
+    "desc": "Thu thập đủ 6 trang nội dung hiện có của \"Ký Sự Mỡ Nổi\", và hoàn thành tất cả yếu tố thu thập trong thế giới \"Ký Sự Mỡ Nổi\" tại Thành Phố Duomension.",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045102": {
+    "id": "4045102",
+    "series_id": "4",
+    "title": "Thanh Liên Địa Tâm Hỏa",
+    "desc": "Trong \"Thời Khắc Jump\" của Tháp Canh Cloudisle, phá hủy tất cả Tuế Dương",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045103": {
+    "id": "4045103",
+    "series_id": "4",
+    "title": "Sau Đó, Là Ngày Làm Việc",
+    "desc": "Trong \"Thời Khắc Jump\" của Tháp Canh Cloudisle lại lần nữa \"đánh bại\" Septimus Vĩ Đại",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045104": {
+    "id": "4045104",
+    "series_id": "4",
+    "title": "\"Không Phận Sự Miễn Vào\"",
+    "desc": "Lẻn vào văn phòng nhân viên của Tòa Tháp Pearluxe",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045105": {
+    "id": "4045105",
+    "series_id": "4",
+    "title": "Bồ Câu Của Skinner",
+    "desc": "Trong \"JUMP Không Gian 2D!\", liên tiếp kích hoạt nút bắn ra Xu Vàng #1 lần",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045106": {
+    "id": "4045106",
+    "series_id": "4",
+    "title": "Ngay Bây Giờ! Hợp Thể!",
+    "desc": "Mở lối đi ẩn, đến trước ngực Giáp Máy Ma Thuật Cơ Động",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045107": {
+    "id": "4045107",
+    "series_id": "4",
+    "title": "Trận Kiểm Soát Hỏa Lực Pearluxe",
+    "desc": "Đánh bại Linh Thể Nhím khổng lồ trong \"JUMP Không Gian 2D!\" của Tòa Tháp Pearluxe",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045108": {
+    "id": "4045108",
+    "series_id": "4",
+    "title": "Quy Tắc Vàng Của Mèo",
+    "desc": "Khi lắp ráp Giáp Máy, hứng lấy tất cả Pixcoin do mèo ném xuống",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045109": {
+    "id": "4045109",
+    "series_id": "4",
+    "title": "Trận Kết Liễu Thế Kỷ Của Siêu Giáp Máy",
+    "desc": "Trong trường quay Giáp Máy chiến đấu, đập nát toàn bộ kiến trúc có thể phá hủy",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045110": {
+    "id": "4045110",
+    "series_id": "4",
+    "title": "Siêu Giáp Máy Thám Hiểm Hành Tinh",
+    "desc": "Tìm thấy bốn Giáp Máy \"ngoại hình kỳ lạ\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045111": {
+    "id": "4045111",
+    "series_id": "4",
+    "title": "Nhiệt Huyết Khó Nguội Lạnh",
+    "desc": "Hoàn thành thử thách Star Rail FES \"Giáo lửa, xung phong\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045112": {
+    "id": "4045112",
+    "series_id": "4",
+    "title": "Từ Vực Thẳm Đến Bầu Trời",
+    "desc": "Tái hiện \"Rẽ Biển\" tại khu trưng bày Xianzhou của \"Star Rail FES\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045113": {
+    "id": "4045113",
+    "series_id": "4",
+    "title": "Biến Tấu Thiên Đường Vui Vẻ: Người Thiếc",
+    "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn ẩn náu tại Tòa Tháp Pearluxe",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045114": {
+    "id": "4045114",
+    "series_id": "4",
+    "title": "Biến Tấu Thiên Đường Vui Vẻ: Furbo Biến Hóa",
+    "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn ẩn náu tại trạm Tháp Canh Cloudisle",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4045201": {
+    "id": "4045201",
+    "series_id": "4",
+    "title": "Phần Đời Còn Lại Đều Là Kỳ Nghỉ",
+    "desc": "Tích lũy thu thập #1 Bụi Linh Vô Danh của \"Thỏ Đường Ray Tinh Cầu\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045202": {
+    "id": "4045202",
+    "series_id": "4",
+    "title": "Quả Cầu Sắt Của Galileo",
+    "desc": "Hoàn thành \"Thời Khắc Jump\" trên nóc đài truyền hình, nhảy từ tầng cao nhất xuống sảnh phỏng vấn",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045203": {
+    "id": "4045203",
+    "series_id": "4",
+    "title": "Nghệ Sĩ Piano Trên Tháp",
+    "desc": "Lấy tất cả nốt nhạc trong \"Thời Khắc Jump\" trên nóc đài truyền hình",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045204": {
+    "id": "4045204",
+    "series_id": "4",
+    "title": "Chẳng Phải Thích Khách, Không Có Tín Điều",
+    "desc": "Đến nơi cao nhất của Tháp Truyền Hình Seafeld",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045205": {
+    "id": "4045205",
+    "series_id": "4",
+    "title": "Linh Hồn Bị Trọng Lực Trói Buộc",
+    "desc": "Trong \"JUMP Không Gian 2D!\", duy trì trạng thái không chạm đất và liên tục chạm vào đường trọng lực #1[i] lần",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045206": {
+    "id": "4045206",
+    "series_id": "4",
+    "title": "Bậc Thầy Bowling",
+    "desc": "Trong \"JUMP Không Gian 2D!\" dùng Trợ Thủ Robot tông bay Linh Thể Nhím hoặc Linh Thể Lơ Lửng",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045207": {
+    "id": "4045207",
+    "series_id": "4",
+    "title": "Cạn Ly Vì Đôi Mắt Của Bạn",
+    "desc": "Hoàn thành ải Pha Chế trong \"JUMP Không Gian 2D!\" của Tháp Truyền Hình Seafeld",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045208": {
+    "id": "4045208",
+    "series_id": "4",
+    "title": "Bên Kia Biển Là Hàng Xóm",
+    "desc": "Đến khu dân cư bên kia bờ biển trong \"JUMP Không Gian 2D!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045209": {
+    "id": "4045209",
+    "series_id": "4",
+    "title": "Khúc Nhạc Của Orpheus",
+    "desc": "Tấu nhạc trong \"JUMP Không Gian 2D!\", xua tan sương mù trên hòn đảo thần bí",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045210": {
+    "id": "4045210",
+    "series_id": "4",
+    "title": "Trốn Việc Chính Là Làm Việc",
+    "desc": "Trong \"JUMP Không Gian 2D!\", cưỡi Trợ Thủ Robot lướt trên mặt nước",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045211": {
+    "id": "4045211",
+    "series_id": "4",
+    "title": "Sức Nặng Khó Chống Đỡ",
+    "desc": "Trong \"JUMP Không Gian 2D!\", bị Waldundun hoặc PiPinTun chèn ép dẫn đến game thất bại",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045212": {
+    "id": "4045212",
+    "series_id": "4",
+    "title": "Kỳ Binh Đoạt Đảo",
+    "desc": "Leo lên đỉnh đảo nhỏ thần bí đầu tiên trong cuộc đua bóng của \"JUMP Không Gian 2D!\" tại Thành Phố Seafeld",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045213": {
+    "id": "4045213",
+    "series_id": "4",
+    "title": "Boomerang",
+    "desc": "Trong \"JUMP Không Gian 2D!\" bắn cung tên trúng bản thân",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045214": {
+    "id": "4045214",
+    "series_id": "4",
+    "title": "Cỗ Máy Điều Khiển Tối Thượng",
+    "desc": "Trong \"JUMP Không Gian 2D!\", cưỡi Trợ Thủ Nhỏ vượt qua chướng ngại vật gai nhọn",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045215": {
+    "id": "4045215",
+    "series_id": "4",
+    "title": "Trợ Thủ Nhỏ, Tiến Hóa!",
+    "desc": "Mở khóa sức mạnh chuyên biệt của Trợ Thủ Robot trong \"JUMP Không Gian 2D!\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045216": {
+    "id": "4045216",
+    "series_id": "4",
+    "title": "Biến Tấu Thiên Đường Vui Vẻ: Công Chúa Bóng Tròn",
+    "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn ẩn náu tại Tháp Truyền Hình Seafeld",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4045217": {
+    "id": "4045217",
+    "series_id": "4",
+    "title": "Biến Tấu Thiên Đường Vui Vẻ: Khúc Ca Capybara",
+    "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn ẩn náu tại Thành Phố Seafeld",
+    "hide_desc": "",
+    "hide": false
   },
   "4051001": {
     "id": "4051001",
@@ -6891,7 +7267,7 @@
     "id": "4053704",
     "series_id": "5",
     "title": "Bỗng Nhiên Nhìn Lại",
-    "desc": "Ngắm nhìn tất cả vật sưu tầm trong phòng mình",
+    "desc": "Bố trí #1 vật kỷ niệm tại khu \"Mô Hình Kỷ Niệm\" của Tủ Trưng Bày",
     "hide_desc": "",
     "hide": true
   },
@@ -8842,16 +9218,16 @@
   "4055012": {
     "id": "4055012",
     "series_id": "5",
-    "title": "Tội Danh Là \"Tình Yêu\"",
-    "desc": "Cuối cùng, cuộc sống yên bình trở về bình yên\n※Khiến Sorren chịu sự trừng phạt của pháp luật",
+    "title": "Phán Quyết Của Bồ Công Anh",
+    "desc": "Mùa ngân hạnh tới, sẽ không còn bồ công anh bay nữa\n※Giúp Sapone hoàn thành tâm nguyện của họ",
     "hide_desc": "",
     "hide": true
   },
   "4055013": {
     "id": "4055013",
     "series_id": "5",
-    "title": "Phán Quyết Của Bồ Công Anh",
-    "desc": "Mùa ngân hạnh tới, sẽ không còn bồ công anh bay nữa\n※Giúp Sapone hoàn thành tâm nguyện của họ",
+    "title": "Tội Danh Là \"Tình Yêu\"",
+    "desc": "Cuối cùng, cuộc sống yên bình trở về bình yên\n※Khiến Sorren chịu sự trừng phạt của pháp luật",
     "hide_desc": "",
     "hide": true
   },
@@ -9076,6 +9452,254 @@
     "series_id": "5",
     "title": "Người Chơi Xúc Xắc Đường Phố",
     "desc": "Trong \"Đổ Xúc Xắc Nào! Băng Lực Chiến!\", đánh bại \"Tứ Đại Thiên Vương\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055101": {
+    "id": "4055101",
+    "series_id": "5",
+    "title": "Kịch Giả Thành Thật",
+    "desc": "Trong sandbox thử nghiệm chiến đấu, dùng một đòn toàn lực để bày tỏ sự kính trọng với Silas",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055102": {
+    "id": "4055102",
+    "series_id": "5",
+    "title": "Kịch Thật Thành Giả",
+    "desc": "Trong sandbox thử nghiệm chiến đấu, chọn bảo vệ ước mơ của Silas",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055103": {
+    "id": "4055103",
+    "series_id": "5",
+    "title": "Hãy Gánh Vác Trách Nhiệm Sáng Tạo",
+    "desc": "Trong sự hỗn loạn của buổi ký tặng, bắt Nihilux đang lười biếng về",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055104": {
+    "id": "4055104",
+    "series_id": "5",
+    "title": "Đây Cũng Là Một Phần Của Hư Cấu",
+    "desc": "Trong sự hỗn loạn của buổi ký tặng, để Furbulitzer dũng cảm gánh vác trách nhiệm không thuộc về nó",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055105": {
+    "id": "4055105",
+    "series_id": "5",
+    "title": "Người Đẹp Vì Lụa",
+    "desc": "Trước phòng cải tạo Giáp Máy, đưa ra lời khuyên cho Giáp Máy đang do dự",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055106": {
+    "id": "4055106",
+    "series_id": "5",
+    "title": "Ác Giả Ác Báo",
+    "desc": "Lần lượt nói chuyện với Caenis (Alt) và Thunderarch.",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055107": {
+    "id": "4055107",
+    "series_id": "5",
+    "title": "Tình Yêu Thời Kỳ Thiên Đường Vui Vẻ",
+    "desc": "Chứng kiến người qua đường trao gửi tâm ý cho nhau trên phố",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055108": {
+    "id": "4055108",
+    "series_id": "5",
+    "title": "Thiên Hạ Vô Địch",
+    "desc": "Đánh bại tất cả đối thủ trong \"Quyết Đấu Câu Lạc Bộ\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055109": {
+    "id": "4055109",
+    "series_id": "5",
+    "title": "Tam Quân Nghe Lệnh!",
+    "desc": "Mở khóa toàn bộ năng lực trong \"Cường Hóa Binh Lực\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055110": {
+    "id": "4055110",
+    "series_id": "5",
+    "title": "Kẻ Địch Đến Từ Bầu Trời",
+    "desc": "Vượt ải chế độ \"Khiêu Chiến Ma Vương\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055201": {
+    "id": "4055201",
+    "series_id": "5",
+    "title": "Dẫu Xa Ắt Diệt",
+    "desc": "Giao hung thủ sát hại Skott cho Liên Minh Xianzhou\n※Hy vọng cô ấy sẽ quen với đồ ăn ở Nhà Giam Xiềng Xích",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055202": {
+    "id": "4055202",
+    "series_id": "5",
+    "title": "Nguyên Tắc Địa Bàn",
+    "desc": "Giao hung thủ sát hại Skott cho Bộ Phận Đầu Tư Chiến Lược\n※Như chưa từng có chuyện gì xảy ra",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055203": {
+    "id": "4055203",
+    "series_id": "5",
+    "title": "Ân Oán Giang Hồ",
+    "desc": "Giao hung thủ sát hại Skott cho công lý\n※ \"Nếu cô ta không biết cách cư xử, thì bạn hãy giúp cô ta biết cách cư xử.\"",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055204": {
+    "id": "4055204",
+    "series_id": "5",
+    "title": "Ký Ức Chưa Biết",
+    "desc": "Hoàn thành điều tra sân ga Đội Tàu trên nước",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055205": {
+    "id": "4055205",
+    "series_id": "5",
+    "title": "Bộ Phận Anti-Meme Không Tồn Tại",
+    "desc": "Điều tra máy tính trong nhà kho đài truyền hình",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055206": {
+    "id": "4055206",
+    "series_id": "5",
+    "title": "Thế Nào Là Anh Hùng",
+    "desc": "Hội ngộ Chiến Binh Tro Tàn tại đài truyền hình",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055207": {
+    "id": "4055207",
+    "series_id": "5",
+    "title": "Sự Tu Dưỡng Của Diễn Viên",
+    "desc": "Hoàn thành đối thoại lần đầu gặp gia đình Ploo",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055208": {
+    "id": "4055208",
+    "series_id": "5",
+    "title": "Cho Nên Tình Yêu Sẽ Biến Mất, Đúng Không?",
+    "desc": "Lắng nghe lý do người qua đường bịa ra để trốn gặp mặt phụ huynh",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4055212": {
+    "id": "4055212",
+    "series_id": "5",
+    "title": "Thời Đại Cửu Tử Đoạt Ngôi",
+    "desc": "Gia đình furbo chúng ta đúng là ngày càng hưng thịnh rồi!\n※ \"Tuần Báo Furbobo\" chính thức có #1 Phóng Viên Furbo thường trú",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055213": {
+    "id": "4055213",
+    "series_id": "5",
+    "title": "Một Tôi Khác Trên Thế Giới",
+    "desc": "Trong Toa Tiệc Tùng Co-Op, gặp gỡ Nhà Khai Phá khác",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055214": {
+    "id": "4055214",
+    "series_id": "5",
+    "title": "Hội Yêu Tàu Khai Phá",
+    "desc": "Ghé thăm Toa Tiệc Tùng Co-Op của #1 Nhà Khai Phá khác",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055215": {
+    "id": "4055215",
+    "series_id": "5",
+    "title": "Lệnh Sứ \"Khai Phá\" Meo Meo",
+    "desc": "Nhận được Món Quà Của \"Akivimeow\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055216": {
+    "id": "4055216",
+    "series_id": "5",
+    "title": "Thợ Săn Tiệc Tùng",
+    "desc": "Đã bắt được Tạo Vật từ mọi điểm ẩn nấp trong Toa Tiệc Tùng",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055217": {
+    "id": "4055217",
+    "series_id": "5",
+    "title": "Bữa Tối Cuối Cùng",
+    "desc": "Đặt #1 Tạo Vật giống nhau tại Khu Bố Trí Tạo Vật",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055218": {
+    "id": "4055218",
+    "series_id": "5",
+    "title": "Nhà Vạn Vật Học",
+    "desc": "Thu thập đủ #1 Tạo Vật trong \"Ghi Chép Quan Sát Tạo Vật\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055220": {
+    "id": "4055220",
+    "series_id": "5",
+    "title": "Xúc Xắc May Mắn! Khởi Đầu Tốt Lành!",
+    "desc": "Trong cách chơi Băng Lực Chiến Vũ Trụ, tích lũy thu thập #1 Xúc Xắc Rực Rỡ từ \"Gói Mở Rộng 2\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055221": {
+    "id": "4055221",
+    "series_id": "5",
+    "title": "Xúc Xắc Của Bạn Rất Muốn Đến Nhà Tôi",
+    "desc": "Trong \"Lại Đổ Xúc Xắc Nào! Băng Lực Chiến!\", tích lũy đổi xúc xắc #1 lần",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055222": {
+    "id": "4055222",
+    "series_id": "5",
+    "title": "Ba Lần Cùng Lúc",
+    "desc": "Trong \"Lại Đổ Xúc Xắc Nào! Băng Lực Chiến!\", sử dụng liên tục #1 Thẻ Chiến Thuật trong 1 hiệp",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055223": {
+    "id": "4055223",
+    "series_id": "5",
+    "title": "Sát Thương Size XL",
+    "desc": "Trong \"Lại Đổ Xúc Xắc Nào! Băng Lực Chiến!\", gây #1 điểm sát thương trong 1 hiệp",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055224": {
+    "id": "4055224",
+    "series_id": "5",
+    "title": "\"Tuần Báo Furbobo\" Tiến Lên",
+    "desc": "Trong \"Lại Đổ Xúc Xắc Nào! Băng Lực Chiến!\", đại diện \"Tuần Báo Furbobo\" đánh bại top 5 bảng xếp hạng Phố Thương Mại Thành Phố Seafeld: \"Seafeld Ngũ Kiệt\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4055225": {
+    "id": "4055225",
+    "series_id": "5",
+    "title": "Chơi Xúc Xắc Đệ Nhất Vũ Trụ",
+    "desc": "Trong \"Lại Đổ Xúc Xắc Nào! Băng Lực Chiến!\", hoàn thành trận quyết đấu cuối cùng với Sói Bạc LV.999",
     "hide_desc": "",
     "hide": false
   },
@@ -11147,7 +11771,7 @@
     "id": "4074208",
     "series_id": "7",
     "title": "Nửa Mạng Sống",
-    "desc": "Khi toàn bộ nhân vật phe ta ở trạng thái Phần Trăm HP tối đa thấp hơn#1%, tiêu diệt \"Người Đưa Hồn, Xác Rồng Tử Vong, Pollux\"",
+    "desc": "Khi toàn bộ nhân vật phe ta ở trạng thái Phần Trăm HP tối đa thấp hơn #1%, tiêu diệt \"Người Đưa Hồn, Xác Rồng Tử Vong, Pollux\"",
     "hide_desc": "",
     "hide": false
   },
@@ -11654,6 +12278,150 @@
     "desc": "Aha thi triển \"Phải Có Tiếng Cười\" tiêu diệt #1 kẻ địch",
     "hide_desc": "",
     "hide": true
+  },
+  "4075015": {
+    "id": "4075015",
+    "series_id": "7",
+    "title": "Ngày Kỳ Diệu Hân Hoan",
+    "desc": "Giành chiến thắng trong trường hợp trong trận có #1 nhân vật Vận Mệnh Vui Vẻ",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075101": {
+    "id": "4075101",
+    "series_id": "7",
+    "title": "Ba Chàng Lính Ngự Lâm",
+    "desc": "Dùng đội đồng thời có cả Ashveil, Rappa, Boothill giành chiến thắng #1[i] trận",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075102": {
+    "id": "4075102",
+    "series_id": "7",
+    "title": "Không Phải Không Báo Ứng, Chỉ Là Chưa Đến Lúc",
+    "desc": "Cộng dồn #1 lần đồng đội phe ta tấn công mục tiêu \"Mồi Ngon\" mà chưa kích hoạt Đòn Đánh Theo Sau của Ashveil",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075103": {
+    "id": "4075103",
+    "series_id": "7",
+    "title": "Một Mũi Tên Trúng Hai Đích",
+    "desc": "Dùng nhân vật phe ta Ashveil tiêu diệt đồng thời #1 kẻ địch trong một lần Đòn Đánh Theo Sau",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075105": {
+    "id": "4075105",
+    "series_id": "7",
+    "title": "Mặt Trời Lập Tức Mọc Lên",
+    "desc": "Trong trận chiến với \"Biệt Đội Bình Minh\", khiến mục tiêu khi trong trạng thái \"Trường Lực Bình Minh\", vì chịu tấn công thuộc tính chỉ định mà kích hoạt lập tức hành động",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075106": {
+    "id": "4075106",
+    "series_id": "7",
+    "title": "Đánh Bừa Cũng Thắng Cao Thủ",
+    "desc": "Trong chiến đấu với \"Giáp Máy Dân Dụng SD\", khiến nó tiêu diệt #1 mục tiêu phe địch",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075107": {
+    "id": "4075107",
+    "series_id": "7",
+    "title": "Tiết Kiệm Nước",
+    "desc": "Trong chiến đấu với \"Giáp Máy Hợp Kim-Vua Pom-Pom\", giải trừ trạng thái \"Tẩy Rửa Hơi Nước\" của nó",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075108": {
+    "id": "4075108",
+    "series_id": "7",
+    "title": "Người Dẫn Đầu Bọt Nước",
+    "desc": "Trong một trận chiến với \"Giáp Máy Hợp Kim-Vua Pom-Pom\", kích hoạt ít nhất #1 lần hiệu ứng \"Sáng Loáng\" của \"Bong Bóng Xà Phòng Cực Mạnh\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075201": {
+    "id": "4075201",
+    "series_id": "7",
+    "title": "Đừng Ai Cau Có",
+    "desc": "Trong một trận chiến, dùng Nhà Khai Phá vận mệnh \"Vui Vẻ\" tích lũy thi triển 1 lần Tuyệt Kỹ lên #1 đồng đội khác nhau",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075202": {
+    "id": "4075202",
+    "series_id": "7",
+    "title": "Cảm Ơn Tặng Thưởng",
+    "desc": "Trong một trận chiến, dùng Nhà Khai Phá vận mệnh \"Vui Vẻ\" tích lũy thi triển #1 lần Tuyệt Kỹ lên Sparxie",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075203": {
+    "id": "4075203",
+    "series_id": "7",
+    "title": "Top 500 Gọi Vốn",
+    "desc": "Trong một trận chiến, tổng số \"Việc Tốt Đáng Thưởng\" mà Evanescia nhận từ các đồng đội khác thông qua Thiên Phú \"Thanh Xuân - Tuổi Trẻ Vô Hạn\" vượt quá #1",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075204": {
+    "id": "4075204",
+    "series_id": "7",
+    "title": "Trò Hay Không Sợ Nhiều",
+    "desc": "Dùng nhân vật Evanescia phe ta thi triển Tuyệt Kỹ khi số lượng \"Việc Tốt Đáng Thưởng\" đạt #1",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075205": {
+    "id": "4075205",
+    "series_id": "7",
+    "title": "Đừng Đùa Nữa, Quý Cô Kafka",
+    "desc": "Kích hoạt \"McAwolfee 999\" của Sói Bạc LV.999, giải trừ trạng thái \"Chi Phối\" do \"Thợ Săn Stellaron - Kafka\" thi triển",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075206": {
+    "id": "4075206",
+    "series_id": "7",
+    "title": "Danh Sách Trang Bị",
+    "desc": "Trong một hiệp, đồng đội kích hoạt #1 loại \"Túi Mù Tiếp Tế Cực Phẩm\" khác nhau của Sói Bạc LV.999",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075207": {
+    "id": "4075207",
+    "series_id": "7",
+    "title": "Sói Già Phố Tài Chính",
+    "desc": "Sử dụng Bí Kỹ \"Ôi Bạn Ơi, Đây Mới Là Bí Kỹ Tier 0\" của Sói Bạc LV.999 ăn #1 Xu Vàng trong 1 lần",
+    "hide_desc": "",
+    "hide": true
+  },
+  "4075208": {
+    "id": "4075208",
+    "series_id": "7",
+    "title": "Nguy Cơ Sinh Hóa",
+    "desc": "Trong trận chiến với \"Cực Lạc Điên Đảo - Tà Nguyện Liên Hoa Chủ\", nhân vật phe ta sau khi bị chuyển hóa thành \"Con Rối Hạnh Phúc\" gây \"Đòn Đánh Chính Xác\" đánh bại mục tiêu bất kỳ",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075209": {
+    "id": "4075209",
+    "series_id": "7",
+    "title": "Max Điểm Tỉnh Táo",
+    "desc": "Trong trận chiến với \"Cực Lạc Điên Đảo - Tà Nguyện Liên Hoa Chủ\", không có nhân vật nào bị chuyển hóa thành \"Con Rối Hạnh Phúc\" do kích hoạt \"Hạnh Phúc\"",
+    "hide_desc": "",
+    "hide": false
+  },
+  "4075210": {
+    "id": "4075210",
+    "series_id": "7",
+    "title": "Sự Kết Thúc Của Niềm Vui",
+    "desc": "Trong trận chiến với \"Lạc Biến Thiên Nhân\", 1 lần tấn công tiêu diệt cùng lúc từ #1 \"Lạc Biến Thiên Nhân - Kết Thúc\" trở lên",
+    "hide_desc": "",
+    "hide": false
   },
   "4080101": {
     "id": "4080101",

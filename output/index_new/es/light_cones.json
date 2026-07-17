@@ -1139,6 +1139,18 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "22007": {
+    "id": "22007",
+    "name": "Juntos hacia el futuro",
+    "rarity": 4,
+    "path": "Elation",
+    "desc": "Un gran regalo cae de repente en el canal.\n<i>\"¡Es un pastel del tercer aniversario hecho especialmente para todos por los fans!\".</i>\n\nTodos los momentos del pasado se convierten ahora en motivación y guían a todos juntos hacia el futuro.\n<i>\"¡Espero que en este nuevo año todos avancemos felices y a salvo!\".</i>\n<i>\"¡Tranquilo, revisor, yo, Liebre de Marzo, inmortalizaré este momento!\".</i>\n\nEn un ambiente cálido, todos alzan sus copas al mismo tiempo y las risas y la alegría llenan cada rincón.\n<i>\"En este día de celebración, alcemos las copas\".</i>\n<i>\"Por un mañana de luna y estrellas...\".</i>\n<i>\"¡Salud!\".</i>",
+    "icon": "icon/light_cone/22007.png",
+    "preview": "image/light_cone_preview/22007.png",
+    "portrait": "image/light_cone_portrait/22007.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "23000": {
     "id": "23000",
     "name": "Noche en la Vía Láctea",
@@ -1799,6 +1811,42 @@
     "max_rank": 5,
     "max_promotion": 6
   },
+  "23056": {
+    "id": "23056",
+    "name": "El final de una mentira",
+    "rarity": 5,
+    "path": "Rogue",
+    "desc": "<i>¿Qué decía la «Introducción al razonamiento detectivesco»? A menos que sea absolutamente necesario...</i>\nUnos colmillos tejidos en rojo y negro trepan poco a poco por su hombro.\n\nEn lo más hondo de la noche se alza una niebla de sospecha. En el bosque tenebroso se esconden viles bestias.\n<i>\"Este juego del gato y el ratón debe terminar\".</i>\nEl color sangre se desvanece, la luna sigue brillando en el cielo y las estrellas duermen plácidamente.\n\nOtra vez intentaba buscar la verdad, pero las sombras del pasado le dan una palmada en el hombro y se dispersan.\nLos giros y vueltas de este momento continuarán hasta...\n\n<i>\"Hasta el día en que los pecadores sean castigados\".</i>",
+    "icon": "icon/light_cone/23056.png",
+    "preview": "image/light_cone_preview/23056.png",
+    "portrait": "image/light_cone_portrait/23056.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23057": {
+    "id": "23057",
+    "name": "Bienvenidos a la ciudad cósmica",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "En el cielo de la ciudad, la llamativa silueta de una joven emerge de un portal de teletransportación.\nEntre un torrente de vehículos y siluetas humanas, sigue habiendo el mismo bullicio de siempre.\n<i>\"Se ve muy animado, pero...\".</i>\n\nLa pantalla frente a ella se enciende y las emociones de las personas se transforman en pequeños puntos de luz que fluyen hacia su interior.\n<i>\"Incluso las barras de agotamiento de los PNJ están a punto de llegar al máximo...\".</i>\n<i>\"Paso de jugar una mazmorra tan aburrida\".</i>\n\nCon un movimiento de sus dedos, las luces de la ciudad parpadean.\nUn grito de sorpresa surge de un rincón oculto y, acto seguido, un clamor retumba hasta resonar en el cielo.\n<i>\"Suerte doble para todos los jugadores, talentos especiales aleatorios y recompensas al máximo...\".</i>\n<i>\"¡Juego cargado! Y ahora, ¡a jugar se ha dicho!\".</i>\n\nLa joven salta al vacío mientras un familiar sonido de notificación resuena en sus oídos.\nEl momento de su partida ya ha comenzado.",
+    "icon": "icon/light_cone/23057.png",
+    "preview": "image/light_cone_preview/23057.png",
+    "portrait": "image/light_cone_portrait/23057.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "23058": {
+    "id": "23058",
+    "name": "Encuentro en la próxima primavera",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "La brisa sopla a través de las cortinas blancas, agitando los pensamientos de la joven.\nMira hacia la alegre multitud fuera de la ventana, y su lápiz se detiene inconscientemente.\n<i>\"¿Cuántas veces me he sentado aquí?\".</i>\n\nEn un instante, un pétalo que cae roza la punta de su nariz, como una respuesta, un recordatorio.\nUn gran juego, un encuentro único, los días y las noches de flores que florecen y se marchitan...\nRecuerda su historia con esta tierra, desde una página en blanco hasta un mundo lleno de color. Con cada sueño, anhela la llegada del mañana.\n\n<i>\"¡Oh, un nuevo capítulo del cómic! Le echaré un vistazo cuando termine de dibujar a estas bellezas...\".</i>\nLa joven recibe una notificación, sacude sus orejas y la punta de su lápiz vuelve a moverse.\n\n<i>\"¡Ojalá para la próxima primavera me haya puesto al día con las novedades más populares!\".</i>",
+    "icon": "icon/light_cone/23058.png",
+    "preview": "image/light_cone_preview/23058.png",
+    "portrait": "image/light_cone_portrait/23058.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
   "24000": {
     "id": "24000",
     "name": "Sobre la caída de un Eón",
@@ -1868,6 +1916,18 @@
     "icon": "icon/light_cone/24005.png",
     "preview": "image/light_cone_preview/24005.png",
     "portrait": "image/light_cone_portrait/24005.png",
+    "max_rank": 5,
+    "max_promotion": 6
+  },
+  "24006": {
+    "id": "24006",
+    "name": "Exultación desbordante de bendiciones",
+    "rarity": 5,
+    "path": "Elation",
+    "desc": "Los datos fluyen con fluidez y sin cesar bajo los dedos de los genios.\nLas máscaras se ocultan en los intersticios de los \"incidentes\", observando cada posibilidad que espera impaciente a hacerse realidad.\n\nAnalizar, calcular, responder, preguntar... ¿Acaso no es este el escenario de los genios?\nAclamaciones, lágrimas, rugidos, lamentos... Todas las emociones de la vida florecen por completo.\n\nLa pantomima es cada vez más ruidosa, y la Exultación se llena a rebosar de bendiciones. ¿Será este el acto más fascinante?\nLa respuesta sigue siendo la misma: \"¡Nadie puede predecirlo!\".",
+    "icon": "icon/light_cone/24006.png",
+    "preview": "image/light_cone_preview/24006.png",
+    "portrait": "image/light_cone_portrait/24006.png",
     "max_rank": 5,
     "max_promotion": 6
   }
